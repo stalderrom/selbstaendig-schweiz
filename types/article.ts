@@ -1,3 +1,8 @@
+export interface FAQ {
+  question: string;
+  answer: string;
+}
+
 export interface Article {
   slug: string;
   title: string;
@@ -11,6 +16,7 @@ export interface Article {
   featuredImage?: string;
   readingTime: number;
   related?: string[];
+  faq?: FAQ[];
 }
 
 export interface Category {

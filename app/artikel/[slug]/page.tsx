@@ -62,25 +62,95 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const category = CATEGORIES.find(cat => cat.slug === article.category);
   const publishDate = new Date(article.publishedAt);
 
-  const jsonLd = {
+  // Article Schema (vollständig nach Google-Standards)
+  const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: article.title,
     description: article.description,
+    image: article.featuredImage || 'https://selbständig-schweiz.ch/og-image.jpg',
     author: {
-      '@type': 'Organization',
+      '@type': 'Person',
       name: article.author,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Selbständig Schweiz',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://selbständig-schweiz.ch/logo.png',
+        width: 600,
+        height: 60,
+      }
     },
     datePublished: article.publishedAt,
     dateModified: article.updatedAt,
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `https://selbständig-schweiz.ch/artikel/${article.slug}`
+    }
   };
+
+  // Breadcrumb Schema
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://selbständig-schweiz.ch'
+      },
+      ...(category ? [{
+        '@type': 'ListItem',
+        position: 2,
+        name: category.name,
+        item: `https://selbständig-schweiz.ch/kategorie/${category.slug}`
+      }] : []),
+      {
+        '@type': 'ListItem',
+        position: category ? 3 : 2,
+        name: article.title
+      }
+    ]
+  };
+
+  // FAQ Schema (wenn FAQs vorhanden)
+  const faqSchema = article.faq && article.faq.length > 0 ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: article.faq.map(item => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer
+      }
+    }))
+  } : null;
 
   return (
     <>
+      {/* Article Schema */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
       />
+
+      {/* Breadcrumb Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+
+      {/* FAQ Schema (if available) */}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
 
       <Header />
 
