@@ -104,7 +104,7 @@ Jede Rechnung muss folgende Angaben enthalten:
 - MWST-Betrag separat ausgewiesen
 - Nettobetrag und Bruttobetrag
 
-→ [Rechnung schreiben: Schweizer Vorlage & Muster](/rechnung-schreiben/)
+→ [Rechnung schreiben: Schweizer Vorlage & Muster](/artikel/rechnung-schreiben)
 
 ## Vereinfachte vs. Doppelte Buchhaltung
 
@@ -329,7 +329,7 @@ Haben: Umsatz (Erfolg)          CHF 5'000
 
 **Ideal für:** Wachsende Unternehmen mit Mitarbeitern, die eine All-in-One-Lösung wollen.
 
-→ [Bexio im Detail: Lohnt sich das?](/bexio-test/)
+→ [Bexio im Detail: Lohnt sich das?](/artikel/bexio-test)
 
 ### 2. Run my Accounts - Einsteigerfreundlich
 
@@ -418,7 +418,7 @@ Haben: Umsatz (Erfolg)          CHF 5'000
 
 **Wichtig:** Spätestens bei MWST-Pflicht auf richtige Software wechseln!
 
-→ [Buchhaltungssoftware-Vergleich: Alle Tools](/buchhaltungssoftware-vergleich/)
+→ [Buchhaltungssoftware-Vergleich: Alle Tools](/artikel/buchhaltungssoftware-vergleich)
 
 ## MWST-Abrechnung für Selbständige
 
@@ -498,7 +498,7 @@ An ESTV zu zahlen: CHF 107'700 × 4.7% = CHF 5'062
 - Bei wiederholter Verspätung → Pflicht zu monatlicher Abrechnung
 - Fehlerhafte Abrechnung → Nachzahlung + Busse möglich
 
-→ [MWST für Selbständige: Kompletter Guide](/mwst-selbststaendige/)
+→ [MWST für Selbständige: Kompletter Guide](/artikel/mwst-selbststaendige)
 
 ## Buchhaltung organisieren: Best Practices
 
@@ -800,13 +800,13 @@ Mit sauberer Buchhaltung haben Sie jederzeit den Überblick über Ihre Finanzen,
 
 ## Weiterführende Artikel
 
-- [Buchhaltungssoftware-Vergleich: Alle Tools im Detail](/buchhaltungssoftware-vergleich/)
-- [Bexio Test: Lohnt sich der Marktführer?](/bexio-test/)
+- [Buchhaltungssoftware-Vergleich: Alle Tools im Detail](/artikel/buchhaltungssoftware-vergleich)
+- [Bexio Test: Lohnt sich der Marktführer?](/artikel/bexio-test)
 - [Treuhänder finden: Darauf achten](/treuhänder-finden/)
-- [Rechnung schreiben: Schweizer Vorlage](/rechnung-schreiben/)
-- [MWST für Selbständige: Kompletter Guide](/mwst-selbststaendige/)
+- [Rechnung schreiben: Schweizer Vorlage](/artikel/rechnung-schreiben)
+- [MWST für Selbständige: Kompletter Guide](/artikel/mwst-selbststaendige)
 - [Steuererklärung für Selbständige](/steuererklärung-selbststaendige/)
-- [QR-Rechnung erstellen](/qr-rechnung/)
+- [QR-Rechnung erstellen](/artikel/qr-rechnung)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - Buchhaltung für Selbständige

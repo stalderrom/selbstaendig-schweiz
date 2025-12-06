@@ -130,7 +130,7 @@ Ein guter Tool-Stack besteht aus **7 Kategorien:**
 
 **Empfehlung:** Ab CHF 80'000 Umsatz ideal
 
-→ [Bexio Test: Lohnt sich der Marktführer?](/bexio-test/)
+→ [Bexio Test: Lohnt sich der Marktführer?](/artikel/bexio-test)
 
 ### 2. Run my Accounts - Einsteigerfreundlich
 
@@ -218,7 +218,7 @@ Ein guter Tool-Stack besteht aus **7 Kategorien:**
 
 **Empfehlung:** Für Design-Liebhaber mit Budget
 
-→ [Buchhaltungssoftware-Vergleich: Alle Details](/buchhaltungssoftware-vergleich/)
+→ [Buchhaltungssoftware-Vergleich: Alle Details](/artikel/buchhaltungssoftware-vergleich)
 
 ## Projektmanagement & Aufgaben
 
@@ -270,7 +270,7 @@ Eine Kombination aus:
 
 **Empfehlung:** Perfekt für kreative Selbständige
 
-→ [Notion für Selbständige: Setup-Guide](/notion-selbststaendige/)
+→ [Notion für Selbständige: Setup-Guide](/artikel/notion-selbststaendige)
 
 ### 2. Asana - Strukturiertes Projektmanagement
 
@@ -357,7 +357,7 @@ Kanban-Boards mit Karten:
 
 **Empfehlung:** Für simple Aufgabenverwaltung
 
-→ [Projektmanagement-Tools: Vergleich](/projektmanagement-tools/)
+→ [Projektmanagement-Tools: Vergleich](/artikel/projektmanagement-tools)
 
 ## Zeiterfassung & Produktivität
 
@@ -437,7 +437,7 @@ Kanban-Boards mit Karten:
 
 **Empfehlung:** Als Ergänzung zu Toggl
 
-→ [Zeiterfassung: Die besten Tools](/zeiterfassung-tools/)
+→ [Zeiterfassung: Die besten Tools](/artikel/zeiterfassung-tools)
 
 ## CRM & Kundenmanagement
 
@@ -524,7 +524,7 @@ Kanban-Boards mit Karten:
 
 **Empfehlung:** Wenn Sie viel aktiv verkaufen
 
-→ [CRM für Selbständige: Vergleich](/crm-selbststaendige/)
+→ [CRM für Selbständige: Vergleich](/artikel/crm-selbststaendige)
 
 ## Kommunikation & Collaboration
 
@@ -567,7 +567,7 @@ Kanban-Boards mit Karten:
 
 **Empfehlung:** Slack Free (ausreichend für < 10 Personen)
 
-→ [Business-Kommunikation: Tools-Setup](/kommunikation-tools/)
+→ [Business-Kommunikation: Tools-Setup](/artikel/kommunikation-tools)
 
 ## Marketing & Website
 
@@ -586,7 +586,7 @@ Kanban-Boards mit Karten:
 - **Professionell:** Webflow (CHF 14/Monat)
 - **Maximal flexibel:** WordPress (CHF 5-20/Monat)
 
-→ [Website erstellen: Tool-Vergleich](/website-erstellen/)
+→ [Website erstellen: Tool-Vergleich](/artikel/website-erstellen)
 
 ### E-Mail-Marketing
 
@@ -612,7 +612,7 @@ Kanban-Boards mit Karten:
 
 **Empfehlung:** Buffer (CHF 6/Monat für 3 Accounts)
 
-→ [Marketing-Tools: Kompletter Guide](/marketing-tools/)
+→ [Marketing-Tools: Kompletter Guide](/artikel/marketing-tools)
 
 ## Cloud-Speicher & Backups
 
@@ -648,7 +648,7 @@ Kanban-Boards mit Karten:
 
 = 3-2-1-Regel: 3 Kopien, 2 verschiedene Medien, 1 extern
 
-→ [Cloud-Speicher-Vergleich Schweiz](/cloud-speicher/)
+→ [Cloud-Speicher-Vergleich Schweiz](/artikel/cloud-speicher)
 
 ## Sicherheit & Passwörter
 
@@ -697,7 +697,7 @@ Kanban-Boards mit Karten:
 - Authy (kostenlos, Backup)
 - 1Password (integriert 2FA)
 
-→ [IT-Sicherheit für Selbständige](/it-sicherheit/)
+→ [IT-Sicherheit für Selbständige](/artikel/it-sicherheit)
 
 ## Weitere nützliche Tools
 
@@ -741,7 +741,7 @@ Kanban-Boards mit Karten:
 
 **Empfehlung:** Notion (CHF 0)
 
-→ [Produktivitäts-Tools: Übersicht](/produktivitaets-tools/)
+→ [Produktivitäts-Tools: Übersicht](/artikel/produktivitaets-tools)
 
 ## Tool-Setup nach Budget
 
@@ -907,7 +907,7 @@ Notion-Datenbank: Status → "Publizieren"
   → Newsletter-Draft (Mailchimp)
 ```
 
-→ [Automatisierung für Selbständige: Guide](/automatisierung/)
+→ [Automatisierung für Selbständige: Guide](/artikel/automatisierung)
 
 ## Checkliste: Tool-Stack aufbauen
 
@@ -999,19 +999,19 @@ Mit dem richtigen Tool-Setup arbeiten Sie nicht härter, sondern smarter. Sie ge
 
 ## Weiterführende Artikel
 
-- [Buchhaltungssoftware-Vergleich Schweiz](/buchhaltungssoftware-vergleich/)
-- [Bexio im Test: Lohnt sich der Marktführer?](/bexio-test/)
-- [Projektmanagement-Tools: Vergleich](/projektmanagement-tools/)
-- [CRM für Selbständige: Der Guide](/crm-selbststaendige/)
-- [Zeiterfassung: Die besten Tools](/zeiterfassung-tools/)
-- [Marketing-Tools: Komplette Übersicht](/marketing-tools/)
-- [Website erstellen: Tool-Vergleich](/website-erstellen/)
-- [Cloud-Speicher-Vergleich Schweiz](/cloud-speicher/)
-- [IT-Sicherheit für Selbständige](/it-sicherheit/)
-- [Automatisierung: Workflows einrichten](/automatisierung/)
-- [Kommunikation-Tools: Business-Setup](/kommunikation-tools/)
-- [Produktivitäts-Tools & Apps](/produktivitaets-tools/)
-- [Notion für Selbständige: Setup-Guide](/notion-selbststaendige/)
+- [Buchhaltungssoftware-Vergleich Schweiz](/artikel/buchhaltungssoftware-vergleich)
+- [Bexio im Test: Lohnt sich der Marktführer?](/artikel/bexio-test)
+- [Projektmanagement-Tools: Vergleich](/artikel/projektmanagement-tools)
+- [CRM für Selbständige: Der Guide](/artikel/crm-selbststaendige)
+- [Zeiterfassung: Die besten Tools](/artikel/zeiterfassung-tools)
+- [Marketing-Tools: Komplette Übersicht](/artikel/marketing-tools)
+- [Website erstellen: Tool-Vergleich](/artikel/website-erstellen)
+- [Cloud-Speicher-Vergleich Schweiz](/artikel/cloud-speicher)
+- [IT-Sicherheit für Selbständige](/artikel/it-sicherheit)
+- [Automatisierung: Workflows einrichten](/artikel/automatisierung)
+- [Kommunikation-Tools: Business-Setup](/artikel/kommunikation-tools)
+- [Produktivitäts-Tools & Apps](/artikel/produktivitaets-tools)
+- [Notion für Selbständige: Setup-Guide](/artikel/notion-selbststaendige)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - Tools für Selbständige

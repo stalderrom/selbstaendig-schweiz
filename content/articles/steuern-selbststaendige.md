@@ -90,7 +90,7 @@ Sie können die MWST auf Ihren Geschäftsausgaben zurückfordern (Vorsteuern). D
 - **Halbjährlich:** Bei Umsatz unter CHF 5 Mio. und Steuerschuld unter CHF 10'000
 - **Jährlich:** Bei sehr kleinen Umsätzen (nur mit Bewilligung)
 
-→ [MWST für Selbständige: Detaillierter Guide](/mwst-selbststaendige/)
+→ [MWST für Selbständige: Detaillierter Guide](/artikel/mwst-selbststaendige)
 
 ### 4. Sozialversicherungsbeiträge (AHV/IV/EO)
 
@@ -118,7 +118,7 @@ Bei nebenberuflicher Selbständigkeit zusätzlich zur Anstellung:
 - Zusätzlich 9.95% auf Nebenerwerb, aber nur wenn über CHF 2'300/Jahr
 - Mindestbeitrag entfällt
 
-→ [AHV für Selbständige: Kompletter Guide](/ahv-selbststaendige/)
+→ [AHV für Selbständige: Kompletter Guide](/artikel/ahv-selbststaendige)
 
 ## Steuerliche Abzüge für Selbständige
 
@@ -324,7 +324,7 @@ Müssen nicht eingereicht werden, aber 10 Jahre aufbewahren!
 - Komplexer (Soll/Haben, Bilanz, Erfolgsrechnung)
 - Meist Treuhänder erforderlich
 
-→ [Buchhaltung für Selbständige: Kompletter Guide](/buchhaltung-selbststaendige/)
+→ [Buchhaltung für Selbständige: Kompletter Guide](/artikel/buchhaltung-selbststaendige)
 
 ## Steueroptimierung: Legal Steuern sparen
 
@@ -401,7 +401,7 @@ Ab einem gewissen Einkommen kann eine GmbH steuerlich günstiger sein:
 
 **Faustregel:** Ab CHF 150'000-200'000 Gewinn kann GmbH günstiger werden (individuell prüfen!)
 
-→ [Einzelfirma vs. GmbH: Steuervergleich](/einzelfirma-vs-gmbh-steuern/)
+→ [Einzelfirma vs. GmbH: Steuervergleich](/artikel/einzelfirma-vs-gmbh-steuern)
 
 ## Häufige Steuerfehler vermeiden
 
@@ -464,7 +464,7 @@ An ESTV: CHF 2'638
 - Umsatz unter CHF 5'024'000
 - Steuerforderung unter CHF 109'000
 
-→ [MWST-Saldosteuersatzmethode: Guide](/mwst-saldosteuersatz/)
+→ [MWST-Saldosteuersatzmethode: Guide](/artikel/mwst-saldosteuersatz)
 
 ### Verlustverrechnung
 
@@ -612,13 +612,13 @@ Die Schweiz bietet Selbständigen ein faires und berechenbares Steuersystem. Wer
 
 ## Weiterführende Artikel
 
-- [MWST für Selbständige: Kompletter Guide](/mwst-selbststaendige/)
-- [AHV-Beiträge berechnen](/ahv-selbststaendige/)
-- [Buchhaltung für Selbständige](/buchhaltung-selbststaendige/)
+- [MWST für Selbständige: Kompletter Guide](/artikel/mwst-selbststaendige)
+- [AHV-Beiträge berechnen](/artikel/ahv-selbststaendige)
+- [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
 - [Steuererklärung ausfüllen: Schritt-für-Schritt](/steuererklärung-selbststaendige/)
-- [Einzelfirma vs. GmbH: Steuervergleich](/einzelfirma-vs-gmbh-steuern/)
+- [Einzelfirma vs. GmbH: Steuervergleich](/artikel/einzelfirma-vs-gmbh-steuern)
 - [Treuhänder finden](/treuhänder-finden/)
-- [Säule 3a für Selbständige optimieren](/saeule-3a-selbststaendige/)
+- [Säule 3a für Selbständige optimieren](/artikel/saeule-3a-selbststaendige)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - Steuern für Selbständige

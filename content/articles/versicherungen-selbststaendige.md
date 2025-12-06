@@ -108,7 +108,7 @@ AHV-Beiträge (9.95%): CHF 11'940/Jahr = CHF 995/Monat
 - Unfälle
 - Pensionskassen-Leistungen
 
-→ [AHV für Selbständige: Detaillierter Guide](/ahv-selbststaendige/)
+→ [AHV für Selbständige: Detaillierter Guide](/artikel/ahv-selbststaendige)
 
 ### 3. Weitere obligatorische Versicherungen
 
@@ -167,7 +167,7 @@ Mit Versicherung: CHF 14'400 erhalten - CHF 1'440 Prämie = CHF 12'960 Nettogewi
 
 **Tipp:** Wählen Sie 30 Tage Wartefrist und 80% Deckung als guten Kompromiss.
 
-→ [Krankentaggeld für Selbständige: Vergleich](/krankentaggeld-selbststaendige/)
+→ [Krankentaggeld für Selbständige: Vergleich](/artikel/krankentaggeld-selbststaendige)
 
 ### 2. Unfallversicherung (UVG)
 
@@ -223,7 +223,7 @@ Schäden, die Sie (oder Ihre Mitarbeiter) Dritten zufügen:
 - Mobiliar, Helvetia, AXA, Allianz, Zurich
 - Branchenspezifische Anbieter (z.B. IT-Haftpflicht bei Protekta)
 
-→ [Berufshaftpflicht-Vergleich](/berufshaftpflicht-vergleich/)
+→ [Berufshaftpflicht-Vergleich](/artikel/berufshaftpflicht-vergleich)
 
 ### 4. Rechtsschutzversicherung
 
@@ -333,7 +333,7 @@ Viele Selbständige verzichten auf BVG und setzen auf:
 - Bei hohem Einkommen (>CHF 150'000): BVG prüfen
 - Zusätzlich Säule 3b mit freien Mitteln
 
-→ [Altersvorsorge für Selbständige: Strategien](/altersvorsorge-selbststaendige/)
+→ [Altersvorsorge für Selbständige: Strategien](/artikel/altersvorsorge-selbststaendige)
 
 ### 2. Säule 3a - Gebundene Vorsorge
 
@@ -358,7 +358,7 @@ Viele Selbständige verzichten auf BVG und setzen auf:
 
 **Tipp:** Nutzen Sie Wertschriften-3a (z.B. VIAC) für höhere Langfristrendite (historisch 4-6% statt 0.5%).
 
-→ [Säule 3a für Selbständige optimieren](/saeule-3a-selbststaendige/)
+→ [Säule 3a für Selbständige optimieren](/artikel/saeule-3a-selbststaendige)
 
 ## Kosten-Übersicht: Was kostet Versicherung?
 
@@ -627,13 +627,13 @@ Mit der richtigen Absicherung können Sie ruhig schlafen und sich auf Ihr Gesch�
 
 ## Weiterführende Artikel
 
-- [Krankentaggeld für Selbständige: Vergleich](/krankentaggeld-selbststaendige/)
-- [AHV-Beiträge berechnen](/ahv-selbststaendige/)
-- [Berufshaftpflicht: Was ist versichert?](/berufshaftpflicht/)
-- [Säule 3a optimieren](/saeule-3a-selbststaendige/)
-- [Altersvorsorge für Selbständige](/altersvorsorge-selbststaendige/)
-- [BVG für Selbständige: Lohnt sich das?](/bvg-selbststaendige/)
-- [Unfallversicherung UVG](/unfallversicherung-selbststaendige/)
+- [Krankentaggeld für Selbständige: Vergleich](/artikel/krankentaggeld-selbststaendige)
+- [AHV-Beiträge berechnen](/artikel/ahv-selbststaendige)
+- [Berufshaftpflicht: Was ist versichert?](/artikel/berufshaftpflicht)
+- [Säule 3a optimieren](/artikel/saeule-3a-selbststaendige)
+- [Altersvorsorge für Selbständige](/artikel/altersvorsorge-selbststaendige)
+- [BVG für Selbständige: Lohnt sich das?](/artikel/bvg-selbststaendige)
+- [Unfallversicherung UVG](/artikel/unfallversicherung-selbststaendige)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - Versicherungen für Selbständige

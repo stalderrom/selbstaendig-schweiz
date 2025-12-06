@@ -55,8 +55,8 @@ Eine Einzelfirma (auch Einzelunternehmen genannt) ist ein Unternehmen, das einer
 - Team-Gründung (mehrere Partner)
 - Professioneller Auftritt wichtig
 
-→ [GmbH gründen: Kompletter Guide](/gmbh-gruenden/)
-→ [Rechtsformen im Vergleich](/rechtsformen-vergleich/)
+→ [GmbH gründen: Kompletter Guide](/artikel/gmbh-gruenden)
+→ [Rechtsformen im Vergleich](/artikel/rechtsformen-vergleich)
 
 ## Voraussetzungen für Einzelfirma-Gründung
 
@@ -106,7 +106,7 @@ Eine Einzelfirma (auch Einzelunternehmen genannt) ist ein Unternehmen, das einer
 - Immobilienvermittlung: Je nach Kanton Bewilligung
 - Personenbeförderung: Taxi-Bewilligung
 
-→ [Bewilligungen für Selbständige: Übersicht](/bewilligungen-selbststaendige/)
+→ [Bewilligungen für Selbständige: Übersicht](/artikel/bewilligungen-selbststaendige)
 
 ### 3. Firmenname
 
@@ -137,7 +137,7 @@ Sie können einen Fantasienamen als Zusatz verwenden:
 - Offiziell: "Müller Webdesign"
 - Marketing: "PixelPerfect by Müller"
 
-→ [Firmennamen finden: Tipps & Generator](/firmennamen-finden/)
+→ [Firmennamen finden: Tipps & Generator](/artikel/firmennamen-finden)
 
 ## Schritt-für-Schritt: Einzelfirma gründen
 
@@ -151,14 +151,14 @@ Sie können einen Fantasienamen als Zusatz verwenden:
 
 Nicht zwingend, aber sehr empfohlen!
 
-→ [Businessplan erstellen: Vorlage](/businessplan-erstellen/)
+→ [Businessplan erstellen: Vorlage](/artikel/businessplan-erstellen)
 
 **Finanzierung sichern:**
 - Startkapital berechnen (CHF 5'000-30'000 typisch)
 - Lebenshaltungskosten für 6-12 Monate
 - Finanzierungsquellen: Eigenkapital, Familie, Bank
 
-→ [Startkapital: Wie viel brauchen Sie?](/startkapital-berechnen/)
+→ [Startkapital: Wie viel brauchen Sie?](/artikel/startkapital-berechnen)
 
 **Geschäftskonto eröffnen (optional, aber empfohlen):**
 - Klare Trennung Privat/Geschäftlich
@@ -168,7 +168,7 @@ Nicht zwingend, aber sehr empfohlen!
 **Kosten:** CHF 0-20/Monat
 **Anbieter:** Neon Business (CHF 0), Raiffeisen, Postfinance
 
-→ [Geschäftskonto: Vergleich](/geschaeftskonto-vergleich/)
+→ [Geschäftskonto: Vergleich](/artikel/geschaeftskonto-vergleich)
 
 ### Schritt 2: Anmeldung beim Handelsregister
 
@@ -204,7 +204,7 @@ Nicht zwingend, aber sehr empfohlen!
 
 **Wichtig:** Nach Eintrag MUSS Handelsregister-Auszug bei allen offiziellen Dokumenten (Rechnungen, Verträge) erwähnt werden.
 
-→ [Handelsregister-Eintrag: So geht's](/handelsregister-eintrag/)
+→ [Handelsregister-Eintrag: So geht's](/artikel/handelsregister-eintrag)
 
 ### Schritt 3: Anmeldung bei Sozialversicherungen (innerhalb 14 Tage nach Start!)
 
@@ -239,7 +239,7 @@ AHV-Beitrag: CHF 8'080/Jahr
 
 **Wichtig:** Anmeldung innert 14 Tagen nach Start der Tätigkeit!
 
-→ [AHV für Selbständige: Kompletter Guide](/ahv-selbststaendige/)
+→ [AHV für Selbständige: Kompletter Guide](/artikel/ahv-selbststaendige)
 
 **2. Unfallversicherung (optional):**
 
@@ -251,7 +251,7 @@ Als Selbständiger sind Sie NICHT obligatorisch unfallversichert.
 
 **Anbieter:** Suva, private Versicherungen
 
-→ [Versicherungen für Selbständige](/versicherungen-selbststaendige/)
+→ [Versicherungen für Selbständige](/artikel/versicherungen-selbststaendige)
 
 **3. Krankentaggeld (dringend empfohlen):**
 
@@ -261,7 +261,7 @@ Als Selbständiger sind Sie NICHT obligatorisch unfallversichert.
 - Zahlt 80% des Einkommens ab Tag 30-60
 - Kosten: CHF 1'200-2'400/Jahr (je nach Einkommen)
 
-→ [Krankentaggeld: Vergleich & Anbieter](/krankentaggeld/)
+→ [Krankentaggeld: Vergleich & Anbieter](/artikel/krankentaggeld)
 
 ### Schritt 4: MWST-Anmeldung (bei Umsatz > CHF 100'000)
 
@@ -288,7 +288,7 @@ Als Selbständiger sind Sie NICHT obligatorisch unfallversichert.
 - 2.6% Reduziert (Lebensmittel, Bücher)
 - 3.8% Beherbergung
 
-→ [MWST für Selbständige: Kompletter Guide](/mwst-selbststaendige/)
+→ [MWST für Selbständige: Kompletter Guide](/artikel/mwst-selbststaendige)
 
 ### Schritt 5: Weitere Anmeldungen & Setup
 
@@ -301,7 +301,7 @@ Sie müssen sich NICHT separat anmelden. Das Steueramt wird automatisch über Ha
 - Geschäftseinkommen als Einkommen deklarieren
 - Geschäftsausgaben abziehen
 
-→ [Steuern für Selbständige](/steuern-selbststaendige/)
+→ [Steuern für Selbständige](/artikel/steuern-selbststaendige)
 
 **2. Buchhaltung einrichten:**
 
@@ -314,8 +314,8 @@ Sie müssen sich NICHT separat anmelden. Das Steueramt wird automatisch über Ha
 - Run my Accounts: CHF 24-49/Monat
 - Banana Accounting: CHF 119 einmalig
 
-→ [Buchhaltung für Selbständige](/buchhaltung-selbststaendige/)
-→ [Buchhaltungssoftware-Vergleich](/buchhaltungssoftware-vergleich/)
+→ [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
+→ [Buchhaltungssoftware-Vergleich](/artikel/buchhaltungssoftware-vergleich)
 
 **3. Website & Online-Präsenz:**
 
@@ -329,7 +329,7 @@ Sie müssen sich NICHT separat anmelden. Das Steueramt wird automatisch über Ha
 - Hosting: CHF 60-150/Jahr
 - Website: CHF 500-3'000 (einmalig) oder CHF 30/Monat (Wix, Webflow)
 
-→ [Website erstellen: Anleitung](/website-erstellen/)
+→ [Website erstellen: Anleitung](/artikel/website-erstellen)
 
 **4. Visitenkarten & Branding:**
 
@@ -397,7 +397,7 @@ Break-Even: CHF 30'000 ÷ (CHF 100 - CHF 20) = 375 Stunden
 → Alles darüber ist Gewinn!
 ```
 
-→ [Break-Even berechnen: Rechner](/break-even-rechner/)
+→ [Break-Even berechnen: Rechner](/artikel/break-even-rechner)
 
 ## Steuern bei der Einzelfirma
 
@@ -463,7 +463,7 @@ Steuern (grob):
 - Verluste in ersten Jahren mit späteren Gewinnen verrechnen
 - 7 Jahre rückwirkend möglich
 
-→ [Steueroptimierung: Alle Tricks](/steueroptimierung-selbststaendige/)
+→ [Steueroptimierung: Alle Tricks](/artikel/steueroptimierung-selbststaendige)
 
 ## Versicherungen: Was brauchen Sie?
 
@@ -515,7 +515,7 @@ Steuern (grob):
 - Laptop, Kamera, Werkzeuge
 - Kosten: CHF 200-600/Jahr
 
-→ [Versicherungen für Selbständige: Kompletter Guide](/versicherungen-selbststaendige/)
+→ [Versicherungen für Selbständige: Kompletter Guide](/artikel/versicherungen-selbststaendige)
 
 ## Vorteile & Nachteile der Einzelfirma
 
@@ -597,7 +597,7 @@ Steuern (grob):
 - Assets übertragen
 - Kosten: CHF 3'000-8'000 (Notar, HR, Steuern)
 
-→ [Einzelfirma in GmbH umwandeln: Anleitung](/einzelfirma-in-gmbh-umwandeln/)
+→ [Einzelfirma in GmbH umwandeln: Anleitung](/artikel/einzelfirma-in-gmbh-umwandeln)
 
 ## Häufige Fehler vermeiden
 
@@ -641,7 +641,7 @@ Steuern (grob):
 **Folge:** Stagnation, Überlastung, Einsamkeit
 **Lösung:** Networking, Coworking, Peer-Gruppen
 
-→ [Die 20 häufigsten Fehler von Selbständigen](/fehler-selbststaendige/)
+→ [Die 20 häufigsten Fehler von Selbständigen](/artikel/fehler-selbststaendige)
 
 ## Checkliste: Einzelfirma gründen
 
@@ -700,7 +700,7 @@ Steuern (grob):
 **Ja, vollumfänglich!** Geschäftsschulden = Privatschulden. Ihr Haus, Auto, Ersparnis können gepfändet werden. Beispiel: Kunde verklagt Sie auf CHF 50'000 Schadenersatz, Sie verlieren → Privatvermögen haftet. Schutz: (1) Berufshaftpflicht-Versicherung (dringend!). (2) Niedriges Risiko-Geschäft wählen. (3) Bei hohem Risiko → GmbH gründen (Haftung beschränkt auf CHF 20'000 Kapital). Häufigste Fehler: Handwerker ohne Haftpflicht, dann Schaden.
 
 ### Muss ich als Einzelfirma MWST abrechnen?
-**Pflicht ab:** CHF 100'000 Jahresumsatz (weltweit). **Freiwillig ab:** CHF 10'000 (macht Sinn bei hohen Geschäftsausgaben mit MWST). **Ablauf:** Anmeldung ESTV → MWST-Nummer → Quartalsweise Abrechnung (7.7% kassieren, Vorsteuer abziehen). **Vorteil:** Vorsteuer zurück (auf Laptop, Büro, etc.). **Nachteil:** Admin-Aufwand, höhere Preise für B2C. Unter CHF 100k: Meist nicht lohnenswert (ausser hohe Investitionen). → [MWST-Guide](/mwst-selbststaendige/)
+**Pflicht ab:** CHF 100'000 Jahresumsatz (weltweit). **Freiwillig ab:** CHF 10'000 (macht Sinn bei hohen Geschäftsausgaben mit MWST). **Ablauf:** Anmeldung ESTV → MWST-Nummer → Quartalsweise Abrechnung (7.7% kassieren, Vorsteuer abziehen). **Vorteil:** Vorsteuer zurück (auf Laptop, Büro, etc.). **Nachteil:** Admin-Aufwand, höhere Preise für B2C. Unter CHF 100k: Meist nicht lohnenswert (ausser hohe Investitionen). → [MWST-Guide](/artikel/mwst-selbststaendige)
 
 ## Fazit
 
@@ -732,29 +732,29 @@ Starten Sie jetzt: Die Einzelfirma ist Ihr Sprungbrett in die Selbständigkeit!
 ## Weiterführende Artikel
 
 ### Gründung:
-- [Selbständig machen in der Schweiz: Kompletter Guide](/selbstaendig-machen-schweiz/)
-- [GmbH gründen: Anleitung](/gmbh-gruenden/)
-- [Rechtsformen im Vergleich](/rechtsformen-vergleich/)
-- [Businessplan erstellen](/businessplan-erstellen/)
-- [Firmennamen finden](/firmennamen-finden/)
+- [Selbständig machen in der Schweiz: Kompletter Guide](/artikel/selbstaendig-machen-schweiz)
+- [GmbH gründen: Anleitung](/artikel/gmbh-gruenden)
+- [Rechtsformen im Vergleich](/artikel/rechtsformen-vergleich)
+- [Businessplan erstellen](/artikel/businessplan-erstellen)
+- [Firmennamen finden](/artikel/firmennamen-finden)
 
 ### Finanzen & Admin:
-- [Steuern für Selbständige](/steuern-selbststaendige/)
-- [Versicherungen für Selbständige](/versicherungen-selbststaendige/)
-- [Buchhaltung für Selbständige](/buchhaltung-selbststaendige/)
-- [AHV für Selbständige](/ahv-selbststaendige/)
-- [MWST für Selbständige](/mwst-selbststaendige/)
+- [Steuern für Selbständige](/artikel/steuern-selbststaendige)
+- [Versicherungen für Selbständige](/artikel/versicherungen-selbststaendige)
+- [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
+- [AHV für Selbständige](/artikel/ahv-selbststaendige)
+- [MWST für Selbständige](/artikel/mwst-selbststaendige)
 
 ### Praxis:
-- [Stundensatz berechnen](/stundensatz-berechnen/)
-- [Kunden gewinnen](/kunden-gewinnen-schweiz/)
-- [Marketing für Selbständige](/marketing-selbststaendige/)
-- [Die 20 häufigsten Fehler](/fehler-selbststaendige/)
+- [Stundensatz berechnen](/artikel/stundensatz-berechnen)
+- [Kunden gewinnen](/artikel/kunden-gewinnen-schweiz)
+- [Marketing für Selbständige](/artikel/marketing-selbststaendige)
+- [Die 20 häufigsten Fehler](/artikel/fehler-selbststaendige)
 
 ### Branchen-spezifisch:
-- [Selbständig als Berater](/selbstaendig-als-berater/)
-- [Selbständig als Webdesigner](/selbstaendig-als-webdesigner/)
-- [Selbständig als Handwerker](/selbstaendig-als-handwerker/)
+- [Selbständig als Berater](/artikel/selbstaendig-als-berater)
+- [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner)
+- [Selbständig als Handwerker](/artikel/selbstaendig-als-handwerker)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - Einzelfirma gründen

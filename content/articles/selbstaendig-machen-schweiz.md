@@ -97,7 +97,7 @@ Die Wahl der Rechtsform ist eine der grundlegendsten Entscheidungen bei der Grü
 
 **Typische Branchen:** IT-Freelancer, Berater, Designer, Handwerker, Coaches
 
-→ [Detaillierter Guide: Einzelfirma gründen](/einzelfirma-gruenden/)
+→ [Detaillierter Guide: Einzelfirma gründen](/artikel/einzelfirma-gruenden)
 
 ### GmbH (Gesellschaft mit beschränkter Haftung)
 
@@ -120,7 +120,7 @@ Die Wahl der Rechtsform ist eine der grundlegendsten Entscheidungen bei der Grü
 
 **Typische Branchen:** Startups mit Wachstumsplänen, E-Commerce, Software-Firmen, Agenturen
 
-→ [Detaillierter Guide: GmbH gründen](/gmbh-gruenden/)
+→ [Detaillierter Guide: GmbH gründen](/artikel/gmbh-gruenden)
 
 ### AG (Aktiengesellschaft)
 
@@ -171,7 +171,7 @@ Auch wenn nicht zwingend erforderlich, hilft ein Businessplan bei:
 - Bankgesprächen für Kredite
 - Kommunikation mit Partnern/Investoren
 
-→ [Businessplan-Vorlage für die Schweiz](/businessplan-schweiz/)
+→ [Businessplan-Vorlage für die Schweiz](/artikel/businessplan-schweiz)
 
 ### Phase 2: Behördliche Anmeldung (2-4 Wochen)
 
@@ -197,7 +197,7 @@ Melde dich bei der zuständigen Ausgleichskasse als selbständig erwerbend an:
 - Erwartetes Einkommen angeben
 - Provisorische Rechnung erhalten
 
-→ [Steuern für Selbständige: Kompletter Guide](/steuern-selbststaendige/)
+→ [Steuern für Selbständige: Kompletter Guide](/artikel/steuern-selbststaendige)
 
 ### Phase 3: Versicherungen (1-2 Wochen)
 
@@ -231,7 +231,7 @@ Melde dich bei der zuständigen Ausgleichskasse als selbständig erwerbend an:
 - Deckt Schäden durch deine Tätigkeit
 - In gewissen Branchen obligatorisch (z.B. Baugewerbe)
 
-→ [Versicherungen für Selbständige: Übersicht](/versicherungen-selbststaendige/)
+→ [Versicherungen für Selbständige: Übersicht](/artikel/versicherungen-selbststaendige)
 
 ### Phase 4: Buchhaltung & Finanzen einrichten
 
@@ -255,14 +255,14 @@ Melde dich bei der zuständigen Ausgleichskasse als selbständig erwerbend an:
 
 **Praktischer Tipp:** Starte mit Software, hole bei Fragen einen Treuhänder für einzelne Beratungen. Bei Wachstum auf vollständige Betreuung wechseln.
 
-→ [Buchhaltung für Einzelfirmen](/buchhaltung-selbststaendige/)
+→ [Buchhaltung für Einzelfirmen](/artikel/buchhaltung-selbststaendige)
 
 **3. Rechnungsstellung einrichten**
 - QR-Rechnung seit 2020 Standard in der Schweiz
 - Alle Pflichtangaben beachten (Name, Adresse, MWST-Nr. etc.)
 - Zahlungsfristen festlegen (meist 30 Tage)
 
-→ [Rechnung schreiben: Schweizer Vorlage](/rechnung-schreiben/)
+→ [Rechnung schreiben: Schweizer Vorlage](/artikel/rechnung-schreiben)
 
 ### Phase 5: Marketing & Kundengewinnung
 
@@ -284,7 +284,7 @@ Melde dich bei der zuständigen Ausgleichskasse als selbständig erwerbend an:
 - Nutze Freelancer-Plattformen als Ergänzung
 - Direktansprache potenzieller Kunden
 
-→ [Kundenakquise in der Schweiz](/kundenakquise-schweiz/)
+→ [Kundenakquise in der Schweiz](/artikel/kundenakquise-schweiz)
 
 ## Kosten der Selbständigkeit
 
@@ -417,23 +417,23 @@ Die nebenberufliche Selbständigkeit ist ein risikoarmer Einstieg. Du behältst 
 Jede Branche hat ihre Besonderheiten. Hier findest du detaillierte Guides für spezifische Berufe:
 
 ### Kreativberufe
-- [Selbständig als Fotograf](/selbstaendig-als-fotograf/)
-- [Selbständig als Grafiker](/selbstaendig-als-grafiker/)
-- [Selbständig als Webdesigner](/selbstaendig-als-webdesigner/)
+- [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf)
+- [Selbständig als Grafiker](/artikel/selbstaendig-als-grafiker)
+- [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner)
 
 ### Beratung & Coaching
-- [Selbständig als Coach](/selbstaendig-als-coach/)
-- [Selbständig als Unternehmensberater](/selbstaendig-als-berater/)
+- [Selbständig als Coach](/artikel/selbstaendig-als-coach)
+- [Selbständig als Unternehmensberater](/artikel/selbstaendig-als-berater)
 
 ### IT & Tech
-- [Selbständig als Programmierer](/selbstaendig-als-programmierer/)
-- [Selbständig als IT-Berater](/selbstaendig-als-it-berater/)
+- [Selbständig als Programmierer](/artikel/selbstaendig-als-programmierer)
+- [Selbständig als IT-Berater](/artikel/selbstaendig-als-it-berater)
 
 ### Handwerk
-- [Selbständig als Elektriker](/selbstaendig-als-elektriker/)
-- [Selbständig als Schreiner](/selbstaendig-als-schreiner/)
+- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker)
+- [Selbständig als Schreiner](/artikel/selbstaendig-als-schreiner)
 
-→ [Alle Berufe im Überblick](/berufsratgeber/)
+→ [Alle Berufe im Überblick](/artikel/berufsratgeber)
 
 ## Wichtige Links und Ressourcen
 
@@ -498,11 +498,11 @@ Unterschätzen Sie nicht den administrativen Aufwand und die Anfangsinvestitione
 
 ## Weiterführende Artikel
 
-- [Einzelfirma gründen: Schritt-für-Schritt Guide](/einzelfirma-gruenden/)
-- [GmbH gründen in der Schweiz](/gmbh-gruenden/)
-- [Steuern für Selbständige verstehen](/steuern-selbststaendige/)
-- [Versicherungen für Selbständige](/versicherungen-selbststaendige/)
-- [Businessplan erstellen](/businessplan-schweiz/)
+- [Einzelfirma gründen: Schritt-für-Schritt Guide](/artikel/einzelfirma-gruenden)
+- [GmbH gründen in der Schweiz](/artikel/gmbh-gruenden)
+- [Steuern für Selbständige verstehen](/artikel/steuern-selbststaendige)
+- [Versicherungen für Selbständige](/artikel/versicherungen-selbststaendige)
+- [Businessplan erstellen](/artikel/businessplan-schweiz)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - Selbständig machen Schweiz

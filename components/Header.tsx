@@ -33,6 +33,8 @@ const MAIN_NAV = [
 
 export default function Header() {
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [mobileActiveSection, setMobileActiveSection] = useState<string | null>(null);
 
   return (
     <header className="border-b border-gray-200 bg-white sticky top-0 z-50 shadow-sm">
@@ -44,6 +46,7 @@ export default function Header() {
             </h1>
           </Link>
 
+          {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-1">
             {MAIN_NAV.map((section) => (
               <div
@@ -80,13 +83,113 @@ export default function Header() {
             </Link>
           </nav>
 
+          {/* Mobile Menu Button */}
+          <button
+            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+            className="md:hidden p-2 text-gray-700 hover:text-blue-600 transition-colors"
+            aria-label="Menu öffnen"
+          >
+            <svg
+              className="w-6 h-6"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              {mobileMenuOpen ? (
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M6 18L18 6M6 6l12 12"
+                />
+              ) : (
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M4 6h16M4 12h16M4 18h16"
+                />
+              )}
+            </svg>
+          </button>
+
+          {/* Desktop CTA */}
           <Link
             href="/artikel/selbstaendig-machen-schweiz"
-            className="bg-blue-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-blue-700 transition-colors text-sm"
+            className="hidden md:inline-block bg-blue-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-blue-700 transition-colors text-sm"
           >
             Jetzt starten
           </Link>
         </div>
+
+        {/* Mobile Navigation Menu */}
+        {mobileMenuOpen && (
+          <div className="md:hidden border-t border-gray-200">
+            <nav className="py-4 space-y-1">
+              {MAIN_NAV.map((section) => (
+                <div key={section.label}>
+                  <button
+                    onClick={() => setMobileActiveSection(
+                      mobileActiveSection === section.label ? null : section.label
+                    )}
+                    className="w-full flex items-center justify-between px-4 py-3 text-gray-900 font-medium hover:bg-gray-50 transition-colors"
+                  >
+                    <span>{section.label}</span>
+                    <svg
+                      className={`w-5 h-5 transition-transform ${
+                        mobileActiveSection === section.label ? 'rotate-180' : ''
+                      }`}
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M19 9l-7 7-7-7"
+                      />
+                    </svg>
+                  </button>
+
+                  {mobileActiveSection === section.label && (
+                    <div className="bg-gray-50 py-2">
+                      {section.items.map((item) => (
+                        <Link
+                          key={item.href}
+                          href={item.href}
+                          onClick={() => setMobileMenuOpen(false)}
+                          className="block px-8 py-2 text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-colors"
+                        >
+                          {item.label}
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              ))}
+
+              <Link
+                href="/artikel"
+                onClick={() => setMobileMenuOpen(false)}
+                className="block px-4 py-3 text-gray-900 font-medium hover:bg-gray-50 transition-colors"
+              >
+                Alle Artikel
+              </Link>
+
+              {/* Mobile CTA */}
+              <div className="px-4 pt-4 pb-2">
+                <Link
+                  href="/artikel/selbstaendig-machen-schweiz"
+                  onClick={() => setMobileMenuOpen(false)}
+                  className="block w-full text-center bg-blue-600 text-white px-4 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+                >
+                  Jetzt starten
+                </Link>
+              </div>
+            </nav>
+          </div>
+        )}
       </div>
     </header>
   );

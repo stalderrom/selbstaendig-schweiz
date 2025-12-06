@@ -68,8 +68,8 @@ Eine GmbH ist eine Kapitalgesellschaft mit eigener Rechtspersönlichkeit. Die Ge
 - Internationales Geschäft (AG bekannter)
 - Sehr hohes Kapital (> CHF 100k)
 
-→ [Einzelfirma gründen: Guide](/einzelfirma-gruenden/)
-→ [Rechtsformen im Vergleich](/rechtsformen-vergleich/)
+→ [Einzelfirma gründen: Guide](/artikel/einzelfirma-gruenden)
+→ [Rechtsformen im Vergleich](/artikel/rechtsformen-vergleich)
 
 ## Voraussetzungen für GmbH-Gründung
 
@@ -187,7 +187,7 @@ Viele nutzen Anbieter wie:
 2. Handelsregister Ihres Kantons
 3. Beim Notar nochmals prüfen lassen
 
-→ [Firmennamen finden: Generator & Tipps](/firmennamen-finden/)
+→ [Firmennamen finden: Generator & Tipps](/artikel/firmennamen-finden)
 
 ## Schritt-für-Schritt: GmbH gründen
 
@@ -201,7 +201,7 @@ Viele nutzen Anbieter wie:
 
 Wichtiger bei GmbH als bei Einzelfirma (Bank will sehen!)
 
-→ [Businessplan erstellen: Vorlage](/businessplan-erstellen/)
+→ [Businessplan erstellen: Vorlage](/artikel/businessplan-erstellen)
 
 **2. Gesellschaftervertrag (bei mehreren Gesellschaftern):**
 
@@ -306,7 +306,7 @@ Publikationsorgan ist das Schweizerische Handelsamtsblatt (SHAB).
 - Aber: Notar muss trotzdem prüfen
 - Für einfache Standard-GmbH OK
 
-→ [GmbH-Statuten: Vorlage & Generator](/gmbh-statuten-vorlage/)
+→ [GmbH-Statuten: Vorlage & Generator](/artikel/gmbh-statuten-vorlage)
 
 ### Schritt 3: Notar-Termin (1 Tag)
 
@@ -418,7 +418,7 @@ Der Notar oder Sie reichen beim Handelsregisteramt ein:
 - AHV-Anmeldung als Arbeitgeber
 - Ausgleichskasse wählen
 
-→ [AHV für GmbH-Geschäftsführer](/ahv-gmbh-geschaeftsfuehrer/)
+→ [AHV für GmbH-Geschäftsführer](/artikel/ahv-gmbh-geschaeftsfuehrer)
 
 **3. Unfallversicherung (UVG):**
 - Obligatorisch für alle Angestellten (inkl. Sie!)
@@ -430,7 +430,7 @@ Der Notar oder Sie reichen beim Handelsregisteramt ein:
 - Pensionskasse wählen
 - Anmeldung
 
-→ [Pensionskasse für GmbH: Guide](/pensionskasse-gmbh/)
+→ [Pensionskasse für GmbH: Guide](/artikel/pensionskasse-gmbh)
 
 **5. MWST-Anmeldung:**
 - Obligatorisch ab CHF 100'000 Jahresumsatz
@@ -438,14 +438,14 @@ Der Notar oder Sie reichen beim Handelsregisteramt ein:
 - Anmeldung bei ESTV (estv.admin.ch)
 - MWST-Nummer erhalten
 
-→ [MWST für GmbH](/mwst-gmbh/)
+→ [MWST für GmbH](/artikel/mwst-gmbh)
 
 **6. Buchhaltung einrichten:**
 - Doppelte Buchführung Pflicht bei GmbH!
 - Software wählen (Bexio, Klara, Sage)
 - Oder Treuhänder beauftragen
 
-→ [Buchhaltung GmbH: Anforderungen](/buchhaltung-gmbh/)
+→ [Buchhaltung GmbH: Anforderungen](/artikel/buchhaltung-gmbh)
 
 **7. Lohnbuchhaltung:**
 - Auch als einziger Geschäftsführer: Lohnausweis erstellen
@@ -467,7 +467,7 @@ Der Notar oder Sie reichen beim Handelsregisteramt ein:
 - Protokoll führen
 - Themen: Jahresabschluss genehmigen, Geschäftsführer entlastet, etc.
 
-→ [Generalversammlung: Ablauf & Protokoll](/generalversammlung-gmbh/)
+→ [Generalversammlung: Ablauf & Protokoll](/artikel/generalversammlung-gmbh)
 
 ## Kosten: GmbH gründen
 
@@ -621,7 +621,7 @@ Total Netto: CHF 84'120
 - Lohn: CHF 60'000-90'000 (angemessen für BVG/AHV)
 - Rest: Dividende (steueroptimiert)
 
-→ [Lohn vs. Dividende: Optimierung](/lohn-dividende-optimierung/)
+→ [Lohn vs. Dividende: Optimierung](/artikel/lohn-dividende-optimierung)
 
 ### Verlustverrechnung
 
@@ -693,7 +693,7 @@ Ihr Privatvermögen: Geschützt!
 - Bei Krise: Rechtzeitig Konkurs anmelden
 - Geschäftsführer-Haftpflicht (D&O-Versicherung)
 
-→ [Geschäftsführer-Haftung: Was Sie wissen müssen](/geschaeftsfuehrer-haftung/)
+→ [Geschäftsführer-Haftung: Was Sie wissen müssen](/artikel/geschaeftsfuehrer-haftung)
 
 ## Generalversammlung (GV)
 
@@ -732,7 +732,7 @@ Oberstes Organ der GmbH. Alle Gesellschafter treffen sich, entscheiden über wic
 **Einziger Gesellschafter?**
 GV trotzdem abhalten! Sie beschliessen alleine, protokollieren.
 
-→ [GV-Protokoll: Vorlage](/gv-protokoll-vorlage/)
+→ [GV-Protokoll: Vorlage](/artikel/gv-protokoll-vorlage)
 
 ## Häufige Fehler vermeiden
 
@@ -871,35 +871,35 @@ Die GmbH ist die richtige Wahl für ambitionierte Unternehmer mit Wachstumsplän
 ## Weiterführende Artikel
 
 ### Gründung:
-- [Selbständig machen in der Schweiz: Kompletter Guide](/selbstaendig-machen-schweiz/)
-- [Einzelfirma gründen: Anleitung](/einzelfirma-gruenden/)
-- [Rechtsformen im Vergleich](/rechtsformen-vergleich/)
-- [Businessplan erstellen](/businessplan-erstellen/)
-- [Firmennamen finden](/firmennamen-finden/)
+- [Selbständig machen in der Schweiz: Kompletter Guide](/artikel/selbstaendig-machen-schweiz)
+- [Einzelfirma gründen: Anleitung](/artikel/einzelfirma-gruenden)
+- [Rechtsformen im Vergleich](/artikel/rechtsformen-vergleich)
+- [Businessplan erstellen](/artikel/businessplan-erstellen)
+- [Firmennamen finden](/artikel/firmennamen-finden)
 
 ### GmbH-spezifisch:
-- [GmbH-Statuten: Vorlage & Generator](/gmbh-statuten-vorlage/)
-- [Gesellschaftervertrag: Muster](/gesellschaftervertrag-muster/)
-- [Generalversammlung: Ablauf & Protokoll](/generalversammlung-gmbh/)
-- [GV-Protokoll: Vorlage](/gv-protokoll-vorlage/)
-- [Einzelfirma in GmbH umwandeln](/einzelfirma-in-gmbh-umwandeln/)
+- [GmbH-Statuten: Vorlage & Generator](/artikel/gmbh-statuten-vorlage)
+- [Gesellschaftervertrag: Muster](/artikel/gesellschaftervertrag-muster)
+- [Generalversammlung: Ablauf & Protokoll](/artikel/generalversammlung-gmbh)
+- [GV-Protokoll: Vorlage](/artikel/gv-protokoll-vorlage)
+- [Einzelfirma in GmbH umwandeln](/artikel/einzelfirma-in-gmbh-umwandeln)
 
 ### Finanzen & Steuern:
-- [Steuern für GmbH](/steuern-gmbh/)
-- [Lohn vs. Dividende: Optimierung](/lohn-dividende-optimierung/)
-- [Buchhaltung GmbH: Anforderungen](/buchhaltung-gmbh/)
-- [AHV für GmbH-Geschäftsführer](/ahv-gmbh-geschaeftsfuehrer/)
-- [Pensionskasse für GmbH](/pensionskasse-gmbh/)
-- [MWST für GmbH](/mwst-gmbh/)
+- [Steuern für GmbH](/artikel/steuern-gmbh)
+- [Lohn vs. Dividende: Optimierung](/artikel/lohn-dividende-optimierung)
+- [Buchhaltung GmbH: Anforderungen](/artikel/buchhaltung-gmbh)
+- [AHV für GmbH-Geschäftsführer](/artikel/ahv-gmbh-geschaeftsfuehrer)
+- [Pensionskasse für GmbH](/artikel/pensionskasse-gmbh)
+- [MWST für GmbH](/artikel/mwst-gmbh)
 
 ### Rechtliches:
-- [Geschäftsführer-Haftung: Was Sie wissen müssen](/geschaeftsfuehrer-haftung/)
-- [Durchgriffshaftung vermeiden](/durchgriffshaftung/)
+- [Geschäftsführer-Haftung: Was Sie wissen müssen](/artikel/geschaeftsfuehrer-haftung)
+- [Durchgriffshaftung vermeiden](/artikel/durchgriffshaftung)
 
 ### Praxis:
-- [Kunden gewinnen](/kunden-gewinnen-schweiz/)
-- [Buchhaltungssoftware für GmbH](/buchhaltungssoftware-gmbh/)
-- [Treuhänder finden](/treuhaender-finden/)
+- [Kunden gewinnen](/artikel/kunden-gewinnen-schweiz)
+- [Buchhaltungssoftware für GmbH](/artikel/buchhaltungssoftware-gmbh)
+- [Treuhänder finden](/artikel/treuhaender-finden)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - GmbH gründen Schweiz

@@ -115,7 +115,7 @@ Erfolgreiche Selbständige setzen auf einen **Marketing-Mix** aus verschiedenen 
 
 **Empfehlung:** Investieren Sie mindestens CHF 2'000-3'000 in eine professionelle Website. Das ist Ihre wichtigste Marketing-Investition!
 
-→ [Website erstellen: Anleitung für Selbständige](/website-erstellen/)
+→ [Website erstellen: Anleitung für Selbständige](/artikel/website-erstellen)
 
 ### SEO: Kostenlose Kunden über Google
 
@@ -161,7 +161,7 @@ Search Engine Optimization = Ihre Website erscheint auf Google-Seite 1 für rele
 **Zeitaufwand:** 4-8 Stunden/Monat
 **ROI:** Sehr hoch (langfristig)
 
-→ [SEO für Selbständige: Schritt-für-Schritt-Anleitung](/seo-selbststaendige/)
+→ [SEO für Selbständige: Schritt-für-Schritt-Anleitung](/artikel/seo-selbststaendige)
 
 ### Google Ads: Schnelle Ergebnisse
 
@@ -196,7 +196,7 @@ ROI: 275%
 
 **Empfehlung:** Starten Sie mit CHF 30/Tag (CHF 900/Monat) für 2-3 Monate als Test.
 
-→ [Google Ads für Selbständige: Lohnt sich das?](/google-ads-selbststaendige/)
+→ [Google Ads für Selbständige: Lohnt sich das?](/artikel/google-ads-selbststaendige)
 
 ### Social Media: Sichtbarkeit & Community
 
@@ -263,8 +263,8 @@ ROI: 275%
 - Community: Mittel bis hoch
 - Langfristiger Nutzen: Hoch
 
-→ [LinkedIn für Selbständige: Kunden gewinnen](/linkedin-strategie/)
-→ [Instagram Business: Anleitung Schweiz](/instagram-business/)
+→ [LinkedIn für Selbständige: Kunden gewinnen](/artikel/linkedin-strategie)
+→ [Instagram Business: Anleitung Schweiz](/artikel/instagram-business)
 
 ### E-Mail-Marketing: Der unterschätzte Kanal
 
@@ -304,7 +304,7 @@ ROI: 275%
 - Segmentierung nach Interesse
 - Klare Call-to-Actions
 
-→ [E-Mail-Marketing für Selbständige](/email-marketing/)
+→ [E-Mail-Marketing für Selbständige](/artikel/email-marketing)
 
 ## Offline-Akquise: Bewährte Methoden
 
@@ -357,7 +357,7 @@ ROI: 275%
 4. Nach 2 Wochen: Kaffee-Einladung
 5. Beziehung pflegen (nicht nur bei Bedarf melden!)
 
-→ [Networking in der Schweiz: Die besten Events](/networking-schweiz/)
+→ [Networking in der Schweiz: Die besten Events](/artikel/networking-schweiz)
 
 ### Messen & Konferenzen
 
@@ -386,7 +386,7 @@ ROI: 275%
 - Attraktives Giveaway (mit Mehrwert)
 - Digitale Lead-Erfassung
 
-→ [Messen für Selbständige: Lohnt sich das?](/messen-selbststaendige/)
+→ [Messen für Selbständige: Lohnt sich das?](/artikel/messen-selbststaendige)
 
 ### Kaltakquise: Telefon & E-Mail
 
@@ -446,7 +446,7 @@ Beste Grüsse,
 
 **Zeitaufwand:** 10-15 Stunden/Woche für spürbare Ergebnisse
 
-→ [Kaltakquise: Leitfaden für die Schweiz](/kaltakquise/)
+→ [Kaltakquise: Leitfaden für die Schweiz](/artikel/kaltakquise)
 
 ## Empfehlungsmarketing: Die Königsdisziplin
 
@@ -508,7 +508,7 @@ Kennen Sie jemanden, dem ich ähnlich helfen könnte?"
 - Welche Kunden empfehlen überdurchschnittlich?
 - → Diese Kunden besonders pflegen!
 
-→ [Empfehlungsmarketing: Systematisch mehr Empfehlungen](/empfehlungsmarketing/)
+→ [Empfehlungsmarketing: Systematisch mehr Empfehlungen](/artikel/empfehlungsmarketing)
 
 ### Bewertungen & Testimonials
 
@@ -555,7 +555,7 @@ Bei sehr zufriedenen Kunden persönlich nachfragen (höhere Rate)
 - Lösung anbieten
 - Offline weiterführen
 
-→ [Google Bewertungen: Mehr Rezensionen bekommen](/google-bewertungen/)
+→ [Google Bewertungen: Mehr Rezensionen bekommen](/artikel/google-bewertungen)
 
 ## Partnerschaften & Kooperationen
 
@@ -612,7 +612,7 @@ Bei sehr zufriedenen Kunden persönlich nachfragen (höhere Rate)
 
 **Tipp:** Schriftlich festhalten, auch bei befreundeten Partnern!
 
-→ [Kooperationen: Verträge & Best Practices](/kooperationen-selbststaendige/)
+→ [Kooperationen: Verträge & Best Practices](/artikel/kooperationen-selbststaendige)
 
 ## Content-Marketing: Langfristig Expertise zeigen
 
@@ -675,7 +675,7 @@ Ein Inhalt, viele Formate:
 
 **ROI:** Langfristig sehr hoch, kurzfristig gering
 
-→ [Content-Marketing: Strategie für Selbständige](/content-marketing/)
+→ [Content-Marketing: Strategie für Selbständige](/artikel/content-marketing)
 
 ## Marketing-Budget: Wie viel investieren?
 
@@ -721,7 +721,7 @@ Ein Inhalt, viele Formate:
 - Stundensatz > CHF 150 → Eher auslagern
 - Fehlende Expertise → Auslagern oder lernen?
 
-→ [Marketing-Budget richtig planen](/marketing-budget/)
+→ [Marketing-Budget richtig planen](/artikel/marketing-budget)
 
 ## Kundengewinnungs-Funnel verstehen
 
@@ -772,7 +772,7 @@ Wenn 1'000 Website-Besucher CHF 500 kosten (Google Ads) = CHF 250 pro Kunde
 - 5% → 7% Newsletter-Anmeldungen = +40% mehr Kunden
 - 10% → 15% Anfragen = +50% mehr Kunden
 
-→ [Sales-Funnel optimieren: Anleitung](/sales-funnel/)
+→ [Sales-Funnel optimieren: Anleitung](/artikel/sales-funnel)
 
 ## Die häufigsten Marketing-Fehler
 
@@ -861,7 +861,7 @@ Wenn 1'000 Website-Besucher CHF 500 kosten (Google Ads) = CHF 250 pro Kunde
 - Asana (CHF 0-25/Monat)
 - Monday.com (CHF 8-16/Monat)
 
-→ [Marketing-Tools: Die besten für Selbständige](/marketing-tools/)
+→ [Marketing-Tools: Die besten für Selbständige](/artikel/marketing-tools)
 
 ## Kundengewinnung nach Branche
 
@@ -925,7 +925,7 @@ Wenn 1'000 Website-Besucher CHF 500 kosten (Google Ads) = CHF 250 pro Kunde
 - Sales-Team aufbauen
 - Lange Sales-Cycles einplanen
 
-→ [Kundengewinnung nach Branche](/kundenakquise-branchen/)
+→ [Kundengewinnung nach Branche](/artikel/kundenakquise-branchen)
 
 ## Checkliste: Kundengewinnungs-System aufbauen
 
@@ -1014,16 +1014,16 @@ Mit einem durchdachten Marketing-System gewinnen Sie kontinuierlich neue Kunden,
 
 ## Weiterführende Artikel
 
-- [Website erstellen als Selbständiger](/website-erstellen/)
-- [SEO für Selbständige: Schritt-für-Schritt](/seo-selbststaendige/)
-- [LinkedIn-Strategie: Kunden gewinnen](/linkedin-strategie/)
-- [Google Ads für Selbständige](/google-ads-selbststaendige/)
-- [E-Mail-Marketing Anleitung](/email-marketing/)
-- [Networking in der Schweiz](/networking-schweiz/)
-- [Empfehlungsmarketing-System aufbauen](/empfehlungsmarketing/)
-- [Content-Marketing für Selbständige](/content-marketing/)
-- [Google Bewertungen sammeln](/google-bewertungen/)
-- [Marketing-Budget richtig planen](/marketing-budget/)
+- [Website erstellen als Selbständiger](/artikel/website-erstellen)
+- [SEO für Selbständige: Schritt-für-Schritt](/artikel/seo-selbststaendige)
+- [LinkedIn-Strategie: Kunden gewinnen](/artikel/linkedin-strategie)
+- [Google Ads für Selbständige](/artikel/google-ads-selbststaendige)
+- [E-Mail-Marketing Anleitung](/artikel/email-marketing)
+- [Networking in der Schweiz](/artikel/networking-schweiz)
+- [Empfehlungsmarketing-System aufbauen](/artikel/empfehlungsmarketing)
+- [Content-Marketing für Selbständige](/artikel/content-marketing)
+- [Google Bewertungen sammeln](/artikel/google-bewertungen)
+- [Marketing-Budget richtig planen](/artikel/marketing-budget)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - Kunden gewinnen Schweiz

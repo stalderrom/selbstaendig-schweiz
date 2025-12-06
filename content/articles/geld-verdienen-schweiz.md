@@ -70,7 +70,7 @@ Sie verkaufen Ihre Arbeitszeit: Stundensatz × Stunden = Einkommen.
 
 **Realistisches Einkommen:** CHF 60'000-150'000/Jahr (je nach Stundensatz & Auslastung)
 
-→ [Stundensatz berechnen: So geht's richtig](/stundensatz-berechnen/)
+→ [Stundensatz berechnen: So geht's richtig](/artikel/stundensatz-berechnen)
 
 ### 2. Projekt-basiert (Festpreis)
 
@@ -115,7 +115,7 @@ Basis-Preis: CHF 4'800
 
 **Realistisches Einkommen:** CHF 70'000-180'000/Jahr (bei 8-15 Projekten/Jahr)
 
-→ [Projektpreise richtig kalkulieren](/projektpreise-kalkulieren/)
+→ [Projektpreise richtig kalkulieren](/artikel/projektpreise-kalkulieren)
 
 ### 3. Retainer / Abonnement (Wiederkehrend)
 
@@ -170,7 +170,7 @@ Enterprise: CHF 5'000/Monat
 
 **Der Traum:** 10 Kunden × CHF 2'000/Monat = CHF 20'000 MRR = CHF 240'000/Jahr
 
-→ [Retainer-Modelle: Planbare Einnahmen](/retainer-modell/)
+→ [Retainer-Modelle: Planbare Einnahmen](/artikel/retainer-modell)
 
 ### 4. Digitale Produkte (Skalierbar)
 
@@ -222,8 +222,8 @@ Verkäufe Jahr 3: 100
 
 **Top-Performer:** CHF 100'000-500'000+/Jahr (voller Fokus auf digitale Produkte)
 
-→ [Online-Kurs erstellen: Komplette Anleitung](/online-kurs-erstellen/)
-→ [Digitale Produkte verkaufen](/digitale-produkte-verkaufen/)
+→ [Online-Kurs erstellen: Komplette Anleitung](/artikel/online-kurs-erstellen)
+→ [Digitale Produkte verkaufen](/artikel/digitale-produkte-verkaufen)
 
 ### 5. Affiliate / Provision (Performance-basiert)
 
@@ -272,7 +272,7 @@ Nach 12 Monaten: 10 solche Artikel
 
 **Top-Performer (YouTube, Blogs):** CHF 50'000-200'000+/Jahr
 
-→ [Affiliate-Marketing: Geld verdienen mit Empfehlungen](/affiliate-marketing/)
+→ [Affiliate-Marketing: Geld verdienen mit Empfehlungen](/artikel/affiliate-marketing)
 
 ### 6. Lizenzierung / White Label
 
@@ -319,7 +319,7 @@ Verdienst: CHF 1 pro Download
 
 **Profis (Vollzeit Stock):** CHF 40'000-100'000/Jahr
 
-→ [Stock-Fotografie: Passives Einkommen](/stock-fotografie/)
+→ [Stock-Fotografie: Passives Einkommen](/artikel/stock-fotografie)
 
 ### 7. Vermittlung / Plattform
 
@@ -356,7 +356,7 @@ Freelancer-Plattform für Schweizer Designer:
 
 **Realistisches Einkommen:** CHF 20'000-100'000/Jahr (nach Aufbauphase)
 
-→ [Lead-Generation aufbauen](/lead-generation/)
+→ [Lead-Generation aufbauen](/artikel/lead-generation)
 
 ### 8. Coaching / Consulting (High-Ticket)
 
@@ -399,7 +399,7 @@ Kunden: 8 pro Jahr
 
 **Realistisches Einkommen:** CHF 100'000-300'000+/Jahr
 
-→ [High-Ticket-Coaching verkaufen](/high-ticket-coaching/)
+→ [High-Ticket-Coaching verkaufen](/artikel/high-ticket-coaching)
 
 ## Hybrid-Modelle: Das Beste kombinieren
 
@@ -536,7 +536,7 @@ Total: CHF 120'000
 - Facebook-Gruppen moderieren: CHF 300-800/Monat
 - Discord-Server: CHF 200-500/Monat
 
-→ [Nebenverdienst-Ideen: 50 Möglichkeiten](/nebenverdienst-ideen/)
+→ [Nebenverdienst-Ideen: 50 Möglichkeiten](/artikel/nebenverdienst-ideen)
 
 ## Einkommens-Pyramide aufbauen
 
@@ -621,7 +621,7 @@ vs. Stundensatz CHF 100/h = CHF 4'000 (statt CHF 15'000!)
 
 **Erkenntnis:** Wert-basierte Preise = 2-5x höher als Stunden-basiert!
 
-→ [Wert-basierte Preise: Anleitung](/wert-basierte-preise/)
+→ [Wert-basierte Preise: Anleitung](/artikel/wert-basierte-preise)
 
 ## Steueroptimierung bei mehreren Einkommensquellen
 
@@ -678,7 +678,7 @@ Zeitaufwand: 120 Stunden (à CHF 100)
 - Software, Marketing, Weiterbildung voll
 - Anteilig: Home-Office, Handy, Auto
 
-→ [Steuern für Selbständige: Kompletter Guide](/steuern-selbststaendige/)
+→ [Steuern für Selbständige: Kompletter Guide](/artikel/steuern-selbststaendige)
 
 ## Häufige Fehler beim Geld verdienen
 
@@ -751,7 +751,7 @@ Zeitaufwand: 120 Stunden (à CHF 100)
 - **Bexio:** CHF 35-65/Monat (verschiedene Einnahmequellen tracken)
 - **Google Sheets:** Kostenlos (manuelle Übersicht)
 
-→ [Tools für Selbständige: Kompletter Guide](/tools-selbststaendige/)
+→ [Tools für Selbständige: Kompletter Guide](/artikel/tools-selbststaendige)
 
 ## Checkliste: Einkommens-Diversifikation
 
@@ -835,30 +835,30 @@ Starten Sie heute: Wählen Sie EIN zweites Einkommensmodell neben Ihrer Haupttä
 ## Weiterführende Artikel
 
 ### Geschäftsmodelle:
-- [Stundensatz berechnen: So geht's richtig](/stundensatz-berechnen/)
-- [Projektpreise richtig kalkulieren](/projektpreise-kalkulieren/)
-- [Wert-basierte Preise: Anleitung](/wert-basierte-preise/)
-- [Retainer-Modell: Planbare Einnahmen](/retainer-modell/)
+- [Stundensatz berechnen: So geht's richtig](/artikel/stundensatz-berechnen)
+- [Projektpreise richtig kalkulieren](/artikel/projektpreise-kalkulieren)
+- [Wert-basierte Preise: Anleitung](/artikel/wert-basierte-preise)
+- [Retainer-Modell: Planbare Einnahmen](/artikel/retainer-modell)
 
 ### Passive Einnahmen:
-- [Online-Kurs erstellen: Komplette Anleitung](/online-kurs-erstellen/)
-- [Digitale Produkte verkaufen](/digitale-produkte-verkaufen/)
-- [Affiliate-Marketing für Selbständige](/affiliate-marketing/)
-- [Stock-Fotografie: Passives Einkommen](/stock-fotografie/)
+- [Online-Kurs erstellen: Komplette Anleitung](/artikel/online-kurs-erstellen)
+- [Digitale Produkte verkaufen](/artikel/digitale-produkte-verkaufen)
+- [Affiliate-Marketing für Selbständige](/artikel/affiliate-marketing)
+- [Stock-Fotografie: Passives Einkommen](/artikel/stock-fotografie)
 
 ### Marketing & Verkauf:
-- [Kunden gewinnen in der Schweiz](/kunden-gewinnen-schweiz/)
-- [High-Ticket-Coaching verkaufen](/high-ticket-coaching/)
-- [Lead-Generation aufbauen](/lead-generation/)
+- [Kunden gewinnen in der Schweiz](/artikel/kunden-gewinnen-schweiz)
+- [High-Ticket-Coaching verkaufen](/artikel/high-ticket-coaching)
+- [Lead-Generation aufbauen](/artikel/lead-generation)
 
 ### Organisation:
-- [Tools für Selbständige](/tools-selbststaendige/)
-- [Buchhaltung für Selbständige](/buchhaltung-selbststaendige/)
-- [Steuern für Selbständige](/steuern-selbststaendige/)
+- [Tools für Selbständige](/artikel/tools-selbststaendige)
+- [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
+- [Steuern für Selbständige](/artikel/steuern-selbststaendige)
 
 ### Inspiration:
-- [Nebenverdienst-Ideen: 50 Möglichkeiten](/nebenverdienst-ideen/)
-- [Selbständig Schweiz: Berufsübersicht](/selbstaendig-schweiz-berufe/)
+- [Nebenverdienst-Ideen: 50 Möglichkeiten](/artikel/nebenverdienst-ideen)
+- [Selbständig Schweiz: Berufsübersicht](/artikel/selbstaendig-schweiz-berufe)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - Geld verdienen Schweiz
