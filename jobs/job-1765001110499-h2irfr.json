@@ -1,0 +1,29 @@
+{
+  "id": "job-1765001110499-h2irfr",
+  "keyword": "krankentaggeld selbständige",
+  "silo": "Versicherungen",
+  "status": "completed",
+  "progress": 100,
+  "startedAt": "2025-12-06T06:05:10.499Z",
+  "completedAt": "2025-12-06T06:07:52.414Z",
+  "result": {
+    "filePath": "content/articles/krankentaggeld-selbstaendige-schweiz.md",
+    "url": "/artikel/krankentaggeld-selbstaendige-schweiz",
+    "metadata": {
+      "title": "Krankentaggeld Selbständige",
+      "description": "Krankentaggeld für Selbständige in der Schweiz",
+      "urlSlug": "krankentaggeld-selbstaendige-schweiz",
+      "category": "versicherungen",
+      "keywords": [
+        "krankentaggeld selbständige"
+      ]
+    },
+    "validation": {
+      "hasFAQ": true,
+      "hasFazit": true,
+      "wordCount": 1787,
+      "isComplete": true,
+      "warning": null
+    }
+  }
+}

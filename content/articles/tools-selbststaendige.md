@@ -1,11 +1,45 @@
 ---
-title: "Die besten Tools für Selbständige 2026: Software-Guide Schweiz"
-description: "Alle wichtigen Tools für Selbständige: Buchhaltung, Projektmanagement, Kommunikation, Marketing, Zeiterfassung und mehr. Vergleiche, Kosten und Empfehlungen."
-keywords: ["tools selbständige", "software selbständige schweiz", "buchhaltungssoftware", "projektmanagement tools", "crm schweiz"]
-category: "tools-und-software"
-author: "Redaktion"
-publishedAt: "2025-12-06"
-slug: "tools-selbststaendige"
+title: 'Die besten Tools für Selbständige 2026: Software-Guide Schweiz'
+description: >-
+  Alle wichtigen Tools für Selbständige: Buchhaltung, Projektmanagement,
+  Kommunikation, Marketing, Zeiterfassung und mehr. Vergleiche, Kosten und
+  Empfehlungen.
+keywords:
+  - tools selbständige
+  - software selbständige schweiz
+  - buchhaltungssoftware
+  - projektmanagement tools
+  - crm schweiz
+category: tools-und-software
+author: Redaktion
+publishedAt: '2025-12-06'
+slug: tools-selbststaendige
+faq:
+  - question: Welche Tools brauche ich minimal als Selbständiger?
+    answer: >-
+      Absolute Must-haves: (1) Buchhaltung: Bexio oder banana (MWST,
+      Rechnungen). (2) Zeiterfassung: Timeular oder Toggl (Stundenabrechnung).
+      (3) Rechnungen: in Buchhaltungssoftware integriert. (4) E-Mail: Gmail
+      Business oder Outlook (professionell, eigene Domain). (5) Datensicherung:
+      Backblaze oder Google Drive (automatisch). Kosten total: CHF 50-150/Monat.
+      Optional später: CRM, Projektmanagement, Marketing-Tools.
+  - question: Brauche ich ein CRM als Einzelkämpfer?
+    answer: >-
+      Ab 5+ Kunden: JA! Ohne CRM = vergessene Follow-ups, verlorene Leads.
+      Einfache Optionen: (1) Google Sheets (gratis, Start). (2) HubSpot CRM
+      (gratis, professionell). (3) Pipedrive (CHF 15/Mt, Sales-fokussiert). (4)
+      Bexio (CHF 40/Mt, alles-in-einem mit Buchhaltung). Wichtig: Kontakte
+      tracken, Verkaufspipeline visualisieren, Follow-up-Erinnerungen.
+      Zeitersparnis: 3-5h/Woche. ROI: 1-2 zusätzliche Aufträge/Jahr = CHF
+      10-50k.
+  - question: Welche Tools sind ihr Geld wirklich wert?
+    answer: >-
+      Top 5 mit bestem ROI: (1) Buchhaltungssoftware (Bexio CHF 40/Mt = 10h/Mt
+      gespart = CHF 800 wert). (2) Zeiterfassung (Timeular CHF 10/Mt = korrekte
+      Rechnungsstellung = +15% Umsatz). (3) E-Mail-Marketing (Mailchimp/Brevo
+      CHF 0-20/Mt = Re-Aktivierung alte Kunden = CHF 5k+/Jahr). (4) Scheduling
+      (Calendly CHF 0-10/Mt = keine Pingpong-E-Mails = 2h/Woche). (5)
+      Cloud-Storage (Google Workspace CHF 6/Mt = nie mehr Datenverlust).
 ---
 
 # Die besten Tools für Selbständige 2026: Software-Guide Schweiz

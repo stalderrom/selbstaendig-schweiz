@@ -38,7 +38,7 @@ export default function DatenschutzPage() {
               [PLZ und Ort]<br />
               Schweiz<br />
               <br />
-              E-Mail: <a href="mailto:kontakt@selbständig-schweiz.ch">kontakt@selbständig-schweiz.ch</a>
+              E-Mail: <a href="mailto:kontakt@selbstaendig-schweiz.ch">kontakt@selbstaendig-schweiz.ch</a>
             </p>
 
             <h2>2. Erfassung allgemeiner Informationen</h2>

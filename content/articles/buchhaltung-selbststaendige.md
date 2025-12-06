@@ -1,11 +1,61 @@
 ---
-title: "Buchhaltung für Selbständige in der Schweiz: Kompletter Guide 2026"
-description: "Alles über Buchhaltung für Selbständige: Pflichten, Tools, Treuhänder-Kosten, MWST-Abrechnung und wie du deine Buchhaltung optimal organisierst."
-keywords: ["buchhaltung selbständige", "buchhaltungssoftware schweiz", "treuhänder kosten", "milchbüechlirechnung", "jahresabschluss"]
-category: "buchhaltung-und-finanzen"
-author: "Redaktion"
-publishedAt: "2025-12-06"
-slug: "buchhaltung-selbststaendige"
+title: 'Buchhaltung für Selbständige in der Schweiz: Kompletter Guide 2026'
+description: >-
+  Alles über Buchhaltung für Selbständige: Pflichten, Tools, Treuhänder-Kosten,
+  MWST-Abrechnung und wie du deine Buchhaltung optimal organisierst.
+keywords:
+  - buchhaltung selbständige
+  - buchhaltungssoftware schweiz
+  - treuhänder kosten
+  - milchbüechlirechnung
+  - jahresabschluss
+category: buchhaltung-und-finanzen
+author: Redaktion
+publishedAt: '2025-12-06'
+slug: buchhaltung-selbststaendige
+faq:
+  - question: Muss ich als Selbständiger Buchhaltung führen?
+    answer: >-
+      JA, immer! Minimum bei Einzelfirma unter CHF 500k Umsatz: Einfache
+      Buchhaltung (Einnahmen-Ausgaben-Rechnung). Ab CHF 500k oder mit
+      Handelsregister-Eintrag: Doppelte Buchhaltung. Bei GmbH/AG: Immer doppelte
+      Buchhaltung + Jahresrechnung. Aufbewahrungspflicht: 10 Jahre alle Belege,
+      Rechnungen, Kontoauszüge. Wichtig: Auch bei CHF 0 Umsatz = Buchhaltung
+      nötig (Nullmeldung)!
+  - question: Brauche ich einen Treuhänder oder kann ich das selbst machen?
+    answer: >-
+      Einfache Buchhaltung (Einzelfirma < CHF 500k): Selbst machbar mit Software
+      (Bexio, banana, Run my Accounts). Kosten: CHF 0-50/Monat Software.
+      Doppelte Buchhaltung (> CHF 500k oder GmbH): Treuhänder sehr empfohlen.
+      Kosten: CHF 1'500-6'000/Jahr. Vorteil Treuhänder: Keine Fehler,
+      Steueroptimierung, Zeitersparnis. Nachteil: Kosten. Faustegel: Unter CHF
+      80k Umsatz selbst, darüber Treuhänder.
+  - question: Welche Buchhaltungssoftware ist die beste für Selbständige?
+    answer: >-
+      Top 3 in der Schweiz: (1) Bexio (Marktführer, CHF 35-65/Mt, einfach,
+      Banking-Integration, MWST-Abrechnung, Support DE). (2) Run my Accounts
+      (günstig, CHF 10-30/Mt, solide Features). (3) banana (einmalig CHF 70-110,
+      ohne Cloud, Datenschutz). Für Starter: Bexio Trial testen. Wichtig:
+      MWST-Funktion (ab CHF 100k), Banking-Integration (Zeitersparnis), mobile
+      App. Nicht empfohlen: Excel (fehleranfällig, nicht MWST-konform).
+  - question: Was kann ich alles von den Steuern abziehen?
+    answer: >-
+      100% absetzbar: Büromaterial, Software, Weiterbildung (berufsbezogen),
+      Marketing, Website, Geschäftsreisen, Kundenessen (mit Limit),
+      Versicherungen (Berufshaftpflicht, UVG, etc.), Miete Büro/Home-Office
+      (anteilig), Telefon/Internet (anteilig 50-100%), Fahrzeugkosten
+      (geschäftlich, Fahrtenbuch!), AHV-Beiträge, Säule 3a. NICHT absetzbar:
+      Privatausgaben, Krankenkasse (privat), Privatfahrten, Kleidung (ausser
+      spezifisch beruflich). Wichtig: Belege aufbewahren!
+  - question: Wann muss ich die Steuererklärung als Selbständiger abgeben?
+    answer: >-
+      Frist: 31. März des Folgejahres (für Einkommen 2024 → Abgabe bis
+      31.3.2025). Verlängerung: Automatisch bis 30. September bei
+      Online-Einreichung oder Antrag. Selbständige mit MWST: Quartalsweise
+      MWST-Abrechnung (jeweils 60 Tage nach Quartalsende). Wichtig: Erste
+      Steuererklärung als Selbständiger rechtzeitig einreichen → Basis für
+      AHV-Akontozahlungen. Verspätung: Bussen ab CHF 100, bei Zahlungsverzug
+      Verzugszinsen 4.5%.
 ---
 
 # Buchhaltung für Selbständige in der Schweiz: Kompletter Guide 2026

@@ -1,11 +1,55 @@
 ---
-title: "Kunden gewinnen in der Schweiz: Kompletter Guide 2026"
-description: "Alle Strategien zur Kundengewinnung für Selbständige: Online-Marketing, Offline-Akquise, Empfehlungsmarketing, Social Media und wie du systematisch neue Kunden gewinnst."
-keywords: ["kunden gewinnen schweiz", "kundenakquise", "online marketing", "networking schweiz", "empfehlungsmarketing"]
-category: "marketing-und-kundenakquise"
-author: "Redaktion"
-publishedAt: "2025-12-06"
-slug: "kunden-gewinnen-schweiz"
+title: 'Kunden gewinnen in der Schweiz: Kompletter Guide 2026'
+description: >-
+  Alle Strategien zur Kundengewinnung für Selbständige: Online-Marketing,
+  Offline-Akquise, Empfehlungsmarketing, Social Media und wie du systematisch
+  neue Kunden gewinnst.
+keywords:
+  - kunden gewinnen schweiz
+  - kundenakquise
+  - online marketing
+  - networking schweiz
+  - empfehlungsmarketing
+category: marketing-und-kundenakquise
+author: Redaktion
+publishedAt: '2025-12-06'
+slug: kunden-gewinnen-schweiz
+faq:
+  - question: Wie finde ich meine ersten Kunden als Selbständiger?
+    answer: >-
+      Die besten 5 Wege für Starter: (1) Netzwerk aktivieren (Familie, Freunde,
+      Ex-Kollegen → erste Aufträge). (2) LinkedIn optimieren (Profil
+      vervollständigen, regelmässig posten, aktiv kommentieren). (3) Google My
+      Business (lokal sichtbar, gratis). (4) Gratis-Erstberatung anbieten (30
+      Min, dann Angebot). (5) Kooperationen (mit Agenturen, anderen
+      Selbständigen). Timeline: Erste Anfragen Woche 1-4, stabiles Geschäft nach
+      3-6 Monaten mit Geduld und Konsequenz.
+  - question: Lohnt sich Google Ads für Selbständige?
+    answer: >-
+      Ja, ABER nur mit Strategie! Vorteil: Sofort Leads, messbar, skalierbar.
+      Nachteil: Teuer (CHF 2-20 pro Klick in der Schweiz), Konkurrenz hoch.
+      Budget: Minimum CHF 500-1'000/Monat für Test, optimal CHF 2'000-5'000/Mt.
+      Wichtig: (1) Lokale Keywords ('Webdesigner Zürich'), (2) Landing Page
+      optimiert, (3) Conversion Tracking, (4) Negative Keywords. Alternative für
+      Starter: SEO (langsam, aber gratis langfristig).
+  - question: Brauche ich eine Website als Selbständiger?
+    answer: >-
+      JA, absolut! 85% der Schweizer googeln vor Kaufentscheidung. Ohne Website
+      = unseriös. Minimum: One-Pager mit Über mich, Leistungen, Kontakt,
+      Referenzen. Kosten: CHF 500-2'000 (Template, selbst gemacht mit
+      Webflow/Wix) oder CHF 3'000-10'000 (Agentur, professionell). Wichtig:
+      Mobile-optimiert, schnelle Ladezeit, klare CTAs. Alternative:
+      LinkedIn-Profil + Google My Business (kurzfristig OK, langfristig Website
+      nötig).
+  - question: Wie wichtig sind Empfehlungen und wie bekomme ich sie?
+    answer: >-
+      SEHR wichtig! 60-80% der Selbständigen leben von Empfehlungen. Strategie:
+      (1) Nach jedem Projekt aktiv um Empfehlung bitten ('Kennen Sie jemanden,
+      der...?'). (2) Incentive: CHF 200-500 Empfehlungsbonus oder 10% Rabatt.
+      (3) LinkedIn Empfehlungen (sichtbar für alle). (4) Google Bewertungen
+      (SEO-Boost). (5) Timing: Fragen direkt nach erfolgreichem
+      Projektabschluss. 1 zufriedener Kunde = 2-5 neue Kunden durch
+      Empfehlungen!
 ---
 
 # Kunden gewinnen in der Schweiz: Kompletter Guide 2026

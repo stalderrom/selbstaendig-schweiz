@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://selbständig-schweiz.ch'),
+  metadataBase: new URL('https://selbstaendig-schweiz.ch'),
   title: {
     default: "Selbständig Schweiz - Das Portal für Selbstständige und Gründer",
     template: "%s | Selbständig Schweiz"
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "de_CH",
-    url: "https://selbständig-schweiz.ch",
+    url: "https://selbstaendig-schweiz.ch",
     siteName: "Selbständig Schweiz",
     title: "Selbständig Schweiz - Das Portal für Selbstständige und Gründer",
     description: "Alles rund um Selbstständigkeit, Freelancing und Startup-Gründung in der Schweiz.",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     }
   },
   alternates: {
-    canonical: "https://selbständig-schweiz.ch"
+    canonical: "https://selbstaendig-schweiz.ch"
   }
 };
 

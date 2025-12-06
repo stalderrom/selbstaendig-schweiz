@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/admin/'],
     },
-    sitemap: 'https://selbständig-schweiz.ch/sitemap.xml',
+    sitemap: 'https://selbstaendig-schweiz.ch/sitemap.xml',
   };
 }

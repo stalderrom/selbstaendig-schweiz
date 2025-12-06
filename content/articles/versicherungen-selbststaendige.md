@@ -1,11 +1,60 @@
 ---
-title: "Versicherungen für Selbständige in der Schweiz: Kompletter Guide 2026"
-description: "Welche Versicherungen brauchen Selbständige in der Schweiz? Alles über Pflichtversicherungen, empfohlene Absicherungen, Kosten und wie du optimal versichert bist."
-keywords: ["versicherungen selbständige", "krankentaggeld selbständige", "unfallversicherung selbständig", "berufshaftpflicht", "bvg freiwillig"]
-category: "versicherungen"
-author: "Redaktion"
-publishedAt: "2025-12-06"
-slug: "versicherungen-selbststaendige"
+title: 'Versicherungen für Selbständige in der Schweiz: Kompletter Guide 2026'
+description: >-
+  Welche Versicherungen brauchen Selbständige in der Schweiz? Alles über
+  Pflichtversicherungen, empfohlene Absicherungen, Kosten und wie du optimal
+  versichert bist.
+keywords:
+  - versicherungen selbständige
+  - krankentaggeld selbständige
+  - unfallversicherung selbständig
+  - berufshaftpflicht
+  - bvg freiwillig
+category: versicherungen
+author: Redaktion
+publishedAt: '2025-12-06'
+slug: versicherungen-selbststaendige
+faq:
+  - question: Welche Versicherungen sind für Selbständige Pflicht?
+    answer: >-
+      PFLICHT: Krankenversicherung (KVG bei Wohnsitz Schweiz), AHV/IV/EO (10.1%
+      vom Einkommen, Anmeldung innert 14 Tagen). QUASI-PFLICHT:
+      Unfallversicherung UVG (nicht gesetzlich, aber essentiell - als
+      Selbständiger kein automatischer Schutz!), Berufshaftpflicht (bei
+      Kundenkontakt). Optional: Pensionskasse BVG, Krankentaggeld,
+      Erwerbsunfähigkeit. Kosten Minimum: CHF 3'000-5'000/Jahr.
+  - question: Brauche ich eine Berufshaftpflichtversicherung?
+    answer: >-
+      JA, dringend empfohlen! Bei Schäden an Kunden haften Sie mit
+      Privatvermögen (Einzelfirma) oder es droht Konkurs (GmbH). Beispiel:
+      IT-Berater löscht versehentlich Kundendaten → Schadenersatz CHF 50'000.
+      Ohne Versicherung = Privatinsolvenz. Kosten: CHF 300-2'000/Jahr je nach
+      Branche. Deckung: CHF 1-5 Mio. Besonders wichtig: Beratung, Handwerk, IT,
+      Gesundheit, Finanzdienstleistungen.
+  - question: Was ist Krankentaggeld und brauche ich das?
+    answer: >-
+      Krankentaggeld zahlt bei Krankheit ab Tag X (meist Tag 30) 80% des
+      versicherten Einkommens für bis zu 730 Tage. KRITISCH für Selbständige:
+      Ohne = bei 3 Monaten Krankheit kein Einkommen → Existenzkrise! Kosten: CHF
+      150-400/Monat für CHF 80k versichertes Einkommen. Alternativen: Notreserve
+      CHF 30-50k (unrealistisch für Starter), Frühzeitiger Verkauf des Business.
+      Empfehlung: Ab Start mit Krankentaggeld versichern (30-Tage-Wartefrist).
+  - question: Muss ich in die Pensionskasse (BVG) einzahlen?
+    answer: >-
+      NEIN, nicht obligatorisch für Selbständige. Aber: Ohne BVG = Rentenlücke!
+      AHV-Rente max. CHF 2'450/Monat → nicht genug zum Leben. Alternativen: (1)
+      Freiwillige BVG-Anschluss (Stiftung Auffangeinrichtung), kostet 15-25% vom
+      Lohn. (2) Säule 3a (bis CHF 35k/Jahr, steueroptimiert). (3) Private
+      Vorsorge (ETFs, Immobilien). Empfehlung: Säule 3a + private Vorsorge für
+      Flexibilität.
+  - question: Wie viel kosten Versicherungen für Selbständige insgesamt?
+    answer: >-
+      MINIMUM (Basics): CHF 3'000-5'000/Jahr (Krankenkasse CHF 300/Mt, AHV
+      10.1%, Unfall CHF 40/Mt). EMPFOHLEN (mit Absicherung): CHF
+      6'000-10'000/Jahr (+ Krankentaggeld CHF 200/Mt, Berufshaftpflicht CHF
+      100/Mt, freiwillige BVG CHF 300/Mt). OPTIMAL (volle Absicherung): CHF
+      12'000-18'000/Jahr (+ Erwerbsunfähigkeit, Rechtsschutz, höhere BVG).
+      Faustegel: 15-20% des Bruttoeinkommens.
 ---
 
 # Versicherungen für Selbständige in der Schweiz: Kompletter Guide 2026

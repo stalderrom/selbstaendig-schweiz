@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       authors: [article.author],
     },
     alternates: {
-      canonical: `https://selbständig-schweiz.ch/artikel/${article.slug}`,
+      canonical: `https://selbstaendig-schweiz.ch/artikel/${article.slug}`,
     },
   };
 }
@@ -68,7 +68,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     '@type': 'Article',
     headline: article.title,
     description: article.description,
-    image: article.featuredImage || 'https://selbständig-schweiz.ch/og-image.jpg',
+    image: article.featuredImage || 'https://selbstaendig-schweiz.ch/og-image.jpg',
     author: {
       '@type': 'Person',
       name: article.author,
@@ -78,7 +78,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       name: 'Selbständig Schweiz',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://selbständig-schweiz.ch/logo.png',
+        url: 'https://selbstaendig-schweiz.ch/logo.png',
         width: 600,
         height: 60,
       }
@@ -87,7 +87,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     dateModified: article.updatedAt,
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://selbständig-schweiz.ch/artikel/${article.slug}`
+      '@id': `https://selbstaendig-schweiz.ch/artikel/${article.slug}`
     }
   };
 
@@ -100,13 +100,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://selbständig-schweiz.ch'
+        item: 'https://selbstaendig-schweiz.ch'
       },
       ...(category ? [{
         '@type': 'ListItem',
         position: 2,
         name: category.name,
-        item: `https://selbständig-schweiz.ch/kategorie/${category.slug}`
+        item: `https://selbstaendig-schweiz.ch/kategorie/${category.slug}`
       }] : []),
       {
         '@type': 'ListItem',

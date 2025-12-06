@@ -1,11 +1,45 @@
 ---
-title: "Selbständig machen in der Schweiz: Berufsübersicht & Ratgeber 2026"
-description: "Komplette Übersicht: In welchen Berufen kann man sich selbständig machen? Voraussetzungen, Verdienstmöglichkeiten und Tipps für über 50 Branchen in der Schweiz."
-keywords: ["selbständig schweiz berufe", "selbständig machen berufe", "freiberufler schweiz", "selbständigkeit branchen", "berufsratgeber"]
-category: "berufsratgeber"
-author: "Redaktion"
-publishedAt: "2025-12-06"
-slug: "selbstaendig-schweiz-berufe"
+title: 'Selbständig machen in der Schweiz: Berufsübersicht & Ratgeber 2026'
+description: >-
+  Komplette Übersicht: In welchen Berufen kann man sich selbständig machen?
+  Voraussetzungen, Verdienstmöglichkeiten und Tipps für über 50 Branchen in der
+  Schweiz.
+keywords:
+  - selbständig schweiz berufe
+  - selbständig machen berufe
+  - freiberufler schweiz
+  - selbständigkeit branchen
+  - berufsratgeber
+category: berufsratgeber
+author: Redaktion
+publishedAt: '2025-12-06'
+slug: selbstaendig-schweiz-berufe
+faq:
+  - question: Welche selbständigen Berufe sind in der Schweiz besonders gefragt?
+    answer: >-
+      Top 10 nach Nachfrage: (1) IT/Softwareentwickler (CHF 80-150k/Jahr). (2)
+      Unternehmensberater (CHF 100-200k+). (3) Grafik-/Webdesigner (CHF
+      60-100k). (4) Texter/Content Creator (CHF 50-80k). (5) Handwerker
+      (Elektriker, Maler CHF 60-100k). (6) Immobilienmakler (CHF 80-150k+). (7)
+      Coach/Trainer (CHF 60-120k). (8) Marketing-Spezialist (CHF 70-120k). (9)
+      Fotograf (CHF 50-80k). (10) Treuhänder (CHF 80-150k). Wichtig: Hohe
+      Nachfrage ≠ niedriger Wettbewerb!
+  - question: 'Kann ich als [Beruf] wirklich selbständig werden?'
+    answer: >-
+      Fast ALLE Berufe sind selbständig möglich! Ausnahmen: Reglementierte
+      Berufe (Arzt, Anwalt, Apotheker = Zulassung nötig). Voraussetzungen
+      prüfen: (1) Bewilligungspflicht? (Gastronomie, Personenbeförderung, etc.).
+      (2) Ausbildungsnachweis? (Handwerk meist ja). (3) Versicherungen?
+      (Finanzberater = Haftpflicht 5 Mio). Check: Branchenverband oder
+      Gemeinde/Kanton fragen. In 90% der Fälle: Sofort loslegen möglich!
+  - question: 'Wie viel verdiene ich durchschnittlich als selbständiger [Beruf]?'
+    answer: >-
+      Grosse Spanne! Beispiel IT-Freelancer: Starter CHF 50-70k/Jahr, Erfahren
+      CHF 100-150k, Top 10% CHF 200k+. Faktoren: (1) Erfahrung (+ CHF
+      10-20k/Jahr). (2) Spezialisierung (Generalist CHF 60k, Nischen-Experte CHF
+      120k). (3) Verkaufsfähigkeiten (50% des Erfolgs!). (4) Standort (Zürich
+      +30% vs. Landregion). Realistisch: 1. Jahr = 50-70% Angestelltenlohn, ab
+      Jahr 3 = 120-150%, ab Jahr 5+ = 200%+ möglich.
 ---
 
 # Selbständig machen in der Schweiz: Berufsübersicht & Ratgeber 2026

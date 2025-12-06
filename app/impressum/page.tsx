@@ -34,7 +34,7 @@ export default function ImpressumPage() {
 
             <h3>Kontakt</h3>
             <p>
-              E-Mail: <a href="mailto:kontakt@selbständig-schweiz.ch">kontakt@selbständig-schweiz.ch</a><br />
+              E-Mail: <a href="mailto:kontakt@selbstaendig-schweiz.ch">kontakt@selbstaendig-schweiz.ch</a><br />
               Telefon: [Ihre Telefonnummer]
             </p>
 

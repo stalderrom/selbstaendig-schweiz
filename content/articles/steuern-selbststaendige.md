@@ -1,11 +1,58 @@
 ---
-title: "Steuern für Selbständige in der Schweiz: Kompletter Guide 2026"
-description: "Alles über Steuern für Selbständige in der Schweiz: Einkommenssteuern, MWST, Abzüge, Optimierung und praktische Tipps für deine Steuererklärung."
-keywords: ["steuern selbständige", "selbständig steuern schweiz", "steuererklärung selbständige", "mwst selbständige", "steueroptimierung"]
-category: "steuern"
-author: "Redaktion"
-publishedAt: "2025-12-06"
-slug: "steuern-selbststaendige"
+title: 'Steuern für Selbständige in der Schweiz: Kompletter Guide 2026'
+description: >-
+  Alles über Steuern für Selbständige in der Schweiz: Einkommenssteuern, MWST,
+  Abzüge, Optimierung und praktische Tipps für deine Steuererklärung.
+keywords:
+  - steuern selbständige
+  - selbständig steuern schweiz
+  - steuererklärung selbständige
+  - mwst selbständige
+  - steueroptimierung
+category: steuern
+author: Redaktion
+publishedAt: '2025-12-06'
+slug: steuern-selbststaendige
+faq:
+  - question: Welche Steuern muss ich als Selbständiger zahlen?
+    answer: >-
+      Einkommenssteuer (auf Gewinn, Bund + Kanton + Gemeinde, 15-45%), AHV/IV
+      (10.1% vom Nettoeinkommen), Vermögenssteuer (auf Privatvermögen, kantonal
+      unterschiedlich), MWST (ab CHF 100k Umsatz, 7.7% Standard). Zusätzlich:
+      Grundstückgewinnsteuer bei Immobilienverkauf, Kapitalsteuer bei Firmen
+      (GmbH/AG). Wichtig: 30-40% des Gewinns für Steuern zurücklegen!
+  - question: Wie viel spare ich an Steuern gegenüber Angestellten?
+    answer: >-
+      Als Selbständiger zahlen Sie WENIGER Steuern durch Abzüge. Beispiel: CHF
+      80k Umsatz - CHF 20k Geschäftsausgaben - CHF 8k AHV = CHF 52k steuerbares
+      Einkommen. Abzüge: Berufskosten (100%), Home-Office, Weiterbildung,
+      Krankenkasse, Säule 3a (CHF 7k). Effektiv: ~25-35% Steuerlast vs. 35-45%
+      als Angestellter. Optimierung durch Säule 3a und Einkäufe spart CHF
+      5-15k/Jahr.
+  - question: Wann muss ich MWST abrechnen?
+    answer: >-
+      Pflicht ab CHF 100'000 Jahresumsatz weltweit. Freiwillig ab CHF 10'000
+      möglich (lohnt bei hohen Vorsteuer-Ausgaben). Ablauf: Anmeldung ESTV →
+      MWST-Nummer → Quartalsweise Abrechnung. Sie kassieren 7.7% von Kunden,
+      ziehen Vorsteuer ab (auf Laptop, Büro, etc.), zahlen Differenz. Vorteil:
+      Vorsteuer-Rückerstattung. Nachteil: Admin-Aufwand + höhere Preise für
+      Privatkunden.
+  - question: Wie hoch sind die AHV-Beiträge für Selbständige?
+    answer: >-
+      10.1% vom Nettoeinkommen (Gewinn minus Geschäftsausgaben). Minimum: CHF
+      503/Jahr bei Einkommen unter CHF 9'600. Maximum: 10.1% ohne Obergrenze.
+      Zahlung: Quartalsweise Akontos, Schlussabrechnung nach Steuererklärung.
+      Wichtig: Sofortige Anmeldung bei AHV-Kasse (innert 14 Tagen nach Start),
+      sonst Bussen! Bei Nebenerwerb: Arbeitgeber zahlt 50%, Sie 10.1% auf
+      Selbständigen-Einkommen.
+  - question: Kann ich als Selbständiger Säule 3a einzahlen?
+    answer: >-
+      Ja! Bis zu CHF 35'280/Jahr (2025) ohne Pensionskasse. Mit Pensionskasse:
+      CHF 7'056. Steuervorteil: Abzug vom steuerbaren Einkommen → Ersparnis CHF
+      10-15k Steuern bei CHF 35k Einzahlung. Wichtig: Regelmässig einzahlen
+      (jedes Jahr), Geld ist gebunden bis Pensionierung (Ausnahme: Wohneigentum,
+      Auswanderung, Selbständigkeit aufgeben). Langfristig: CHF 500k+
+      Alterskapital aufbauen.
 ---
 
 # Steuern für Selbständige in der Schweiz: Kompletter Guide 2026

@@ -87,8 +87,8 @@ export default async function Home() {
     '@type': 'Organization',
     name: 'Selbständig Schweiz',
     alternateName: 'SelbständigSchweiz',
-    url: 'https://selbständig-schweiz.ch',
-    logo: 'https://selbständig-schweiz.ch/logo.png',
+    url: 'https://selbstaendig-schweiz.ch',
+    logo: 'https://selbstaendig-schweiz.ch/logo.png',
     description: 'Das umfassende Portal für Selbstständige und Gründer in der Schweiz. Komplette Guides zu Gründung, Steuern, Versicherungen und Wachstum.',
     foundingDate: '2025',
     knowsAbout: [
@@ -112,12 +112,12 @@ export default async function Home() {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: 'Selbständig Schweiz',
-    url: 'https://selbständig-schweiz.ch',
+    url: 'https://selbstaendig-schweiz.ch',
     potentialAction: {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: 'https://selbständig-schweiz.ch/artikel?q={search_term_string}'
+        urlTemplate: 'https://selbstaendig-schweiz.ch/artikel?q={search_term_string}'
       },
       'query-input': 'required name=search_term_string'
     }
