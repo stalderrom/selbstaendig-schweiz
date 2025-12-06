@@ -6,6 +6,7 @@ import Header from '@/components/Header';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 
 interface ArticlePageProps {
   params: Promise<{
@@ -159,7 +160,19 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             prose-pre:bg-gray-900 prose-pre:text-gray-100
             prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:pl-4 prose-blockquote:italic
           ">
-            <ReactMarkdown remarkPlugins={[remarkGfm]}>
+            <ReactMarkdown
+              remarkPlugins={[remarkGfm]}
+              rehypePlugins={[rehypeRaw]}
+              components={{
+                // Filter out HTML comments completely
+                '*': ({ node, ...props }: any) => {
+                  if (node?.type === 'comment') {
+                    return null;
+                  }
+                  return undefined;
+                }
+              }}
+            >
               {article.content}
             </ReactMarkdown>
           </div>
