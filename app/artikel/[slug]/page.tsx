@@ -148,18 +148,29 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         {/* Article Content */}
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
           <div className="prose prose-lg max-w-none
-            prose-headings:font-bold prose-headings:text-gray-900
-            prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6
-            prose-h3:text-2xl prose-h3:mt-8 prose-h3:mb-4
-            prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-6
-            prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline
-            prose-strong:text-gray-900 prose-strong:font-semibold
-            prose-ul:my-6 prose-ul:space-y-2
-            prose-ol:my-6 prose-ol:space-y-2
-            prose-li:text-gray-700
-            prose-code:text-blue-600 prose-code:bg-blue-50 prose-code:px-1 prose-code:py-0.5 prose-code:rounded
-            prose-pre:bg-gray-900 prose-pre:text-gray-100
-            prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:pl-4 prose-blockquote:italic
+            prose-headings:font-bold prose-headings:text-gray-900 prose-headings:tracking-tight
+            prose-h2:text-3xl prose-h2:mt-16 prose-h2:mb-6 prose-h2:pb-3 prose-h2:border-b-2 prose-h2:border-blue-100 prose-h2:leading-tight
+            prose-h3:text-2xl prose-h3:mt-12 prose-h3:mb-5 prose-h3:leading-snug prose-h3:text-gray-800
+            prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-3 prose-h4:text-blue-900 prose-h4:font-semibold
+            prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-6 prose-p:text-[1.125rem]
+            prose-a:text-blue-600 prose-a:font-medium prose-a:no-underline hover:prose-a:underline hover:prose-a:text-blue-700 prose-a:transition-colors
+            prose-strong:text-gray-900 prose-strong:font-bold
+            prose-ul:my-8 prose-ul:space-y-3 prose-ul:pl-6
+            prose-ol:my-8 prose-ol:space-y-3 prose-ol:pl-6
+            prose-li:text-gray-700 prose-li:leading-relaxed prose-li:text-[1.0625rem] prose-li:pl-2
+            prose-li::marker:text-blue-600 prose-li::marker:font-bold
+            prose-code:text-blue-700 prose-code:bg-blue-50 prose-code:px-2 prose-code:py-1 prose-code:rounded prose-code:font-medium prose-code:text-base prose-code:border prose-code:border-blue-100
+            prose-pre:bg-gray-900 prose-pre:text-gray-100 prose-pre:p-6 prose-pre:rounded-xl prose-pre:my-8 prose-pre:shadow-lg
+            prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:pl-6 prose-blockquote:pr-4 prose-blockquote:py-3 prose-blockquote:italic prose-blockquote:bg-blue-50/40 prose-blockquote:my-8 prose-blockquote:rounded-r-lg
+            prose-table:my-10 prose-table:border-collapse prose-table:w-full prose-table:shadow-md prose-table:rounded-lg prose-table:overflow-hidden
+            prose-thead:bg-blue-600 prose-thead:text-white
+            prose-th:py-4 prose-th:px-6 prose-th:text-left prose-th:font-bold prose-th:text-base
+            prose-td:py-4 prose-td:px-6 prose-td:border-b prose-td:border-gray-200 prose-td:text-[1.0625rem]
+            prose-tbody:bg-white
+            prose-tr:hover:bg-blue-50/50 prose-tr:transition-colors
+            prose-img:rounded-xl prose-img:shadow-xl prose-img:my-10 prose-img:border prose-img:border-gray-200
+            [&>*:first-child]:mt-0
+            [&>*:last-child]:mb-0
           ">
             <ReactMarkdown
               remarkPlugins={[remarkGfm]}
@@ -171,15 +182,15 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
           {/* Keywords/Tags */}
           {article.keywords.length > 0 && (
-            <div className="mt-12 pt-8 border-t border-gray-200">
-              <h3 className="text-sm font-semibold text-gray-900 mb-3">
-                Verwandte Themen:
+            <div className="mt-16 pt-10 border-t-2 border-gray-200">
+              <h3 className="text-base font-bold text-gray-900 mb-5 uppercase tracking-wide">
+                Verwandte Themen
               </h3>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-3">
                 {article.keywords.map((keyword) => (
                   <span
                     key={keyword}
-                    className="px-3 py-1 text-sm bg-gray-100 text-gray-700 rounded-full"
+                    className="px-4 py-2 text-sm font-medium bg-gradient-to-r from-blue-50 to-blue-100 text-blue-900 rounded-full border border-blue-200 hover:border-blue-400 transition-all"
                   >
                     {keyword}
                   </span>
@@ -189,18 +200,18 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           )}
 
           {/* CTA Box */}
-          <div className="mt-12 bg-blue-50 rounded-lg p-8 text-center">
-            <h3 className="text-2xl font-bold text-gray-900 mb-4">
+          <div className="mt-16 bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl p-10 text-center shadow-xl">
+            <h3 className="text-3xl font-bold text-white mb-4">
               Bereit für den nächsten Schritt?
             </h3>
-            <p className="text-gray-700 mb-6">
+            <p className="text-blue-100 mb-8 text-lg">
               Entdecke weitere hilfreiche Artikel zur Selbstständigkeit in der Schweiz
             </p>
             <Link
-              href="/"
-              className="inline-block bg-blue-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+              href="/artikel"
+              className="inline-block bg-white text-blue-700 px-8 py-4 rounded-xl font-bold hover:bg-blue-50 transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
             >
-              Alle Artikel anzeigen
+              Alle Artikel anzeigen →
             </Link>
           </div>
         </div>
