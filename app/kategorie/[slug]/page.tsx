@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { getArticlesByCategory } from '@/lib/articles';
 import { CATEGORIES } from '@/types/article';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 import ArticleCard from '@/components/ArticleCard';
 import Link from 'next/link';
 
@@ -138,6 +139,8 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
           </div>
         </section>
       </main>
+
+      <Footer />
     </>
   );
 }

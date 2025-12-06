@@ -1,6 +1,7 @@
 import { getAllArticles } from '@/lib/articles';
 import ArticleCard from '@/components/ArticleCard';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 import Link from 'next/link';
 
 const PILLAR_PAGES = [
@@ -205,87 +206,7 @@ export default async function Home() {
         </section>
       </main>
 
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-            <div>
-              <h3 className="font-bold text-lg mb-4">Selbständig Schweiz</h3>
-              <p className="text-gray-400">
-                Das Portal für Selbstständige und Gründer in der Schweiz
-              </p>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Gründung</h4>
-              <ul className="space-y-2">
-                <li>
-                  <Link href="/artikel/selbstaendig-machen-schweiz" className="text-gray-400 hover:text-white transition-colors">
-                    Selbständig machen
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/artikel/einzelfirma-gruenden" className="text-gray-400 hover:text-white transition-colors">
-                    Einzelfirma gründen
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/artikel/gmbh-gruenden" className="text-gray-400 hover:text-white transition-colors">
-                    GmbH gründen
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/artikel/selbstaendig-schweiz-berufe" className="text-gray-400 hover:text-white transition-colors">
-                    Alle Berufe
-                  </Link>
-                </li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Finanzen</h4>
-              <ul className="space-y-2">
-                <li>
-                  <Link href="/artikel/steuern-selbststaendige" className="text-gray-400 hover:text-white transition-colors">
-                    Steuern
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/artikel/versicherungen-selbststaendige" className="text-gray-400 hover:text-white transition-colors">
-                    Versicherungen
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/artikel/buchhaltung-selbststaendige" className="text-gray-400 hover:text-white transition-colors">
-                    Buchhaltung
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/artikel/geld-verdienen-schweiz" className="text-gray-400 hover:text-white transition-colors">
-                    Geld verdienen
-                  </Link>
-                </li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Wachstum</h4>
-              <ul className="space-y-2">
-                <li>
-                  <Link href="/artikel/kunden-gewinnen-schweiz" className="text-gray-400 hover:text-white transition-colors">
-                    Kunden gewinnen
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/artikel/tools-selbststaendige" className="text-gray-400 hover:text-white transition-colors">
-                    Tools & Software
-                  </Link>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2026 Selbständig Schweiz. Alle Rechte vorbehalten.</p>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </>
   );
 }

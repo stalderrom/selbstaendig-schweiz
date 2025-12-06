@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { getArticleBySlug, getAllArticles } from '@/lib/articles';
 import { CATEGORIES } from '@/types/article';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -204,6 +205,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           </div>
         </div>
       </article>
+
+      <Footer />
     </>
   );
 }
