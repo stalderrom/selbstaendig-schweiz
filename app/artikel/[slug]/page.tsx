@@ -163,15 +163,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             <ReactMarkdown
               remarkPlugins={[remarkGfm]}
               rehypePlugins={[rehypeRaw]}
-              components={{
-                // Filter out HTML comments completely
-                '*': ({ node, ...props }: any) => {
-                  if (node?.type === 'comment') {
-                    return null;
-                  }
-                  return undefined;
-                }
-              }}
             >
               {article.content}
             </ReactMarkdown>
