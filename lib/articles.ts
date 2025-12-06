@@ -26,7 +26,8 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
       updatedAt: data.updatedAt || data.publishedAt,
       featuredImage: data.featuredImage,
       readingTime,
-      related: data.related || []
+      related: data.related || [],
+      faq: data.faq || []
     };
   } catch (error) {
     return null;

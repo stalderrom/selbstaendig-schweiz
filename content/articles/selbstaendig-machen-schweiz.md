@@ -1,11 +1,59 @@
 ---
-title: "Selbständig machen in der Schweiz: Der komplette Guide 2026"
-description: "Alles was du wissen musst, um dich in der Schweiz selbständig zu machen: Rechtsformen, Anmeldung, Steuern, Versicherungen und praktische Tipps für deinen erfolgreichen Start."
-keywords: ["selbständig machen schweiz", "selbstständigkeit schweiz", "firma gründen schweiz", "selbständig werden", "freiberufler schweiz"]
-category: "selbständig-machen-/-gründung"
-author: "Redaktion"
-publishedAt: "2025-12-06"
-slug: "selbstaendig-machen-schweiz"
+title: 'Selbständig machen in der Schweiz: Der komplette Guide 2026'
+description: >-
+  Alles was du wissen musst, um dich in der Schweiz selbständig zu machen:
+  Rechtsformen, Anmeldung, Steuern, Versicherungen und praktische Tipps für
+  deinen erfolgreichen Start.
+keywords:
+  - selbständig machen schweiz
+  - selbstständigkeit schweiz
+  - firma gründen schweiz
+  - selbständig werden
+  - freiberufler schweiz
+category: selbständig-machen-/-gründung
+author: Redaktion
+publishedAt: '2025-12-06'
+slug: selbstaendig-machen-schweiz
+faq:
+  - question: 'Wie viel Geld brauche ich, um mich selbständig zu machen?'
+    answer: >-
+      Minimum: CHF 15'000-30'000 für 3-6 Monate Überbrückung. Realistisch: CHF
+      30'000-80'000 (6-12 Monate Lebenshaltung + Gründungskosten + erste
+      Investitionen). Einzelfirma-Gründung: CHF 500-5'000. GmbH: CHF
+      24'000-38'000. Dazu: Equipment, Website, Marketing. Tipp: Nebenberuflich
+      starten reduziert finanzielles Risiko massiv.
+  - question: Einzelfirma oder GmbH - was ist besser?
+    answer: >-
+      Einzelfirma: Schnell (1-3 Tage), günstig (ab CHF 500), einfach. ABER:
+      Unbeschränkte Haftung (Privatvermögen!). Ideal für: Dienstleister,
+      Berater, IT, niedriges Risiko. GmbH: Haftungsschutz, professioneller,
+      steueroptimiert. ABER: Teuer (CHF 24k+), komplex (Notar, Buchhaltung).
+      Ideal für: Handel, Produktion, Partner, hohes Risiko. Empfehlung: Start
+      Einzelfirma, bei Erfolg später GmbH.
+  - question: Brauche ich einen Businessplan?
+    answer: >-
+      Nicht zwingend, aber sehr empfohlen! Minimum (für Sie selbst): 2-3 Seiten
+      mit Geschäftsidee, Zielkunden, Kosten/Einnahmen-Rechnung, 12-Monats-Plan.
+      Ausführlich (für Bank/Investoren): 20-40 Seiten mit Marktanalyse,
+      Wettbewerb, Marketing, Finanzplan. Nutzen: Zwingt Sie zum Durchdenken,
+      zeigt Lücken auf, erleichtert Entscheidungen. Tools: BMC (Business Model
+      Canvas), Lean Canvas.
+  - question: Welche Versicherungen brauche ich als Selbständiger?
+    answer: >-
+      PFLICHT: Krankenversicherung (KVG), AHV (10.1% vom Einkommen). DRINGEND
+      empfohlen: Krankentaggeld (bei Krankheit), Unfallversicherung (UVG),
+      Berufshaftpflicht (bei Schäden an Kunden). Optional: Pensionskasse
+      (BVG/Säule 3a), Erwerbsunfähigkeit, Rechtsschutz. Kosten: CHF
+      3'000-8'000/Jahr. Häufigster Fehler: Krankentaggeld vergessen, dann 3
+      Monate krank = Existenzkrise.
+  - question: Wie finde ich meine ersten Kunden?
+    answer: >-
+      Start: (1) Netzwerk aktivieren (Familie, Freunde, Ex-Kollegen). (2)
+      LinkedIn-Profil optimieren, aktiv posten. (3) Google My Business (lokal).
+      (4) Gratis-Erstberatung anbieten. (5) Kooperationen (andere Selbständige,
+      Agenturen). Danach: Website mit SEO, Google Ads, Networking-Events,
+      Empfehlungen (Rabatt für Weiterempfehlung). Geduld: Erste Kunden in Woche
+      1-4, stabile Pipeline nach 3-6 Monaten.
 ---
 
 # Selbständig machen in der Schweiz: Der komplette Guide 2026
