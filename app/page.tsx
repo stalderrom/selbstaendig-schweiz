@@ -81,8 +81,62 @@ export default async function Home() {
   const articles = await getAllArticles();
   const latestArticles = articles.slice(0, 6);
 
+  // Organization Schema für Knowledge Panel
+  const organizationSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'Selbständig Schweiz',
+    alternateName: 'SelbständigSchweiz',
+    url: 'https://selbständig-schweiz.ch',
+    logo: 'https://selbständig-schweiz.ch/logo.png',
+    description: 'Das umfassende Portal für Selbstständige und Gründer in der Schweiz. Komplette Guides zu Gründung, Steuern, Versicherungen und Wachstum.',
+    foundingDate: '2025',
+    knowsAbout: [
+      'Einzelfirma gründen',
+      'GmbH gründen',
+      'Selbständigkeit Schweiz',
+      'Steuern für Selbständige',
+      'Versicherungen Selbständige',
+      'Buchhaltung',
+      'Kundengewinnung',
+      'Business Tools'
+    ],
+    areaServed: {
+      '@type': 'Country',
+      name: 'Schweiz'
+    }
+  };
+
+  // WebSite Schema für Sitelinks Searchbox
+  const websiteSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Selbständig Schweiz',
+    url: 'https://selbständig-schweiz.ch',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: 'https://selbständig-schweiz.ch/artikel?q={search_term_string}'
+      },
+      'query-input': 'required name=search_term_string'
+    }
+  };
+
   return (
     <>
+      {/* Organization Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+      />
+
+      {/* WebSite Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+      />
+
       <Header />
 
       <main>
