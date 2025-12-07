@@ -58,7 +58,7 @@ faq:
 
 # Selbständig machen in der Schweiz: Der komplette Guide 2026
 
-Der Schritt in die Selbständigkeit ist eine der wichtigsten Entscheidungen im Berufsleben. Die Schweiz bietet mit ihrer stabilen Wirtschaft, attraktiven Steuerregeln und unternehmerfreundlichen Rahmenbedingungen ein ideales Umfeld für Gründer und Selbständige. Dieser umfassende Guide führt dich durch alle wichtigen Aspekte der Selbständigkeit – von der ersten Idee bis zur erfolgreichen Unternehmensführung.
+**Sich selbständig machen** – der Schritt in die Selbständigkeit ist eine der wichtigsten Entscheidungen im Berufsleben. Die Schweiz bietet mit ihrer stabilen Wirtschaft, attraktiven Steuerregeln und unternehmerfreundlichen Rahmenbedingungen ein ideales Umfeld für Gründer und Selbständige. Dieser umfassende Guide führt dich durch alle wichtigen Aspekte der Selbständigkeit – von der ersten Idee bis zur erfolgreichen Unternehmensführung.
 
 ## Was bedeutet Selbständigkeit in der Schweiz?
 
@@ -499,6 +499,11 @@ Jede Branche hat ihre Besonderheiten. Hier findest du detaillierte Guides für s
 - Branchenverbände
 - Coworking Spaces
 
+## Weiterführende Artikel
+
+- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
+- [Lebensversicherung Schweiz: Vergleich & Guide 2026](/artikel/lebensversicherung-schweiz-vergleich)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Kann ich mich ohne Eigenkapital selbständig machen?
@@ -543,19 +548,6 @@ Unterschätzen Sie nicht den administrativen Aufwand und die Anfangsinvestitione
 4. **Bei AHV anmelden** – Erster offizieller Schritt
 5. **Versicherungen abschliessen** – Besonders Krankentaggeld!
 6. **Los geht's** – Learning by doing
-
-## Weiterführende Artikel
-
-- [Einzelfirma gründen: Schritt-für-Schritt Guide](/artikel/einzelfirma-gruenden)
-- [GmbH gründen in der Schweiz](/artikel/gmbh-gruenden)
-- [Steuern für Selbständige verstehen](/artikel/steuern-selbststaendige)
-- [Versicherungen für Selbständige](/artikel/versicherungen-selbststaendige)
-- [Businessplan erstellen](/artikel/businessplan-schweiz)
-
-<!--
-EDITOR-NOTIZEN: Pillar Page - Selbständig machen Schweiz
-
-Dies ist die zentrale Pillar Page für das Silo "Selbständig machen / Gründung"
 
 ### Verlinkungsstrategie:
 Diese Pillar Page sollte von ALLEN Artikeln im Gründungs-Silo verlinkt werden.

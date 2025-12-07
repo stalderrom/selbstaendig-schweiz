@@ -46,7 +46,7 @@ faq:
 
 # Geld verdienen in der Schweiz: Geschäftsmodelle & Einkommensquellen 2026
 
-Als Selbständiger gibt es unzählige Wege, Geld zu verdienen – weit mehr als nur "Zeit gegen Geld tauschen". Dieser umfassende Guide zeigt Ihnen alle relevanten Geschäftsmodelle, Einkommensarten und Strategien für Selbständige in der Schweiz. Von klassischer Dienstleistung über digitale Produkte bis zu passivem Einkommen – entdecken Sie, wie Sie Ihr Einkommen diversifizieren und skalieren können.
+**Geld verdienen in der Schweiz** – als Selbständiger gibt es unzählige Wege – weit mehr als nur "Zeit gegen Geld tauschen". Dieser umfassende Guide zeigt Ihnen alle relevanten Geschäftsmodelle, Einkommensarten und Strategien für Selbständige in der Schweiz. Von klassischer Dienstleistung über digitale Produkte bis zu passivem Einkommen – entdecken Sie, wie Sie Ihr Einkommen diversifizieren und skalieren können.
 
 ## Warum Einkommens-Diversifikation so wichtig ist
 
@@ -818,6 +818,11 @@ Zeitaufwand: 120 Stunden (à CHF 100)
 - [ ] Quartalsweise: ROI pro Quelle berechnen
 - [ ] Jährlich: Strategie anpassen (was funktioniert?)
 
+## Weiterführende Artikel
+
+- [Selbständig machen in der Schweiz: Berufsübersicht & Ratgeber 2026](/artikel/selbstaendig-schweiz-berufe)
+- [Brevo E-Mail-Marketing für Selbständige Schweiz Guide](/artikel/brevo-email-marketing-selbstaendige-schweiz)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Wie viele Einkommensquellen sollte ich haben?
@@ -867,8 +872,6 @@ Beste Produkt verkauft sich nicht selbst. Audience aufbauen, Marketing lernen, D
 Was bringt am meisten pro Stunde? Mehr davon! Was frisst Zeit ohne Return? Stoppen!
 
 Starten Sie heute: Wählen Sie EIN zweites Einkommensmodell neben Ihrer Haupttätigkeit und investieren Sie 6-12 Monate. Ihre finanzielle Unabhängigkeit wird es Ihnen danken!
-
-## Weiterführende Artikel
 
 ### Geschäftsmodelle:
 - [Stundensatz berechnen: So geht's richtig](/artikel/stundensatz-berechnen)

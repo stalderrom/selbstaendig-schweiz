@@ -44,7 +44,7 @@ faq:
 
 # Selbständig machen in der Schweiz: Berufsübersicht & Ratgeber 2026
 
-Spielen Sie mit dem Gedanken, sich selbständig zu machen – wissen aber nicht, ob Ihr Beruf dafür geeignet ist? Oder suchen Sie Inspiration, in welcher Branche Sie als Selbständiger durchstarten könnten? Dieser umfassende Ratgeber gibt Ihnen einen Überblick über alle relevanten Berufe und Branchen für Selbständige in der Schweiz – mit konkreten Informationen zu Voraussetzungen, Verdienstmöglichkeiten, Startkapital und Erfolgschancen.
+**Sich selbständig machen** – spielen Sie mit diesem Gedanken – wissen aber nicht, ob Ihr Beruf dafür geeignet ist? Oder suchen Sie Inspiration, in welcher Branche Sie als Selbständiger durchstarten könnten? Dieser umfassende Ratgeber gibt Ihnen einen Überblick über alle relevanten Berufe und Branchen für Selbständige in der Schweiz – mit konkreten Informationen zu Voraussetzungen, Verdienstmöglichkeiten, Startkapital und Erfolgschancen.
 
 ## Warum diese Berufsübersicht?
 
@@ -1167,6 +1167,11 @@ Sprachunterricht für Erwachsene, Firmen, Expats.
 - [ ] Familie/Partner an Bord?
 - [ ] Plan B falls es nicht klappt?
 
+## Weiterführende Artikel
+
+- [Einzelfirma gründen in der Schweiz: Schritt-für-Schritt-Anleitung 2026](/artikel/einzelfirma-gruenden)
+- [GmbH gründen in der Schweiz: Kompletter Guide 2026](/artikel/gmbh-gruenden)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### In welchen Berufen kann man sich am einfachsten selbständig machen?
@@ -1216,8 +1221,6 @@ Minimieren Sie Risiko: Starten Sie nebenberuflich, bauen Sie Kunden auf, testen 
 Die perfekte Kombination: (1) Sie können es gut, (2) Sie machen es gerne, (3) Leute zahlen dafür. Alle drei müssen stimmen!
 
 Nutzen Sie diese Übersicht als Orientierung, lesen Sie die Detail-Ratgeber zu Ihren Favoriten und starten Sie dann mit einem konkreten Plan. Ihre Selbständigkeit wartet!
-
-## Weiterführende Artikel
 
 ### Grundlagen:
 - [Selbständig machen in der Schweiz: Kompletter Guide](/artikel/selbstaendig-machen-schweiz)

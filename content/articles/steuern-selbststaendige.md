@@ -57,7 +57,7 @@ faq:
 
 # Steuern für Selbständige in der Schweiz: Kompletter Guide 2026
 
-Steuern sind für Selbständige eines der komplexesten Themen – und gleichzeitig eines der wichtigsten. Als Selbständiger in der Schweiz sind Sie nicht nur einkommenssteuerpflichtig, sondern müssen sich auch mit MWST, Sozialabgaben und zahlreichen Abzugsmöglichkeiten auseinandersetzen. Dieser umfassende Guide erklärt alle relevanten Steueraspekte verständlich und zeigt, wie Sie legal Steuern optimieren können.
+**Steuern für Selbständige** sind eines der komplexesten Themen – und gleichzeitig eines der wichtigsten. Als Selbständiger in der Schweiz sind Sie nicht nur einkommenssteuerpflichtig, sondern müssen sich auch mit MWST, Sozialabgaben und zahlreichen Abzugsmöglichkeiten auseinandersetzen. Dieser umfassende Guide erklärt alle relevanten Steueraspekte verständlich und zeigt, wie Sie legal Steuern optimieren können.
 
 ## Die wichtigsten Steuerarten für Selbständige
 
@@ -613,6 +613,11 @@ Bei gewerbsmässigem Wertschriftenhandel werden Gewinne steuerpflichtig (hohe H�
 - [ ] MWST rechtzeitig anmelden (vor CHF 100'000)
 - [ ] Treuhänder evaluieren ab CHF 150'000 Umsatz
 
+## Weiterführende Artikel
+
+- [Erfolgsrechnung erstellen: Guide Schweiz 2026](/artikel/erfolgsrechnung-erstellen-schweiz)
+- [Freizügigkeitskonto: Leitfaden Schweiz 2026](/artikel/freizuegigkeitskonto-schweiz)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Wie viel Steuern zahle ich als Selbständiger?
@@ -656,21 +661,6 @@ Ab einem gewissen Umsatz lohnt sich ein Treuhänder. Die Kosten amortisieren sic
 Mit der richtigen Strategie (Zeitpunkt Investitionen, Wahl Rechtsform, Wohnort) können Sie Ihre Steuerlast legal optimieren.
 
 Die Schweiz bietet Selbständigen ein faires und berechenbares Steuersystem. Wer sich auskennt und professionell aufgestellt ist, zahlt nicht mehr als nötig und kann sich voll auf sein Geschäft konzentrieren.
-
-## Weiterführende Artikel
-
-- [MWST für Selbständige: Kompletter Guide](/artikel/mwst-selbststaendige)
-- [AHV-Beiträge berechnen](/artikel/ahv-selbststaendige)
-- [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
-- [Steuererklärung ausfüllen: Schritt-für-Schritt](/steuererklärung-selbststaendige/)
-- [Einzelfirma vs. GmbH: Steuervergleich](/artikel/einzelfirma-vs-gmbh-steuern)
-- [Treuhänder finden](/treuhänder-finden/)
-- [Säule 3a für Selbständige optimieren](/artikel/saeule-3a-selbststaendige)
-
-<!--
-EDITOR-NOTIZEN: Pillar Page - Steuern für Selbständige
-
-Dies ist die zentrale Pillar Page für das Silo "Steuern"
 
 ### Verlinkungsstrategie:
 Diese Pillar Page sollte von ALLEN Artikeln im Steuer-Silo verlinkt werden.

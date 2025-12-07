@@ -54,7 +54,7 @@ faq:
 
 # Kunden gewinnen in der Schweiz: Kompletter Guide 2026
 
-Als Selbständiger ist Kundengewinnung Ihre wichtigste Aufgabe. Ohne Kunden kein Umsatz, ohne Umsatz kein Geschäft. Dieser umfassende Guide zeigt Ihnen alle bewährten Strategien zur Kundenakquise in der Schweiz – von Online-Marketing über Networking bis zu Empfehlungsmarketing. Sie erfahren, welche Kanäle wirklich funktionieren, wie viel Budget Sie einplanen sollten und wie Sie systematisch neue Kunden gewinnen.
+**Kunden gewinnen** ist als Selbständiger Ihre wichtigste Aufgabe. Ohne Kunden kein Umsatz, ohne Umsatz kein Geschäft. Dieser umfassende Guide zeigt Ihnen alle bewährten Strategien zur Kundenakquise in der Schweiz – von Online-Marketing über Networking bis zu Empfehlungsmarketing. Sie erfahren, welche Kanäle wirklich funktionieren, wie viel Budget Sie einplanen sollten und wie Sie systematisch neue Kunden gewinnen.
 
 ## Warum Kundengewinnung für Selbständige so wichtig ist
 
@@ -1006,6 +1006,11 @@ Wenn 1'000 Website-Besucher CHF 500 kosten (Google Ads) = CHF 250 pro Kunde
 - [ ] Monatlich: Newsletter versenden, Kennzahlen prüfen
 - [ ] Quartalsweise: Strategie reviewen, Budgets anpassen
 
+## Weiterführende Artikel
+
+- [Brevo E-Mail-Marketing für Selbständige Schweiz Guide](/artikel/brevo-email-marketing-selbstaendige-schweiz)
+- [Calendly Schweiz: Online Terminbuchung Guide](/artikel/calendly-schweiz-terminbuchung)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Wie lange dauert es, bis Marketing-Massnahmen wirken?
@@ -1055,24 +1060,6 @@ Was nicht gemessen wird, kann nicht optimiert werden. Google Analytics, CRM, KPI
 Der beste Zeitpunkt zu starten war vor 6 Monaten. Der zweitbeste ist heute. Wählen Sie 2-3 Kanäle und legen Sie los!
 
 Mit einem durchdachten Marketing-System gewinnen Sie kontinuierlich neue Kunden, bauen eine stabile Pipeline auf und sind nicht abhängig von einzelnen Grosskunden. Das ist die Basis für ein erfolgreiches, skalierbares Geschäft.
-
-## Weiterführende Artikel
-
-- [Website erstellen als Selbständiger](/artikel/website-erstellen)
-- [SEO für Selbständige: Schritt-für-Schritt](/artikel/seo-selbststaendige)
-- [LinkedIn-Strategie: Kunden gewinnen](/artikel/linkedin-strategie)
-- [Google Ads für Selbständige](/artikel/google-ads-selbststaendige)
-- [E-Mail-Marketing Anleitung](/artikel/email-marketing)
-- [Networking in der Schweiz](/artikel/networking-schweiz)
-- [Empfehlungsmarketing-System aufbauen](/artikel/empfehlungsmarketing)
-- [Content-Marketing für Selbständige](/artikel/content-marketing)
-- [Google Bewertungen sammeln](/artikel/google-bewertungen)
-- [Marketing-Budget richtig planen](/artikel/marketing-budget)
-
-<!--
-EDITOR-NOTIZEN: Pillar Page - Kunden gewinnen Schweiz
-
-Dies ist die zentrale Pillar Page für das Silo "Marketing & Kundenakquise"
 
 ### Verlinkungsstrategie:
 Diese Pillar Page sollte von ALLEN Artikeln im Marketing-Silo verlinkt werden.

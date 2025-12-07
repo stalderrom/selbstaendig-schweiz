@@ -78,7 +78,7 @@ faq:
 
 # GmbH gründen in der Schweiz: Kompletter Guide 2026
 
-Eine GmbH (Gesellschaft mit beschränkter Haftung) zu gründen ist der professionelle Weg für Unternehmer, die Haftungsschutz, Investoren oder ein seriöses Image wollen. Mit CHF 20'000 Stammkapital und etwas Papierkram schaffen Sie in 2-6 Wochen eine vollwertige Kapitalgesellschaft. Dieser umfassende Guide führt Sie Schritt für Schritt durch die GmbH-Gründung – von den Voraussetzungen über die Statuten bis zur Handelsregister-Eintragung.
+**Eine GmbH gründen** (Gesellschaft mit beschränkter Haftung) ist der professionelle Weg für Unternehmer, die Haftungsschutz, Investoren oder ein seriöses Image wollen. Mit CHF 20'000 Stammkapital und etwas Papierkram schaffen Sie in 2-6 Wochen eine vollwertige Kapitalgesellschaft. Dieser umfassende Guide führt Sie Schritt für Schritt durch die GmbH-Gründung – von den Voraussetzungen über die Statuten bis zur Handelsregister-Eintragung.
 
 ## Was ist eine GmbH?
 
@@ -886,6 +886,12 @@ GV trotzdem abhalten! Sie beschliessen alleine, protokollieren.
 - [ ] **Quartalsweise:** MWST-Abrechnung
 - [ ] **Jährlich:** Jahresabschluss, GV, Steuererklärung
 
+## Weiterführende Artikel
+
+- [Einzelfirma gründen in der Schweiz: Schritt-für-Schritt-Anleitung 2026](/artikel/einzelfirma-gruenden)
+- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
+- [Lebensversicherung Schweiz: Vergleich & Guide 2026](/artikel/lebensversicherung-schweiz-vergleich)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Wie viel kostet es, eine GmbH zu gründen?
@@ -935,8 +941,6 @@ GV, Buchhaltung, Sozialversicherungen = PFLICHT. Bei Vernachlässigung: Persönl
 Empfehlung für viele: 1-2 Jahre als Einzelfirma testen, dann GmbH gründen. Risiko minimiert, Klarheit über Geschäftsmodell.
 
 Die GmbH ist die richtige Wahl für ambitionierte Unternehmer mit Wachstumsplänen, Partnern oder Haftungsrisiko. Mit diesem Guide sind Sie bestens vorbereitet!
-
-## Weiterführende Artikel
 
 ### Gründung:
 - [Selbständig machen in der Schweiz: Kompletter Guide](/artikel/selbstaendig-machen-schweiz)

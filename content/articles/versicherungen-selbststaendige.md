@@ -59,7 +59,7 @@ faq:
 
 # Versicherungen für Selbständige in der Schweiz: Kompletter Guide 2026
 
-Als Selbständiger in der Schweiz tragen Sie das volle unternehmerische Risiko – und damit auch die Verantwortung für Ihre soziale Absicherung. Anders als Angestellte haben Sie keine automatische Unfallversicherung, kein Krankentaggeld und keine obligatorische Pensionskasse. Dieser umfassende Guide zeigt Ihnen, welche Versicherungen Sie wirklich brauchen, welche optional sind und wie Sie sich optimal und kosteneffizient absichern.
+**Versicherungen für Selbständige** – als Selbständiger in der Schweiz tragen Sie das volle unternehmerische Risiko und damit auch die Verantwortung für Ihre soziale Absicherung. Anders als Angestellte haben Sie keine automatische Unfallversicherung, kein Krankentaggeld und keine obligatorische Pensionskasse. Dieser umfassende Guide zeigt Ihnen, welche Versicherungen Sie wirklich brauchen, welche optional sind und wie Sie sich optimal und kosteneffizient absichern.
 
 ## Überblick: Versicherungslandschaft für Selbständige
 
@@ -628,6 +628,13 @@ Gewisse Branchenverbände bieten Gruppenversicherungen:
 - [Comparis Versicherungsvergleich](https://www.comparis.ch/krankenkassen)
 - [BVG-Auffangeinrichtung](https://www.aeis.ch)
 
+## Weiterführende Artikel
+
+- [Lebensversicherung Schweiz: Vergleich & Guide 2026](/artikel/lebensversicherung-schweiz-vergleich)
+- [Rechtsschutzversicherung Schweiz: Guide 2026](/artikel/rechtsschutzversicherung-schweiz)
+- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
+- [Erfolgsrechnung erstellen: Guide Schweiz 2026](/artikel/erfolgsrechnung-erstellen-schweiz)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Welche Versicherungen brauche ich mindestens als Selbständiger?
@@ -673,21 +680,6 @@ Ja, 20-25% des Einkommens für Versicherungen ist viel. Aber ein einziger Schade
 Versicherungen vergleichen, Deckungen anpassen, Prämien sparen. 30 Minuten Aufwand können CHF 500-1'500 pro Jahr sparen.
 
 Mit der richtigen Absicherung können Sie ruhig schlafen und sich auf Ihr Geschäft konzentrieren. Unterschätzen Sie die Risiken nicht – aber lassen Sie sich davon auch nicht abschrecken. Die Schweiz bietet ein gutes System, nutzen Sie es!
-
-## Weiterführende Artikel
-
-- [Krankentaggeld für Selbständige: Vergleich](/artikel/krankentaggeld-selbststaendige)
-- [AHV-Beiträge berechnen](/artikel/ahv-selbststaendige)
-- [Berufshaftpflicht: Was ist versichert?](/artikel/berufshaftpflicht)
-- [Säule 3a optimieren](/artikel/saeule-3a-selbststaendige)
-- [Altersvorsorge für Selbständige](/artikel/altersvorsorge-selbststaendige)
-- [BVG für Selbständige: Lohnt sich das?](/artikel/bvg-selbststaendige)
-- [Unfallversicherung UVG](/artikel/unfallversicherung-selbststaendige)
-
-<!--
-EDITOR-NOTIZEN: Pillar Page - Versicherungen für Selbständige
-
-Dies ist die zentrale Pillar Page für das Silo "Versicherungen"
 
 ### Verlinkungsstrategie:
 Diese Pillar Page sollte von ALLEN Artikeln im Versicherungs-Silo verlinkt werden.

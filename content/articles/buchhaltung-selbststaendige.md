@@ -60,7 +60,7 @@ faq:
 
 # Buchhaltung für Selbständige in der Schweiz: Kompletter Guide 2026
 
-Buchhaltung ist für viele Selbständige ein lästiges Thema – aber sie ist absolut zentral für den Erfolg Ihres Unternehmens. Eine saubere Buchhaltung gibt Ihnen nicht nur Überblick über Ihre Finanzen, sondern ist auch gesetzlich vorgeschrieben und Basis für Ihre Steuererklärung. Dieser umfassende Guide erklärt alles: von den gesetzlichen Pflichten über die Wahl zwischen Software und Treuhänder bis zu praktischen Tipps für den Alltag.
+**Buchhaltung für Selbständige** ist für viele ein lästiges Thema – aber sie ist absolut zentral für den Erfolg Ihres Unternehmens. Eine saubere Buchhaltung gibt Ihnen nicht nur Überblick über Ihre Finanzen, sondern ist auch gesetzlich vorgeschrieben und Basis für Ihre Steuererklärung. Dieser umfassende Guide erklärt alles: von den gesetzlichen Pflichten über die Wahl zwischen Software und Treuhänder bis zu praktischen Tipps für den Alltag.
 
 ## Warum Buchhaltung so wichtig ist
 
@@ -802,6 +802,11 @@ Die meisten Software-Anbieter bieten:
 - [ ] Archivierung (10 Jahre)
 - [ ] Software/Treuhänder evaluieren
 
+## Weiterführende Artikel
+
+- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
+- [Brevo E-Mail-Marketing für Selbständige Schweiz Guide](/artikel/brevo-email-marketing-selbstaendige-schweiz)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Brauche ich eine Buchhaltungssoftware oder reicht Excel?
@@ -847,21 +852,6 @@ Ob Software (CHF 360-780/Jahr) oder Treuhänder (CHF 2'500-4'000/Jahr) – gute 
 2-3 Stunden in Tutorials und Grundlagen investiert zahlen sich über Jahre aus. Sie verstehen Ihre Zahlen besser und treffen bessere Geschäftsentscheidungen.
 
 Mit sauberer Buchhaltung haben Sie jederzeit den Überblick über Ihre Finanzen, erfüllen alle gesetzlichen Pflichten und können sich aufs Wesentliche konzentrieren: Ihr Geschäft wachsen lassen.
-
-## Weiterführende Artikel
-
-- [Buchhaltungssoftware-Vergleich: Alle Tools im Detail](/artikel/buchhaltungssoftware-vergleich)
-- [Bexio Test: Lohnt sich der Marktführer?](/artikel/bexio-test)
-- [Treuhänder finden: Darauf achten](/treuhänder-finden/)
-- [Rechnung schreiben: Schweizer Vorlage](/artikel/rechnung-schreiben)
-- [MWST für Selbständige: Kompletter Guide](/artikel/mwst-selbststaendige)
-- [Steuererklärung für Selbständige](/steuererklärung-selbststaendige/)
-- [QR-Rechnung erstellen](/artikel/qr-rechnung)
-
-<!--
-EDITOR-NOTIZEN: Pillar Page - Buchhaltung für Selbständige
-
-Dies ist die zentrale Pillar Page für das Silo "Buchhaltung & Finanzen"
 
 ### Verlinkungsstrategie:
 Diese Pillar Page sollte von ALLEN Artikeln im Buchhaltungs-Silo verlinkt werden.
