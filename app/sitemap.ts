@@ -6,14 +6,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articles = await getAllArticles();
 
   const articleUrls = articles.map((article) => ({
-    url: `https://selbstaendig-schweiz.ch/artikel/${article.slug}`,
+    url: `https://www.selbständig-schweiz.ch/artikel/${article.slug}`,
     lastModified: new Date(article.updatedAt),
     changeFrequency: 'weekly' as const,
     priority: 0.8,
   }));
 
   const categoryUrls = CATEGORIES.map((category) => ({
-    url: `https://selbstaendig-schweiz.ch/kategorie/${category.slug}`,
+    url: `https://www.selbständig-schweiz.ch/kategorie/${category.slug}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
     priority: 0.7,
@@ -21,31 +21,31 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     {
-      url: 'https://selbstaendig-schweiz.ch',
+      url: 'https://www.selbständig-schweiz.ch',
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1,
     },
     {
-      url: 'https://selbstaendig-schweiz.ch/artikel',
+      url: 'https://www.selbständig-schweiz.ch/artikel',
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
     },
     {
-      url: 'https://selbstaendig-schweiz.ch/impressum',
+      url: 'https://www.selbständig-schweiz.ch/impressum',
       lastModified: new Date(),
       changeFrequency: 'yearly',
       priority: 0.3,
     },
     {
-      url: 'https://selbstaendig-schweiz.ch/datenschutz',
+      url: 'https://www.selbständig-schweiz.ch/datenschutz',
       lastModified: new Date(),
       changeFrequency: 'yearly',
       priority: 0.3,
     },
     {
-      url: 'https://selbstaendig-schweiz.ch/kontakt',
+      url: 'https://www.selbständig-schweiz.ch/kontakt',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,

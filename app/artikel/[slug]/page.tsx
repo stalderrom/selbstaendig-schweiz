@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       authors: [article.author],
     },
     alternates: {
-      canonical: `https://selbstaendig-schweiz.ch/artikel/${article.slug}`,
+      canonical: `https://www.selbständig-schweiz.ch/artikel/${article.slug}`,
     },
   };
 }
@@ -217,34 +217,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
         {/* Article Content */}
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
-          <div className="prose prose-lg max-w-none
-            prose-headings:font-bold prose-headings:text-gray-900 prose-headings:tracking-tight
-            prose-h2:text-3xl prose-h2:mt-16 prose-h2:mb-6 prose-h2:pb-3 prose-h2:border-b-2 prose-h2:border-blue-100 prose-h2:leading-tight
-            prose-h3:text-2xl prose-h3:mt-12 prose-h3:mb-5 prose-h3:leading-snug prose-h3:text-gray-800
-            prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-3 prose-h4:text-blue-900 prose-h4:font-semibold
-            prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-6 prose-p:text-[1.125rem]
-            prose-a:text-blue-600 prose-a:font-medium prose-a:no-underline hover:prose-a:underline hover:prose-a:text-blue-700 prose-a:transition-colors
-            prose-strong:text-gray-900 prose-strong:font-bold
-            prose-ul:my-8 prose-ul:space-y-3 prose-ul:pl-6
-            prose-ol:my-8 prose-ol:space-y-3 prose-ol:pl-6
-            prose-li:text-gray-700 prose-li:leading-relaxed prose-li:text-[1.0625rem] prose-li:pl-2
-            prose-li::marker:text-blue-600 prose-li::marker:font-bold
-            prose-code:text-blue-700 prose-code:bg-blue-50 prose-code:px-2 prose-code:py-1 prose-code:rounded prose-code:font-medium prose-code:text-base prose-code:border prose-code:border-blue-100
-            prose-pre:bg-gray-900 prose-pre:text-gray-100 prose-pre:p-6 prose-pre:rounded-xl prose-pre:my-8 prose-pre:shadow-lg
-            prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:pl-6 prose-blockquote:pr-4 prose-blockquote:py-3 prose-blockquote:italic prose-blockquote:bg-blue-50/40 prose-blockquote:my-8 prose-blockquote:rounded-r-lg
-            prose-table:my-10 prose-table:border-collapse prose-table:w-full prose-table:shadow-md prose-table:rounded-lg prose-table:overflow-hidden
-            prose-thead:bg-blue-600 prose-thead:text-white
-            prose-th:py-4 prose-th:px-6 prose-th:text-left prose-th:font-bold prose-th:text-base
-            prose-td:py-4 prose-td:px-6 prose-td:border-b prose-td:border-gray-200 prose-td:text-[1.0625rem]
-            prose-tbody:bg-white
-            prose-tr:hover:bg-blue-50/50 prose-tr:transition-colors
-            prose-img:rounded-xl prose-img:shadow-xl prose-img:my-10 prose-img:border prose-img:border-gray-200
-            [&>*:first-child]:mt-0
-            [&>*:last-child]:mb-0
-          ">
+          <div className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-20 prose-h2:mb-8 prose-h2:pb-4 prose-h2:border-b-4 prose-h2:border-blue-600 prose-h2:leading-tight prose-h2:scroll-mt-20 prose-h3:text-2xl prose-h3:mt-14 prose-h3:mb-6 prose-h3:leading-snug prose-h3:text-gray-800 prose-h3:font-bold prose-h3:scroll-mt-20 prose-h4:text-xl prose-h4:mt-10 prose-h4:mb-4 prose-h4:text-blue-900 prose-h4:font-bold prose-h4:scroll-mt-20 prose-p:text-gray-700 prose-p:leading-[1.85] prose-p:mb-7 prose-p:text-[1.1875rem] prose-p:max-w-[75ch] prose-a:text-blue-600 prose-a:font-semibold prose-a:underline prose-a:decoration-2 prose-a:underline-offset-2 prose-a:decoration-blue-300 hover:prose-a:decoration-blue-600 hover:prose-a:text-blue-700 prose-a:transition-all prose-strong:text-gray-900 prose-strong:font-bold prose-ul:my-10 prose-ul:space-y-4 prose-ul:pl-6 prose-ol:my-10 prose-ol:space-y-4 prose-ol:pl-6 prose-li:text-gray-700 prose-li:leading-[1.8] prose-li:text-[1.125rem] prose-li:pl-3 prose-li::marker:text-blue-600 prose-li::marker:font-bold prose-li::marker:text-lg prose-li>ul:mt-3 prose-li>ul:mb-1 prose-li>ol:mt-3 prose-li>ol:mb-1 prose-code:text-blue-700 prose-code:bg-blue-50 prose-code:px-2.5 prose-code:py-1 prose-code:rounded-md prose-code:font-semibold prose-code:text-base prose-code:border prose-code:border-blue-200 prose-code:before:content-none prose-code:after:content-none prose-pre:bg-gray-900 prose-pre:text-gray-100 prose-pre:p-8 prose-pre:rounded-2xl prose-pre:my-10 prose-pre:shadow-2xl prose-pre:border-2 prose-pre:border-gray-700 prose-blockquote:border-l-4 prose-blockquote:border-blue-600 prose-blockquote:pl-8 prose-blockquote:pr-6 prose-blockquote:py-5 prose-blockquote:italic prose-blockquote:bg-blue-50 prose-blockquote:my-10 prose-blockquote:rounded-r-xl prose-blockquote:text-gray-700 prose-blockquote:text-[1.125rem] prose-blockquote:leading-relaxed prose-table:my-12 prose-table:border-collapse prose-table:w-full prose-table:shadow-xl prose-table:rounded-xl prose-table:overflow-hidden prose-table:border-2 prose-table:border-gray-200 prose-thead:bg-gradient-to-r prose-thead:from-blue-600 prose-thead:to-blue-700 prose-thead:text-white prose-th:py-5 prose-th:px-6 prose-th:text-left prose-th:font-bold prose-th:text-base prose-th:uppercase prose-th:tracking-wide prose-td:py-5 prose-td:px-6 prose-td:border-b prose-td:border-gray-200 prose-td:text-[1.0625rem] prose-td:leading-relaxed prose-tbody:bg-white prose-tbody:divide-y prose-tbody:divide-gray-200 prose-tr:hover:bg-blue-50 prose-tr:transition-colors prose-img:rounded-2xl prose-img:shadow-2xl prose-img:my-12 prose-img:border-4 prose-img:border-gray-100 prose-hr:my-16 prose-hr:border-t-2 prose-hr:border-gray-300 [&>*:first-child]:mt-0 [&>*:last-child]:mb-0">
             <ReactMarkdown
               remarkPlugins={[remarkGfm]}
               rehypePlugins={[rehypeRaw]}
+              components={{
+                h1: () => null,
+              }}
             >
               {article.content}
             </ReactMarkdown>
