@@ -59,6 +59,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="de-CH">
+      <head>
+        <script src="https://analytics.ahrefs.com/analytics.js" data-key="OhOg6BnWptgP4aNQHhumbw" async></script>
+      </head>
       <body className={`${inter.className} antialiased`}>
         {children}
       </body>
