@@ -270,6 +270,15 @@ Der maximale Steuervorteil bei der Säule 3a beträgt CHF 7'258 pro Jahr für An
 
 **Tipp:** Bei gleicher Finanzstärke ruhig den günstigeren Anbieter wählen, aber niemals Qualität für wenige Franken Ersparnis opfern.
 
+
+## Weiterführende Artikel
+
+- [Berufshaftpflicht](/artikel/berufshaftpflicht-schweiz)
+- [Lebensversicherung Vergleich](/artikel/lebensversicherung-schweiz-vergleich)
+- [Rechtsschutzversicherung](/artikel/rechtsschutzversicherung-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+
 ## FAQ - Häufige Fragen zur Todesfallversicherung
 
 ### Wie hoch sollte meine Todesfallversicherung sein?

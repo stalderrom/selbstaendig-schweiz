@@ -888,9 +888,11 @@ GV trotzdem abhalten! Sie beschliessen alleine, protokollieren.
 
 ## Weiterführende Artikel
 
-- [Einzelfirma gründen in der Schweiz: Schritt-für-Schritt-Anleitung 2026](/artikel/einzelfirma-gruenden)
-- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
-- [Lebensversicherung Schweiz: Vergleich & Guide 2026](/artikel/lebensversicherung-schweiz-vergleich)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [Einzelfirma gründen](/artikel/einzelfirma-gruenden)
+- [Kollektivgesellschaft gründen](/artikel/kollektivgesellschaft-gruenden-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+- [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
 
 ## FAQ – Häufig gestellte Fragen
 

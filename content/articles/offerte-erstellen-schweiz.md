@@ -130,11 +130,11 @@ Versende Offerten als PDF per E-Mail mit aussagekräftigem Betreff. Bestätige t
 
 ## Weiterführende Artikel
 
-- [Erfolgsrechnung erstellen: Guide Schweiz 2026](/artikel/erfolgsrechnung-erstellen-schweiz)
-- [Freizügigkeitskonto: Leitfaden Schweiz 2026](/artikel/freizuegigkeitskonto-schweiz)
-- [Lohnabrechnung Schweiz: Guide für Unternehmen 2026](/artikel/lohnabrechnung-schweiz-unternehmen)
-- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
-- [Brevo E-Mail-Marketing für Selbständige Schweiz Guide](/artikel/brevo-email-marketing-selbstaendige-schweiz)
+- [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
+- [Einfache Buchhaltung](/artikel/einfache-buchhaltung-schweiz)
+- [Erfolgsrechnung erstellen](/artikel/erfolgsrechnung-erstellen-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

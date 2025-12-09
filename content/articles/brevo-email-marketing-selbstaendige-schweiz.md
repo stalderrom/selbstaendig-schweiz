@@ -163,9 +163,11 @@ Deutsche oder englische Standard-Datenschutzerklärungen erfüllen nicht die Sch
 
 ## Weiterführende Artikel
 
-- [Calendly Schweiz: Online Terminbuchung Guide](/artikel/calendly-schweiz-terminbuchung)
-- [Erfolgsrechnung erstellen: Guide Schweiz 2026](/artikel/erfolgsrechnung-erstellen-schweiz)
-- [Freizügigkeitskonto: Leitfaden Schweiz 2026](/artikel/freizuegigkeitskonto-schweiz)
+- [Calendly: Online Terminbuchung](/artikel/calendly-schweiz-terminbuchung)
+- [Pipedrive CRM](/artikel/pipedrive-schweiz-crm-guide)
+- [Revolut Business](/artikel/revolut-business-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

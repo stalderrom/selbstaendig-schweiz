@@ -983,8 +983,11 @@ Notion-Datenbank: Status → "Publizieren"
 
 ## Weiterführende Artikel
 
-- [Erfolgsrechnung erstellen: Guide Schweiz 2026](/artikel/erfolgsrechnung-erstellen-schweiz)
-- [Freizügigkeitskonto: Leitfaden Schweiz 2026](/artikel/freizuegigkeitskonto-schweiz)
+- [Brevo E-Mail-Marketing für Selbständige](/artikel/brevo-email-marketing-selbstaendige-schweiz)
+- [Calendly: Online Terminbuchung](/artikel/calendly-schweiz-terminbuchung)
+- [Pipedrive CRM](/artikel/pipedrive-schweiz-crm-guide)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

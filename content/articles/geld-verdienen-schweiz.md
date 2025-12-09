@@ -820,8 +820,8 @@ Zeitaufwand: 120 Stunden (à CHF 100)
 
 ## Weiterführende Artikel
 
-- [Selbständig machen in der Schweiz: Berufsübersicht & Ratgeber 2026](/artikel/selbstaendig-schweiz-berufe)
-- [Brevo E-Mail-Marketing für Selbständige Schweiz Guide](/artikel/brevo-email-marketing-selbstaendige-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

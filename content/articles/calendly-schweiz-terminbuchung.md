@@ -210,9 +210,11 @@ Doppelte Datenpflege kostet Zeit und verursacht Fehler. Informationen aus Calend
 
 ## Weiterführende Artikel
 
-- [Brevo E-Mail-Marketing für Selbständige Schweiz Guide](/artikel/brevo-email-marketing-selbstaendige-schweiz)
-- [Erfolgsrechnung erstellen: Guide Schweiz 2026](/artikel/erfolgsrechnung-erstellen-schweiz)
-- [Freizügigkeitskonto: Leitfaden Schweiz 2026](/artikel/freizuegigkeitskonto-schweiz)
+- [Brevo E-Mail-Marketing für Selbständige](/artikel/brevo-email-marketing-selbstaendige-schweiz)
+- [Pipedrive CRM](/artikel/pipedrive-schweiz-crm-guide)
+- [Revolut Business](/artikel/revolut-business-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

@@ -199,6 +199,15 @@ Automatisiere Routineaufgaben mit Tools. Investiere kontinuierlich in Weiterbild
 **Problem:** Burnout, Qualitätsverlust und gesundheitliche Probleme.
 **Lösung:** Definiere feste Arbeitszeiten, plane bewusst Urlaub und lerne "Nein" zu schlechten Aufträgen zu sagen.
 
+
+## Weiterführende Artikel
+
+- [Selbständig als Berater](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
+- [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Brauche ich eine spezielle Ausbildung als Webdesigner?

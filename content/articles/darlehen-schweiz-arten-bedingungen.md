@@ -206,10 +206,11 @@ Zusätzlich kommen Bearbeitungsgebühren von CHF 1'500 und eventuell Kosten für
 
 ## Weiterführende Artikel
 
-- [Factoring Schweiz: Kompletter Guide für Unternehmen](/artikel/factoring-schweiz)
-- [Unternehmen gründen Schweiz 2026: Kompletter Guide](/artikel/unternehmen-gruenden-schweiz)
-- [Brevo E-Mail-Marketing für Selbständige Schweiz Guide](/artikel/brevo-email-marketing-selbstaendige-schweiz)
-- [Buchhaltung für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/buchhaltung-selbststaendige)
+- [Bankkredit für Selbständige](/artikel/bankkredit-selbststaendige-schweiz)
+- [Ergänzungsleistungen](/artikel/ergaenzungsleistungen-schweiz)
+- [Factoring](/artikel/factoring-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

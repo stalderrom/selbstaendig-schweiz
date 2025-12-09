@@ -234,10 +234,11 @@ Der billigste Anbieter ist nicht immer der beste. Schlechter Service, komplizier
 
 ## Weiterführende Artikel
 
-- [Rechtsschutzversicherung Schweiz: Guide 2026](/artikel/rechtsschutzversicherung-schweiz)
-- [Versicherungen für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/versicherungen-selbststaendige)
-- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
-- [Erfolgsrechnung erstellen: Guide Schweiz 2026](/artikel/erfolgsrechnung-erstellen-schweiz)
+- [Berufshaftpflicht](/artikel/berufshaftpflicht-schweiz)
+- [Rechtsschutzversicherung](/artikel/rechtsschutzversicherung-schweiz)
+- [Todesfallversicherung](/artikel/todesfallversicherung-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ: Häufig gestellte Fragen zur Lebensversicherung
 

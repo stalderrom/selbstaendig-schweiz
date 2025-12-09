@@ -271,10 +271,11 @@ Prüfe jährlich, ob deine Deckung noch ausreicht. Bei Geschäftswachstum, neuen
 
 ## Weiterführende Artikel
 
-- [Lebensversicherung Schweiz: Vergleich & Guide 2026](/artikel/lebensversicherung-schweiz-vergleich)
-- [Versicherungen für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/versicherungen-selbststaendige)
-- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
-- [Erfolgsrechnung erstellen: Guide Schweiz 2026](/artikel/erfolgsrechnung-erstellen-schweiz)
+- [Berufshaftpflicht](/artikel/berufshaftpflicht-schweiz)
+- [Lebensversicherung Vergleich](/artikel/lebensversicherung-schweiz-vergleich)
+- [Todesfallversicherung](/artikel/todesfallversicherung-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

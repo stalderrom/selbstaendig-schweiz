@@ -261,10 +261,11 @@ Nach 12-18 Monaten hast du Verhandlungsspielraum für bessere Konditionen. Gute 
 
 ## Weiterführende Artikel
 
-- [Darlehen in der Schweiz: Arten & Bedingungen 2026](/artikel/darlehen-schweiz-arten-bedingungen)
-- [Unternehmen gründen Schweiz 2026: Kompletter Guide](/artikel/unternehmen-gruenden-schweiz)
-- [Brevo E-Mail-Marketing für Selbständige Schweiz Guide](/artikel/brevo-email-marketing-selbstaendige-schweiz)
-- [Buchhaltung für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/buchhaltung-selbststaendige)
+- [Bankkredit für Selbständige](/artikel/bankkredit-selbststaendige-schweiz)
+- [Darlehen: Arten & Bedingungen](/artikel/darlehen-schweiz-arten-bedingungen)
+- [Ergänzungsleistungen](/artikel/ergaenzungsleistungen-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

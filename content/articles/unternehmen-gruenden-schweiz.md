@@ -187,10 +187,11 @@ Nicht alle Gemeinden erlauben Geschäftstätigkeit in Wohnungen. Das kann zu Pro
 
 ## Weiterführende Artikel
 
-- [Darlehen in der Schweiz: Arten & Bedingungen 2026](/artikel/darlehen-schweiz-arten-bedingungen)
-- [Factoring Schweiz: Kompletter Guide für Unternehmen](/artikel/factoring-schweiz)
-- [Brevo E-Mail-Marketing für Selbständige Schweiz Guide](/artikel/brevo-email-marketing-selbstaendige-schweiz)
-- [Buchhaltung für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/buchhaltung-selbststaendige)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [Einzelfirma gründen](/artikel/einzelfirma-gruenden)
+- [GmbH gründen](/artikel/gmbh-gruenden)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+- [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
 
 ## FAQ – Häufig gestellte Fragen
 

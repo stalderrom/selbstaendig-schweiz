@@ -262,6 +262,15 @@ Der Schweizer Fotografenmarkt umfasst verschiedene Spezialisierungen:
 **Problem:** Rund um die Uhr erreichbar, keine Grenzen.
 **Lösung:** Feste Arbeitszeiten definieren, Urlaub einplanen, Notfall-Fotografen-Netzwerk aufbauen.
 
+
+## Weiterführende Artikel
+
+- [Selbständig als Berater](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
+- [Selbständig als Programmierer](/artikel/selbstaendig-als-programmierer-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Brauche ich als Fotograf eine Gewerbebewilligung in der Schweiz?

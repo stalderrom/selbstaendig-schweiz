@@ -745,9 +745,11 @@ Steuern (grob):
 
 ## Weiterführende Artikel
 
-- [GmbH gründen in der Schweiz: Kompletter Guide 2026](/artikel/gmbh-gruenden)
-- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
-- [Lebensversicherung Schweiz: Vergleich & Guide 2026](/artikel/lebensversicherung-schweiz-vergleich)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [GmbH gründen](/artikel/gmbh-gruenden)
+- [Kollektivgesellschaft gründen](/artikel/kollektivgesellschaft-gruenden-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+- [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
 
 ## FAQ – Häufig gestellte Fragen
 

@@ -212,6 +212,15 @@ Treibe die Digitalisierung voran mit CAD-Software und Online-Marketing.
 
 **Lösung:** Lieber weniger Aufträge annehmen, aber perfekte Qualität liefern. Zufriedene Kunden empfehlen dich weiter.
 
+
+## Weiterführende Artikel
+
+- [Selbständig als Berater](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
+- [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+
 ## FAQ – Häufige Fragen
 
 ### Brauche ich einen Meisterbrief als selbständiger Schreiner?

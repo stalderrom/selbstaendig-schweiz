@@ -1169,8 +1169,11 @@ Sprachunterricht für Erwachsene, Firmen, Expats.
 
 ## Weiterführende Artikel
 
-- [Einzelfirma gründen in der Schweiz: Schritt-für-Schritt-Anleitung 2026](/artikel/einzelfirma-gruenden)
-- [GmbH gründen in der Schweiz: Kompletter Guide 2026](/artikel/gmbh-gruenden)
+- [Selbständig als Berater](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
+- [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

@@ -190,6 +190,15 @@ Sekundärmarkt-Opportunitäten entstehen, wenn andere Investoren vorzeitig ausst
 
 **Lösung:** Abonniere FINMA-Updates und Branchenpublikationen der SECA (Swiss Private Equity & Corporate Finance Association). Jährliche Compliance-Reviews mit Experten sind empfehlenswert.
 
+
+## Weiterführende Artikel
+
+- [Bankkredit für Selbständige](/artikel/bankkredit-selbststaendige-schweiz)
+- [Darlehen: Arten & Bedingungen](/artikel/darlehen-schweiz-arten-bedingungen)
+- [Ergänzungsleistungen](/artikel/ergaenzungsleistungen-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Wie hoch ist die Mindestanlage für Private Equity in der Schweiz?

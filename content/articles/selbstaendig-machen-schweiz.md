@@ -501,8 +501,11 @@ Jede Branche hat ihre Besonderheiten. Hier findest du detaillierte Guides für s
 
 ## Weiterführende Artikel
 
-- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
-- [Lebensversicherung Schweiz: Vergleich & Guide 2026](/artikel/lebensversicherung-schweiz-vergleich)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [Einzelfirma gründen](/artikel/einzelfirma-gruenden)
+- [GmbH gründen](/artikel/gmbh-gruenden)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+- [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
 
 ## FAQ – Häufig gestellte Fragen
 

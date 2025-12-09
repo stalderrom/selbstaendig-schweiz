@@ -804,8 +804,11 @@ Die meisten Software-Anbieter bieten:
 
 ## Weiterführende Artikel
 
-- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
-- [Brevo E-Mail-Marketing für Selbständige Schweiz Guide](/artikel/brevo-email-marketing-selbstaendige-schweiz)
+- [Einfache Buchhaltung](/artikel/einfache-buchhaltung-schweiz)
+- [Erfolgsrechnung erstellen](/artikel/erfolgsrechnung-erstellen-schweiz)
+- [Freizügigkeitskonto](/artikel/freizuegigkeitskonto-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

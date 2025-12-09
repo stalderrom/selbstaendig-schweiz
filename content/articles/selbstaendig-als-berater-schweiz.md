@@ -221,6 +221,15 @@ Ständige Erreichbarkeit ohne feste Arbeitszeiten führt zum Burnout. Halte fest
 
 Nur Grundversicherungen ohne Berufshaftpflicht bergen existenzbedrohende Risiken. Prüfe deinen Versicherungsschutz jährlich.
 
+
+## Weiterführende Artikel
+
+- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
+- [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Selbständig als Programmierer](/artikel/selbstaendig-als-programmierer-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+
 ## FAQ – Häufig gestellte Fragen
 
 ### Wann muss ich mich ins Handelsregister eintragen?

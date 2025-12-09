@@ -240,6 +240,15 @@ Der Digitalisierungsschub hat sich nach Corona stabilisiert. Remote Work ist Sta
 - **Problem**: Depression, fehlende Weiterentwicklung, keine neuen Kunden
 - **Lösung**: Co-Working-Spaces nutzen, regelmässig Fachveranstaltungen besuchen
 
+
+## Weiterführende Artikel
+
+- [Selbständig als Berater](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
+- [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+
 ## FAQ – Häufige Fragen zur Selbständigkeit
 
 **Brauche ich eine Gewerbeerlaubnis als Programmierer?**

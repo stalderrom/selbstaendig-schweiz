@@ -630,10 +630,11 @@ Gewisse Branchenverbände bieten Gruppenversicherungen:
 
 ## Weiterführende Artikel
 
-- [Lebensversicherung Schweiz: Vergleich & Guide 2026](/artikel/lebensversicherung-schweiz-vergleich)
-- [Rechtsschutzversicherung Schweiz: Guide 2026](/artikel/rechtsschutzversicherung-schweiz)
-- [Steuern für Selbständige in der Schweiz: Kompletter Guide 2026](/artikel/steuern-selbststaendige)
-- [Erfolgsrechnung erstellen: Guide Schweiz 2026](/artikel/erfolgsrechnung-erstellen-schweiz)
+- [Berufshaftpflicht](/artikel/berufshaftpflicht-schweiz)
+- [Lebensversicherung Vergleich](/artikel/lebensversicherung-schweiz-vergleich)
+- [Rechtsschutzversicherung](/artikel/rechtsschutzversicherung-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

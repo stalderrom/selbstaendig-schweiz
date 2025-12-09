@@ -615,8 +615,9 @@ Bei gewerbsmässigem Wertschriftenhandel werden Gewinne steuerpflichtig (hohe H�
 
 ## Weiterführende Artikel
 
-- [Erfolgsrechnung erstellen: Guide Schweiz 2026](/artikel/erfolgsrechnung-erstellen-schweiz)
-- [Freizügigkeitskonto: Leitfaden Schweiz 2026](/artikel/freizuegigkeitskonto-schweiz)
+- [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+- [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
+- [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
 
 ## FAQ – Häufig gestellte Fragen
 
