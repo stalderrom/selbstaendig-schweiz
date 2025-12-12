@@ -57,8 +57,11 @@ function getArticlePriority(slug: string): number {
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articles = await getAllArticles();
 
+  // Use Punycode domain for SEO tools (Google Search Console, etc.)
+  const DOMAIN = 'https://www.xn--selbstndig-schweiz-qtb.ch';
+
   const articleUrls = articles.map((article) => ({
-    url: `https://www.selbständig-schweiz.ch/artikel/${article.slug}`,
+    url: `${DOMAIN}/artikel/${article.slug}`,
     lastModified: new Date(article.updatedAt),
     changeFrequency: 'weekly' as const,
     priority: getArticlePriority(article.slug),
@@ -77,7 +80,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
 
     return {
-      url: `https://www.selbständig-schweiz.ch/kategorie/${category.slug}`,
+      url: `${DOMAIN}/kategorie/${category.slug}`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority,
@@ -86,31 +89,31 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     {
-      url: 'https://www.selbständig-schweiz.ch',
+      url: DOMAIN,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1,
     },
     {
-      url: 'https://www.selbständig-schweiz.ch/artikel',
+      url: `${DOMAIN}/artikel`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
     },
     {
-      url: 'https://www.selbständig-schweiz.ch/impressum',
+      url: `${DOMAIN}/impressum`,
       lastModified: new Date(),
       changeFrequency: 'yearly',
       priority: 0.3,
     },
     {
-      url: 'https://www.selbständig-schweiz.ch/datenschutz',
+      url: `${DOMAIN}/datenschutz`,
       lastModified: new Date(),
       changeFrequency: 'yearly',
       priority: 0.3,
     },
     {
-      url: 'https://www.selbständig-schweiz.ch/kontakt',
+      url: `${DOMAIN}/kontakt`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,

@@ -192,15 +192,39 @@ Dein Artikel-Inhalt in Markdown..."
             </div>
           </form>
 
-          <div className="mt-8 p-4 bg-blue-50 rounded-lg">
-            <h3 className="font-semibold text-gray-900 mb-2">Markdown Hilfe:</h3>
-            <ul className="text-sm text-gray-700 space-y-1">
-              <li><code className="bg-white px-2 py-0.5 rounded"># Überschrift H1</code></li>
-              <li><code className="bg-white px-2 py-0.5 rounded">## Überschrift H2</code></li>
-              <li><code className="bg-white px-2 py-0.5 rounded">**Fettgedruckt**</code></li>
-              <li><code className="bg-white px-2 py-0.5 rounded">- Listenpunkt</code></li>
-              <li><code className="bg-white px-2 py-0.5 rounded">[Link Text](https://url)</code></li>
-            </ul>
+          <div className="mt-8 space-y-4">
+            <div className="p-4 bg-blue-50 rounded-lg">
+              <h3 className="font-semibold text-gray-900 mb-2">Markdown Hilfe:</h3>
+              <ul className="text-sm text-gray-700 space-y-1">
+                <li><code className="bg-white px-2 py-0.5 rounded"># Überschrift H1</code></li>
+                <li><code className="bg-white px-2 py-0.5 rounded">## Überschrift H2</code></li>
+                <li><code className="bg-white px-2 py-0.5 rounded">**Fettgedruckt**</code></li>
+                <li><code className="bg-white px-2 py-0.5 rounded">- Listenpunkt</code></li>
+                <li><code className="bg-white px-2 py-0.5 rounded">[Link Text](https://url)</code></li>
+              </ul>
+            </div>
+
+            <div className="p-4 bg-amber-50 border-l-4 border-amber-400 rounded-lg">
+              <h3 className="font-semibold text-gray-900 mb-2">✅ Brand Voice Checkliste:</h3>
+              <ul className="text-sm text-gray-700 space-y-1">
+                <li>✓ Klar & präzise schreiben (max. 20 Wörter pro Satz)</li>
+                <li>✓ Schweizer Begriffe verwenden (AHV, MWST, Einzelfirma)</li>
+                <li>✓ Konkrete Zahlen & Beispiele (CHF-Beträge)</li>
+                <li>✓ Du-Anrede konsequent nutzen</li>
+                <li>✓ Keine Marketing-Floskeln ("revolutionär", "einzigartig")</li>
+                <li>✓ Keine Übertreibungen ("garantiert", "immer")</li>
+                <li>✓ Sachlich & hilfreich bleiben</li>
+              </ul>
+            </div>
+
+            <div className="p-4 bg-green-50 rounded-lg">
+              <h3 className="font-semibold text-gray-900 mb-2">💡 Tonalität:</h3>
+              <p className="text-sm text-gray-700">
+                <strong>Schreibe wie ein erfahrener Schweizer Berater – nicht wie ein Verkäufer.</strong>
+                <br />
+                Unaufgeregt. Kompetent. Ruhig. Praxisnah.
+              </p>
+            </div>
           </div>
         </div>
       </div>

@@ -8,7 +8,7 @@
  */
 
 const INDEXNOW_API_KEY = '7d22c5dd-0c94-432e-b929-6355d1bc0152';
-const SITE_HOST = 'www.selbstaendig-schweiz.ch';
+const SITE_HOST = 'www.xn--selbstndig-schweiz-qtb.ch'; // Punycode version for SEO tools
 
 /**
  * Sendet eine einzelne URL an IndexNow

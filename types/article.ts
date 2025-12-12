@@ -28,45 +28,57 @@ export interface Category {
 
 export const CATEGORIES: Category[] = [
   {
-    slug: 'grundung',
-    name: 'Gründung & Start',
+    slug: 'allgemein',
+    name: 'Allgemein',
+    description: 'Allgemeine Artikel zur Selbständigkeit in der Schweiz',
+    keywords: ['selbständig schweiz', 'selbständigkeit', 'tipps', 'ratgeber', 'schweiz']
+  },
+  {
+    slug: 'selbstaendig-machen-/-gruendung',
+    name: 'Selbständig machen / Gründung',
     description: 'Alles rund um die Gründung deines Unternehmens in der Schweiz',
     keywords: ['startup schweiz', 'selbstständig machen', 'geschäft starten', 'einzelunternehmen', 'gründung']
   },
   {
-    slug: 'finanzen',
-    name: 'Finanzen & Steuern',
-    description: 'Steuern, Buchhaltung und finanzielle Aspekte der Selbständigkeit',
-    keywords: ['steuern', 'buchhaltung', 'mehrwertsteuer', 'steuererklärung', 'rechnungsvorlage']
+    slug: 'steuern',
+    name: 'Steuern',
+    description: 'Steuern, MWST und steuerliche Aspekte der Selbständigkeit',
+    keywords: ['steuern', 'mehrwertsteuer', 'mwst', 'steuererklärung', 'ahv']
   },
   {
     slug: 'versicherungen',
     name: 'Versicherungen',
     description: 'Wichtige Versicherungen für Selbständige in der Schweiz',
-    keywords: ['krankenversicherung', 'altersversicherung', 'haftpflicht', 'berufsunfähigkeit']
+    keywords: ['krankenversicherung', 'krankentaggeld', 'altersversicherung', 'haftpflicht', 'bvg']
   },
   {
-    slug: 'einkommen',
-    name: 'Einkommen & Preise',
-    description: 'Verdienst, Preisgestaltung und Honorare optimieren',
-    keywords: ['verdienen', 'tarif', 'honorar', 'preisgestaltung', 'einkommenssteigerung']
+    slug: 'buchhaltung-&-finanzen',
+    name: 'Buchhaltung & Finanzen',
+    description: 'Buchhaltung, Rechnungen und finanzielle Organisation',
+    keywords: ['buchhaltung', 'buchhaltungssoftware', 'rechnung', 'preisgestaltung', 'honorar']
   },
   {
-    slug: 'marketing',
-    name: 'Marketing & Kunden',
+    slug: 'marketing-&-kundenakquise',
+    name: 'Marketing & Kundenakquise',
     description: 'Kunden gewinnen und Marketing-Strategien',
     keywords: ['marketing', 'kundenakquisition', 'seo', 'social media', 'kunden finden']
   },
   {
-    slug: 'berufe',
-    name: 'Berufe & Branchen',
-    description: 'Spezifische Informationen zu verschiedenen selbständigen Berufen',
-    keywords: ['freelancer schweiz', 'texter', 'grafiker', 'programmierer', 'consultant']
+    slug: 'tools-&-software',
+    name: 'Tools & Software',
+    description: 'Nützliche Tools und Software für Selbständige',
+    keywords: ['buchhaltungssoftware', 'projektmanagement', 'zeiterfassung', 'crm', 'tools']
   },
   {
-    slug: 'lifestyle',
-    name: 'Lifestyle & Balance',
-    description: 'Work-Life-Balance und ortsunabhängiges Arbeiten',
-    keywords: ['work-life balance', 'home office', 'ortsunabhängig', 'burnout']
+    slug: 'berufsratgeber',
+    name: 'Berufsratgeber',
+    description: 'Spezifische Informationen zu verschiedenen selbständigen Berufen',
+    keywords: ['selbständig als', 'freelancer schweiz', 'grafiker', 'programmierer', 'consultant']
+  },
+  {
+    slug: 'einkommen-&-geschaeftsmodelle',
+    name: 'Einkommen & Geschäftsmodelle',
+    description: 'Verdienst, Geschäftsmodelle und Einkommensoptimierung',
+    keywords: ['geld verdienen', 'einkommen', 'geschäftsmodell', 'nebeneinkommen', 'passives einkommen']
   }
 ];
