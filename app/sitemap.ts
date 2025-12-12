@@ -57,8 +57,8 @@ function getArticlePriority(slug: string): number {
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articles = await getAllArticles();
 
-  // Use Punycode domain for SEO tools (Google Search Console, etc.)
-  const DOMAIN = 'https://www.xn--selbstndig-schweiz-qtb.ch';
+  // Use the actual domain that matches the GSC property
+  const DOMAIN = 'https://www.selbständig-schweiz.ch';
 
   const articleUrls = articles.map((article) => ({
     url: `${DOMAIN}/artikel/${article.slug}`,
