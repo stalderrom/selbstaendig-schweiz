@@ -69,7 +69,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const categoryUrls = CATEGORIES.map((category) => {
     // Phase 1 Kategorien: Higher Priority
-    const phase1Categories = ['selbstaendig-machen-/-gruendung', 'buchhaltung-&-finanzen'];
+    const phase1Categories = ['selbstaendig-machen-gruendung', 'buchhaltung-und-finanzen'];
     const phase2Categories = ['steuern', 'versicherungen'];
 
     let priority = 0.6; // Default für Phase 3

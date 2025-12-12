@@ -34,7 +34,7 @@ export const CATEGORIES: Category[] = [
     keywords: ['selbständig schweiz', 'selbständigkeit', 'tipps', 'ratgeber', 'schweiz']
   },
   {
-    slug: 'selbstaendig-machen-/-gruendung',
+    slug: 'selbstaendig-machen-gruendung',
     name: 'Selbständig machen / Gründung',
     description: 'Alles rund um die Gründung deines Unternehmens in der Schweiz',
     keywords: ['startup schweiz', 'selbstständig machen', 'geschäft starten', 'einzelunternehmen', 'gründung']
@@ -52,19 +52,19 @@ export const CATEGORIES: Category[] = [
     keywords: ['krankenversicherung', 'krankentaggeld', 'altersversicherung', 'haftpflicht', 'bvg']
   },
   {
-    slug: 'buchhaltung-&-finanzen',
+    slug: 'buchhaltung-und-finanzen',
     name: 'Buchhaltung & Finanzen',
     description: 'Buchhaltung, Rechnungen und finanzielle Organisation',
     keywords: ['buchhaltung', 'buchhaltungssoftware', 'rechnung', 'preisgestaltung', 'honorar']
   },
   {
-    slug: 'marketing-&-kundenakquise',
+    slug: 'marketing-und-kundenakquise',
     name: 'Marketing & Kundenakquise',
     description: 'Kunden gewinnen und Marketing-Strategien',
     keywords: ['marketing', 'kundenakquisition', 'seo', 'social media', 'kunden finden']
   },
   {
-    slug: 'tools-&-software',
+    slug: 'tools-und-software',
     name: 'Tools & Software',
     description: 'Nützliche Tools und Software für Selbständige',
     keywords: ['buchhaltungssoftware', 'projektmanagement', 'zeiterfassung', 'crm', 'tools']
@@ -76,7 +76,7 @@ export const CATEGORIES: Category[] = [
     keywords: ['selbständig als', 'freelancer schweiz', 'grafiker', 'programmierer', 'consultant']
   },
   {
-    slug: 'einkommen-&-geschaeftsmodelle',
+    slug: 'einkommen-und-geschaeftsmodelle',
     name: 'Einkommen & Geschäftsmodelle',
     description: 'Verdienst, Geschäftsmodelle und Einkommensoptimierung',
     keywords: ['geld verdienen', 'einkommen', 'geschäftsmodell', 'nebeneinkommen', 'passives einkommen']
