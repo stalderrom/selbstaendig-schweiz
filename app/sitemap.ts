@@ -57,8 +57,9 @@ function getArticlePriority(slug: string): number {
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articles = await getAllArticles();
 
-  // Use the actual domain that matches the GSC property
-  const DOMAIN = 'https://www.selbständig-schweiz.ch';
+  // Use Punycode for XML compatibility (Google's sitemap parser needs ASCII)
+  // Note: GSC property can still be selbständig-schweiz.ch, but sitemap URLs must be Punycode
+  const DOMAIN = 'https://www.xn--selbstndig-schweiz-qtb.ch';
 
   const articleUrls = articles.map((article) => ({
     url: `${DOMAIN}/artikel/${article.slug}`,
