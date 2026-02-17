@@ -4,7 +4,7 @@ description: "Welche Bewilligungen brauchen Selbständige in der Schweiz? Gewerb
 keywords: ["bewilligungen selbständige schweiz", "gewerbebewilligung schweiz", "berufszulassung selbständige", "bewilligung gewerbe schweiz", "selbständig machen bewilligung"]
 category: "allgemein"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-22"
 slug: "bewilligungen-selbststaendige"
 faq:
   - question: Brauche ich als Selbständiger immer eine Bewilligung?

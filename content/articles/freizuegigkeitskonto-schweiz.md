@@ -10,7 +10,7 @@ slug: "freizuegigkeitskonto-schweiz"
 
 # Freizügigkeitskonto Schweiz: Kompletter Guide 2026
 
-Du planst einen Jobwechsel, den Schritt in die Selbständigkeit oder eine berufliche Auszeit? Dann stehst du vor einer wichtigen Frage: Was passiert mit deinem Pensionskassengeld? Viele Schweizer sind unsicher über ihre Optionen und fürchten, wertvolle Vorsorgegelder zu verlieren oder steuerliche Nachteile zu erleiden.
+Du planst den Schritt [in die Selbständigkeit](/artikel/buchhaltung-selbststaendige) oder eine berufliche Auszeit? Dann stehst du vor einer wichtigen Frage: Was passiert mit deinem Pensionskassengeld? Viele Schweizer sind unsicher über ihre Optionen und fürchten, wertvolle Vorsorgegelder zu verlieren oder steuerliche Nachteile zu erleiden.
 
 Ein Freizügigkeitskonto bietet dir eine sichere Lösung für diese Übergangszeit. Es ermöglicht dir, dein BVG-Guthaben optimal zu überbrücken und dabei sogar Steuervorteile zu nutzen. In diesem Guide erfährst du, wann ein Freizügigkeitskonto Sinn macht, wie du es eröffnest und welche Anbieter die besten Konditionen bieten. Zudem zeigen wir dir konkrete Schritte und häufige Fehler, die du vermeiden solltest.
 

@@ -4,7 +4,7 @@ description: "Altersvorsorge für Selbständige: Säule 3a, freiwillige Pensions
 keywords: ["altersvorsorge selbständige schweiz", "säule 3a selbständige", "pensionskasse selbständige schweiz", "vorsorge freelancer schweiz", "rente selbständige schweiz"]
 category: "versicherungen"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-10"
 slug: "altersvorsorge-selbststaendige"
 faq:
   - question: Wie viel sollte ich als Selbständiger für die Altersvorsorge sparen?

@@ -10,7 +10,7 @@ slug: "einfache-buchhaltung-schweiz"
 
 # Einfache Buchhaltung Schweiz – Kompletter Guide 2026
 
-**Einfache Buchhaltung** in der Schweiz erschreckt viele Selbständige unnötig. Dabei ist diese Form der Buchführung nicht nur gesetzlich vollkommen ausreichend für kleine Unternehmen, sondern auch deutlich unkomplizierter als gedacht. Nach Obligationenrecht Artikel 957 müssen alle Schweizer Einzelfirmen und Personengesellschaften eine Buchhaltung führen – die einfache Form reicht bis CHF 500'000 Jahresumsatz völlig aus.
+Als Selbständiger brauchst du eine funktionierende [Buchhaltung](/artikel/buchhaltung-selbststaendige) – und die **einfache Buchhaltung** in der Schweiz erschreckt viele unnötig. Dabei ist diese Form der Buchführung nicht nur gesetzlich vollkommen ausreichend für kleine Unternehmen, sondern auch deutlich unkomplizierter als gedacht. Nach Obligationenrecht Artikel 957 müssen alle Schweizer Einzelfirmen und Personengesellschaften eine Buchhaltung führen – die einfache Form reicht bis CHF 500'000 Jahresumsatz völlig aus.
 
 In diesem Guide lernst du Schritt für Schritt, wie du deine Buchhaltung legal und effizient selbst führst. Du erfährst, welche Software sich bewährt hat, was die Buchhaltung wirklich kostet und wie du typische Anfängerfehler vermeidest. Das Ziel: Eine saubere, steuerrechtlich korrekte Buchhaltung mit minimalem Zeitaufwand.
 

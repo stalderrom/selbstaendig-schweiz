@@ -4,7 +4,7 @@ description: "Selbständig als Coach in der Schweiz: Welche Ausbildung braucht m
 keywords: ["selbständig als coach schweiz", "coach selbständig machen schweiz", "coaching business schweiz", "life coach schweiz selbständig", "business coach schweiz"]
 category: "selbststaendigkeit-nach-beruf"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-02-17"
 slug: "selbstaendig-als-coach-schweiz"
 faq:
   - question: Brauche ich als Coach eine Bewilligung in der Schweiz?

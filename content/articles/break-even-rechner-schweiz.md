@@ -4,7 +4,7 @@ description: "Break-Even-Analyse für Selbständige in der Schweiz: Formel, Beis
 keywords: ["break even analyse schweiz", "break even berechnen selbständige", "break even punkt schweiz", "gewinnschwelle berechnen schweiz", "break even rechner schweiz"]
 category: "buchhaltung-und-finanzen"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-02-17"
 slug: "break-even-rechner-schweiz"
 faq:
   - question: Was ist der Break-Even-Punkt?

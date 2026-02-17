@@ -4,7 +4,7 @@ description: "Selbständig als Architekt in der Schweiz: Berufszulassung, Kammer
 keywords: ["selbständig als architekt schweiz", "architekt selbständig machen schweiz", "architekturbüro gründen schweiz", "sia mitgliedschaft selbständig", "architekt stundensatz schweiz"]
 category: "selbststaendigkeit-nach-beruf"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-02-17"
 slug: "selbstaendig-als-architekt-schweiz"
 faq:
   - question: Brauche ich eine besondere Zulassung als selbständiger Architekt in der Schweiz?

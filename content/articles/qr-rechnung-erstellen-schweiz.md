@@ -10,7 +10,7 @@ slug: "qr-rechnung-erstellen-schweiz"
 
 # QR Rechnung erstellen Schweiz: Kompletter Guide 2026
 
-**QR Rechnung erstellen** ist seit 2022 für alle Schweizer Unternehmen und Selbständige zur Pflicht geworden. Die alten orangen und roten Einzahlungsscheine sind Geschichte – wer heute professionell Rechnungen stellen will, kommt um die QR-Rechnung nicht herum. Viele Einzelfirmen und KMU sind jedoch verunsichert: Wie erstellt man korrekte QR-Rechnungen? Welche Tools sind empfehlenswert? Und was kostet das Ganze? Dieser Guide zeigt dir Schritt für Schritt, wie du QR-Rechnungen erstellst, Zeit sparst und dabei alle rechtlichen Anforderungen erfüllst.
+Als Teil deiner [Buchhaltung](/artikel/buchhaltung-selbststaendige) musst du **QR Rechnungen erstellen** – das ist seit 2022 für alle Schweizer Unternehmen und Selbständige zur Pflicht geworden. Die alten orangen und roten Einzahlungsscheine sind Geschichte – wer heute professionell Rechnungen stellen will, kommt um die QR-Rechnung nicht herum. Viele Einzelfirmen und KMU sind jedoch verunsichert: Wie erstellt man korrekte QR-Rechnungen? Welche Tools sind empfehlenswert? Und was kostet das Ganze? Dieser Guide zeigt dir Schritt für Schritt, wie du QR-Rechnungen erstellst, Zeit sparst und dabei alle rechtlichen Anforderungen erfüllst.
 
 ## Was ist eine QR-Rechnung und warum ist sie in der Schweiz Pflicht?
 

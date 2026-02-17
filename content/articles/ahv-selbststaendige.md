@@ -4,7 +4,7 @@ description: "AHV für Selbständige in der Schweiz: Wie hoch sind die Beiträge
 keywords: ["ahv selbständige schweiz", "ahv beiträge selbständige", "ahv anmeldung selbständig", "sozialversicherungen selbständige schweiz", "ahv berechnen selbständige"]
 category: "versicherungen"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-10"
 slug: "ahv-selbststaendige"
 faq:
   - question: Wie hoch sind die AHV-Beiträge für Selbständige?

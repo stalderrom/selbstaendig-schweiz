@@ -4,7 +4,7 @@ description: "Stundensatz berechnen als Selbständiger in der Schweiz: Formel, R
 keywords: ["stundensatz berechnen schweiz", "stundensatz selbständige", "stundensatz freelancer schweiz", "wie viel stundensatz schweiz", "tagessatz berechnen"]
 category: "buchhaltung-und-finanzen"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-01"
 slug: "stundensatz-berechnen"
 faq:
   - question: Wie berechne ich meinen Stundensatz?

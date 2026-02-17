@@ -10,7 +10,7 @@ slug: "lohnabrechnung-schweiz-unternehmen"
 
 # Lohnabrechnung Schweiz – Kompletter Guide 2026
 
-Die erste eigene Lohnabrechnung als Arbeitgeber kann überwältigend sein. Zwischen AHV-Abzügen, BVG-Beiträgen und kantonalen Quellensteuer-Regelungen verliert man schnell den Überblick. Viele neue Unternehmer machen teure Fehler, die später zu Nachzahlungen und Bußen führen. Dieser Guide zeigt dir Schritt für Schritt, wie du korrekte Lohnabrechnungen erstellst, welche Software sich lohnt und wie du die häufigsten Stolperfallen vermeidest. Am Ende sparst du Zeit, Geld und Nerven.
+Die [Buchhaltung](/artikel/buchhaltung-selbststaendige) wird komplexer, sobald du Mitarbeiter anstellst. Die erste eigene Lohnabrechnung als Arbeitgeber kann überwältigend sein. Zwischen AHV-Abzügen, BVG-Beiträgen und kantonalen Quellensteuer-Regelungen verliert man schnell den Überblick. Viele neue Unternehmer machen teure Fehler, die später zu Nachzahlungen und Bußen führen. Dieser Guide zeigt dir Schritt für Schritt, wie du korrekte Lohnabrechnungen erstellst, welche Software sich lohnt und wie du die häufigsten Stolperfallen vermeidest. Am Ende sparst du Zeit, Geld und Nerven.
 
 ## Was bedeutet Lohnabrechnung in der Schweiz?
 

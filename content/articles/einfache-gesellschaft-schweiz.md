@@ -10,7 +10,7 @@ slug: "einfache-gesellschaft-schweiz"
 
 # Einfache Gesellschaft Schweiz – Kompletter Guide 2026
 
-**Eine einfache Gesellschaft** entsteht in der Schweiz oft ohne dass es die Beteiligten merken. Sobald zwei Personen gemeinsam ein Ziel verfolgen, haben sie rechtlich eine einfache Gesellschaft gegründet – auch ohne schriftlichen Vertrag oder Handelsregistereintrag.
+Du möchtest mit einem Partner [selbständig werden in der Schweiz](/artikel/selbstaendig-machen-schweiz)? **Eine einfache Gesellschaft** entsteht in der Schweiz oft ohne dass es die Beteiligten merken. Sobald zwei Personen gemeinsam ein Ziel verfolgen, haben sie rechtlich eine einfache Gesellschaft gegründet – auch ohne schriftlichen Vertrag oder Handelsregistereintrag.
 
 Diese automatische Entstehung führt häufig zu rechtlicher Unsicherheit. Viele Freelancer, Start-up-Teams oder Projektpartner wissen nicht, dass sie bereits eine Gesellschaft gebildet haben und welche Pflichten damit verbunden sind. Besonders problematisch: Alle Gesellschafter haften unbeschränkt mit ihrem Privatvermögen.
 

@@ -4,7 +4,7 @@ description: "Handelsregister Eintrag Schweiz: Wann ist der Eintrag Pflicht, wan
 keywords: ["handelsregister eintrag schweiz", "handelsregister einzelfirma schweiz", "handelsregister anmeldung kosten", "zefix handelsregister", "handelsregistereintrag gmbh"]
 category: "unternehmensgruendung"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-02-06"
 slug: "handelsregister-eintrag-schweiz"
 faq:
   - question: Ab wann muss ich meine Einzelfirma ins Handelsregister eintragen?

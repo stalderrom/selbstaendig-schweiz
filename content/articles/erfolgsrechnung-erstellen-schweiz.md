@@ -10,7 +10,7 @@ slug: "erfolgsrechnung-erstellen-schweiz"
 
 # Erfolgsrechnung in der Schweiz: Kompletter Guide 2026
 
-Die Erfolgsrechnung ist für viele Schweizer Selbständige und KMU-Inhaber ein Buch mit sieben Siegeln. Dabei ist sie nicht nur gesetzliche Pflicht, sondern auch ein mächtiges Instrument für bessere Geschäftsentscheidungen und Steueroptimierung. Du erfährst in diesem Guide, wie du deine Erfolgsrechnung korrekt erstellst, welche Kosten auf dich zukommen und welche häufigen Fehler du vermeiden solltest. Mit den praktischen Schritt-für-Schritt-Anleitungen und Beispielrechnungen aus der Schweizer Praxis bekommst du alle Werkzeuge an die Hand, die du für eine professionelle Erfolgsrechnung benötigst.
+Die [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige) umfasst auch die Erfolgsrechnung – die für viele Schweizer Selbständige und KMU-Inhaber ein Buch mit sieben Siegeln ist. Dabei ist sie nicht nur gesetzliche Pflicht, sondern auch ein mächtiges Instrument für bessere Geschäftsentscheidungen und Steueroptimierung. Du erfährst in diesem Guide, wie du deine Erfolgsrechnung korrekt erstellst, welche Kosten auf dich zukommen und welche häufigen Fehler du vermeiden solltest. Mit den praktischen Schritt-für-Schritt-Anleitungen und Beispielrechnungen aus der Schweizer Praxis bekommst du alle Werkzeuge an die Hand, die du für eine professionelle Erfolgsrechnung benötigst.
 
 ## Was bedeutet Erfolgsrechnung in der Schweiz?
 

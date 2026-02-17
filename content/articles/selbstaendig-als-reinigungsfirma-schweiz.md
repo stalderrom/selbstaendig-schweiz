@@ -4,7 +4,7 @@ description: "Reinigungsfirma gründen in der Schweiz: Welche Bewilligungen brau
 keywords: ["reinigungsfirma gründen schweiz", "selbständig reinigung schweiz", "putzdienst selbständig schweiz", "reinigungsunternehmen schweiz", "gebäudereinigung selbständig"]
 category: "selbststaendigkeit-nach-beruf"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-02-17"
 slug: "selbstaendig-als-reinigungsfirma-schweiz"
 faq:
   - question: Brauche ich eine Bewilligung für eine Reinigungsfirma in der Schweiz?

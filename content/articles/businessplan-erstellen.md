@@ -4,7 +4,7 @@ description: "Businessplan erstellen für die Schweiz: Aufbau, Vorlage, Tipps f�
 keywords: ["businessplan erstellen schweiz", "businessplan vorlage schweiz", "businessplan gründung schweiz", "businessplan bank schweiz", "businessplan beispiel"]
 category: "allgemein"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-06"
 slug: "businessplan-erstellen"
 faq:
   - question: Brauche ich einen Businessplan wenn ich mich selbständig mache?

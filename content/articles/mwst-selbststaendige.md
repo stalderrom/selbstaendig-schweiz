@@ -4,7 +4,7 @@ description: "MWST für Selbständige in der Schweiz: Ab wann Pflicht, Sätze, A
 keywords: ["mwst selbständige", "mehrwertsteuer schweiz selbständig", "mwst pflicht schweiz", "mwst anmelden schweiz", "vorsteuer selbständige"]
 category: "steuern"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-01"
 slug: "mwst-selbststaendige"
 faq:
   - question: Ab wann muss ich MWST abrechnen?

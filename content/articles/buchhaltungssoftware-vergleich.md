@@ -4,7 +4,7 @@ description: "Buchhaltungssoftware Schweiz im Vergleich: Bexio, Klara, Banana, R
 keywords: ["buchhaltungssoftware schweiz", "buchhaltungssoftware vergleich schweiz", "beste buchhaltungssoftware schweiz", "bexio alternative", "buchhaltung selbständige software"]
 category: "buchhaltung-und-finanzen"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-19"
 slug: "buchhaltungssoftware-vergleich"
 faq:
   - question: Welche Buchhaltungssoftware ist die beste für Selbständige in der Schweiz?

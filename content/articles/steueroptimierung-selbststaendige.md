@@ -4,7 +4,7 @@ description: "Steuern sparen als Selbständiger in der Schweiz: 12 legale Steuer
 keywords: ["steueroptimierung selbständige schweiz", "steuern sparen selbständig schweiz", "steuerabzüge selbständige schweiz", "legale steueroptimierung schweiz", "steuertipps selbständige"]
 category: "steuern"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-22"
 slug: "steueroptimierung-selbststaendige"
 faq:
   - question: Wie viel Steuern kann ich als Selbständiger legal sparen?

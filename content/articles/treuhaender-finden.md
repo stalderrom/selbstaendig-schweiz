@@ -4,7 +4,7 @@ description: "Treuhänder für Selbständige in der Schweiz finden: Was kostet e
 keywords: ["treuhänder finden schweiz", "treuhänder selbständige schweiz", "treuhänder kosten schweiz", "steuerberater schweiz selbständige", "treuhänder empfehlung schweiz"]
 category: "buchhaltung-und-finanzen"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-02-06"
 slug: "treuhaender-finden"
 faq:
   - question: Wann brauche ich als Selbständiger einen Treuhänder?

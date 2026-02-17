@@ -4,7 +4,7 @@ description: "Geschäftskonto Schweiz im Vergleich: Neon Business, Revolut, UBS,
 keywords: ["geschäftskonto schweiz vergleich", "geschäftskonto selbständige schweiz", "bestes geschäftskonto schweiz", "geschäftskonto kosten schweiz", "firmenkonto schweiz"]
 category: "buchhaltung-und-finanzen"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-02-06"
 slug: "geschaeftskonto-vergleich"
 faq:
   - question: Brauche ich als Selbständiger zwingend ein Geschäftskonto?

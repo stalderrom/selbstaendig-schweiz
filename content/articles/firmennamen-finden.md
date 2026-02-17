@@ -4,7 +4,7 @@ description: "Firmennamen finden in der Schweiz: Rechtliche Anforderungen, Namen
 keywords: ["firmennamen finden schweiz", "firmenname prüfen schweiz", "firmennamen ideen schweiz", "zefix firmenname", "firmenname gmbh schweiz"]
 category: "allgemein"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-22"
 slug: "firmennamen-finden"
 faq:
   - question: Wie prüfe ich ob ein Firmenname in der Schweiz bereits vergeben ist?

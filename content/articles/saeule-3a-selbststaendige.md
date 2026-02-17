@@ -4,7 +4,7 @@ description: "Säule 3a für Selbständige in der Schweiz: Maximalbetrag 2026, b
 keywords: ["säule 3a selbständige schweiz", "säule 3a ohne pensionskasse", "3a maximalbetrag selbständige", "säule 3a steuerabzug", "selbständige altersvorsorge 3a"]
 category: "versicherungen-und-vorsorge"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-02-06"
 slug: "saeule-3a-selbststaendige"
 faq:
   - question: Wie viel darf ich als Selbständiger in die Säule 3a einzahlen?

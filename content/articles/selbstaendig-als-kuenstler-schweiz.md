@@ -4,7 +4,7 @@ description: "Selbständig als Künstler in der Schweiz: AHV-Beiträge, Steuern,
 keywords: ["selbständig als künstler schweiz", "künstler selbständig steuern schweiz", "kunstschaffende ahv schweiz", "stipendium künstler schweiz", "freelance künstler schweiz"]
 category: "selbststaendigkeit-nach-beruf"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-02-17"
 slug: "selbstaendig-als-kuenstler-schweiz"
 faq:
   - question: Müssen Künstler in der Schweiz AHV bezahlen?

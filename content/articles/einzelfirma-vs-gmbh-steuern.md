@@ -4,7 +4,7 @@ description: "Einzelfirma vs. GmbH Steuern Schweiz: Ab welchem Einkommen ist die
 keywords: ["einzelfirma vs gmbh steuern schweiz", "gmbh steuern vergleich einzelfirma", "wann gmbh gründen steuer", "steuervergleich rechtsformen schweiz", "gmbh oder einzelfirma schweiz"]
 category: "steuern"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-19"
 slug: "einzelfirma-vs-gmbh-steuern"
 faq:
   - question: Ab welchem Einkommen lohnt sich eine GmbH steuerlich?

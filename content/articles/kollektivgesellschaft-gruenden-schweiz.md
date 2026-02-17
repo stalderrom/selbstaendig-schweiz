@@ -10,7 +10,7 @@ slug: "kollektivgesellschaft-gruenden-schweiz"
 
 # Kollektivgesellschaft gründen in der Schweiz: Vollständiger Guide 2026
 
-Eine **Kollektivgesellschaft gründen** ist eine klassische Option für Partner, die gemeinsam ein Unternehmen führen möchten. Nach Schweizer Obligationenrecht handelt es sich dabei um eine Personengesellschaft mit unbeschränkter Haftung aller Beteiligten.
+Wenn du mit Partnern [selbständig werden](/artikel/selbstaendig-machen-schweiz) möchtest, ist eine **Kollektivgesellschaft gründen** eine klassische Option. Nach Schweizer Obligationenrecht handelt es sich dabei um eine Personengesellschaft mit unbeschränkter Haftung aller Beteiligten.
 
 In diesem Guide erfährst du alles Wichtige zur Kollektivgesellschaft: von den rechtlichen Grundlagen über konkrete Gründungsschritte bis hin zu Kosten und Haftungsrisiken. Du lernst, wann diese Rechtsform sinnvoll ist und welche Alternativen du hast. Besonders wichtig: die steuerlichen Besonderheiten und praktischen Herausforderungen, die dich als Gesellschafter in der Schweiz erwarten.
 

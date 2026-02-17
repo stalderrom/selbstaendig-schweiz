@@ -4,7 +4,7 @@ description: "Krankentaggeld für Selbständige in der Schweiz: Was ist versiche
 keywords: ["krankentaggeld selbständige schweiz", "krankentaggeld freelancer schweiz", "krankentaggeld kosten selbständige", "taggeldversicherung selbständige", "einkommensausfall krankheit selbständige"]
 category: "versicherungen"
 author: "Redaktion"
-publishedAt: "2026-01-15"
+publishedAt: "2026-01-06"
 slug: "krankentaggeld-selbststaendige"
 faq:
   - question: Was kostet Krankentaggeld für Selbständige?

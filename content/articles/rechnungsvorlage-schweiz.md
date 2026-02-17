@@ -10,7 +10,7 @@ slug: "rechnungsvorlage-schweiz"
 
 # Rechnungsvorlage Schweiz 2026: Kostenlose Vorlagen + Rechtliche Anforderungen
 
-Eine **Rechnungsvorlage Schweiz** ist für Selbständige und KMU unverzichtbar, um rechtskonforme Rechnungen zu erstellen. Über 80% der Schweizer Kleinunternehmer nutzen Vorlagen, um Zeit zu sparen und Fehler zu vermeiden. Doch viele wissen nicht, welche Pflichtangaben auf eine schweizer Rechnung gehören und wann die MWST ausgewiesen werden muss. Dieser Guide zeigt dir, wie du professionelle Rechnungen erstellst, welche rechtlichen Anforderungen gelten und wie du häufige Fehler vermeidest. Du erfährst alles über MWST-Regeln, Pflichtangaben und kostenlose Vorlagen für dein Schweizer Unternehmen.
+Eine **Rechnungsvorlage Schweiz** ist für deine [Buchhaltung als Selbständiger](/artikel/buchhaltung-selbststaendige) unverzichtbar, um rechtskonforme Rechnungen zu erstellen. Über 80% der Schweizer Kleinunternehmer nutzen Vorlagen, um Zeit zu sparen und Fehler zu vermeiden. Doch viele wissen nicht, welche Pflichtangaben auf eine schweizer Rechnung gehören und wann die MWST ausgewiesen werden muss. Dieser Guide zeigt dir, wie du professionelle Rechnungen erstellst, welche rechtlichen Anforderungen gelten und wie du häufige Fehler vermeidest. Du erfährst alles über MWST-Regeln, Pflichtangaben und kostenlose Vorlagen für dein Schweizer Unternehmen.
 
 ## Was bedeutet eine rechtskonforme Rechnung in der Schweiz?
 
