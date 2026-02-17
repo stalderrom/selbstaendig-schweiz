@@ -209,8 +209,8 @@ Falls du dich für eine Kollektivgesellschaft entscheidest, investiere unbedingt
 5. Plane eine umfassende Haftpflichtversicherung ein
 
 **Weiterführende Artikel:**
-- [GmbH gründen in der Schweiz: Vollständiger Guide 2026]
-- [Einzelfirma vs. GmbH: Welche Rechtsform passt zu dir?]
-- [Gesellschaftsvertrag: Diese Punkte musst du regeln]
-- [Selbständig werden in der Schweiz: Der komplette Leitfaden]
-- [Buchhaltung für Selbständige: Einfach erklärt]
+- [GmbH gründen in der Schweiz: Vollständiger Guide 2026](/artikel/gmbh-gruenden)
+- [Einzelfirma vs. GmbH: Steuervergleich](/artikel/einzelfirma-vs-gmbh-steuern)
+- [Einfache Gesellschaft gründen: Rechte und Pflichten](/artikel/einfache-gesellschaft-schweiz)
+- [Selbständig werden in der Schweiz: Der komplette Leitfaden](/artikel/selbstaendig-werden-schweiz)
+- [Buchhaltung für Selbständige: Einfach erklärt](/artikel/buchhaltung-selbststaendige)

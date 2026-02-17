@@ -323,8 +323,8 @@ Rechtskonforme Rechnungen sind Pflicht, aber mit den richtigen Vorlagen einfach 
 Der Erfolg deines Unternehmens hängt auch von professioneller Verwaltung ab. Eine durchdachte Rechnungsstellung ist der erste Schritt zu effizienter Geschäftsführung und zufriedenen Kunden.
 
 **Weiterführende Artikel:**
-- [Buchhaltung Schweiz: Kompletter Guide für Selbständige]
-- [MWST Schweiz: Alles zur Mehrwertsteuer-Anmeldung]  
-- [Einzelfirma gründen Schweiz: Schritt-für-Schritt Anleitung]
-- [Geschäftskonto Schweiz: Die besten Konten für Selbständige]
-- [Treuhänder Schweiz: Kosten und Leistungen im Überblick]
+- [Buchhaltung Schweiz: Kompletter Guide für Selbständige](/artikel/buchhaltung-selbststaendige)
+- [MWST für Selbständige: Alles zur Mehrwertsteuer-Anmeldung](/artikel/mwst-selbststaendige)
+- [Einzelfirma gründen Schweiz: Schritt-für-Schritt Anleitung](/artikel/einzelfirma-gruenden)
+- [Geschäftskonto Schweiz: Die besten Konten für Selbständige](/artikel/geschaeftskonto-vergleich)
+- [Treuhänder Schweiz: Kosten und Leistungen im Überblick](/artikel/treuhaender-finden)

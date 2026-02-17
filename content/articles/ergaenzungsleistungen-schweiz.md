@@ -326,7 +326,7 @@ Wichtig ist die rechtzeitige Antragstellung. EL werden nur ab Antragsmonat gewä
 Lass dich nicht von bürokratischen Hürden abschrecken. Kompetente Beratung erhältst du kostenlos bei Pro Senectute, den Ausgleichskassen oder Sozialberatungsstellen deiner Gemeinde. Dein Anspruch auf ein würdiges Leben im Alter ist wichtiger als falsche Scham.
 
 **Weiterführende Artikel:**
-- [Hilflosenentschädigung: Zusätzliche Unterstützung bei Pflegebedürftigkeit]
-- [AHV-Rente optimieren: So holst du das Maximum heraus]  
-- [Prämienverbilligung: Krankenkassenprämien reduzieren]
-- [Steuern sparen im Rentenalter: Legale Optimierungsmöglichkeiten]
+- [Versicherungen für Selbständige: Übersicht](/artikel/versicherungen-selbststaendige)
+- [AHV-Rente berechnen: So holst du das Maximum heraus](/artikel/ahv-rente-berechnen-schweiz)
+- [Freizügigkeitskonto Schweiz: Vorsorge optimieren](/artikel/freizuegigkeitskonto-schweiz)
+- [Steueroptimierung: Legale Möglichkeiten nutzen](/artikel/steueroptimierung-selbststaendige)

@@ -291,7 +291,7 @@ Reine Risikolebensversicherungen sind meist günstiger und sinnvoller als teure 
 Die richtige Lebensversicherung gibt dir die Sicherheit, dass deine Familie auch ohne dich finanziell abgesichert ist. Mit den enormen Steuervorteilen der Säule 3a wird sie zu einem der wichtigsten Bausteine deiner Finanzplanung.
 
 **Weiterführende Artikel:**
-- [Säule 3a für Selbständige: Maximale Steuervorteile nutzen 2026]
-- [Erwerbsunfähigkeitsversicherung Schweiz: Schutz bei Arbeitsunfähigkeit]  
-- [Vorsorgeplanung Schweiz: Kompletter Leitfaden für Selbständige]
-- [Pensionskasse für Selbständige: Freiwillige BVG-Anbindung]
+- [Säule 3a für Selbständige: Maximale Steuervorteile nutzen 2026](/artikel/saeule-3a-selbststaendige)
+- [Versicherungen für Selbständige: Krankentaggeld und mehr](/artikel/versicherungen-selbststaendige)
+- [Altersvorsorge für Selbständige: Kompletter Leitfaden](/artikel/altersvorsorge-selbststaendige)
+- [Freizügigkeitskonto Schweiz: BVG-Guthaben optimal anlegen](/artikel/freizuegigkeitskonto-schweiz)

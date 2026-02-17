@@ -168,8 +168,8 @@ Die wichtigsten Erfolgsfaktoren sind realistische Preiskalkulation mit ausreiche
 **Deine nächsten Schritte:** Wähle eine passende Software oder erstelle professionelle Templates. Beginne mit einer Testofferte nach diesem Schema und hole dir Feedback von bestehenden Kunden. Baue ein System für systematische Nachfassung auf – hier liegt oft das grösste Verbesserungspotenzial.
 
 **Weiterführende Artikel:**
-- [Preise kalkulieren als Selbständiger – Schweizer Guide 2026]
-- [MWST-Anmeldung Schweiz – Alle Schritte im Detail]
-- [Rechnungen schreiben – Rechtssicherer Guide für die Schweiz]
-- [AGB erstellen für Schweizer KMU – Kostenlose Vorlagen]
-- [Einzelfirma gründen Schweiz – Kompletter Guide 2026]
+- [Stundensatz berechnen – Schweizer Guide 2026](/artikel/stundensatz-berechnen)
+- [MWST für Selbständige – Alle Schritte im Detail](/artikel/mwst-selbststaendige)
+- [Rechnungsvorlage Schweiz – Rechtssicherer Guide](/artikel/rechnungsvorlage-schweiz)
+- [Selbständig werden Schweiz – Rechtliches und Verträge](/artikel/selbstaendig-werden-schweiz)
+- [Einzelfirma gründen Schweiz – Kompletter Guide 2026](/artikel/einzelfirma-gruenden)

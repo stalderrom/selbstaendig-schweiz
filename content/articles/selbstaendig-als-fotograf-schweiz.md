@@ -316,8 +316,8 @@ Die grössten Risiken sind selbstgemacht: Zu niedrige Preise, fehlende Verträge
 4. Erste Testkunden über dein Netzwerk akquirieren
 
 **Weiterführende Artikel:**
-- [Einzelfirma gründen in der Schweiz: Kompletter Guide]
-- [MWST-Anmeldung für Selbständige: Wann sich das lohnt]
-- [Krankentaggeld für Selbständige: Vergleich und Tipps]
-- [Website erstellen für Selbständige: SEO-Grundlagen]
-- [Buchhaltung für Einzelfirmen: Software und Treuhänder-Vergleich]
+- [Einzelfirma gründen in der Schweiz: Kompletter Guide](/artikel/einzelfirma-gruenden)
+- [MWST für Selbständige: Wann und wie anmelden](/artikel/mwst-selbststaendige)
+- [Krankentaggeld für Selbständige: Vergleich und Tipps](/artikel/krankentaggeld-selbststaendige)
+- [Tools für Selbständige: Website und Marketing](/artikel/tools-selbststaendige)
+- [Buchhaltungssoftware Vergleich: Software und Treuhänder](/artikel/buchhaltungssoftware-vergleich)

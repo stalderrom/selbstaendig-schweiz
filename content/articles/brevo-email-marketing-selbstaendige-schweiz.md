@@ -210,8 +210,7 @@ Die wichtigsten Erfolgsfaktoren: Saubere Kontaktliste mit dokumentierten Einvers
 **Deine nächsten Schritte:** Erstelle heute noch deinen kostenlosen Brevo-Account und lade deine ersten 50 Kontakte hoch. Richte die Domain-Authentifizierung ein und versende deinen ersten Newsletter bis Ende der Woche. Die Zeitersparnis und Umsatzsteigerung wirst du bereits nach vier Wochen deutlich spüren.
 
 **Weiterführende Artikel:**
-- [E-Mail-Marketing-Recht für Schweizer Selbständige 2026]
-- [Newsletter-Automatisierung: Zeitsparen mit Marketing-Tools]
-- [DSGVO vs. CH-Datenschutzgesetz: Was KMU wissen müssen]
-- [Online-Marketing-Budget für Schweizer Einzelfirmen]
-- [CRM-Integration für Schweizer Dienstleister]
+- [Tools für Selbständige: Die besten Schweizer Lösungen](/artikel/tools-selbststaendige)
+- [Kunden gewinnen Schweiz: Strategien für Selbständige](/artikel/kunden-gewinnen-schweiz)
+- [Selbständig werden Schweiz: Rechtliches und Datenschutz](/artikel/selbstaendig-werden-schweiz)
+- [Pipedrive Schweiz: CRM für Selbständige](/artikel/pipedrive-schweiz-crm-guide)

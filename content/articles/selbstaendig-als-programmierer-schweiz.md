@@ -281,8 +281,8 @@ Nimm deinen letzten Angestellten-Bruttolohn und multipliziere ihn mit 1.8-2.2. B
 **Deine konkreten nächsten Schritte:** Erstelle ein professionelles Portfolio und aktiviere dein berufliches Netzwerk für erste Kundenkontakte. Sichere CHF 20'000 Startkapital für Equipment und Überbrückung der ersten Monate. Melde deine Einzelfirma bei der Gemeinde an und schliesse die wichtigsten Versicherungen ab. Dann akquiriere dein erstes Projekt und wickle es professionell ab – zufriedene Referenzkunden sind der Grundstein für nachhaltigen Erfolg als selbständiger Programmierer.
 
 **Weiterführende Informationen:**
-- [Einzelfirma gründen Schweiz: Komplette Anleitung 2026]
-- [MWST für Selbständige: Alles was du wissen musst]  
-- [Krankentaggeld für Selbständige: Vergleich und Tipps]
-- [Stundensatz kalkulieren: Rechner und Beispiele]
-- [IT-Verträge für Freelancer: Muster und Rechtstipps]
+- [Einzelfirma gründen Schweiz: Komplette Anleitung 2026](/artikel/einzelfirma-gruenden)
+- [MWST für Selbständige: Alles was du wissen musst](/artikel/mwst-selbststaendige)
+- [Krankentaggeld für Selbständige: Vergleich und Tipps](/artikel/krankentaggeld-selbststaendige)
+- [Stundensatz kalkulieren: Rechner und Beispiele](/artikel/stundensatz-berechnen)
+- [Buchhaltungssoftware Vergleich: Tools für Programmierer](/artikel/buchhaltungssoftware-vergleich)

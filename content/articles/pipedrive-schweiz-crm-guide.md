@@ -295,6 +295,6 @@ Pipedrive ist für Schweizer Selbständige und KMU eine ausgezeichnete CRM-Lösu
 Mit der richtigen Vorbereitung wird Pipedrive zu einem unverzichtbaren Werkzeug für dein Schweizer Unternehmen. Die Investition amortisiert sich meist bereits im ersten Monat durch bessere Lead-Verfolgung und gesparte Zeit.
 
 **Weiterführende Artikel:**
-- [CRM-Software Schweiz: Die 10 besten Lösungen für KMU 2026]
-- [bexio vs. Pipedrive: Welche Lösung für dein Schweizer Unternehmen?]
-- [Kundenakquise Schweiz: 15 bewährte Strategien für Selbständige]
+- [CRM-Software Schweiz: Die besten Tools für KMU](/artikel/tools-selbststaendige)
+- [Buchhaltungssoftware Vergleich: bexio und Alternativen](/artikel/buchhaltungssoftware-vergleich)
+- [Kundenakquise Schweiz: Bewährte Strategien für Selbständige](/artikel/kunden-gewinnen-schweiz)

@@ -254,8 +254,8 @@ Rechne konservativ und baue Puffer ein. Die Schweizer Banken kalkulieren mit 5% 
 4. **Bankentermine vereinbaren**: Sprich mit mindestens drei verschiedenen Instituten und hole dir schriftliche Offerten.
 
 **Weiterführende Artikel:**
-- [Hypotheken in der Schweiz: Kompletter Guide 2026]
-- [Selbständige Finanzierung: Kredite für Unternehmer]
-- [Immobilienkauf Schweiz: Schritt-für-Schritt Anleitung]
-- [Bonität verbessern: So optimierst du deine Kreditwürdigkeit]
-- [Geschäftskredit beantragen: Guide für KMU]
+- [Bankkredit für Selbständige: Voraussetzungen und Tipps](/artikel/bankkredit-selbststaendige-schweiz)
+- [Factoring Schweiz: Liquidität ohne Kredit](/artikel/factoring-schweiz)
+- [Businessplan erstellen: Für Kreditanträge und Banken](/artikel/businessplan-erstellen)
+- [Steuern für Selbständige: Steueroptimierung statt Kredit](/artikel/steueroptimierung-selbststaendige)
+- [GmbH gründen: Haftungsschutz bei Finanzierung](/artikel/gmbh-gruenden)

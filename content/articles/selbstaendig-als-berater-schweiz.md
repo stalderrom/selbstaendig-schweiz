@@ -275,6 +275,6 @@ Entscheidend für den Erfolg sind sorgfältige Vorbereitung, klare Positionierun
 - Beginne mit der Marktanalyse
 
 **Weiterführende Artikel:**
-- [Einzelfirma gründen: Komplette Anleitung 2026]
-- [Steuern sparen als Selbständiger: Die besten Tipps]
-- [Krankentaggeld für Selbständige: Wichtige Fakten]
+- [Einzelfirma gründen: Komplette Anleitung 2026](/artikel/einzelfirma-gruenden)
+- [Steueroptimierung für Selbständige: Die besten Tipps](/artikel/steueroptimierung-selbststaendige)
+- [Krankentaggeld für Selbständige: Wichtige Fakten](/artikel/krankentaggeld-selbststaendige)
