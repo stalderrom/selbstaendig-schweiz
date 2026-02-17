@@ -752,6 +752,8 @@ Steuern (grob):
 - [Kollektivgesellschaft gründen](/artikel/kollektivgesellschaft-gruenden-schweiz)
 - [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 - [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
+- [Firmennamen finden](/artikel/firmennamen-finden)
+- [Geschäftskonto Vergleich](/artikel/geschaeftskonto-vergleich)
 
 ## FAQ – Häufig gestellte Fragen
 

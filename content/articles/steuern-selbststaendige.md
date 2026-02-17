@@ -618,6 +618,8 @@ Bei gewerbsmässigem Wertschriftenhandel werden Gewinne steuerpflichtig (hohe H�
 - [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 - [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
 - [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
+- [Treuhänder finden](/artikel/treuhaender-finden)
+- [Steueroptimierung für Selbständige](/artikel/steueroptimierung-selbststaendige)
 
 ## FAQ – Häufig gestellte Fragen
 

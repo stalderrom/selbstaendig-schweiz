@@ -810,6 +810,8 @@ Die meisten Software-Anbieter bieten:
 - [Freizügigkeitskonto](/artikel/freizuegigkeitskonto-schweiz)
 - [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
 - [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
+- [Geschäftskonto Vergleich](/artikel/geschaeftskonto-vergleich)
+- [Treuhänder finden](/artikel/treuhaender-finden)
 
 ## FAQ – Häufig gestellte Fragen
 

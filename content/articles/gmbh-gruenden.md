@@ -893,6 +893,8 @@ GV trotzdem abhalten! Sie beschliessen alleine, protokollieren.
 - [Kollektivgesellschaft gründen](/artikel/kollektivgesellschaft-gruenden-schweiz)
 - [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 - [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
+- [Firmennamen finden](/artikel/firmennamen-finden)
+- [Bewilligungen für Selbständige](/artikel/bewilligungen-selbststaendige)
 
 ## FAQ – Häufig gestellte Fragen
 
