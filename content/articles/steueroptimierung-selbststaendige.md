@@ -338,6 +338,8 @@ ROI: 150–400%
 - [Einzelfirma vs. GmbH Steuern](/artikel/einzelfirma-vs-gmbh-steuern)
 - [Altersvorsorge für Selbständige](/artikel/altersvorsorge-selbststaendige)
 - [AHV für Selbständige](/artikel/ahv-selbststaendige)
+- [Säule 3a für Selbständige](/artikel/saeule-3a-selbststaendige)
+- [Treuhänder finden](/artikel/treuhaender-finden)
 
 ## FAQ – Häufig gestellte Fragen
 

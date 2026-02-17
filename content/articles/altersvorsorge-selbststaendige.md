@@ -332,6 +332,7 @@ Gewünschtes Einkommen
 - [Freizügigkeitskonto Schweiz](/artikel/freizuegigkeitskonto-schweiz)
 - [Steuern für Selbständige](/artikel/steuern-selbststaendige)
 - [Versicherungen für Selbständige](/artikel/versicherungen-selbststaendige)
+- [Säule 3a für Selbständige](/artikel/saeule-3a-selbststaendige)
 
 ## FAQ – Häufig gestellte Fragen
 

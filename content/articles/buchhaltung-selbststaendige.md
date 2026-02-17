@@ -812,6 +812,7 @@ Die meisten Software-Anbieter bieten:
 - [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 - [Geschäftskonto Vergleich](/artikel/geschaeftskonto-vergleich)
 - [Treuhänder finden](/artikel/treuhaender-finden)
+- [Break-Even-Analyse](/artikel/break-even-rechner-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

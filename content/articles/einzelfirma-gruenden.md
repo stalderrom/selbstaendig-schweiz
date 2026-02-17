@@ -754,6 +754,7 @@ Steuern (grob):
 - [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
 - [Firmennamen finden](/artikel/firmennamen-finden)
 - [Geschäftskonto Vergleich](/artikel/geschaeftskonto-vergleich)
+- [Handelsregistereintrag Schweiz](/artikel/handelsregister-eintrag-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
 

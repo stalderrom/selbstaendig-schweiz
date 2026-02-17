@@ -1172,6 +1172,10 @@ Sprachunterricht für Erwachsene, Firmen, Expats.
 - [Selbständig als Berater](/artikel/selbstaendig-als-berater-schweiz)
 - [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
 - [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Selbständig als Coach](/artikel/selbstaendig-als-coach-schweiz)
+- [Selbständig als Architekt](/artikel/selbstaendig-als-architekt-schweiz)
+- [Selbständig mit Reinigungsfirma](/artikel/selbstaendig-als-reinigungsfirma-schweiz)
+- [Selbständig als Künstler](/artikel/selbstaendig-als-kuenstler-schweiz)
 - [Einfache Gesellschaft gründen](/artikel/einfache-gesellschaft-schweiz)
 - [AHV Rente berechnen](/artikel/ahv-rente-berechnen-schweiz)
 
