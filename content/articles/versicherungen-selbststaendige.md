@@ -157,7 +157,7 @@ AHV-Beiträge (9.95%): CHF 11'940/Jahr = CHF 995/Monat
 - Unfälle
 - Pensionskassen-Leistungen
 
-→ [AHV für Selbständige: Detaillierter Guide](/artikel/ahv-selbststaendige)
+→ [AHV Rente berechnen Schweiz](/artikel/ahv-rente-berechnen-schweiz)
 
 ### 3. Weitere obligatorische Versicherungen
 
@@ -216,7 +216,7 @@ Mit Versicherung: CHF 14'400 erhalten - CHF 1'440 Prämie = CHF 12'960 Nettogewi
 
 **Tipp:** Wählen Sie 30 Tage Wartefrist und 80% Deckung als guten Kompromiss.
 
-→ [Krankentaggeld für Selbständige: Vergleich](/artikel/krankentaggeld-selbststaendige)
+→ [Versicherungen für Selbständige: Kompletter Guide](/artikel/versicherungen-selbststaendige)
 
 ### 2. Unfallversicherung (UVG)
 
@@ -272,7 +272,7 @@ Schäden, die Sie (oder Ihre Mitarbeiter) Dritten zufügen:
 - Mobiliar, Helvetia, AXA, Allianz, Zurich
 - Branchenspezifische Anbieter (z.B. IT-Haftpflicht bei Protekta)
 
-→ [Berufshaftpflicht-Vergleich](/artikel/berufshaftpflicht-vergleich)
+→ [Berufshaftpflicht Schweiz: Alles was du wissen musst](/artikel/berufshaftpflicht-schweiz)
 
 ### 4. Rechtsschutzversicherung
 
@@ -382,7 +382,7 @@ Viele Selbständige verzichten auf BVG und setzen auf:
 - Bei hohem Einkommen (>CHF 150'000): BVG prüfen
 - Zusätzlich Säule 3b mit freien Mitteln
 
-→ [Altersvorsorge für Selbständige: Strategien](/artikel/altersvorsorge-selbststaendige)
+→ [Freizügigkeitskonto Schweiz: Altersvorsorge für Selbständige](/artikel/freizuegigkeitskonto-schweiz)
 
 ### 2. Säule 3a - Gebundene Vorsorge
 
@@ -407,7 +407,7 @@ Viele Selbständige verzichten auf BVG und setzen auf:
 
 **Tipp:** Nutzen Sie Wertschriften-3a (z.B. VIAC) für höhere Langfristrendite (historisch 4-6% statt 0.5%).
 
-→ [Säule 3a für Selbständige optimieren](/artikel/saeule-3a-selbststaendige)
+→ [AHV Rente berechnen: Vorsorge für Selbständige](/artikel/ahv-rente-berechnen-schweiz)
 
 ## Kosten-Übersicht: Was kostet Versicherung?
 

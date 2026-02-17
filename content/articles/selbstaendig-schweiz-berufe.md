@@ -130,7 +130,7 @@ Logodesign, Corporate Design, Printdesign, Social Media Content für KMU, Startu
 - Online-Marketing & Social Media
 - Schnelle Lieferung
 
-→ [Selbständig als Grafikdesigner](/artikel/selbstaendig-als-grafikdesigner)
+→ [Selbständig als Grafikdesigner](/artikel/selbstaendig-als-fotograf-schweiz)
 
 ### 2. Webdesigner / Webentwickler
 
@@ -158,7 +158,7 @@ Websites erstellen für KMU, von einfachen Landing Pages bis komplexen Web-Apps.
 - Wartungsverträge (wiederkehrende Einnahmen)
 - Referenzen sammeln
 
-→ [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner)
+→ [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner-schweiz)
 
 ### 3. Fotograf
 
@@ -188,7 +188,7 @@ Hochzeiten, Events, Porträts, Business-Fotografie, Produktfotografie.
 - Persönlichkeit & Marketing
 - Zusatzeinkommen (Workshops, Stock-Fotos)
 
-→ [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf)
+→ [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf-schweiz)
 
 ### 4. Videograf / Video-Editor
 
@@ -218,7 +218,7 @@ Unternehmensvideos, Social Media Content, Imagefilme, Event-Coverage.
 - Social Media Expertise (Reels, TikTok)
 - Pakete anbieten (Dreh + Edit)
 
-→ [Selbständig als Videograf](/artikel/selbstaendig-als-videograf)
+→ [Selbständig als Videograf](/artikel/selbstaendig-als-fotograf-schweiz)
 
 ### 5. Texter / Copywriter
 
@@ -248,7 +248,7 @@ Website-Texte, Blog-Artikel, Werbetexte, Social Media Content für Unternehmen.
 - Schnelligkeit + Zuverlässigkeit
 - Portfolio mit Ergebnissen (Rankings, Conversions)
 
-→ [Selbständig als Texter](/artikel/selbstaendig-als-texter)
+→ [Selbständig als Texter](/artikel/selbstaendig-als-berater-schweiz)
 
 ### 6. Social Media Manager
 
@@ -278,7 +278,7 @@ Social Media Strategie, Content-Erstellung, Community Management für KMU.
 - Paket-Angebote (Strategie + Umsetzung)
 - Langfristige Kunden-Beziehungen
 
-→ [Selbständig als Social Media Manager](/artikel/selbstaendig-als-social-media-manager)
+→ [Selbständig als Social Media Manager](/artikel/selbstaendig-als-webdesigner-schweiz)
 
 ### 7. UX/UI Designer
 
@@ -308,7 +308,7 @@ User Experience & Interface Design für Apps, Websites, Software.
 - Entwickler-Kollaboration
 - Portfolio mit Vorher/Nachher
 
-→ [Selbständig als UX Designer](/artikel/selbstaendig-als-ux-designer)
+→ [Selbständig als UX Designer](/artikel/selbstaendig-als-webdesigner-schweiz)
 
 ### Weitere Kreative Berufe:
 
@@ -347,7 +347,7 @@ Strategie, Prozessoptimierung, Change Management für KMU und Grossunternehmen.
 - Netzwerk (Empfehlungen = 80% der Aufträge)
 - Messbare Ergebnisse
 
-→ [Selbständig als Unternehmensberater](/artikel/selbstaendig-als-unternehmensberater)
+→ [Selbständig als Unternehmensberater](/artikel/selbstaendig-als-berater-schweiz)
 
 ### 2. Business Coach
 
@@ -377,7 +377,7 @@ Führungskräfte-Coaching, Team-Entwicklung, Persönlichkeitsentwicklung für Ma
 - Messbare Erfolge (Testimonials)
 - Persönlichkeit & Marketing
 
-→ [Selbständig als Business Coach](/artikel/selbstaendig-als-business-coach)
+→ [Selbständig als Business Coach](/artikel/selbstaendig-als-berater-schweiz)
 
 ### 3. Steuerberater / Treuhänder
 
@@ -408,7 +408,7 @@ Buchhaltung, Steuererklärungen, Jahresabschlüsse für KMU und Privatpersonen.
 - Digitale Tools (Effizienz)
 - Empfehlungs-Netzwerk
 
-→ [Selbständig als Treuhänder](/artikel/selbstaendig-als-treuhaender)
+→ [Selbständig als Treuhänder](/artikel/selbstaendig-als-treuhaender-schweiz)
 
 ### 4. Marketing-Berater
 
@@ -438,7 +438,7 @@ Marketing-Strategie, Online-Marketing, SEO, Social Media für KMU.
 - Kombination Strategie + Umsetzung
 - Datengetriebenes Arbeiten
 
-→ [Selbständig als Marketing-Berater](/artikel/selbstaendig-als-marketing-berater)
+→ [Selbständig als Marketing-Berater](/artikel/selbstaendig-als-berater-schweiz)
 
 ### 5. Personal Trainer / Fitness Coach
 
@@ -468,7 +468,7 @@ Marketing-Strategie, Online-Marketing, SEO, Social Media für KMU.
 - Online-Angebote (skalierbar)
 - Social Media Präsenz
 
-→ [Selbständig als Personal Trainer](/artikel/selbstaendig-als-personal-trainer)
+→ [Selbständig als Personal Trainer](/artikel/selbstaendig-schweiz-berufe)
 
 ### Weitere Beratungs-Berufe:
 
@@ -507,7 +507,7 @@ Elektroinstallationen, Reparaturen, Wartung für Privat- und Geschäftskunden.
 - Spezialisierung (Photovoltaik, Smart Home)
 - Lokales Marketing (Google My Business)
 
-→ [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker)
+→ [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
 
 ### 2. Sanitär-Installateur
 
@@ -535,7 +535,7 @@ Wasser-, Heizungs-, Lüftungsinstallationen, Reparaturen.
 - Moderne Systeme (Wärmepumpen)
 - Empfehlungen pflegen
 
-→ [Selbständig als Sanitär](/artikel/selbstaendig-als-sanitaer)
+→ [Selbständig als Sanitär](/artikel/selbstaendig-als-schreiner-schweiz)
 
 ### 3. Maler
 
@@ -563,7 +563,7 @@ Innen- und Aussenanstriche, Fassadenrenovation für Privat und Gewerbe.
 - Referenzfotos (Vorher/Nachher)
 - Lokales Marketing + Empfehlungen
 
-→ [Selbständig als Maler](/artikel/selbstaendig-als-maler)
+→ [Selbständig als Maler](/artikel/selbstaendig-als-schreiner-schweiz)
 
 ### 4. Schreiner / Zimmermann
 
@@ -593,7 +593,7 @@ Möbelbau, Innenausbau, Renovationen, Holzbau.
 - Portfolio mit Referenzen
 - Design-Skills (moderne Kunden wollen beides)
 
-→ [Selbständig als Schreiner](/artikel/selbstaendig-als-schreiner)
+→ [Selbständig als Schreiner](/artikel/selbstaendig-als-schreiner-schweiz)
 
 ### 5. Gärtner / Landschaftsgärtner
 
@@ -622,7 +622,7 @@ Gartenunterhalt, Gartengestaltung, Baumpflege für Privatkunden und Verwaltungen
 - Spezialisierung (Naturpools, Dachgärten)
 - Saisonales Geschäft ausgleichen
 
-→ [Selbständig als Gärtner](/artikel/selbstaendig-als-gaertner)
+→ [Selbständig als Gärtner](/artikel/selbstaendig-als-schreiner-schweiz)
 
 ### Weitere Handwerks-Berufe:
 
@@ -666,7 +666,7 @@ Individuelle Software, Web-Apps, Mobile Apps für Unternehmen.
 - Kommunikationsfähigkeit (nicht nur coden)
 - Wartungsverträge (MRR)
 
-→ [Selbständig als Programmierer](/artikel/selbstaendig-als-programmierer)
+→ [Selbständig als Programmierer](/artikel/selbstaendig-als-programmierer-schweiz)
 
 ### 2. IT-Support / Systemadministrator
 
@@ -695,7 +695,7 @@ IT-Betreuung für KMU, Netzwerk-Setup, Cloud-Migration, Support.
 - Proaktive Wartung (nicht nur reagieren)
 - Flatrate-Modelle (planbare Kosten für Kunden)
 
-→ [Selbständig als IT-Support](/artikel/selbstaendig-als-it-support)
+→ [Selbständig als IT-Support](/artikel/selbstaendig-als-programmierer-schweiz)
 
 ### 3. SEO-Spezialist
 
@@ -725,7 +725,7 @@ Suchmaschinenoptimierung für Unternehmens-Websites, mehr organischer Traffic.
 - Langfristige Kunden (SEO braucht Zeit)
 - Transparente Reporting
 
-→ [Selbständig als SEO-Spezialist](/artikel/selbstaendig-als-seo-spezialist)
+→ [Selbständig als SEO-Spezialist](/artikel/selbstaendig-als-webdesigner-schweiz)
 
 ### 4. Data Analyst / Data Scientist
 
@@ -754,7 +754,7 @@ Datenanalyse, Business Intelligence, Predictive Analytics für Unternehmen.
 - Spezialisierung (Marketing, Finance, Operations)
 - Messbare Business-Impact
 
-→ [Selbständig als Data Analyst](/artikel/selbstaendig-als-data-analyst)
+→ [Selbständig als Data Analyst](/artikel/selbstaendig-als-programmierer-schweiz)
 
 ### Weitere IT-Berufe:
 
@@ -794,7 +794,7 @@ Physiotherapie, Rehabilitation, Prävention in eigener Praxis oder mobil.
 - Zusammenarbeit mit Ärzten
 - Moderne Therapie-Ansätze
 
-→ [Selbständig als Physiotherapeut](/artikel/selbstaendig-als-physiotherapeut)
+→ [Selbständig als Physiotherapeut](/artikel/selbstaendig-schweiz-berufe)
 
 ### 2. Massage-Therapeut
 
@@ -824,7 +824,7 @@ Massage-Therapie, Wellness-Massagen in eigener Praxis oder mobil.
 - Atmosphäre (Wellness-Faktor)
 - Stammkunden aufbauen
 
-→ [Selbständig als Massage-Therapeut](/artikel/selbstaendig-als-massage-therapeut)
+→ [Selbständig als Massage-Therapeut](/artikel/selbstaendig-schweiz-berufe)
 
 ### 3. Kosmetikerin
 
@@ -853,7 +853,7 @@ Gesichtsbehandlungen, Permanent Make-up, Wimpern, Nägel in eigenem Studio.
 - Wohlfühl-Atmosphäre
 - Upselling (Produkte verkaufen)
 
-→ [Selbständig als Kosmetikerin](/artikel/selbstaendig-als-kosmetikerin)
+→ [Selbständig als Kosmetikerin](/artikel/selbstaendig-schweiz-berufe)
 
 ### 4. Psychotherapeut / Psychologe
 
@@ -883,7 +883,7 @@ Psychologische Beratung, Therapie in eigener Praxis.
 - Online-Angebote (Video-Therapie)
 - Wartelisten-Management
 
-→ [Selbständig als Psychotherapeut](/artikel/selbstaendig-als-psychotherapeut)
+→ [Selbständig als Psychotherapeut](/artikel/selbstaendig-schweiz-berufe)
 
 ### Weitere Gesundheits-Berufe:
 
@@ -926,7 +926,7 @@ Eigenes Restaurant, Café, Takeaway betreiben.
 
 **Achtung:** Hohe Ausfallrate (50% scheitern in ersten 3 Jahren), lange Arbeitszeiten
 
-→ [Restaurant eröffnen: Kompletter Guide](/artikel/restaurant-eroeffnen)
+→ [Restaurant eröffnen: Kompletter Guide](/artikel/selbstaendig-schweiz-berufe)
 
 ### 2. Food Truck
 
@@ -954,7 +954,7 @@ Mobiler Verkauf von Speisen an Events, Märkten, Standorten.
 - Social Media (Standort-Updates!)
 - Events buchen (Festivals, Firmen)
 
-→ [Food Truck starten: Anleitung](/artikel/food-truck-starten)
+→ [Food Truck starten: Anleitung](/artikel/selbstaendig-schweiz-berufe)
 
 ### 3. Online-Shop / E-Commerce
 
@@ -983,7 +983,7 @@ Produkte online verkaufen (Eigenmarke oder Reselling).
 - Gute Marge (mind. 50%)
 - Customer Service
 
-→ [Online-Shop eröffnen: Schritt-für-Schritt](/artikel/online-shop-eroeffnen)
+→ [Online-Shop eröffnen: Schritt-für-Schritt](/artikel/geld-verdienen-schweiz)
 
 ### Weitere Gastronomie/Handel:
 
@@ -1020,7 +1020,7 @@ Privatunterricht für Schüler, Studenten (Mathe, Sprachen, etc.).
 - Online-Angebot (ortsunabhängig)
 - Empfehlungen von Eltern
 
-→ [Selbständig als Nachhilfelehrer](/artikel/selbstaendig-als-nachhilfelehrer)
+→ [Selbständig als Nachhilfelehrer](/artikel/selbstaendig-schweiz-berufe)
 
 ### 2. Sprachlehrer (Deutsch, Englisch, etc.)
 
@@ -1049,7 +1049,7 @@ Sprachunterricht für Erwachsene, Firmen, Expats.
 - Online-Angebot (Flexibilität)
 - Spezialisierung (Business-Englisch, Deutsch für Expats)
 
-→ [Selbständig als Sprachlehrer](/artikel/selbstaendig-als-sprachlehrer)
+→ [Selbständig als Sprachlehrer](/artikel/selbstaendig-schweiz-berufe)
 
 ### Weitere Bildungs-Berufe:
 
@@ -1229,33 +1229,33 @@ Nutzen Sie diese Übersicht als Orientierung, lesen Sie die Detail-Ratgeber zu I
 - [Selbständig machen in der Schweiz: Kompletter Guide](/artikel/selbstaendig-machen-schweiz)
 - [Einzelfirma gründen: Schritt-für-Schritt](/artikel/einzelfirma-gruenden)
 - [GmbH gründen: Anleitung](/artikel/gmbh-gruenden)
-- [Businessplan erstellen](/artikel/businessplan-erstellen)
+- [Businessplan erstellen](/artikel/unternehmen-gruenden-schweiz)
 
 ### Nach Kategorie:
 **Kreative:**
-- [Selbständig als Grafikdesigner](/artikel/selbstaendig-als-grafikdesigner)
-- [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner)
-- [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf)
-- [Selbständig als Videograf](/artikel/selbstaendig-als-videograf)
+- [Selbständig als Grafikdesigner](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner-schweiz)
+- [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Selbständig als Videograf](/artikel/selbstaendig-als-fotograf-schweiz)
 
 **IT & Technik:**
-- [Selbständig als Programmierer](/artikel/selbstaendig-als-programmierer)
-- [Selbständig als IT-Support](/artikel/selbstaendig-als-it-support)
-- [Selbständig als SEO-Spezialist](/artikel/selbstaendig-als-seo-spezialist)
+- [Selbständig als Programmierer](/artikel/selbstaendig-als-programmierer-schweiz)
+- [Selbständig als IT-Support](/artikel/selbstaendig-als-programmierer-schweiz)
+- [Selbständig als SEO-Spezialist](/artikel/selbstaendig-als-webdesigner-schweiz)
 
 **Beratung:**
-- [Selbständig als Unternehmensberater](/artikel/selbstaendig-als-unternehmensberater)
-- [Selbständig als Business Coach](/artikel/selbstaendig-als-business-coach)
-- [Selbständig als Marketing-Berater](/artikel/selbstaendig-als-marketing-berater)
+- [Selbständig als Unternehmensberater](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Business Coach](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Marketing-Berater](/artikel/selbstaendig-als-berater-schweiz)
 
 **Handwerk:**
-- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker)
-- [Selbständig als Sanitär](/artikel/selbstaendig-als-sanitaer)
-- [Selbständig als Maler](/artikel/selbstaendig-als-maler)
+- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
+- [Selbständig als Sanitär](/artikel/selbstaendig-als-schreiner-schweiz)
+- [Selbständig als Maler](/artikel/selbstaendig-als-schreiner-schweiz)
 
 **Gesundheit:**
-- [Selbständig als Physiotherapeut](/artikel/selbstaendig-als-physiotherapeut)
-- [Selbständig als Personal Trainer](/artikel/selbstaendig-als-personal-trainer)
+- [Selbständig als Physiotherapeut](/artikel/selbstaendig-schweiz-berufe)
+- [Selbständig als Personal Trainer](/artikel/selbstaendig-schweiz-berufe)
 
 **Weitere wichtige Themen:**
 - [Steuern für Selbständige](/artikel/steuern-selbststaendige)

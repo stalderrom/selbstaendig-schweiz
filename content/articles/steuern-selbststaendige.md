@@ -137,7 +137,7 @@ Sie können die MWST auf Ihren Geschäftsausgaben zurückfordern (Vorsteuern). D
 - **Halbjährlich:** Bei Umsatz unter CHF 5 Mio. und Steuerschuld unter CHF 10'000
 - **Jährlich:** Bei sehr kleinen Umsätzen (nur mit Bewilligung)
 
-→ [MWST für Selbständige: Detaillierter Guide](/artikel/mwst-selbststaendige)
+→ [Steuern für Selbständige: Kompletter Guide](/artikel/steuern-selbststaendige)
 
 ### 4. Sozialversicherungsbeiträge (AHV/IV/EO)
 
@@ -165,7 +165,7 @@ Bei nebenberuflicher Selbständigkeit zusätzlich zur Anstellung:
 - Zusätzlich 9.95% auf Nebenerwerb, aber nur wenn über CHF 2'300/Jahr
 - Mindestbeitrag entfällt
 
-→ [AHV für Selbständige: Kompletter Guide](/artikel/ahv-selbststaendige)
+→ [AHV Rente berechnen Schweiz](/artikel/ahv-rente-berechnen-schweiz)
 
 ## Steuerliche Abzüge für Selbständige
 
@@ -448,7 +448,7 @@ Ab einem gewissen Einkommen kann eine GmbH steuerlich günstiger sein:
 
 **Faustregel:** Ab CHF 150'000-200'000 Gewinn kann GmbH günstiger werden (individuell prüfen!)
 
-→ [Einzelfirma vs. GmbH: Steuervergleich](/artikel/einzelfirma-vs-gmbh-steuern)
+→ [Einzelfirma gründen Schweiz](/artikel/einzelfirma-gruenden)
 
 ## Häufige Steuerfehler vermeiden
 
@@ -511,7 +511,7 @@ An ESTV: CHF 2'638
 - Umsatz unter CHF 5'024'000
 - Steuerforderung unter CHF 109'000
 
-→ [MWST-Saldosteuersatzmethode: Guide](/artikel/mwst-saldosteuersatz)
+→ [Steuern für Selbständige: Kompletter Guide](/artikel/steuern-selbststaendige)
 
 ### Verlustverrechnung
 
@@ -567,7 +567,7 @@ Bei gewerbsmässigem Wertschriftenhandel werden Gewinne steuerpflichtig (hohe H�
 - Steueroptimierung
 - Beratung bei Fragen
 
-→ [Den richtigen Treuhänder finden](/treuhänder-finden/)
+→ [Selbständig als Treuhänder in der Schweiz](/artikel/selbstaendig-als-treuhaender-schweiz)
 
 ### Steuerberatung vs. Treuhänder
 

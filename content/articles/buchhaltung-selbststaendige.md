@@ -109,13 +109,13 @@ Banken verlangen saubere Buchhaltungen für:
 - Alle Kapitalgesellschaften (GmbH, AG) unabhängig vom Umsatz
 
 **Unter CHF 500'000 Umsatz (Einzelfirma):**
-- Vereinfachte Buchhaltung ausreichend ("Milchbüechli-Rechnung")
+- [Vereinfachte Buchhaltung](/artikel/einfache-buchhaltung-schweiz) ausreichend ("Milchbüechli-Rechnung")
 - Einnahmen und Ausgaben dokumentieren
 - Vermögenslage festhalten
 
 **Ab CHF 500'000 Umsatz:**
 - Doppelte Buchhaltung obligatorisch
-- Jahresabschluss mit Bilanz und Erfolgsrechnung
+- Jahresabschluss mit Bilanz und [Erfolgsrechnung](/artikel/erfolgsrechnung-erstellen-schweiz)
 - Ordentliche Revision (je nach Grösse)
 
 ### Aufbewahrungspflicht
@@ -146,7 +146,7 @@ Jede Rechnung muss folgende Angaben enthalten:
 - Beschreibung der Leistung/Ware
 - Einzelpreise und Gesamtbetrag
 - Zahlungsfrist und Zahlungskonditionen
-- Bankverbindung mit QR-Code (seit 2020)
+- Bankverbindung mit [QR-Code](/artikel/qr-rechnung-erstellen-schweiz) (seit 2020)
 
 **Zusätzlich bei MWST-Pflichtigen:**
 - MWST-Nummer (z.B. CHE-123.456.789 MWST)
@@ -154,7 +154,8 @@ Jede Rechnung muss folgende Angaben enthalten:
 - MWST-Betrag separat ausgewiesen
 - Nettobetrag und Bruttobetrag
 
-→ [Rechnung schreiben: Schweizer Vorlage & Muster](/artikel/rechnung-schreiben)
+→ [Rechnungsvorlage Schweiz: Kostenlose Muster](/artikel/rechnungsvorlage-schweiz)
+→ [Offerte erstellen: Professionelle Vorlagen](/artikel/offerte-erstellen-schweiz)
 
 ## Vereinfachte vs. Doppelte Buchhaltung
 
@@ -282,7 +283,7 @@ Haben: Umsatz (Erfolg)          CHF 5'000
 **Für wen geeignet:**
 - Umsatz ab CHF 150'000
 - MWST-pflichtig
-- Komplexe Geschäftsmodelle (Lager, Personal)
+- Komplexe Geschäftsmodelle (Lager, [Personal mit Lohnabrechnung](/artikel/lohnabrechnung-schweiz-unternehmen))
 - Wenig Zeit
 - Unsicherheit bei Steuern
 
@@ -322,7 +323,7 @@ Haben: Umsatz (Erfolg)          CHF 5'000
 - Lohnbuchhaltung: +CHF 50-100/Monat pro Mitarbeiter
 - Extraberatung: CHF 150-250/Stunde
 
-→ [Treuhänder finden: Darauf musst du achten](/treuhänder-finden/)
+→ [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
 
 ### Option 3: Hybrid (Software + punktuelle Beratung)
 
@@ -379,7 +380,7 @@ Haben: Umsatz (Erfolg)          CHF 5'000
 
 **Ideal für:** Wachsende Unternehmen mit Mitarbeitern, die eine All-in-One-Lösung wollen.
 
-→ [Bexio im Detail: Lohnt sich das?](/artikel/bexio-test)
+→ [Tools für Selbständige: Alle Empfehlungen](/artikel/tools-selbststaendige)
 
 ### 2. Run my Accounts - Einsteigerfreundlich
 
@@ -468,7 +469,7 @@ Haben: Umsatz (Erfolg)          CHF 5'000
 
 **Wichtig:** Spätestens bei MWST-Pflicht auf richtige Software wechseln!
 
-→ [Buchhaltungssoftware-Vergleich: Alle Tools](/artikel/buchhaltungssoftware-vergleich)
+→ [Tools für Selbständige: Kompletter Überblick](/artikel/tools-selbststaendige)
 
 ## MWST-Abrechnung für Selbständige
 
@@ -548,7 +549,7 @@ An ESTV zu zahlen: CHF 107'700 × 4.7% = CHF 5'062
 - Bei wiederholter Verspätung → Pflicht zu monatlicher Abrechnung
 - Fehlerhafte Abrechnung → Nachzahlung + Busse möglich
 
-→ [MWST für Selbständige: Kompletter Guide](/artikel/mwst-selbststaendige)
+→ [Steuern für Selbständige: MWST und mehr](/artikel/steuern-selbststaendige)
 
 ## Buchhaltung organisieren: Best Practices
 

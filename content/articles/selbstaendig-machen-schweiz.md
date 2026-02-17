@@ -193,7 +193,11 @@ Die Wahl der Rechtsform ist eine der grundlegendsten Entscheidungen bei der Grü
 
 Für Partnerschaften mit mehreren Gesellschaftern. Weniger verbreitet, spezifische Vor- und Nachteile je nach Konstellation.
 
+→ [Detaillierter Guide: Kollektivgesellschaft gründen](/artikel/kollektivgesellschaft-gruenden-schweiz)
+
 ## Schritt-für-Schritt: So machst du dich selbständig
+
+Dieser Abschnitt gibt dir einen Überblick über die wichtigsten Schritte. Für eine detaillierte Schritt-für-Schritt Anleitung, lies unseren Guide [Selbständig werden in der Schweiz](/artikel/selbstaendig-werden-schweiz).
 
 ### Phase 1: Vorbereitung (3-6 Monate)
 
@@ -219,7 +223,7 @@ Auch wenn nicht zwingend erforderlich, hilft ein Businessplan bei:
 - Bankgesprächen für Kredite
 - Kommunikation mit Partnern/Investoren
 
-→ [Businessplan-Vorlage für die Schweiz](/artikel/businessplan-schweiz)
+**Tipp:** Ein guter Businessplan hilft auch bei der Auswahl der richtigen [Rechtsform für dein Unternehmen](/artikel/unternehmen-gruenden-schweiz).
 
 ### Phase 2: Behördliche Anmeldung (2-4 Wochen)
 
@@ -310,7 +314,7 @@ Melde dich bei der zuständigen Ausgleichskasse als selbständig erwerbend an:
 - Alle Pflichtangaben beachten (Name, Adresse, MWST-Nr. etc.)
 - Zahlungsfristen festlegen (meist 30 Tage)
 
-→ [Rechnung schreiben: Schweizer Vorlage](/artikel/rechnung-schreiben)
+→ [Rechnung schreiben: Schweizer Vorlage](/artikel/rechnungsvorlage-schweiz)
 
 ### Phase 5: Marketing & Kundengewinnung
 
@@ -332,7 +336,7 @@ Melde dich bei der zuständigen Ausgleichskasse als selbständig erwerbend an:
 - Nutze Freelancer-Plattformen als Ergänzung
 - Direktansprache potenzieller Kunden
 
-→ [Kundenakquise in der Schweiz](/artikel/kundenakquise-schweiz)
+→ [Kundenakquise in der Schweiz](/artikel/kunden-gewinnen-schweiz)
 
 ## Kosten der Selbständigkeit
 
@@ -465,23 +469,23 @@ Die nebenberufliche Selbständigkeit ist ein risikoarmer Einstieg. Du behältst 
 Jede Branche hat ihre Besonderheiten. Hier findest du detaillierte Guides für spezifische Berufe:
 
 ### Kreativberufe
-- [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf)
-- [Selbständig als Grafiker](/artikel/selbstaendig-als-grafiker)
-- [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner)
+- [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Selbständig als Grafiker](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner-schweiz)
 
 ### Beratung & Coaching
-- [Selbständig als Coach](/artikel/selbstaendig-als-coach)
-- [Selbständig als Unternehmensberater](/artikel/selbstaendig-als-berater)
+- [Selbständig als Coach](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Unternehmensberater](/artikel/selbstaendig-als-berater-schweiz)
 
 ### IT & Tech
-- [Selbständig als Programmierer](/artikel/selbstaendig-als-programmierer)
-- [Selbständig als IT-Berater](/artikel/selbstaendig-als-it-berater)
+- [Selbständig als Programmierer](/artikel/selbstaendig-als-programmierer-schweiz)
+- [Selbständig als IT-Berater](/artikel/selbstaendig-als-programmierer-schweiz)
 
 ### Handwerk
-- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker)
-- [Selbständig als Schreiner](/artikel/selbstaendig-als-schreiner)
+- [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
+- [Selbständig als Schreiner](/artikel/selbstaendig-als-schreiner-schweiz)
 
-→ [Alle Berufe im Überblick](/artikel/berufsratgeber)
+→ [Alle Berufe im Überblick](/artikel/selbstaendig-schweiz-berufe)
 
 ## Wichtige Links und Ressourcen
 

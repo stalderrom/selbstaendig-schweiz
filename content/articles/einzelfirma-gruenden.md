@@ -74,6 +74,8 @@ faq:
 
 # Einzelfirma gründen in der Schweiz: Schritt-für-Schritt-Anleitung 2026
 
+Du möchtest dich [selbständig machen in der Schweiz](/artikel/selbstaendig-machen-schweiz)? Die Einzelfirma ist die beliebteste Rechtsform für den Start.
+
 **Eine Einzelfirma gründen** ist der einfachste und schnellste Weg in die Selbständigkeit in der Schweiz. Keine Mindestkapital, minimaler Aufwand, in wenigen Tagen startklar. Über 60% aller Schweizer Selbständigen wählen diese Rechtsform. Dieser umfassende Guide führt Sie Schritt für Schritt durch die Gründung Ihrer Einzelfirma – von den Voraussetzungen über die Anmeldung bis zu Steuern und Versicherungen.
 
 ## Was ist eine Einzelfirma?
@@ -120,7 +122,7 @@ Eine Einzelfirma (auch Einzelunternehmen genannt) ist ein Unternehmen, das einer
 - Professioneller Auftritt wichtig
 
 → [GmbH gründen: Kompletter Guide](/artikel/gmbh-gruenden)
-→ [Rechtsformen im Vergleich](/artikel/rechtsformen-vergleich)
+→ [Rechtsformen im Vergleich](/artikel/unternehmen-gruenden-schweiz)
 
 ## Voraussetzungen für Einzelfirma-Gründung
 
@@ -170,7 +172,7 @@ Eine Einzelfirma (auch Einzelunternehmen genannt) ist ein Unternehmen, das einer
 - Immobilienvermittlung: Je nach Kanton Bewilligung
 - Personenbeförderung: Taxi-Bewilligung
 
-→ [Bewilligungen für Selbständige: Übersicht](/artikel/bewilligungen-selbststaendige)
+→ [Bewilligungen für Selbständige: Übersicht](/artikel/selbstaendig-werden-schweiz)
 
 ### 3. Firmenname
 
@@ -201,7 +203,7 @@ Sie können einen Fantasienamen als Zusatz verwenden:
 - Offiziell: "Müller Webdesign"
 - Marketing: "PixelPerfect by Müller"
 
-→ [Firmennamen finden: Tipps & Generator](/artikel/firmennamen-finden)
+→ [Firmennamen finden: Tipps & Generator](/artikel/unternehmen-gruenden-schweiz)
 
 ## Schritt-für-Schritt: Einzelfirma gründen
 
@@ -215,14 +217,14 @@ Sie können einen Fantasienamen als Zusatz verwenden:
 
 Nicht zwingend, aber sehr empfohlen!
 
-→ [Businessplan erstellen: Vorlage](/artikel/businessplan-erstellen)
+→ [Businessplan erstellen: Vorlage](/artikel/unternehmen-gruenden-schweiz)
 
 **Finanzierung sichern:**
 - Startkapital berechnen (CHF 5'000-30'000 typisch)
 - Lebenshaltungskosten für 6-12 Monate
 - Finanzierungsquellen: Eigenkapital, Familie, Bank
 
-→ [Startkapital: Wie viel brauchen Sie?](/artikel/startkapital-berechnen)
+→ [Startkapital: Wie viel brauchen Sie?](/artikel/unternehmen-gruenden-schweiz)
 
 **Geschäftskonto eröffnen (optional, aber empfohlen):**
 - Klare Trennung Privat/Geschäftlich
@@ -232,7 +234,7 @@ Nicht zwingend, aber sehr empfohlen!
 **Kosten:** CHF 0-20/Monat
 **Anbieter:** Neon Business (CHF 0), Raiffeisen, Postfinance
 
-→ [Geschäftskonto: Vergleich](/artikel/geschaeftskonto-vergleich)
+→ [Geschäftskonto: Vergleich](/artikel/revolut-business-schweiz)
 
 ### Schritt 2: Anmeldung beim Handelsregister
 
@@ -268,7 +270,7 @@ Nicht zwingend, aber sehr empfohlen!
 
 **Wichtig:** Nach Eintrag MUSS Handelsregister-Auszug bei allen offiziellen Dokumenten (Rechnungen, Verträge) erwähnt werden.
 
-→ [Handelsregister-Eintrag: So geht's](/artikel/handelsregister-eintrag)
+→ [Handelsregister-Eintrag: So geht's](/artikel/einzelfirma-gruenden)
 
 ### Schritt 3: Anmeldung bei Sozialversicherungen (innerhalb 14 Tage nach Start!)
 
@@ -303,7 +305,7 @@ AHV-Beitrag: CHF 8'080/Jahr
 
 **Wichtig:** Anmeldung innert 14 Tagen nach Start der Tätigkeit!
 
-→ [AHV für Selbständige: Kompletter Guide](/artikel/ahv-selbststaendige)
+→ [AHV für Selbständige: Kompletter Guide](/artikel/ahv-rente-berechnen-schweiz)
 
 **2. Unfallversicherung (optional):**
 
@@ -325,7 +327,7 @@ Als Selbständiger sind Sie NICHT obligatorisch unfallversichert.
 - Zahlt 80% des Einkommens ab Tag 30-60
 - Kosten: CHF 1'200-2'400/Jahr (je nach Einkommen)
 
-→ [Krankentaggeld: Vergleich & Anbieter](/artikel/krankentaggeld)
+→ [Krankentaggeld: Vergleich & Anbieter](/artikel/versicherungen-selbststaendige)
 
 ### Schritt 4: MWST-Anmeldung (bei Umsatz > CHF 100'000)
 
@@ -352,7 +354,7 @@ Als Selbständiger sind Sie NICHT obligatorisch unfallversichert.
 - 2.6% Reduziert (Lebensmittel, Bücher)
 - 3.8% Beherbergung
 
-→ [MWST für Selbständige: Kompletter Guide](/artikel/mwst-selbststaendige)
+→ [MWST für Selbständige: Kompletter Guide](/artikel/steuern-selbststaendige)
 
 ### Schritt 5: Weitere Anmeldungen & Setup
 
@@ -379,7 +381,7 @@ Sie müssen sich NICHT separat anmelden. Das Steueramt wird automatisch über Ha
 - Banana Accounting: CHF 119 einmalig
 
 → [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
-→ [Buchhaltungssoftware-Vergleich](/artikel/buchhaltungssoftware-vergleich)
+→ [Buchhaltungssoftware-Vergleich](/artikel/tools-selbststaendige)
 
 **3. Website & Online-Präsenz:**
 
@@ -393,7 +395,7 @@ Sie müssen sich NICHT separat anmelden. Das Steueramt wird automatisch über Ha
 - Hosting: CHF 60-150/Jahr
 - Website: CHF 500-3'000 (einmalig) oder CHF 30/Monat (Wix, Webflow)
 
-→ [Website erstellen: Anleitung](/artikel/website-erstellen)
+→ [Website erstellen: Anleitung](/artikel/wordpress-hosting-schweiz)
 
 **4. Visitenkarten & Branding:**
 
@@ -461,7 +463,7 @@ Break-Even: CHF 30'000 ÷ (CHF 100 - CHF 20) = 375 Stunden
 → Alles darüber ist Gewinn!
 ```
 
-→ [Break-Even berechnen: Rechner](/artikel/break-even-rechner)
+→ [Break-Even berechnen: Rechner](/artikel/buchhaltung-selbststaendige)
 
 ## Steuern bei der Einzelfirma
 
@@ -527,7 +529,7 @@ Steuern (grob):
 - Verluste in ersten Jahren mit späteren Gewinnen verrechnen
 - 7 Jahre rückwirkend möglich
 
-→ [Steueroptimierung: Alle Tricks](/artikel/steueroptimierung-selbststaendige)
+→ [Steueroptimierung: Alle Tricks](/artikel/steuern-selbststaendige)
 
 ## Versicherungen: Was brauchen Sie?
 
@@ -661,7 +663,7 @@ Steuern (grob):
 - Assets übertragen
 - Kosten: CHF 3'000-8'000 (Notar, HR, Steuern)
 
-→ [Einzelfirma in GmbH umwandeln: Anleitung](/artikel/einzelfirma-in-gmbh-umwandeln)
+→ [Einzelfirma in GmbH umwandeln: Anleitung](/artikel/gmbh-gruenden)
 
 ## Häufige Fehler vermeiden
 
@@ -705,7 +707,7 @@ Steuern (grob):
 **Folge:** Stagnation, Überlastung, Einsamkeit
 **Lösung:** Networking, Coworking, Peer-Gruppen
 
-→ [Die 20 häufigsten Fehler von Selbständigen](/artikel/fehler-selbststaendige)
+→ [Die 20 häufigsten Fehler von Selbständigen](/artikel/selbstaendig-machen-schweiz)
 
 ## Checkliste: Einzelfirma gründen
 
@@ -772,7 +774,7 @@ Steuern (grob):
 **Ja, vollumfänglich!** Geschäftsschulden = Privatschulden. Ihr Haus, Auto, Ersparnis können gepfändet werden. Beispiel: Kunde verklagt Sie auf CHF 50'000 Schadenersatz, Sie verlieren → Privatvermögen haftet. Schutz: (1) Berufshaftpflicht-Versicherung (dringend!). (2) Niedriges Risiko-Geschäft wählen. (3) Bei hohem Risiko → GmbH gründen (Haftung beschränkt auf CHF 20'000 Kapital). Häufigste Fehler: Handwerker ohne Haftpflicht, dann Schaden.
 
 ### Muss ich als Einzelfirma MWST abrechnen?
-**Pflicht ab:** CHF 100'000 Jahresumsatz (weltweit). **Freiwillig ab:** CHF 10'000 (macht Sinn bei hohen Geschäftsausgaben mit MWST). **Ablauf:** Anmeldung ESTV → MWST-Nummer → Quartalsweise Abrechnung (7.7% kassieren, Vorsteuer abziehen). **Vorteil:** Vorsteuer zurück (auf Laptop, Büro, etc.). **Nachteil:** Admin-Aufwand, höhere Preise für B2C. Unter CHF 100k: Meist nicht lohnenswert (ausser hohe Investitionen). → [MWST-Guide](/artikel/mwst-selbststaendige)
+**Pflicht ab:** CHF 100'000 Jahresumsatz (weltweit). **Freiwillig ab:** CHF 10'000 (macht Sinn bei hohen Geschäftsausgaben mit MWST). **Ablauf:** Anmeldung ESTV → MWST-Nummer → Quartalsweise Abrechnung (7.7% kassieren, Vorsteuer abziehen). **Vorteil:** Vorsteuer zurück (auf Laptop, Büro, etc.). **Nachteil:** Admin-Aufwand, höhere Preise für B2C. Unter CHF 100k: Meist nicht lohnenswert (ausser hohe Investitionen). → [MWST-Guide](/artikel/steuern-selbststaendige)
 
 ## Fazit
 
@@ -804,27 +806,27 @@ Starten Sie jetzt: Die Einzelfirma ist Ihr Sprungbrett in die Selbständigkeit!
 ### Gründung:
 - [Selbständig machen in der Schweiz: Kompletter Guide](/artikel/selbstaendig-machen-schweiz)
 - [GmbH gründen: Anleitung](/artikel/gmbh-gruenden)
-- [Rechtsformen im Vergleich](/artikel/rechtsformen-vergleich)
-- [Businessplan erstellen](/artikel/businessplan-erstellen)
-- [Firmennamen finden](/artikel/firmennamen-finden)
+- [Rechtsformen im Vergleich](/artikel/unternehmen-gruenden-schweiz)
+- [Businessplan erstellen](/artikel/unternehmen-gruenden-schweiz)
+- [Firmennamen finden](/artikel/unternehmen-gruenden-schweiz)
 
 ### Finanzen & Admin:
 - [Steuern für Selbständige](/artikel/steuern-selbststaendige)
 - [Versicherungen für Selbständige](/artikel/versicherungen-selbststaendige)
 - [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
-- [AHV für Selbständige](/artikel/ahv-selbststaendige)
-- [MWST für Selbständige](/artikel/mwst-selbststaendige)
+- [AHV für Selbständige](/artikel/ahv-rente-berechnen-schweiz)
+- [MWST für Selbständige](/artikel/steuern-selbststaendige)
 
 ### Praxis:
-- [Stundensatz berechnen](/artikel/stundensatz-berechnen)
+- [Stundensatz berechnen](/artikel/offerte-erstellen-schweiz)
 - [Kunden gewinnen](/artikel/kunden-gewinnen-schweiz)
-- [Marketing für Selbständige](/artikel/marketing-selbststaendige)
-- [Die 20 häufigsten Fehler](/artikel/fehler-selbststaendige)
+- [Marketing für Selbständige](/artikel/kunden-gewinnen-schweiz)
+- [Die 20 häufigsten Fehler](/artikel/selbstaendig-machen-schweiz)
 
 ### Branchen-spezifisch:
-- [Selbständig als Berater](/artikel/selbstaendig-als-berater)
-- [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner)
-- [Selbständig als Handwerker](/artikel/selbstaendig-als-handwerker)
+- [Selbständig als Berater](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner-schweiz)
+- [Selbständig als Handwerker](/artikel/selbstaendig-als-schreiner-schweiz)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - Einzelfirma gründen
