@@ -22,6 +22,19 @@ Die einfache Gesellschaft ist nach Art. 530 des Obligationenrechts ein Vertrag, 
 
 Im Gegensatz zu einer GmbH oder AG besitzt die einfache Gesellschaft keine eigene Rechtspersönlichkeit. Sie kann zwar Verträge abschliessen und Eigentum besitzen, rechtlich handeln aber immer die einzelnen Gesellschafter. Diese Besonderheit unterscheidet sie fundamental von anderen Rechtsformen.
 
+Nach aussen tritt die einfache Gesellschaft lediglich als Interessengemeinschaft auf. Sie muss weder unter einem eigenen Namen auftreten noch verfügt sie über eine eigene Identität im Rechtsverkehr. Das bedeutet: Verträge werden immer im Namen und auf Rechnung der beteiligten Gesellschafter abgeschlossen – nicht im Namen der Gesellschaft selbst.
+
+
+### Müssen einfache Gesellschaften einen eigenen Namen führen?
+
+Nein, eine einfache Gesellschaft muss keinen eigenen Firmennamen besitzen oder nach aussen unter einem bestimmten Namen auftreten. Sie agiert vielmehr als Gemeinschaft von einzelnen Personen, die gemeinsam ein Ziel verfolgen. Nach außen vertreten also immer die Gesellschafter persönlich die Gesellschaft—eine separate Identität wie bei der GmbH oder AG gibt es nicht.
+
+Für die Praxis bedeutet das: Ihr könnt unter euren eigenen Namen auftreten oder einen Projektnamen verwenden, seid aber rechtlich immer als Einzelpersonen ansprechbar. Ein offizieller Eintrag ins Handelsregister oder die Führung eines festen Geschäftsnamens ist nicht notwendig.
+
+### Für welchen Zeitraum werden einfache Gesellschaften typischerweise gegründet?
+
+In der Praxis sind einfache Gesellschaften oft auf einen bestimmten Zeitraum oder ein konkretes Projekt ausgelegt. Häufig dienen sie dazu, ein gemeinsames Ziel wie etwa ein Bauvorhaben zu realisieren oder für die Dauer eines Events oder einer Kooperation zusammenzuarbeiten. Nachdem der gemeinsame Zweck erreicht ist – etwa die Fertigstellung eines Gebäudes, die Organisation einer Veranstaltung oder die Entwicklung einer App – lösen sich viele einfache Gesellschaften wieder auf. Es handelt sich also meist um zeitlich begrenzte Zusammenschlüsse, die spontan entstehen und genauso unkompliziert wieder enden können.
+
 **Typische Beispiele für einfache Gesellschaften:**
 - Zwei Freelancer entwickeln gemeinsam eine App
 - Ärzte betreiben eine Gemeinschaftspraxis
@@ -40,7 +53,7 @@ Für die Gründung einer einfachen Gesellschaft müssen nur wenige Voraussetzung
 - Gemeinsamer Zweck (gewerblich oder ideell)
 - Beiträge aller Beteiligten (Arbeit, Geld oder Sachleistungen)
 
-Es gibt keine Mindestkapitalanforderungen. Auch eine Eintragung ins Handelsregister ist grundsätzlich nicht erforderlich. Ausnahme: Betreibt die Gesellschaft ein Gewerbe nach kaufmännischer Art mit über CHF 100'000 Jahresumsatz, kann eine Eintragungspflicht entstehen.
+Es gibt keine Mindestkapitalanforderungen. Auch eine Eintragung ins Handelsregister ist grundsätzlich nicht erforderlich. Ein Eintrag ins Handelsregister ist bei der einfachen Gesellschaft sogar gar nicht möglich – selbst wenn du möchtest, kannst du deine Gesellschaft dort nicht anmelden. Ausnahme: Betreibt die Gesellschaft ein Gewerbe nach kaufmännischer Art mit über CHF 100'000 Jahresumsatz, kann eine Eintragungspflicht entstehen.
 
 **Versicherungspflichten:**
 Jeder Gesellschafter muss sich separat bei der AHV als Selbständiger anmelden. Dies gilt auch für sehr kleine Einkommen. Die Anmeldung muss spätestens drei Monate nach Aufnahme der Tätigkeit erfolgen.
@@ -221,7 +234,9 @@ Startet mit euren ersten gemeinsamen Projekten und etabliert regelmässige Ablä
 
 **Problem:** Viele Gründer unterschätzen, dass sie für alle Gesellschaftsschulden mit ihrem Privatvermögen haften – auch für Fehler des Partners.
 
-**Lösung:** Schliesst eine ausreichende Berufshaftpflichtversicherung ab. Vereinbart Haftungsausschlüsse in Kundenverträgen. Bei hohem Risiko wechselt zur GmbH.
+**Lösung:** Viele unterschätzen, dass ihr mit eurem gesamten Privatvermögen solidarisch und unbeschränkt für alle Schulden der Gesellschaft haftet – auch für Fehler oder Verbindlichkeiten eures Partners. Eine Begrenzung der Haftung ist nur möglich, wenn ein Gesellschafter ausdrücklich im eigenen Namen handelt.
+
+Schliesst eine ausreichende Berufshaftpflichtversicherung ab. Vereinbart Haftungsausschlüsse in Kundenverträgen. Bei hohem Risiko wechselt zur GmbH.
 
 ### Fehler 4: Verspätete AHV-Anmeldung
 
