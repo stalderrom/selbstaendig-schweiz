@@ -294,8 +294,6 @@ Schliesst eine ausreichende Berufshaftpflichtversicherung ab. Vereinbart Haftung
 
 ## FAQ – Häufig gestellte Fragen
 
-![Häufig gestellte Fragen zur Einfachen Gesellschaft Schweiz 2026: Gründung, Handelsregister, Haftung, GmbH-Wechsel, Ehepartner und Auflösung](/images/einfache-gesellschaft/visual-08-faq.png)
-
 ### Kann ich eine einfache Gesellschaft alleine gründen?
 
 Nein, für eine einfache Gesellschaft braucht es mindestens zwei Gesellschafter. Der Name sagt es schon: Es ist eine Gesellschaft, also ein Zusammenschluss mehrerer Personen. Wenn du alleine selbständig werden möchtest, gründest du eine Einzelfirma. Diese ist noch einfacher zu verwalten, da du alle Entscheidungen alleine triffst und nicht mit Partnern abstimmen musst. Die einfache Gesellschaft entsteht erst, wenn zwei oder mehr Personen gemeinsam einen Zweck verfolgen.
