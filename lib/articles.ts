@@ -27,7 +27,8 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
       featuredImage: data.featuredImage,
       readingTime,
       related: data.related || [],
-      faq: data.faq || []
+      faq: data.faq || [],
+      howto: data.howto || undefined
     };
   } catch (error) {
     return null;

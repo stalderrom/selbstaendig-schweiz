@@ -3,6 +3,19 @@ export interface FAQ {
   answer: string;
 }
 
+export interface HowToStep {
+  name: string;
+  text: string;
+  url?: string;
+}
+
+export interface HowTo {
+  name: string;
+  description: string;
+  totalTime?: string;
+  steps: HowToStep[];
+}
+
 export interface Article {
   slug: string;
   title: string;
@@ -17,6 +30,7 @@ export interface Article {
   readingTime: number;
   related?: string[];
   faq?: FAQ[];
+  howto?: HowTo;
 }
 
 export interface Category {

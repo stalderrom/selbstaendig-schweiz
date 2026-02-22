@@ -116,6 +116,22 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     ]
   };
 
+  // HowTo Schema (wenn HowTo vorhanden)
+  const howtoSchema = article.howto ? {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: article.howto.name,
+    description: article.howto.description,
+    ...(article.howto.totalTime && { totalTime: article.howto.totalTime }),
+    step: article.howto.steps.map((step, index) => ({
+      '@type': 'HowToStep',
+      position: index + 1,
+      name: step.name,
+      text: step.text,
+      ...(step.url && { url: step.url }),
+    })),
+  } : null;
+
   // FAQ Schema (wenn FAQs vorhanden)
   const faqSchema = article.faq && article.faq.length > 0 ? {
     '@context': 'https://schema.org',
@@ -143,6 +159,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+
+      {/* HowTo Schema (if available) */}
+      {howtoSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howtoSchema) }}
+        />
+      )}
 
       {/* FAQ Schema (if available) */}
       {faqSchema && (
