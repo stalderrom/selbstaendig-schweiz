@@ -257,6 +257,23 @@ Viele nutzen Anbieter wie:
 
 → [Firmennamen finden: Generator & Tipps](/artikel/unternehmen-gruenden-schweiz)
 
+### 6. Prüfungsorgan (Revisionsstelle)
+
+**Wann brauchen Sie eine Revisionsstelle?**
+
+- Pflicht, wenn Ihre GmbH im Jahresdurchschnitt mehr als 10 Vollzeitmitarbeitende beschäftigt.
+- Bei weniger als 10 Vollzeitstellen ist keine Revisionsstelle nötig (“Opting-out” möglich).
+
+**Aufgaben der Revisionsstelle:**
+
+- Überprüft die Buchhaltung und den Jahresabschluss – ganz unabhängig.
+- Stellt sicher, dass alles korrekt und nach Gesetz läuft.
+- Gibt jedes Jahr einen Prüfungsbericht ab.
+
+Wichtig: Die Revisionsstelle sorgt für Transparenz und Vertrauen – für Banken, Investoren und Behörden. Sie ist also die externe Kontrollinstanz, nicht Teil der Geschäftsführung.
+
+→ Mehr zur Revisionsstelle: Wann Pflicht & welche Varianten?
+
 ## Schritt-für-Schritt: GmbH gründen
 
 ### Schritt 1: Vorbereitung & Planung (1-2 Wochen)
@@ -411,6 +428,16 @@ Gesetzlich vorgeschrieben! GmbH-Gründung muss öffentlich beurkundet werden.
 
 **Tipp:** Notar vorab fragen, welche Dokumente er braucht!
 
+
+
+**Unterschrift im Ausland? Apostille & Überbeglaubigung**
+Nicht vor Ort? Kein Problem – auch aus dem Ausland können Unterschriften für die Gründung offiziell bestätigt werden.
+
+- **Apostille:** In vielen Ländern genügt es, die Unterschrift bei einem lokalen Notar bestätigen zu lassen und dann eine sogenannte Apostille von der zuständigen Behörde (meist ein Amtsgericht oder eine Verwaltungsstelle) zu erhalten. Diese macht die Beglaubigung in der Schweiz direkt anerkannt.
+- **Überbeglaubigung:** Falls das Land kein Apostille-Abkommen mit der Schweiz hat, braucht es oft eine Überbeglaubigung. Das heißt, nach der Notarbestätigung folgt eine Zusatzbestätigung, meist vom Außenministerium und/oder von der Schweizer Botschaft oder dem Konsulat.
+
+**Tipp:** Unbedingt vorab beim Schweizer Handelsregister nachfragen, welche Schritte und Unterlagen akzeptiert werden. Das spart Zeit und böse Überraschungen!
+
 ### Schritt 4: Kapitalkonto eröffnen & einzahlen (1-3 Tage)
 
 **Ablauf:**
@@ -485,6 +512,8 @@ Der Notar oder Sie reichen beim Handelsregisteramt ein:
 - Lohnausweis erstellen (auch wenn Sie kein Lohn nehmen!)
 - AHV-Anmeldung als Arbeitgeber
 - Ausgleichskasse wählen
+
+Die Anmeldung als Arbeitgeber bei der zuständigen Ausgleichskasse ist Pflicht. Dies geschieht in der Regel über den kantonalen Fragebogen, den Sie sorgfältig ausfüllen und einreichen müssen. So stellen Sie sicher, dass Ihre Firma korrekt bei der AHV erfasst wird und alle gesetzlichen Sozialversicherungsbeiträge ordnungsgemäß abgeführt werden.
 
 → [AHV für GmbH-Geschäftsführer](/artikel/lohnabrechnung-schweiz-unternehmen)
 
@@ -780,6 +809,9 @@ Oberstes Organ der GmbH. Alle Gesellschafter treffen sich, entscheiden über wic
 4. Revisionsstellenwahl (falls Pflicht)
 5. Verschiedenes
 
+**Typische Aufgaben der Gesellschafterversammlung:**
+Die Gesellschafterversammlung entscheidet nicht nur über die Genehmigung des Jahresabschlusses und die Verwendung des Gewinns, sondern auch über die Ernennung und Abberufung der Geschäftsführung. Die Geschäftsführung kann dabei sowohl aus Gründern als auch aus externen Personen bestehen.
+
 **Einladung:**
 - Mind. 10 Tage vorher
 - Schriftlich an alle Gesellschafter
@@ -797,10 +829,28 @@ Oberstes Organ der GmbH. Alle Gesellschafter treffen sich, entscheiden über wic
 
 **Aufbewahrung:** 10 Jahre
 
+**Prüfungsorgan (Revisionsstelle):**
+Falls Ihr Unternehmen im Jahresdurchschnitt mehr als 10 Vollzeitangestellte beschäftigt, ist die Wahl einer unabhängigen Revisionsstelle Pflicht. Dieses Prüfungsorgan prüft die Buchführung und sorgt für Transparenz und Korrektheit der finanziellen Berichte.
+
 **Einziger Gesellschafter?**
 GV trotzdem abhalten! Sie beschliessen alleine, protokollieren.
 
 → [GV-Protokoll: Vorlage](/artikel/gmbh-gruenden)
+
+## Weitere Organe der GmbH – Ein kurzer Überblick
+
+Neben der Generalversammlung gibt es noch zwei weitere zentrale Organe:
+
+**Geschäftsführung**
+Die Geschäftsführung wird von der Gesellschafterversammlung (GV) bestellt. Sie kann aus den Gründern selbst oder auch aus externen Personen bestehen. Die Geschäftsführung kümmert sich um das Tagesgeschäft und die Umsetzung der GV-Beschlüsse.
+
+**Revisionsstelle (Prüfungsorgan)**
+Ein Prüfungsorgan ist Pflicht, wenn die GmbH im Jahresdurchschnitt mehr als 10 Vollzeitstellen beschäftigt. Die Revisionsstelle prüft die Buchführung und bestätigt die Richtigkeit des Jahresabschlusses – unabhängig und objektiv.
+
+**Wichtig:**
+Einmal jährlich muss die ordentliche Generalversammlung stattfinden. Hier werden u.a. Änderungen an den Statuten, die (Ab-)Berufung der Geschäftsführung und die Genehmigung des Jahresabschlusses behandelt.
+
+So bleibt alles sauber, rechtssicher und transparent – egal ob Sie alleiniger Gesellschafter oder Teil eines grösseren Teams sind.
 
 ## Häufige Fehler vermeiden
 
