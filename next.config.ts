@@ -1,7 +1,15 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  async redirects() {
+    return [
+      {
+        source: "/artikel/selbststaendig-machen-schweiz",
+        destination: "/artikel/selbstaendig-machen-schweiz",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;
