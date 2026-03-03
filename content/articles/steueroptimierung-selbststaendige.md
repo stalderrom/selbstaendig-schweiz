@@ -1,5 +1,6 @@
 ---
 title: "Steueroptimierung für Selbständige Schweiz 2026: 12 legale Strategien"
+metaTitle: 'Steueroptimierung Selbständige Schweiz: 12 Strategien'
 description: "Steuern sparen als Selbständiger in der Schweiz: 12 legale Steueroptimierungsstrategien mit konkreten Zahlen. Säule 3a, Geschäftsausgaben, Timing und mehr."
 keywords: ["steueroptimierung selbständige schweiz", "steuern sparen selbständig schweiz", "steuerabzüge selbständige schweiz", "legale steueroptimierung schweiz", "steuertipps selbständige"]
 category: "steuern"

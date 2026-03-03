@@ -1,5 +1,6 @@
 ---
 title: "Factoring Schweiz: Kompletter Guide für Unternehmen"
+metaTitle: 'Factoring Schweiz: Guide für Unternehmen'
 description: "Factoring in der Schweiz: Kosten, Anbieter, Voraussetzungen und Ablauf für bessere Liquidität. Jetzt Factoring-Guide lesen!"
 keywords: ["factoring schweiz", "factoring anbieter schweiz", "factoring kosten schweiz", "factoring liquidität", "forderungsverkauf schweiz"]
 category: "allgemein"

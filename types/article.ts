@@ -19,6 +19,7 @@ export interface HowTo {
 export interface Article {
   slug: string;
   title: string;
+  metaTitle?: string;
   description: string;
   content: string;
   keywords: string[];

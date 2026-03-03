@@ -1,5 +1,6 @@
 ---
 title: "Brevo E-Mail-Marketing für Selbständige Schweiz Guide"
+metaTitle: 'Brevo E-Mail-Marketing für Selbständige Schweiz'
 description: "Brevo E-Mail-Marketing für Schweizer Selbständige: DSGVO-konform, mehrsprachig, rechtssicher. Kosten, Setup und Automation erklärt. Jetzt lesen!"
 keywords: ["brevo", "brevo schweiz selbständige", "email marketing schweiz dsgvo", "brevo kosten schweiz", "newsletter software schweiz"]
 category: "tools-&-software"

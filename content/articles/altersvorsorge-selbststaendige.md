@@ -1,5 +1,6 @@
 ---
 title: "Altersvorsorge für Selbständige Schweiz 2026: Säule 3a, BVG & Strategien"
+metaTitle: 'Altersvorsorge Selbständige Schweiz: Säule 3a 2026'
 description: "Altersvorsorge für Selbständige: Säule 3a, freiwillige Pensionskasse, private Anlagen – welche Strategie passt zu dir? Konkrete Tipps und Zahlen für 2026."
 keywords: ["altersvorsorge selbständige schweiz", "säule 3a selbständige", "pensionskasse selbständige schweiz", "vorsorge freelancer schweiz", "rente selbständige schweiz"]
 category: "versicherungen"

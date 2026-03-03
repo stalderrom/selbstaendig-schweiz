@@ -1,5 +1,6 @@
 ---
 title: "Lohnabrechnung Schweiz: Guide für Unternehmen 2026"
+metaTitle: 'Lohnabrechnung Schweiz: Guide für Unternehmen'
 description: "Lohnabrechnung korrekt erstellen: Pflichtangaben, Software-Tools und rechtliche Vorgaben für Schweizer Unternehmen. Jetzt Guide lesen!"
 keywords: ["lohnabrechnung", "lohnabrechnung erstellen", "lohn abrechnen schweiz", "lohnabrechnung software", "gehaltsabrechnung schweiz"]
 category: "buchhaltung-&-finanzen"

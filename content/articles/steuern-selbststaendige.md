@@ -1,5 +1,6 @@
 ---
 title: 'Steuern für Selbständige in der Schweiz: Kompletter Guide 2026'
+metaTitle: 'Steuern für Selbständige Schweiz: Guide 2026'
 description: >-
   Alles über Steuern für Selbständige in der Schweiz: Einkommenssteuern, MWST,
   Abzüge, Optimierung und praktische Tipps für deine Steuererklärung.

@@ -1,5 +1,6 @@
 ---
 title: "Unternehmen gründen Schweiz 2026: Kompletter Guide"
+metaTitle: 'Unternehmen gründen Schweiz 2026: Guide'
 description: "Unternehmen gründen in der Schweiz: Rechtsformen, Kosten, Schritt-für-Schritt Anleitung und Voraussetzungen 2026. Jetzt Guide lesen!"
 keywords: ["gründung schweiz", "firma gründen schweiz", "unternehmensgründung schweiz", "selbständig machen schweiz"]
 category: "allgemein"

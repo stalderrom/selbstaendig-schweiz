@@ -1,5 +1,6 @@
 ---
 title: "Einfache Gesellschaft Schweiz: Kompletter Guide 2026"
+metaTitle: 'Einfache Gesellschaft Schweiz: Guide 2026'
 description: "Einfache Gesellschaft in der Schweiz: Gründung, Haftung, Steuern und rechtliche Anforderungen. Kompletter Guide mit aktuellen Bestimmungen 2026."
 keywords: ["einfache gesellschaft", "einfache gesellschaft schweiz", "einfache gesellschaft gründen", "einfache gesellschaft haftung", "einfache gesellschaft steuern"]
 category: "selbstaendig-machen-/-gruendung"

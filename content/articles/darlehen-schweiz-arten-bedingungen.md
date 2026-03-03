@@ -1,5 +1,6 @@
 ---
 title: "Darlehen in der Schweiz: Arten & Bedingungen 2026"
+metaTitle: 'Darlehen Schweiz: Arten & Bedingungen 2026'
 description: "Alle Darlehensarten in der Schweiz: Konditionen, Zinssätze und Voraussetzungen für Privat- und Geschäftsdarlehen. Jetzt Guide lesen!"
 keywords: ["darlehen", "privatdarlehen schweiz", "geschäftsdarlehen bedingungen", "darlehen zinssätze 2026", "kredit vs darlehen"]
 category: "allgemein"

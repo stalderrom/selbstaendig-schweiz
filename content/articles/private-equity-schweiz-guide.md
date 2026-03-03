@@ -1,5 +1,6 @@
 ---
 title: "Private Equity Schweiz: Guide für Investoren 2026"
+metaTitle: 'Private Equity Schweiz: Guide für Investoren'
 description: "Private Equity in der Schweiz: Voraussetzungen, Mindestanlagen ab CHF 100'000 und FINMA-Regulierung. Kompletter Guide für qualifizierte Anleger. Jetzt lesen!"
 keywords: ["private equity", "private equity investieren schweiz", "qualifizierter anleger private equity", "private equity mindestanlage", "finma private equity"]
 category: "allgemein"

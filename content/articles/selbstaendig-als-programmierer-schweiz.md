@@ -1,5 +1,6 @@
 ---
 title: "Selbständig als Programmierer: Kompletter Guide Schweiz"
+metaTitle: 'Selbständig als Programmierer in der Schweiz'
 description: "Wie du dich als Programmierer selbständig machst: Anmeldung, Kosten, Stundensätze und Einkommen in der Schweiz. Jetzt Guide lesen!"
 keywords: ["selbständig als programmierer", "programmierer selbständig schweiz", "freelancer programmierer", "it freelancer schweiz", "programmierer stundensatz"]
 category: "berufsratgeber"

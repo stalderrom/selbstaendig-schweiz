@@ -1,5 +1,6 @@
 ---
 title: "Firmennamen finden Schweiz 2026: Checkliste, Regeln & Prüfung"
+metaTitle: 'Firmennamen finden Schweiz: Checkliste & Regeln'
 description: "Firmennamen finden in der Schweiz: Rechtliche Anforderungen, Namenschutz, Zefix-Prüfung, Domaincheck und Tipps für einen starken Firmennamen."
 keywords: ["firmennamen finden schweiz", "firmenname prüfen schweiz", "firmennamen ideen schweiz", "zefix firmenname", "firmenname gmbh schweiz"]
 category: "allgemein"

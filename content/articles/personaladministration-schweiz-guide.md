@@ -1,5 +1,6 @@
 ---
 title: "Personaladministration Schweiz 2026: Guide & Kosten"
+metaTitle: 'Personaladministration Schweiz: Guide & Kosten'
 description: "Personaladministration für KMU: Lohnabrechnung, AHV/IV/EO, BVG ab CHF 22'050 und rechtliche Vorgaben. Kompletter Guide für die Schweiz. Jetzt lesen!"
 keywords: ["personaladministration", "personaladministration kosten", "lohnabrechnung schweiz", "personalverwaltung kmu", "hr administration schweiz"]
 category: "allgemein"

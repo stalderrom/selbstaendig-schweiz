@@ -1,5 +1,6 @@
 ---
 title: "Selbständig werden Schweiz: Kompletter Guide 2026"
+metaTitle: 'Selbständig werden Schweiz: Guide 2026'
 description: "Selbständig werden in der Schweiz: Anmeldung, Kosten, MWST-Pflicht und Steuern 2026. Schritt-für-Schritt Anleitung mit aktuellen Zahlen. Jetzt lesen!"
 keywords: ["selbständig", "selbständigkeit schweiz kosten", "einzelfirma gründen schweiz", "selbständig anmelden schweiz", "mwst pflicht selbständige"]
 category: "allgemein"

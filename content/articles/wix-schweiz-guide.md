@@ -1,5 +1,6 @@
 ---
 title: "Wix Schweiz: Kompletter Guide für KMU & Selbständige"
+metaTitle: 'Wix Schweiz: Guide für KMU & Selbständige'
 description: "Wix Website erstellen in der Schweiz: Kosten, rechtliche Anforderungen, Tipps für KMU. Ab CHF 16/Monat zur professionellen Website. Jetzt Guide lesen!"
 keywords: ["wix schweiz", "wix website schweiz", "wix kosten schweiz", "website baukasten schweiz", "wix kmu schweiz"]
 category: "tools-&-software"

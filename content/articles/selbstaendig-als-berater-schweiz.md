@@ -1,5 +1,6 @@
 ---
 title: "Selbständig als Berater Schweiz: Kompletter Guide"
+metaTitle: 'Selbständig als Berater Schweiz: Guide'
 description: "Wie du dich als Berater selbständig machst: Anmeldung, Kosten, Stundensätze und erste Kunden in der Schweiz. Jetzt Guide lesen!"
 keywords: ["selbständig als berater", "berater selbständig schweiz", "beratung selbständig kosten", "berater stundensatz schweiz", "unternehmensberater selbständig"]
 category: "berufsratgeber"

@@ -1,5 +1,6 @@
 ---
 title: "Break-Even-Analyse Schweiz 2026: Berechnung & Rechner für Selbständige"
+metaTitle: 'Break-Even-Analyse Schweiz: Rechner für Selbständige'
 description: "Break-Even-Analyse für Selbständige in der Schweiz: Formel, Beispiele, Rechner und wie du deinen Break-Even-Punkt für dein Business berechnest."
 keywords: ["break even analyse schweiz", "break even berechnen selbständige", "break even punkt schweiz", "gewinnschwelle berechnen schweiz", "break even rechner schweiz"]
 category: "buchhaltung-und-finanzen"

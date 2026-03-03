@@ -1,5 +1,6 @@
 ---
 title: "Selbständig als Fotograf: Kompletter Guide Schweiz"
+metaTitle: 'Selbständig als Fotograf in der Schweiz'
 description: "Wie du dich als Fotograf selbständig machst: Anmeldung, Kosten, Einkommen und Tipps für die Schweiz. Jetzt Guide lesen!"
 keywords: ["selbständig als fotograf", "fotograf selbständig schweiz", "fotografie selbständig kosten", "fotograf anmelden schweiz", "einkommen fotograf selbständig"]
 category: "berufsratgeber"

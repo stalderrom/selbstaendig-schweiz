@@ -1,5 +1,6 @@
 ---
 title: "Kunden gewinnen Schweiz: 8 bewährte Strategien 2026"
+metaTitle: 'Kunden gewinnen Schweiz: 8 bewährte Strategien'
 description: "Kunden gewinnen als Selbständiger: 8 bewährte Methoden, Kosten, 90-Tage-Plan und rechtliche Tipps für die Schweiz. Jetzt Guide lesen!"
 keywords: ["kunden gewinnen", "kundenakquise schweiz", "neukunden gewinnen selbständig", "kundengewinnung strategien", "leads generieren schweiz"]
 category: "marketing-&-kundenakquise"

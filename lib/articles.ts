@@ -17,6 +17,7 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
     return {
       slug,
       title: data.title,
+      metaTitle: data.metaTitle,
       description: data.description,
       content,
       keywords: data.keywords || [],

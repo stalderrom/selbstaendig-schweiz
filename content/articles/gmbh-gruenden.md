@@ -1,5 +1,6 @@
 ---
 title: 'GmbH gründen in der Schweiz: Kompletter Guide 2026'
+metaTitle: 'GmbH gründen in der Schweiz: Guide 2026'
 description: >-
   Alles zur GmbH-Gründung in der Schweiz: Schritt-für-Schritt-Anleitung, Kosten,
   Kapital, Statuten, Handelsregister, Steuern. Vom Notar bis zur fertigen GmbH.

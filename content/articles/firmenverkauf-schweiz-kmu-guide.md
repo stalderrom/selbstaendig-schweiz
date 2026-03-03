@@ -1,5 +1,6 @@
 ---
 title: "Firmenverkauf Schweiz: Kompletter Guide für KMU"
+metaTitle: 'Firmenverkauf Schweiz: Guide für KMU'
 description: "Firmenverkauf in der Schweiz: Bewertung, Steuern, rechtliche Abwicklung für KMU-Inhaber. Mit Kostenübersicht und Beispielrechnungen. Jetzt lesen!"
 keywords: ["firmenverkauf", "firma verkaufen schweiz", "unternehmensverkauf schweiz", "kmu verkaufen", "firmenbewertung schweiz"]
 category: "allgemein"

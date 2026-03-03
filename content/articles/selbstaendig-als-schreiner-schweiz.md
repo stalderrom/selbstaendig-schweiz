@@ -1,5 +1,6 @@
 ---
 title: "Selbständig als Schreiner: Kompletter Guide Schweiz"
+metaTitle: 'Selbständig als Schreiner in der Schweiz'
 description: "Wie du dich als Schreiner selbständig machst: Anmeldung, Kosten, Einkommen und Tipps für die Schweiz. Jetzt Guide lesen!"
 keywords: ["selbständig als schreiner", "schreiner selbständig schweiz", "schreinerbetrieb gründen", "schreiner einzelfirma anmelden", "einkommen selbständiger schreiner"]
 category: "berufsratgeber"

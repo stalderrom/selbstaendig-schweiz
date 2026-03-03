@@ -1,5 +1,6 @@
 ---
 title: "AHV für Selbständige Schweiz 2026: Beiträge, Anmeldung & Tipps"
+metaTitle: 'AHV Selbständige Schweiz 2026: Beiträge & Tipps'
 description: "AHV für Selbständige in der Schweiz: Wie hoch sind die Beiträge, wie meldest du dich an, was ist die Mindestbeitrag und wie funktioniert die Abrechnung?"
 keywords: ["ahv selbständige schweiz", "ahv beiträge selbständige", "ahv anmeldung selbständig", "sozialversicherungen selbständige schweiz", "ahv berechnen selbständige"]
 category: "versicherungen"

@@ -1,5 +1,6 @@
 ---
 title: "Ergänzungsleistungen Schweiz 2026: Anspruch & Antrag"
+metaTitle: 'Ergänzungsleistungen Schweiz 2026: Anspruch'
 description: "Ergänzungsleistungen 2026: Voraussetzungen, Vermögensfreibeträge CHF 37'500/60'000, Antragsverfahren. Kompletter EL-Guide Schweiz. Jetzt lesen!"
 keywords: ["ergänzungsleistungen", "ergänzungsleistungen schweiz", "el zur ahv", "el zur iv", "ergänzungsleistungen anspruch"]
 category: "allgemein"

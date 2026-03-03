@@ -1,5 +1,6 @@
 ---
 title: "Bewilligungen für Selbständige Schweiz 2026: Welche brauchst du?"
+metaTitle: 'Bewilligungen für Selbständige Schweiz 2026'
 description: "Welche Bewilligungen brauchen Selbständige in der Schweiz? Gewerbebewilligungen, Berufszulassungen, kantonale Anforderungen und wie du sie beantragst."
 keywords: ["bewilligungen selbständige schweiz", "gewerbebewilligung schweiz", "berufszulassung selbständige", "bewilligung gewerbe schweiz", "selbständig machen bewilligung"]
 category: "allgemein"

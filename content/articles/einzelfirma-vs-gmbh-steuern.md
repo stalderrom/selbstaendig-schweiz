@@ -1,5 +1,6 @@
 ---
 title: "Einzelfirma vs. GmbH Steuern Schweiz 2026: Wann lohnt sich der Wechsel?"
+metaTitle: 'Einzelfirma vs. GmbH Schweiz: Steuern 2026'
 description: "Einzelfirma vs. GmbH Steuern Schweiz: Ab welchem Einkommen ist die GmbH günstiger? Konkrete Zahlen, Berechnungen und Entscheidungshilfe für 2026."
 keywords: ["einzelfirma vs gmbh steuern schweiz", "gmbh steuern vergleich einzelfirma", "wann gmbh gründen steuer", "steuervergleich rechtsformen schweiz", "gmbh oder einzelfirma schweiz"]
 category: "steuern"

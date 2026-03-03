@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   return {
-    title: article.title,
+    title: article.metaTitle || article.title,
     description: article.description,
     keywords: article.keywords,
     authors: [{ name: article.author }],

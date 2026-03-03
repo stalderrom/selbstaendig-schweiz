@@ -1,5 +1,6 @@
 ---
 title: "Treuhänder finden Schweiz 2026: Kosten, Tipps & worauf du achten musst"
+metaTitle: 'Treuhänder finden Schweiz 2026: Kosten & Tipps'
 description: "Treuhänder für Selbständige in der Schweiz finden: Was kostet ein Treuhänder, wann brauchst du einen, wie findest du den richtigen und was leistet er?"
 keywords: ["treuhänder finden schweiz", "treuhänder selbständige schweiz", "treuhänder kosten schweiz", "steuerberater schweiz selbständige", "treuhänder empfehlung schweiz"]
 category: "buchhaltung-und-finanzen"

@@ -1,5 +1,6 @@
 ---
 title: "MWST für Selbständige Schweiz 2026: Kompletter Guide"
+metaTitle: 'MWST Selbständige Schweiz 2026: Guide'
 description: "MWST für Selbständige in der Schweiz: Ab wann Pflicht, Sätze, Abrechnung, Saldosteuersatz vs. effektive Methode. Alles was du wissen musst."
 keywords: ["mwst selbständige", "mehrwertsteuer schweiz selbständig", "mwst pflicht schweiz", "mwst anmelden schweiz", "vorsteuer selbständige"]
 category: "steuern"

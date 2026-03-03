@@ -1,5 +1,6 @@
 ---
 title: "Krankentaggeld für Selbständige Schweiz 2026: Vergleich & Guide"
+metaTitle: 'Krankentaggeld Selbständige Schweiz 2026'
 description: "Krankentaggeld für Selbständige in der Schweiz: Was ist versichert, wie viel kostet es, welche Anbieter sind die besten? Alles was du wissen musst."
 keywords: ["krankentaggeld selbständige schweiz", "krankentaggeld freelancer schweiz", "krankentaggeld kosten selbständige", "taggeldversicherung selbständige", "einkommensausfall krankheit selbständige"]
 category: "versicherungen"

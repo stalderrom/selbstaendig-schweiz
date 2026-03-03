@@ -1,5 +1,6 @@
 ---
 title: 'Buchhaltung für Selbständige in der Schweiz: Kompletter Guide 2026'
+metaTitle: 'Buchhaltung für Selbständige Schweiz 2026'
 description: >-
   Alles über Buchhaltung für Selbständige: Pflichten, Tools, Treuhänder-Kosten,
   MWST-Abrechnung und wie du deine Buchhaltung optimal organisierst.

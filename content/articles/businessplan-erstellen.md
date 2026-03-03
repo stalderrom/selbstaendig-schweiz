@@ -1,5 +1,6 @@
 ---
 title: "Businessplan erstellen Schweiz 2026: Vorlage & Schritt-für-Schritt Guide"
+metaTitle: 'Businessplan erstellen Schweiz 2026: Vorlage'
 description: "Businessplan erstellen für die Schweiz: Aufbau, Vorlage, Tipps für Gründer und was Banken und Förderinstitutionen wirklich wollen. Mit kostenloser Struktur."
 keywords: ["businessplan erstellen schweiz", "businessplan vorlage schweiz", "businessplan gründung schweiz", "businessplan bank schweiz", "businessplan beispiel"]
 category: "allgemein"

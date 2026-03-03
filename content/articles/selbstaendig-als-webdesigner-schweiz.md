@@ -1,5 +1,6 @@
 ---
 title: "Selbständig als Webdesigner: Kompletter Guide Schweiz"
+metaTitle: 'Selbständig als Webdesigner in der Schweiz'
 description: "Wie du dich als Webdesigner selbständig machst: Anmeldung, Kosten, Einkommen und Kundengewinnung in der Schweiz. Jetzt Guide lesen!"
 keywords: ["selbständig als webdesigner", "webdesigner selbständig schweiz", "webdesign selbständig kosten", "webdesigner anmelden schweiz", "einkommen webdesigner selbständig"]
 category: "berufsratgeber"

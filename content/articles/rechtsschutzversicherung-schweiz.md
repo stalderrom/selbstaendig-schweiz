@@ -1,5 +1,6 @@
 ---
 title: "Rechtsschutzversicherung Schweiz: Guide 2026"
+metaTitle: 'Rechtsschutzversicherung Schweiz: Guide 2026'
 description: "Rechtsschutzversicherung für Selbständige in der Schweiz: Leistungen, Kosten, Anbieter und wichtige Tipps. Jetzt Guide lesen!"
 keywords: ["rechtsschutzversicherung", "rechtsschutzversicherung schweiz", "rechtsschutz selbständige", "rechtsschutzversicherung kosten", "rechtsschutz anbieter schweiz"]
 category: "versicherungen"

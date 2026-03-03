@@ -1,5 +1,6 @@
 ---
 title: "Berufshaftpflicht Schweiz: Kosten, Anbieter & Pflicht"
+metaTitle: 'Berufshaftpflicht Schweiz: Kosten & Anbieter'
 description: "Berufshaftpflicht für Selbständige: Wann obligatorisch, Kosten nach Beruf und beste Anbieter in der Schweiz. Kompletter Guide mit Check. Jetzt lesen!"
 keywords: ["berufshaftpflicht", "berufshaftpflicht schweiz", "berufshaftpflicht kosten", "berufshaftpflicht obligatorisch", "berufshaftpflichtversicherung schweiz"]
 category: "versicherungen"

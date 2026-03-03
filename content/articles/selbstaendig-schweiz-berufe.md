@@ -1,5 +1,6 @@
 ---
 title: 'Selbständig machen in der Schweiz: Berufsübersicht & Ratgeber 2026'
+metaTitle: 'Selbständig in der Schweiz: Berufsübersicht 2026'
 description: >-
   Komplette Übersicht: In welchen Berufen kann man sich selbständig machen?
   Voraussetzungen, Verdienstmöglichkeiten und Tipps für über 50 Branchen in der

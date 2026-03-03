@@ -1,5 +1,6 @@
 ---
 title: "Lebensversicherung Schweiz: Vergleich & Guide 2026"
+metaTitle: 'Lebensversicherung Schweiz: Vergleich 2026'
 description: "Lebensversicherung in der Schweiz: Arten, Kosten, Vergleich und steuerliche Vorteile. Finde die passende Police für dich. Jetzt informieren!"
 keywords: ["lebensversicherung", "lebensversicherung vergleich schweiz", "lebensversicherung kosten", "lebensversicherung arten", "lebensversicherung steuer schweiz"]
 category: "versicherungen"

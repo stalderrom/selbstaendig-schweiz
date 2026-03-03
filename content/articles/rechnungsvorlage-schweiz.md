@@ -1,5 +1,6 @@
 ---
 title: "Rechnungsvorlage Schweiz 2026: Kostenlos + rechtlich korrekt"
+metaTitle: 'Rechnungsvorlage Schweiz: Kostenlos & korrekt'
 description: "Kostenlose Rechnungsvorlagen für die Schweiz mit MWST-Regeln 2026, Pflichtangaben und rechtlichen Anforderungen. Jetzt Vorlage herunterladen!"
 keywords: ["rechnungsvorlage schweiz", "rechnung schweiz vorlage", "rechnungsvorlage schweiz kostenlos", "rechnung erstellen schweiz", "mwst rechnung schweiz"]
 category: "buchhaltung-&-finanzen"

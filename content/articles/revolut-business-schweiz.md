@@ -1,5 +1,6 @@
 ---
 title: "Revolut Business Schweiz: Kosten, Erfahrungen & Anmeldung"
+metaTitle: 'Revolut Business Schweiz: Kosten & Erfahrungen'
 description: "Revolut Business für Schweizer Selbständige: Kosten ab CHF 0, Schweizer IBAN, Multi-Währung. Kompletter Guide mit Anmeldung. Jetzt lesen!"
 keywords: ["revolut business", "revolut business schweiz", "revolut geschäftskonto", "revolut business kosten", "revolut schweizer iban"]
 category: "allgemein"

@@ -1,5 +1,6 @@
 ---
 title: "Selbständig als Treuhänder: Kompletter Guide Schweiz"
+metaTitle: 'Selbständig als Treuhänder in der Schweiz'
 description: "Wie du dich als Treuhänder selbständig machst: Voraussetzungen, Kosten, Einkommen und Kundenakquise. Praktischer Guide für die Schweiz. Jetzt lesen!"
 keywords: ["selbständig als treuhänder", "treuhänder selbständig schweiz", "treuhänder werden schweiz", "treuhänder voraussetzungen", "treuhänder einkommen"]
 category: "berufsratgeber"

@@ -1,5 +1,6 @@
 ---
 title: "Todesfallversicherung Schweiz 2026: Guide & Kosten"
+metaTitle: 'Todesfallversicherung Schweiz: Guide & Kosten'
 description: "Todesfallversicherung in der Schweiz: Kosten, Säule 3a Limit CHF 7'258, Steuervorteile und optimale Versicherungssumme berechnen. Jetzt Guide lesen!"
 keywords: ["todesfallversicherung", "todesfallversicherung kosten schweiz", "säule 3a todesfallversicherung", "todesfallversicherung berechnen", "lebensversicherung schweiz"]
 category: "versicherungen"

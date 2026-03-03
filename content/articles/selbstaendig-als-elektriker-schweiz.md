@@ -1,5 +1,6 @@
 ---
 title: "Selbständig als Elektriker: Kompletter Guide Schweiz"
+metaTitle: 'Selbständig als Elektriker in der Schweiz'
 description: "NIV-Konzession, Startkosten und Einkommen als selbständiger Elektriker in der Schweiz. Mit Schritt-für-Schritt Anleitung. Jetzt Guide lesen!"
 keywords: ["selbständig als elektriker", "elektriker selbständig schweiz", "niv konzession elektriker", "elektriker einzelfirma gründen", "selbständiger elektriker kosten"]
 category: "berufsratgeber"

@@ -1,5 +1,6 @@
 ---
 title: "Bankkredit für Selbständige Schweiz: Kompletter Guide"
+metaTitle: 'Bankkredit für Selbständige Schweiz: Guide'
 description: "Bankkredit als Selbständiger erhalten: Voraussetzungen, Strategien und Alternativen für die Schweiz. Tipps für erfolgreiche Anträge. Jetzt lesen!"
 keywords: ["bankkredit", "bankkredit selbständige schweiz", "geschäftskredit schweiz", "kredit für selbständige", "unternehmenskredit schweiz"]
 category: "allgemein"

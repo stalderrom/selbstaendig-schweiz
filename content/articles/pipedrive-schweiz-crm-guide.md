@@ -1,5 +1,6 @@
 ---
 title: "Pipedrive Schweiz 2026: Kosten, Features & Setup Guide"
+metaTitle: 'Pipedrive Schweiz 2026: Kosten, Features & Setup'
 description: "Pipedrive CRM für Schweizer KMU: Preise ab CHF 162/Jahr, DSGVO-konform, Integration mit CH-Tools. Kompletter Guide mit Setup-Anleitung. Jetzt lesen!"
 keywords: ["pipedrive", "pipedrive kosten schweiz", "crm software schweiz", "pipedrive preise 2026", "kundenmanagement software"]
 category: "tools-&-software"

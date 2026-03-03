@@ -1,5 +1,6 @@
 ---
 title: "QR Rechnung erstellen Schweiz: Kompletter Guide"
+metaTitle: 'QR Rechnung erstellen Schweiz: Guide'
 description: "QR Rechnung erstellen: Tools, Voraussetzungen und Schritt-für-Schritt Anleitung für Schweizer Selbständige und KMU. Jetzt Guide lesen!"
 keywords: ["qr rechnung erstellen", "qr rechnung schweiz", "qr rechnung erstellen kostenlos", "qr code rechnung", "swiss qr code erstellen"]
 category: "buchhaltung-&-finanzen"

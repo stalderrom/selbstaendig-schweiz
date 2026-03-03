@@ -1,5 +1,6 @@
 ---
 title: "Einfache Buchhaltung Schweiz: Kompletter Guide 2026"
+metaTitle: 'Einfache Buchhaltung Schweiz: Guide 2026'
 description: "Einfache Buchhaltung für Selbständige bis CHF 500'000: Rechtslage, Software-Tipps und Schritt-für-Schritt Anleitung. Jetzt Guide lesen!"
 keywords: ["einfache buchhaltung", "einfache buchhaltung schweiz", "buchhaltung selbständige schweiz", "buchhaltung einzelfirma", "einnahmen ausgaben rechnung"]
 category: "buchhaltung-&-finanzen"

@@ -1,5 +1,6 @@
 ---
 title: 'Einzelfirma gründen in der Schweiz: Schritt-für-Schritt-Anleitung 2026'
+metaTitle: 'Einzelfirma gründen Schweiz: Schritt-für-Schritt 2026'
 description: >-
   Kompletter Guide zur Einzelfirma-Gründung: Voraussetzungen, Kosten, Anmeldung,
   Steuern, Versicherungen. Alles was Sie wissen müssen, um in der Schweiz eine

@@ -11,8 +11,8 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.selbständig-schweiz.ch'),
   title: {
-    default: "Selbständig Schweiz - Das Portal für Selbstständige und Gründer",
-    template: "%s | Selbständig Schweiz"
+    default: "Selbständig Schweiz – Portal für Gründer & Freelancer",
+    template: "%s"
   },
   description: "Alles rund um Selbstständigkeit, Freelancing und Startup-Gründung in der Schweiz. Praktische Tipps zu Steuern, Versicherungen, Marketing und Kundengewinnung.",
   keywords: ["selbstständig schweiz", "freelancer schweiz", "startup schweiz", "freiberufler", "einzelunternehmen", "gründung schweiz", "selbstständigkeit"],

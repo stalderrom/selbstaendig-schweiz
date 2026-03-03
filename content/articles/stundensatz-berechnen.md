@@ -1,5 +1,6 @@
 ---
 title: "Stundensatz berechnen Schweiz 2026: Rechner & Formel für Selbständige"
+metaTitle: 'Stundensatz berechnen Schweiz 2026: Rechner'
 description: "Stundensatz berechnen als Selbständiger in der Schweiz: Formel, Rechner, Vergleich nach Branche und Tipps zur Preisgestaltung. Nie mehr zu wenig verlangen!"
 keywords: ["stundensatz berechnen schweiz", "stundensatz selbständige", "stundensatz freelancer schweiz", "wie viel stundensatz schweiz", "tagessatz berechnen"]
 category: "buchhaltung-und-finanzen"

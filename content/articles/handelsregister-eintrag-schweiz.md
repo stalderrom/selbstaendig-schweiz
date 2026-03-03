@@ -1,5 +1,6 @@
 ---
 title: "Handelsregister Eintrag Schweiz 2026: Wann Pflicht, Kosten & Ablauf"
+metaTitle: 'Handelsregister Schweiz: Wann Pflicht & Kosten 2026'
 description: "Handelsregister Eintrag Schweiz: Wann ist der Eintrag Pflicht, wann freiwillig? Kosten, Ablauf, benötigte Dokumente und was der Eintrag bringt."
 keywords: ["handelsregister eintrag schweiz", "handelsregister einzelfirma schweiz", "handelsregister anmeldung kosten", "zefix handelsregister", "handelsregistereintrag gmbh"]
 category: "unternehmensgruendung"

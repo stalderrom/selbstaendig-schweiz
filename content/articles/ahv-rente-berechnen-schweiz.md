@@ -1,5 +1,6 @@
 ---
 title: "AHV Rente berechnen Schweiz: Vollständiger Guide 2026"
+metaTitle: 'AHV Rente berechnen Schweiz: Guide 2026'
 description: "AHV Rente berechnen für 2026: Höhe ermitteln, Beitragsjahre prüfen und Rente optimieren. Mit aktuellen Sätzen und Beispielen. Jetzt lesen!"
 keywords: ["ahv rente berechnen", "ahv rente berechnen schweiz", "ahv rentenhöhe ermitteln", "ahv rente 2026", "ahv beitragsjahre"]
 category: "steuern"
