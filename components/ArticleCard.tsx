@@ -10,7 +10,7 @@ export default function ArticleCard({ article }: ArticleCardProps) {
   const category = CATEGORIES.find(cat => cat.slug === article.category);
 
   return (
-    <Link href={`/artikel/${article.slug}`} className="group">
+    <Link href={`/artikel/${article.slug}`} className="group" aria-label={article.title}>
       <article className="bg-white rounded-lg border border-gray-200 overflow-hidden hover:shadow-lg transition-shadow duration-300">
         {article.featuredImage && (
           <div className="aspect-video bg-gray-100 overflow-hidden">
