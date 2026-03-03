@@ -2,9 +2,10 @@
 title: 'GmbH gründen in der Schweiz: Kompletter Guide 2026'
 metaTitle: 'GmbH gründen in der Schweiz: Guide 2026'
 description: >-
-  Alles zur GmbH-Gründung in der Schweiz: Schritt-für-Schritt-Anleitung, Kosten,
-  Kapital, Statuten, Handelsregister, Steuern. Vom Notar bis zur fertigen GmbH.
+  GmbH Gründung Schweiz: Kompletter Guide 2026 mit Schritt-für-Schritt-Anleitung,
+  Kosten, Stammkapital, Statuten und Steuertipps. In 2–6 Wochen zur eigenen GmbH.
 keywords:
+  - gründung gmbh schweiz
   - gmbh gründen schweiz
   - gmbh gründen
   - gesellschaft mit beschränkter haftung
@@ -13,6 +14,7 @@ keywords:
 category: selbststaendig-machen-gruendung
 author: Redaktion
 publishedAt: '2025-12-06'
+updatedAt: '2026-03-03'
 slug: gmbh-gruenden
 faq:
   - question: 'Wie viel kostet es, eine GmbH zu gründen?'
@@ -79,7 +81,9 @@ faq:
 
 # GmbH gründen in der Schweiz: Kompletter Guide 2026
 
-Du möchtest dich [selbständig machen in der Schweiz](/artikel/selbstaendig-machen-schweiz) und suchst die passende Rechtsform? **Eine GmbH gründen** (Gesellschaft mit beschränkter Haftung) ist der professionelle Weg für Unternehmer, die Haftungsschutz, Investoren oder ein seriöses Image wollen. Mit CHF 20'000 Stammkapital und etwas Papierkram schaffen Sie in 2-6 Wochen eine vollwertige Kapitalgesellschaft. Dieser umfassende Guide führt Sie Schritt für Schritt durch die GmbH-Gründung – von den Voraussetzungen über die Statuten bis zur Handelsregister-Eintragung.
+**GmbH Gründung Schweiz:** Der professionelle Weg für Unternehmer, die Haftungsschutz, Investoren oder ein seriöses Image wollen. Du möchtest dich [selbständig machen in der Schweiz](/artikel/selbstaendig-machen-schweiz) und suchst die passende Rechtsform?
+
+Mit CHF 20'000 Stammkapital und etwas Papierkram schaffen Sie in 2-6 Wochen eine vollwertige Kapitalgesellschaft. Dieser umfassende Guide führt Sie Schritt für Schritt durch die GmbH-Gründung in der Schweiz – von den Voraussetzungen über die Statuten bis zur Handelsregister-Eintragung.
 
 ## Was ist eine GmbH?
 
@@ -140,7 +144,7 @@ Eine GmbH ist eine Kapitalgesellschaft mit eigener Rechtspersönlichkeit. Die Ge
 → [Einzelfirma gründen: Guide](/artikel/einzelfirma-gruenden)
 → [Rechtsformen im Vergleich](/artikel/unternehmen-gruenden-schweiz)
 
-## Voraussetzungen für GmbH-Gründung
+## Voraussetzungen für GmbH-Gründung Schweiz
 
 ### 1. Stammkapital: CHF 20'000
 
@@ -275,7 +279,7 @@ Wichtig: Die Revisionsstelle sorgt für Transparenz und Vertrauen – für Banke
 
 → Mehr zur Revisionsstelle: Wann Pflicht & welche Varianten?
 
-## Schritt-für-Schritt: GmbH gründen
+## Schritt-für-Schritt: GmbH-Gründung Schweiz
 
 ### Schritt 1: Vorbereitung & Planung (1-2 Wochen)
 
@@ -567,7 +571,7 @@ Die Anmeldung als Arbeitgeber bei der zuständigen Ausgleichskasse ist Pflicht. 
 
 → [Generalversammlung: Ablauf & Protokoll](/artikel/gmbh-gruenden)
 
-## Kosten: GmbH gründen
+## Kosten: GmbH-Gründung Schweiz
 
 ### Einmalige Gründungskosten
 
@@ -895,7 +899,7 @@ So bleibt alles sauber, rechtssicher und transparent – egal ob Sie alleiniger 
 **Folge:** Rechtlich problematisch
 **Lösung:** Jährlich GV, Protokoll führen
 
-## Checkliste: GmbH gründen
+## Checkliste: GmbH gründen Schweiz
 
 ### Phase 1: Vorbereitung (2-4 Wochen)
 
