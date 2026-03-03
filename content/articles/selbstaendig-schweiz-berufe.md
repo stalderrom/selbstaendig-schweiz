@@ -1234,7 +1234,7 @@ Nutzen Sie diese Übersicht als Orientierung, lesen Sie die Detail-Ratgeber zu I
 - [Selbständig machen in der Schweiz: Kompletter Guide](/artikel/selbstaendig-machen-schweiz)
 - [Einzelfirma gründen: Schritt-für-Schritt](/artikel/einzelfirma-gruenden)
 - [GmbH gründen: Anleitung](/artikel/gmbh-gruenden)
-- [Businessplan erstellen](/artikel/unternehmen-gruenden-schweiz)
+- [Businessplan erstellen](/artikel/businessplan-erstellen)
 
 ### Nach Kategorie:
 **Kreative:**

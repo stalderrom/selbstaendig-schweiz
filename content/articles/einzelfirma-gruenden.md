@@ -204,7 +204,7 @@ Sie können einen Fantasienamen als Zusatz verwenden:
 - Offiziell: "Müller Webdesign"
 - Marketing: "PixelPerfect by Müller"
 
-→ [Firmennamen finden: Tipps & Generator](/artikel/unternehmen-gruenden-schweiz)
+→ [Firmennamen finden: Tipps & Generator](/artikel/firmennamen-finden)
 
 ## Schritt-für-Schritt: Einzelfirma gründen
 
@@ -218,7 +218,7 @@ Sie können einen Fantasienamen als Zusatz verwenden:
 
 Nicht zwingend, aber sehr empfohlen!
 
-→ [Businessplan erstellen: Vorlage](/artikel/unternehmen-gruenden-schweiz)
+→ [Businessplan erstellen: Vorlage](/artikel/businessplan-erstellen)
 
 **Finanzierung sichern:**
 - Startkapital berechnen (CHF 5'000-30'000 typisch)
@@ -306,7 +306,7 @@ AHV-Beitrag: CHF 8'080/Jahr
 
 **Wichtig:** Anmeldung innert 14 Tagen nach Start der Tätigkeit!
 
-→ [AHV für Selbständige: Kompletter Guide](/artikel/ahv-rente-berechnen-schweiz)
+→ [AHV für Selbständige: Kompletter Guide](/artikel/ahv-selbststaendige)
 
 **2. Unfallversicherung (optional):**
 
@@ -355,7 +355,7 @@ Als Selbständiger sind Sie NICHT obligatorisch unfallversichert.
 - 2.6% Reduziert (Lebensmittel, Bücher)
 - 3.8% Beherbergung
 
-→ [MWST für Selbständige: Kompletter Guide](/artikel/steuern-selbststaendige)
+→ [MWST für Selbständige: Kompletter Guide](/artikel/mwst-selbststaendige)
 
 ### Schritt 5: Weitere Anmeldungen & Setup
 
@@ -811,18 +811,18 @@ Starten Sie jetzt: Die Einzelfirma ist Ihr Sprungbrett in die Selbständigkeit!
 - [Selbständig machen in der Schweiz: Kompletter Guide](/artikel/selbstaendig-machen-schweiz)
 - [GmbH gründen: Anleitung](/artikel/gmbh-gruenden)
 - [Rechtsformen im Vergleich](/artikel/unternehmen-gruenden-schweiz)
-- [Businessplan erstellen](/artikel/unternehmen-gruenden-schweiz)
-- [Firmennamen finden](/artikel/unternehmen-gruenden-schweiz)
+- [Businessplan erstellen](/artikel/businessplan-erstellen)
+- [Firmennamen finden](/artikel/firmennamen-finden)
 
 ### Finanzen & Admin:
 - [Steuern für Selbständige](/artikel/steuern-selbststaendige)
 - [Versicherungen für Selbständige](/artikel/versicherungen-selbststaendige)
 - [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
-- [AHV für Selbständige](/artikel/ahv-rente-berechnen-schweiz)
-- [MWST für Selbständige](/artikel/steuern-selbststaendige)
+- [AHV für Selbständige](/artikel/ahv-selbststaendige)
+- [MWST für Selbständige](/artikel/mwst-selbststaendige)
 
 ### Praxis:
-- [Stundensatz berechnen](/artikel/offerte-erstellen-schweiz)
+- [Stundensatz berechnen](/artikel/stundensatz-berechnen)
 - [Kunden gewinnen](/artikel/kunden-gewinnen-schweiz)
 - [Marketing für Selbständige](/artikel/kunden-gewinnen-schweiz)
 - [Die 20 häufigsten Fehler](/artikel/selbstaendig-machen-schweiz)

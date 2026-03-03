@@ -11,7 +11,7 @@ slug: "selbstaendig-werden-schweiz"
 
 # Selbständig werden in der Schweiz 2026: Kompletter Leitfaden für Gründer
 
-Du möchtest [selbständig werden in der Schweiz](/artikel/selbstaendig-machen-schweiz)? **Selbständig** zu werden ist der Traum vieler Schweizer Angestellten. Doch zwischen der Idee und dem ersten eigenen Auftrag liegen oft Monate der Unsicherheit. Welche Behördengänge sind nötig? Was kostet die Selbständigkeit wirklich? Und wie viel kann ich verdienen?
+Du möchtest [selbständig machen in der Schweiz](/artikel/selbstaendig-machen-schweiz)? **Selbständig** zu werden ist der Traum vieler Schweizer Angestellten. Doch zwischen der Idee und dem ersten eigenen Auftrag liegen oft Monate der Unsicherheit. Welche Behördengänge sind nötig? Was kostet die Selbständigkeit wirklich? Und wie viel kann ich verdienen?
 
 Viele scheitern bereits an den ersten Hürden: komplizierte AHV-Anmeldungen, unklare MWST-Regeln oder teure Versicherungslücken. Dabei ist der Weg in die Schweizer Selbständigkeit durchaus planbar – wenn man die Spielregeln kennt.
 

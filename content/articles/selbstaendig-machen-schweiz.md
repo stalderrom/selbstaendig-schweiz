@@ -475,7 +475,7 @@ Jede Branche hat ihre Besonderheiten. Hier findest du detaillierte Guides für s
 - [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner-schweiz)
 
 ### Beratung & Coaching
-- [Selbständig als Coach](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Berater](/artikel/selbstaendig-als-berater-schweiz)
 - [Selbständig als Unternehmensberater](/artikel/selbstaendig-als-berater-schweiz)
 
 ### IT & Tech

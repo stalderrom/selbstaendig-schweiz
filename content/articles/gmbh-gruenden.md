@@ -256,7 +256,7 @@ Viele nutzen Anbieter wie:
 2. Handelsregister Ihres Kantons
 3. Beim Notar nochmals prüfen lassen
 
-→ [Firmennamen finden: Generator & Tipps](/artikel/unternehmen-gruenden-schweiz)
+→ [Firmennamen finden: Generator & Tipps](/artikel/firmennamen-finden)
 
 ### 6. Prüfungsorgan (Revisionsstelle)
 
@@ -287,7 +287,7 @@ Wichtig: Die Revisionsstelle sorgt für Transparenz und Vertrauen – für Banke
 
 Wichtiger bei GmbH als bei Einzelfirma (Bank will sehen!)
 
-→ [Businessplan erstellen: Vorlage](/artikel/unternehmen-gruenden-schweiz)
+→ [Businessplan erstellen: Vorlage](/artikel/businessplan-erstellen)
 
 **2. Gesellschaftervertrag (bei mehreren Gesellschaftern):**
 
@@ -1001,8 +1001,8 @@ Die GmbH ist die richtige Wahl für ambitionierte Unternehmer mit Wachstumsplän
 - [Selbständig machen in der Schweiz: Kompletter Guide](/artikel/selbstaendig-machen-schweiz)
 - [Einzelfirma gründen: Anleitung](/artikel/einzelfirma-gruenden)
 - [Rechtsformen im Vergleich](/artikel/unternehmen-gruenden-schweiz)
-- [Businessplan erstellen](/artikel/unternehmen-gruenden-schweiz)
-- [Firmennamen finden](/artikel/unternehmen-gruenden-schweiz)
+- [Businessplan erstellen](/artikel/businessplan-erstellen)
+- [Firmennamen finden](/artikel/firmennamen-finden)
 
 ### GmbH-spezifisch:
 - [GmbH-Statuten: Vorlage & Generator](/artikel/gmbh-gruenden)
@@ -1026,7 +1026,7 @@ Die GmbH ist die richtige Wahl für ambitionierte Unternehmer mit Wachstumsplän
 ### Praxis:
 - [Kunden gewinnen](/artikel/kunden-gewinnen-schweiz)
 - [Buchhaltungssoftware für GmbH](/artikel/tools-selbststaendige)
-- [Treuhänder finden](/artikel/selbstaendig-als-treuhaender-schweiz)
+- [Treuhänder finden](/artikel/treuhaender-finden)
 
 <!--
 EDITOR-NOTIZEN: Pillar Page - GmbH gründen Schweiz
