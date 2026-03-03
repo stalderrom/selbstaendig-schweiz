@@ -492,7 +492,7 @@ Jede Branche hat ihre Besonderheiten. Hier findest du detaillierte Guides für s
 
 **Behörden:**
 - [ESTV - Eidgenössische Steuerverwaltung](https://www.estv.admin.ch)
-- [Handelsregister](https://www.zefix.ch)
+- [Handelsregister](https://www.zefix.ch/de/search/entity/list)
 - [AHV-Ausgleichskassen nach Kanton](https://www.ahv-iv.ch)
 
 **Informationen:**

@@ -149,7 +149,7 @@ export default async function Home() {
               </h1>
               <p className="text-xl text-blue-100 mb-8">
                 Komplette Guides zu Gründung, Steuern, Versicherungen, Buchhaltung und Kundengewinnung.
-                Von Einzelfirma bis GmbH – alles was du brauchst.
+                Von Einzelfirma bis GmbH – alles für Selbständige, Gründer und Freelancer in der Schweiz.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link
@@ -251,7 +251,7 @@ export default async function Home() {
               Über 500 Artikel mit praxisnahen Tipps für deine Selbstständigkeit
             </p>
             <Link
-              href="/artikel/selbststaendig-machen-schweiz"
+              href="/artikel/selbstaendig-machen-schweiz"
               className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
             >
               Selbstständig machen Guide

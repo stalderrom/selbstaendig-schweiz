@@ -626,7 +626,7 @@ Gewisse Branchenverbände bieten Gruppenversicherungen:
 
 - [Informationsstelle AHV/IV](https://www.ahv-iv.ch)
 - [Bundesamt für Gesundheit (BAG)](https://www.bag.admin.ch)
-- [Comparis Versicherungsvergleich](https://www.comparis.ch/krankenkassen)
+- [Comparis Versicherungsvergleich](https://www.comparis.ch/krankenkassen/default.aspx)
 - [BVG-Auffangeinrichtung](https://www.aeis.ch)
 
 ## Weiterführende Artikel
