@@ -1,10 +1,7 @@
 ---
 title: 'Selbständig machen in der Schweiz: Der komplette Guide 2026'
 metaTitle: 'Selbständig machen in der Schweiz 2026'
-description: >-
-  Alles was du wissen musst, um dich in der Schweiz selbständig zu machen:
-  Rechtsformen, Anmeldung, Steuern, Versicherungen und praktische Tipps für
-  deinen erfolgreichen Start.
+description: 'Selbständig machen Schweiz: Rechtsformen, Anmeldung, Steuern & Versicherungen – Schritt für Schritt zum erfolgreichen Start.'
 keywords:
   - selbständig machen schweiz
   - selbstständigkeit schweiz

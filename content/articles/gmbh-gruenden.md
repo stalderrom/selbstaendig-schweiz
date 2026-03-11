@@ -1,9 +1,7 @@
 ---
 title: 'GmbH gründen in der Schweiz: Kompletter Guide 2026'
 metaTitle: 'GmbH gründen in der Schweiz: Guide 2026'
-description: >-
-  GmbH Gründung Schweiz: Kompletter Guide 2026 mit Schritt-für-Schritt-Anleitung,
-  Kosten, Stammkapital, Statuten und Steuertipps. In 2–6 Wochen zur eigenen GmbH.
+description: 'GmbH Gründung Schweiz 2026: Schritt-für-Schritt, Kosten, Stammkapital & Steuertipps. In 2–6 Wochen zur eigenen GmbH.'
 keywords:
   - gründung gmbh schweiz
   - gmbh gründen schweiz

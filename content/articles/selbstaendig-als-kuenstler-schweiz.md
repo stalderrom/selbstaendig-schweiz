@@ -1,7 +1,7 @@
 ---
 title: "Selbständig als Künstler Schweiz 2026: Steuern, AHV & Fördermittel"
 metaTitle: 'Selbständig als Künstler Schweiz: AHV & Steuern'
-description: "Selbständig als Künstler in der Schweiz: AHV-Beiträge, Steuern, Fördermittel, Stipendien und wie du dein künstlerisches Schaffen rechtlich und finanziell richtig aufstellst."
+description: 'Selbständig als Künstler Schweiz: AHV, Steuern, Fördermittel & Stipendien. Dein künstlerisches Schaffen rechtlich richtig aufstellen.'
 keywords: ["selbständig als künstler schweiz", "künstler selbständig steuern schweiz", "kunstschaffende ahv schweiz", "stipendium künstler schweiz", "freelance künstler schweiz"]
 category: "selbststaendigkeit-nach-beruf"
 author: "Redaktion"

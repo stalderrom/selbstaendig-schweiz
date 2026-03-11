@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     default: "Selbständig Schweiz – Portal für Gründer & Freelancer",
     template: "%s"
   },
-  description: "Alles rund um Selbstständigkeit, Freelancing und Startup-Gründung in der Schweiz. Praktische Tipps zu Steuern, Versicherungen, Marketing und Kundengewinnung.",
+  description: "Selbstständig in der Schweiz: Guides zu Gründung, Steuern, Versicherungen & Kundengewinnung – für Einzelfirma, GmbH und Freelancer.",
   keywords: ["selbstständig schweiz", "freelancer schweiz", "startup schweiz", "freiberufler", "einzelunternehmen", "gründung schweiz", "selbstständigkeit"],
   authors: [{ name: "Selbständig Schweiz" }],
   openGraph: {

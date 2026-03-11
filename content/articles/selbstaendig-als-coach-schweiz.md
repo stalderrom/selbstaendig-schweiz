@@ -1,7 +1,7 @@
 ---
 title: "Selbständig als Coach Schweiz 2026: Zulassung, Steuern & Einkommen"
 metaTitle: 'Selbständig als Coach Schweiz: Guide 2026'
-description: "Selbständig als Coach in der Schweiz: Welche Ausbildung braucht man, wie viel verdient man, welche Rechtsform ist optimal und wie man als Coach Kunden gewinnt."
+description: 'Selbständig als Coach Schweiz: Ausbildung, Verdienst, optimale Rechtsform und wie du als Coach erfolgreich Kunden gewinnst.'
 keywords: ["selbständig als coach schweiz", "coach selbständig machen schweiz", "coaching business schweiz", "life coach schweiz selbständig", "business coach schweiz"]
 category: "selbststaendigkeit-nach-beruf"
 author: "Redaktion"

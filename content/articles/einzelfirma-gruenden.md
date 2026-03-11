@@ -1,9 +1,7 @@
 ---
 title: 'Einzelfirma gründen in der Schweiz: Schritt-für-Schritt-Anleitung 2026'
 metaTitle: 'Einzelfirma gründen Schweiz: Schritt-für-Schritt 2026'
-description: >-
-  Einzelfirma gründen Schweiz: Kompletter Guide 2026 mit Schritt-für-Schritt-Anleitung,
-  Kosten, Checkliste und Steuertipps. In 1–3 Tagen zur eigenen Firma – kein Mindestkapital.
+description: 'Einzelfirma gründen Schweiz 2026: Schritt-für-Schritt, Kosten & Checkliste. In 1–3 Tagen zur eigenen Firma – kein Mindestkapital.'
 keywords:
   - einzelfirma gründen schweiz
   - einzelfirma gründen

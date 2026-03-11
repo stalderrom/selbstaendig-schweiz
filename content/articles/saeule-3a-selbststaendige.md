@@ -1,7 +1,7 @@
 ---
 title: "Säule 3a für Selbständige Schweiz 2026: Maximaler Steuerabzug"
 metaTitle: 'Säule 3a Selbständige Schweiz: Steuerabzug 2026'
-description: "Säule 3a für Selbständige in der Schweiz: Maximalbetrag 2026, beste Anbieter, Steuerersparnis berechnen und warum Selbständige ohne BVG mehr einzahlen dürfen."
+description: 'Säule 3a Selbständige Schweiz 2026: Maximalbetrag, beste Anbieter, Steuerersparnis berechnen und Einzahlungsvorteile ohne BVG.'
 keywords: ["säule 3a selbständige schweiz", "säule 3a ohne pensionskasse", "3a maximalbetrag selbständige", "säule 3a steuerabzug", "selbständige altersvorsorge 3a"]
 category: "versicherungen-und-vorsorge"
 author: "Redaktion"

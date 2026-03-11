@@ -1,10 +1,7 @@
 ---
 title: 'Die besten Tools für Selbständige 2026: Software-Guide Schweiz'
 metaTitle: 'Die besten Tools für Selbständige Schweiz 2026'
-description: >-
-  Alle wichtigen Tools für Selbständige: Buchhaltung, Projektmanagement,
-  Kommunikation, Marketing, Zeiterfassung und mehr. Vergleiche, Kosten und
-  Empfehlungen.
+description: 'Tools für Selbständige Schweiz: Buchhaltung, Projektmanagement, Marketing & Zeiterfassung. Kosten, Vergleich und Empfehlungen.'
 keywords:
   - tools selbständige
   - software selbständige schweiz

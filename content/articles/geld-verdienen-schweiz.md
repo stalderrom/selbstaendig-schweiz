@@ -1,10 +1,7 @@
 ---
 title: 'Geld verdienen in der Schweiz: Geschäftsmodelle & Einkommensquellen 2026'
 metaTitle: 'Geld verdienen Schweiz: Geschäftsmodelle 2026'
-description: >-
-  Alle Möglichkeiten um als Selbständiger Geld zu verdienen: Geschäftsmodelle,
-  passive Einkommensquellen, Nebenerwerb und wie du dein Einkommen
-  diversifizierst.
+description: 'Geld verdienen Schweiz: Geschäftsmodelle, Nebenerwerb & passive Einkommen. So diversifizierst du als Selbständiger dein Einkommen.'
 keywords:
   - geld verdienen schweiz
   - geschäftsmodelle

@@ -1,10 +1,7 @@
 ---
 title: 'Versicherungen für Selbständige in der Schweiz: Kompletter Guide 2026'
 metaTitle: 'Versicherungen für Selbständige Schweiz 2026'
-description: >-
-  Welche Versicherungen brauchen Selbständige in der Schweiz? Alles über
-  Pflichtversicherungen, empfohlene Absicherungen, Kosten und wie du optimal
-  versichert bist.
+description: 'Versicherungen Selbständige Schweiz: Pflicht & empfohlene Absicherungen, Kosten und wie du als Freelancer optimal versichert bist.'
 keywords:
   - versicherungen selbständige
   - krankentaggeld selbständige

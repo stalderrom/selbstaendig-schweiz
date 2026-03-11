@@ -1,7 +1,7 @@
 ---
 title: "Geschäftskonto Schweiz 2026: Vergleich der besten Anbieter"
 metaTitle: 'Geschäftskonto Schweiz 2026: Vergleich der Anbieter'
-description: "Geschäftskonto Schweiz im Vergleich: Neon Business, Revolut, UBS, PostFinance, Raiffeisen – Kosten, Funktionen und welches Konto für Selbständige am besten passt."
+description: 'Geschäftskonto Schweiz Vergleich: Neon Business, Revolut, UBS, PostFinance & Raiffeisen. Kosten, Funktionen – welches Konto passt?'
 keywords: ["geschäftskonto schweiz vergleich", "geschäftskonto selbständige schweiz", "bestes geschäftskonto schweiz", "geschäftskonto kosten schweiz", "firmenkonto schweiz"]
 category: "buchhaltung-und-finanzen"
 author: "Redaktion"
