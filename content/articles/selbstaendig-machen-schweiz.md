@@ -468,16 +468,16 @@ Jede Branche hat ihre Besonderheiten. Hier findest du detaillierte Guides für s
 
 ### Kreativberufe
 - [Selbständig als Fotograf](/artikel/selbstaendig-als-fotograf-schweiz)
-- [Selbständig als Grafiker](/artikel/selbstaendig-als-fotograf-schweiz)
+- [Selbständig als Grafiker](/artikel/selbstaendig-als-grafiker-schweiz)
 - [Selbständig als Webdesigner](/artikel/selbstaendig-als-webdesigner-schweiz)
 
 ### Beratung & Coaching
 - [Selbständig als Berater](/artikel/selbstaendig-als-berater-schweiz)
-- [Selbständig als Unternehmensberater](/artikel/selbstaendig-als-berater-schweiz)
+- [Selbständig als Unternehmensberater](/artikel/selbstaendig-als-unternehmensberater-schweiz)
 
 ### IT & Tech
 - [Selbständig als Programmierer](/artikel/selbstaendig-als-programmierer-schweiz)
-- [Selbständig als IT-Berater](/artikel/selbstaendig-als-programmierer-schweiz)
+- [Selbständig als IT-Berater](/artikel/selbstaendig-als-it-berater-schweiz)
 
 ### Handwerk
 - [Selbständig als Elektriker](/artikel/selbstaendig-als-elektriker-schweiz)
