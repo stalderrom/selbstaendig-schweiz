@@ -112,7 +112,7 @@ Formel: Jahreseinkommen ÷ fakturierbare Stunden
 
 Beispiel: CHF 80'000 Ziel ÷ 1'000 fakturierbare Stunden = CHF 80/Stunde (Minimum)
 
-→ [Stundensatz berechnen](/artikel/stundensatz-berechnen-schweiz)
+→ [Stundensatz berechnen](/artikel/stundensatz-berechnen)
 
 ## Erste Kunden gewinnen
 
