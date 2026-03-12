@@ -256,9 +256,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           {/* Keywords/Tags */}
           {article.keywords.length > 0 && (
             <div className="mt-16 pt-10 border-t-2 border-gray-200">
-              <h3 className="text-base font-bold text-gray-900 mb-5 uppercase tracking-wide">
+              <p className="text-base font-bold text-gray-900 mb-5 uppercase tracking-wide">
                 Verwandte Themen
-              </h3>
+              </p>
               <div className="flex flex-wrap gap-3">
                 {article.keywords.map((keyword) => (
                   <span
@@ -274,9 +274,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
           {/* CTA Box */}
           <div className="mt-16 bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl p-10 text-center shadow-xl">
-            <h3 className="text-3xl font-bold text-white mb-4">
+            <p className="text-3xl font-bold text-white mb-4">
               Bereit für den nächsten Schritt?
-            </h3>
+            </p>
             <p className="text-blue-100 mb-8 text-lg">
               Entdecke weitere hilfreiche Artikel zur Selbstständigkeit in der Schweiz
             </p>

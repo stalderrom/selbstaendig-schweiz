@@ -26,9 +26,9 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           {/* About */}
           <div>
-            <h3 className="font-bold text-lg mb-4">
+            <p className="font-bold text-lg mb-4">
               Selbständig<span className="text-blue-400">Schweiz</span>
-            </h3>
+            </p>
             <p className="text-gray-400 text-sm mb-4">
               Das umfassende Portal für Selbstständige und Gründer in der Schweiz.
               Praxisnahe Guides, aktuelle Informationen und Expertenwissen für deinen Erfolg.
@@ -40,7 +40,7 @@ export default function Footer() {
 
           {/* Gründung */}
           <div>
-            <h4 className="font-semibold mb-4 text-blue-400">Gründung</h4>
+            <p className="font-semibold mb-4 text-blue-400">Gründung</p>
             <ul className="space-y-2">
               {FOOTER_LINKS.gruendung.map((link) => (
                 <li key={link.href}>
@@ -57,7 +57,7 @@ export default function Footer() {
 
           {/* Finanzen */}
           <div>
-            <h4 className="font-semibold mb-4 text-blue-400">Finanzen & Steuern</h4>
+            <p className="font-semibold mb-4 text-blue-400">Finanzen & Steuern</p>
             <ul className="space-y-2">
               {FOOTER_LINKS.finanzen.map((link) => (
                 <li key={link.href}>
@@ -74,7 +74,7 @@ export default function Footer() {
 
           {/* Wachstum & Ressourcen */}
           <div>
-            <h4 className="font-semibold mb-4 text-blue-400">Wachstum</h4>
+            <p className="font-semibold mb-4 text-blue-400">Wachstum</p>
             <ul className="space-y-2">
               {FOOTER_LINKS.wachstum.map((link) => (
                 <li key={link.href}>

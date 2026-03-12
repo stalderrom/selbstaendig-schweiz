@@ -41,9 +41,9 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center">
-            <h1 className="text-xl font-bold text-gray-900">
+            <span className="text-xl font-bold text-gray-900">
               Selbständig<span className="text-blue-600">Schweiz</span>
-            </h1>
+            </span>
           </Link>
 
           {/* Desktop Navigation */}
