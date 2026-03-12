@@ -6,6 +6,7 @@ keywords: ["einfache gesellschaft", "einfache gesellschaft schweiz", "einfache g
 category: "selbstaendig-machen-/-gruendung"
 author: "Redaktion"
 publishedAt: "2025-12-08"
+updatedAt: "2026-03-12"
 slug: "einfache-gesellschaft-schweiz"
 faq:
   - question: "Kann ich eine einfache Gesellschaft alleine gründen?"
@@ -47,13 +48,26 @@ howto:
 
 # Einfache Gesellschaft Schweiz – Kompletter Guide 2026
 
-Du möchtest mit einem Partner [selbständig machen in der Schweiz](/artikel/selbstaendig-machen-schweiz)? **Eine einfache Gesellschaft** entsteht in der Schweiz oft ohne dass es die Beteiligten merken. Sobald zwei Personen gemeinsam ein Ziel verfolgen, haben sie rechtlich eine einfache Gesellschaft gegründet – auch ohne schriftlichen Vertrag oder Handelsregistereintrag.
+**Einfache Gesellschaft Schweiz:** Planst du, mit jemandem gemeinsam [selbständig zu werden](/artikel/selbstaendig-machen-schweiz)? Dann habt ihr möglicherweise schon eine einfache Gesellschaft gegründet – ohne es zu merken. Sobald zwei Personen ein gemeinsames Ziel verfolgen, entsteht sie rechtlich automatisch, auch ohne Vertrag oder Registereintrag.
 
 ![Zwei Freelancer verfolgen gemeinsam ein Ziel – automatisch entsteht eine Einfache Gesellschaft nach Art. 530 OR mit unbeschränkter Haftung mit Privatvermögen](/images/einfache-gesellschaft/visual-01-hero.png)
 
 Diese automatische Entstehung führt häufig zu rechtlicher Unsicherheit. Viele Freelancer, Start-up-Teams oder Projektpartner wissen nicht, dass sie bereits eine Gesellschaft gebildet haben und welche Pflichten damit verbunden sind. Besonders problematisch: Alle Gesellschafter haften unbeschränkt mit ihrem Privatvermögen.
 
-In diesem Guide erfährst du alles über die rechtlichen Grundlagen, Anmeldepflichten, Kosten und Alternativen zur einfachen Gesellschaft. Du lernst, wie du bewusst eine einfache Gesellschaft gründest oder eine bereits bestehende korrekt strukturierst.
+### Einfache Gesellschaft Schweiz: Auf einen Blick
+
+| | |
+|---|---|
+| **Gesellschafter** | Mindestens 2 Personen |
+| **Mindestkapital** | Keines |
+| **Handelsregistereintrag** | Nicht möglich |
+| **Haftung** | Solidarisch, unbeschränkt mit Privatvermögen |
+| **Gründungskosten** | CHF 0 (Gesellschaftsvertrag: CHF 800–2'000 empfohlen) |
+| **Steuern** | Transparenzprinzip – jeder versteuert seinen Anteil selbst |
+| **Ideal für** | Projektkooperationen, Freelancer-Teams, temporäre Vorhaben |
+| **Nicht geeignet für** | Hohes Haftungsrisiko, Umsatz über CHF 200'000, Investoren |
+
+In diesem Guide erfährst du alles über die rechtlichen Grundlagen, Anmeldepflichten, Kosten und Alternativen. Du lernst, wie du bewusst eine einfache Gesellschaft gründest – oder eine bereits bestehende korrekt strukturierst.
 
 ## Was bedeutet einfache Gesellschaft in der Schweiz?
 
@@ -106,7 +120,7 @@ Eine Berufshaftpflichtversicherung ist rechtlich nicht vorgeschrieben, aber drin
 **MWST-Pflicht:**
 Ab einem Gesamtumsatz von CHF 100'000 pro Jahr wird die einfache Gesellschaft MWST-pflichtig. Der Umsatz aller Gesellschafter wird dabei zusammengerechnet.
 
-## Kosten im Überblick
+## Kosten: Einfache Gesellschaft Schweiz
 
 Die einfache Gesellschaft ist kostengünstig zu gründen und zu führen. Die meisten Ausgaben entstehen nicht durch Gebühren, sondern durch empfohlene Dienstleistungen.
 
@@ -158,7 +172,7 @@ Die Gewinnverteilung in der einfachen Gesellschaft erfolgt nach den Regeln des G
 
 Jeder Gesellschafter versteuert seinen Gewinnanteil als Selbständigeneinkommen. Die einfache Gesellschaft selbst zahlt keine Steuern (Transparenzprinzip). Bei MWST-Pflicht rechnet die Gesellschaft als Ganzes mit der Steuerverwaltung ab.
 
-## Schritt-für-Schritt Anleitung zur Gründung
+## Schritt-für-Schritt: Einfache Gesellschaft gründen
 
 ![Einfache Gesellschaft gründen in 6 Schritten: Vorbereitung & Planung, Gesellschaftsvertrag aufsetzen, Behördliche Anmeldungen (AHV Pflicht), Versicherungen abschliessen, Buchhaltung organisieren, Operative Umsetzung](/images/einfache-gesellschaft/visual-06-prozess.png)
 
@@ -254,11 +268,9 @@ Startet mit euren ersten gemeinsamen Projekten und etabliert regelmässige Ablä
 
 ### Fehler 3: Solidarische Haftung ignorieren
 
-**Problem:** Viele Gründer unterschätzen, dass sie für alle Gesellschaftsschulden mit ihrem Privatvermögen haften – auch für Fehler des Partners.
+**Problem:** Ihr haftet mit eurem gesamten Privatvermögen solidarisch und unbeschränkt für alle Schulden der Gesellschaft – auch für Fehler oder Verbindlichkeiten eures Partners. Eine Begrenzung ist nur möglich, wenn ein Gesellschafter ausdrücklich im eigenen Namen handelt.
 
-**Lösung:** Viele unterschätzen, dass ihr mit eurem gesamten Privatvermögen solidarisch und unbeschränkt für alle Schulden der Gesellschaft haftet – auch für Fehler oder Verbindlichkeiten eures Partners. Eine Begrenzung der Haftung ist nur möglich, wenn ein Gesellschafter ausdrücklich im eigenen Namen handelt.
-
-Schliesst eine ausreichende Berufshaftpflichtversicherung ab. Vereinbart Haftungsausschlüsse in Kundenverträgen. Bei hohem Risiko wechselt zur GmbH.
+**Lösung:** Schliesst eine ausreichende Berufshaftpflichtversicherung ab. Vereinbart Haftungsausschlüsse in Kundenverträgen. Bei hohem Risiko: Wechsel zur GmbH prüfen.
 
 ### Fehler 4: Verspätete AHV-Anmeldung
 
@@ -338,7 +350,7 @@ Die einfache Gesellschaft ist die unkomplizierteste Rechtsform für gemeinsame P
 Deine nächsten Schritte sollten sein: Prüfe deine aktuelle Situation auf unbewusst entstandene Gesellschaften, setze einen schriftlichen Vertrag auf und melde dich korrekt bei den Behörden an. Die Investition in professionelle Beratung zahlt sich bereits im ersten Jahr aus.
 
 **Weiterführende Informationen:**
-- Einzelfirma gründen – für Solopreneure die bessere Alternative
-- GmbH gründen – bei wachsendem Geschäft und Haftungsschutz  
-- Selbständig werden in der Schweiz – Überblick aller Rechtsformen
+- [Einzelfirma gründen](/artikel/einzelfirma-gruenden) – für Solopreneure die bessere Alternative
+- [GmbH gründen](/artikel/gmbh-gruenden) – bei wachsendem Geschäft und Haftungsschutz
+- [Selbständig machen Schweiz](/artikel/selbstaendig-machen-schweiz) – Überblick aller Rechtsformen
 - Buchhaltung für Selbständige – Pflichten und praktische Tipps
