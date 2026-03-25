@@ -103,7 +103,7 @@ howto:
 
 Planst du, mit jemandem gemeinsam [selbständig zu werden](/artikel/selbstaendig-machen-schweiz)? Dann habt ihr möglicherweise schon eine einfache Gesellschaft gegründet. Ohne es zu merken. Sobald zwei Personen ein gemeinsames Ziel verfolgen, entsteht sie rechtlich automatisch. Auch ohne Vertrag oder Registereintrag.
 
-!\[Zwei Freelancer verfolgen gemeinsam ein Ziel – automatisch entsteht eine Einfache Gesellschaft nach Art. 530 OR mit unbeschränkter Haftung mit Privatvermögen]\(/images/einfache-gesellschaft/visual-01-hero.png)
+![Zwei Freelancer verfolgen gemeinsam ein Ziel – automatisch entsteht eine Einfache Gesellschaft nach Art. 530 OR mit unbeschränkter Haftung mit Privatvermögen](/images/einfache-gesellschaft/visual-01-hero.png)
 
 Diese automatische Entstehung führt häufig zu rechtlicher Unsicherheit. Viele Freelancer, Start-up-Teams oder Projektpartner wissen nicht, dass sie bereits eine Gesellschaft gebildet haben. Und welche Pflichten damit verbunden sind. Besonders problematisch: Alle Gesellschafter haften unbeschränkt mit ihrem Privatvermögen.
 
@@ -158,11 +158,11 @@ Es handelt sich also meist um zeitlich begrenzte Zusammenschlüsse, die spontan 
 * Erbengemeinschaft verwaltet eine Immobilie
 * Start-up-Team arbeitet vor der GmbH-Gründung zusammen
 
-!\[Typische Anwendungsfälle der Einfachen Gesellschaft: App-Entwicklung, Gemeinschaftspraxis, Musikband, Erbengemeinschaft, Start-up-Team und Design-Kollektiv]\(/images/einfache-gesellschaft/visual-03-use-cases.png)
+![Typische Anwendungsfälle der Einfachen Gesellschaft: App-Entwicklung, Gemeinschaftspraxis, Musikband, Erbengemeinschaft, Start-up-Team und Design-Kollektiv](/images/einfache-gesellschaft/visual-03-use-cases.png)
 
 Die einfache Gesellschaft entsteht oft unbeabsichtigt. Bereits wenn du mit jemandem regelmässig gemeinsame Projekte durchführst und Einnahmen teilst. Hier besteht rechtlich bereits eine einfache Gesellschaft. Viele Unternehmer bemerken dies erst bei der ersten Steuererklärung oder bei Haftungsfragen.
 
-!\[Vergleich der Rechtsformen Schweiz: Einfache Gesellschaft, Einzelfirma, GmbH und AG nach Mindestkapital, Haftung, Handelsregister, Gründungskosten und Steuern]\(/images/einfache-gesellschaft/visual-02-vergleich.png)
+![Vergleich der Rechtsformen Schweiz: Einfache Gesellschaft, Einzelfirma, GmbH und AG nach Mindestkapital, Haftung, Handelsregister, Gründungskosten und Steuern](/images/einfache-gesellschaft/visual-02-vergleich.png)
 
 ## Voraussetzungen und rechtliche Anforderungen
 
@@ -187,7 +187,7 @@ Eine Berufshaftpflichtversicherung ist rechtlich nicht vorgeschrieben, aber drin
 
 Die einfache Gesellschaft ist kostengünstig zu gründen und zu führen. Die meisten Ausgaben entstehen nicht durch Gebühren, sondern durch empfohlene Dienstleistungen.
 
-!\[Kosten der Einfachen Gesellschaft im Überblick: Einmalige Gründungskosten und laufende Jahreskosten pro Person mit Pflicht- und Empfehlungsstatus]\(/images/einfache-gesellschaft/visual-04-kosten.png)
+![Kosten der Einfachen Gesellschaft im Überblick: Einmalige Gründungskosten und laufende Jahreskosten pro Person mit Pflicht- und Empfehlungsstatus](/images/einfache-gesellschaft/visual-04-kosten.png)
 
 Die Gesamtkosten im ersten Jahr liegen pro Gesellschafter typischerweise zwischen CHF 2'000.– und CHF 5'000.–. Ab dem zweiten Jahr reduzieren sich die Kosten auf CHF 1'500 bis CHF 3'500 jährlich.
 
@@ -237,7 +237,7 @@ Partner A arbeitet Vollzeit, Partner B nur 40% und bringt dafür Kapital ein.
 **Wichtig:**\
 Die Gewinnverteilung muss im Voraus schriftlich vereinbart werden. Nachträgliche Änderungen sind schwierig und können steuerliche Probleme verursachen.
 
-!\[Gewinnverteilung Einfache Gesellschaft: Szenario A mit 50/50-Aufteilung (zwei Informatiker, CHF 240'000 Umsatz) und Szenario B mit 70/30-Aufteilung (ungleiche Beiträge, CHF 150'000 Gewinn)]\(/images/einfache-gesellschaft/visual-05-rechnungen.png)
+![Gewinnverteilung Einfache Gesellschaft: Szenario A mit 50/50-Aufteilung (zwei Informatiker, CHF 240'000 Umsatz) und Szenario B mit 70/30-Aufteilung (ungleiche Beiträge, CHF 150'000 Gewinn)](/images/einfache-gesellschaft/visual-05-rechnungen.png)
 
 ### Steuerliche Behandlung
 
@@ -245,7 +245,7 @@ Jeder Gesellschafter versteuert seinen Gewinnanteil als Selbständigeneinkommen.
 
 ## Schritt-für-Schritt eine einfache Gesellschaft gründen
 
-!\[Einfache Gesellschaft gründen in 6 Schritten: Vorbereitung & Planung, Gesellschaftsvertrag aufsetzen, Behördliche Anmeldungen (AHV Pflicht), Versicherungen abschliessen, Buchhaltung organisieren, Operative Umsetzung]\(/images/einfache-gesellschaft/visual-06-prozess.png)
+![Einfache Gesellschaft gründen in 6 Schritten: Vorbereitung & Planung, Gesellschaftsvertrag aufsetzen, Behördliche Anmeldungen (AHV Pflicht), Versicherungen abschliessen, Buchhaltung organisieren, Operative Umsetzung](/images/einfache-gesellschaft/visual-06-prozess.png)
 
 ### Schritt 1: Vorbereitung und Planung
 
@@ -331,7 +331,7 @@ Startet mit euren ersten gemeinsamen Projekten und etabliert regelmässige Ablä
 
 ## Häufige Fehler vermeiden
 
-!\[7 häufige Fehler bei der Einfachen Gesellschaft Schweiz: Kein Gesellschaftsvertrag, unklare Gewinnverteilung, Haftung ignorieren, verspätete AHV-Anmeldung, keine Exit-Strategie, Vermischung Privat und Geschäft, MWST-Schwelle übersehen – jeweils mit Lösung]\(/images/einfache-gesellschaft/visual-07-fehler.png)
+![7 häufige Fehler bei der Einfachen Gesellschaft Schweiz: Kein Gesellschaftsvertrag, unklare Gewinnverteilung, Haftung ignorieren, verspätete AHV-Anmeldung, keine Exit-Strategie, Vermischung Privat und Geschäft, MWST-Schwelle übersehen – jeweils mit Lösung](/images/einfache-gesellschaft/visual-07-fehler.png)
 
 ### Fehler 1: Kein schriftlicher Gesellschaftsvertrag
 
@@ -434,7 +434,7 @@ Ja, aber es ist kompliziert und selten sinnvoll. Als Arbeitgeber müsst ihr euch
 
 ## Fazit und nächste Schritte
 
-!\[Rechtsform-Finder Schweiz: Einfache Gesellschaft oder GmbH? Entscheidungsbaum mit den drei Empfehlungen Einzelfirma, Einfache Gesellschaft und GmbH je nach Partneranzahl, Jahresumsatz und Haftungsrisiko]\(/images/einfache-gesellschaft/visual-09-entscheidung.png)
+![Rechtsform-Finder Schweiz: Einfache Gesellschaft oder GmbH? Entscheidungsbaum mit den drei Empfehlungen Einzelfirma, Einfache Gesellschaft und GmbH je nach Partneranzahl, Jahresumsatz und Haftungsrisiko](/images/einfache-gesellschaft/visual-09-entscheidung.png)
 
 Die einfache Gesellschaft ist die unkomplizierteste Rechtsform für gemeinsame Projekte in der Schweiz. Sie entsteht automatisch bei jeder partnerschaftlichen Zusammenarbeit. Und bietet maximale Flexibilität ohne bürokratischen Aufwand.
 
