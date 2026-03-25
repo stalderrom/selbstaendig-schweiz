@@ -21,33 +21,31 @@ const FOOTER_LINKS = {
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-white py-12 mt-auto">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
-          {/* About */}
+    <footer className="bg-ink text-warm-300 mt-auto">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
+
+          {/* Brand */}
           <div>
-            <p className="font-bold text-lg mb-4">
-              Selbständig<span className="text-blue-400">Schweiz</span>
+            <p className="font-serif text-lg font-bold text-warm-white mb-4 tracking-tight">
+              Selbständig<span className="text-accent-mid font-normal italic">Schweiz</span>
             </p>
-            <p className="text-gray-400 text-sm mb-4">
+            <p className="text-warm-500 text-sm leading-relaxed mb-4">
               Das umfassende Portal für Selbstständige und Gründer in der Schweiz.
-              Praxisnahe Guides, aktuelle Informationen und Expertenwissen für deinen Erfolg.
+              Praxisnahe Guides, aktuelle Informationen und Expertenwissen.
             </p>
-            <p className="text-gray-500 text-xs">
+            <p className="text-warm-600 text-xs leading-relaxed">
               Alle Informationen ohne Gewähr. Konsultiere bei wichtigen Entscheidungen einen Fachexperten.
             </p>
           </div>
 
           {/* Gründung */}
           <div>
-            <p className="font-semibold mb-4 text-blue-400">Gründung</p>
-            <ul className="space-y-2">
+            <p className="category-label text-accent-mid mb-5">Gründung</p>
+            <ul className="space-y-2.5">
               {FOOTER_LINKS.gruendung.map((link) => (
                 <li key={link.href}>
-                  <Link
-                    href={link.href}
-                    className="text-gray-400 hover:text-white transition-colors text-sm"
-                  >
+                  <Link href={link.href} className="text-warm-500 hover:text-warm-200 transition-colors text-sm">
                     {link.label}
                   </Link>
                 </li>
@@ -57,14 +55,11 @@ export default function Footer() {
 
           {/* Finanzen */}
           <div>
-            <p className="font-semibold mb-4 text-blue-400">Finanzen & Steuern</p>
-            <ul className="space-y-2">
+            <p className="category-label text-accent-mid mb-5">Finanzen & Steuern</p>
+            <ul className="space-y-2.5">
               {FOOTER_LINKS.finanzen.map((link) => (
                 <li key={link.href}>
-                  <Link
-                    href={link.href}
-                    className="text-gray-400 hover:text-white transition-colors text-sm"
-                  >
+                  <Link href={link.href} className="text-warm-500 hover:text-warm-200 transition-colors text-sm">
                     {link.label}
                   </Link>
                 </li>
@@ -72,25 +67,19 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Wachstum & Ressourcen */}
+          {/* Wachstum */}
           <div>
-            <p className="font-semibold mb-4 text-blue-400">Wachstum</p>
-            <ul className="space-y-2">
+            <p className="category-label text-accent-mid mb-5">Wachstum</p>
+            <ul className="space-y-2.5">
               {FOOTER_LINKS.wachstum.map((link) => (
                 <li key={link.href}>
-                  <Link
-                    href={link.href}
-                    className="text-gray-400 hover:text-white transition-colors text-sm"
-                  >
+                  <Link href={link.href} className="text-warm-500 hover:text-warm-200 transition-colors text-sm">
                     {link.label}
                   </Link>
                 </li>
               ))}
-              <li className="pt-2">
-                <Link
-                  href="/artikel"
-                  className="text-gray-400 hover:text-white transition-colors text-sm font-medium"
-                >
+              <li className="pt-1">
+                <Link href="/artikel" className="text-warm-400 hover:text-warm-200 transition-colors text-sm font-medium">
                   Alle Artikel →
                 </Link>
               </li>
@@ -99,21 +88,15 @@ export default function Footer() {
         </div>
 
         {/* Bottom Bar */}
-        <div className="border-t border-gray-800 pt-8">
+        <div className="border-t border-warm-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-gray-400 text-sm">
+            <p className="text-warm-600 text-sm">
               &copy; {new Date().getFullYear()} Selbständig Schweiz. Alle Rechte vorbehalten.
             </p>
             <div className="flex gap-6 text-sm">
-              <Link href="/impressum" className="text-gray-400 hover:text-white transition-colors">
-                Impressum
-              </Link>
-              <Link href="/datenschutz" className="text-gray-400 hover:text-white transition-colors">
-                Datenschutz
-              </Link>
-              <Link href="/kontakt" className="text-gray-400 hover:text-white transition-colors">
-                Kontakt
-              </Link>
+              <Link href="/impressum" className="text-warm-600 hover:text-warm-300 transition-colors">Impressum</Link>
+              <Link href="/datenschutz" className="text-warm-600 hover:text-warm-300 transition-colors">Datenschutz</Link>
+              <Link href="/kontakt" className="text-warm-600 hover:text-warm-300 transition-colors">Kontakt</Link>
             </div>
           </div>
         </div>

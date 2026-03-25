@@ -178,27 +178,22 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
       <Header />
 
-      <article className="bg-white">
+      <article className="bg-warm-white">
         {/* Breadcrumbs */}
-        <div className="bg-gray-50 border-b border-gray-200">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-            <nav className="flex items-center space-x-2 text-sm text-gray-600">
-              <Link href="/" className="hover:text-blue-600">
-                Home
-              </Link>
-              <span>/</span>
+        <div className="border-b border-warm-200 bg-warm-50">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+            <nav className="flex items-center gap-2 text-sm text-warm-500">
+              <Link href="/" className="hover:text-warm-900 transition-colors">Home</Link>
+              <span className="text-warm-300">/</span>
               {category && (
                 <>
-                  <Link
-                    href={`/kategorie/${category.slug}`}
-                    className="hover:text-blue-600"
-                  >
+                  <Link href={`/kategorie/${category.slug}`} className="hover:text-warm-900 transition-colors">
                     {category.name}
                   </Link>
-                  <span>/</span>
+                  <span className="text-warm-300">/</span>
                 </>
               )}
-              <span className="text-gray-900">{article.title}</span>
+              <span className="text-warm-700 truncate max-w-xs">{article.title}</span>
             </nav>
           </div>
         </div>
@@ -206,65 +201,70 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         {/* Article Header */}
         <header className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-8">
           {category && (
-            <Link
-              href={`/kategorie/${category.slug}`}
-              className="inline-block px-3 py-1 text-sm font-semibold text-blue-600 bg-blue-50 rounded-full mb-4 hover:bg-blue-100"
-            >
+            <Link href={`/kategorie/${category.slug}`} className="category-label text-accent mb-4 block hover:text-accent-dark transition-colors">
               {category.name}
             </Link>
           )}
 
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+          <h1 className="font-serif text-4xl md:text-5xl font-bold text-warm-900 leading-tight mb-5">
             {article.title}
           </h1>
 
-          <p className="text-xl text-gray-600 mb-6">
+          <p className="text-lg text-warm-600 mb-6 leading-relaxed">
             {article.description}
           </p>
 
-          <div className="flex items-center justify-between border-t border-b border-gray-200 py-4">
-            <div className="flex items-center space-x-4 text-sm text-gray-600">
-              <span>{article.author}</span>
-              <span>•</span>
-              <time dateTime={article.publishedAt}>
-                {publishDate.toLocaleDateString('de-CH', {
-                  year: 'numeric',
-                  month: 'long',
-                  day: 'numeric'
-                })}
-              </time>
-              <span>•</span>
-              <span>{article.readingTime} Min. Lesezeit</span>
-            </div>
+          <div className="flex items-center gap-4 border-t border-b border-warm-200 py-4 text-sm text-warm-500">
+            <span>{article.author}</span>
+            <span className="text-warm-300">·</span>
+            <time dateTime={article.publishedAt}>
+              {publishDate.toLocaleDateString('de-CH', { year: 'numeric', month: 'long', day: 'numeric' })}
+            </time>
+            <span className="text-warm-300">·</span>
+            <span>{article.readingTime} Min. Lesezeit</span>
           </div>
         </header>
 
         {/* Article Content */}
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
-          <div className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-20 prose-h2:mb-8 prose-h2:pb-4 prose-h2:border-b-4 prose-h2:border-blue-600 prose-h2:leading-tight prose-h2:scroll-mt-20 prose-h3:text-2xl prose-h3:mt-14 prose-h3:mb-6 prose-h3:leading-snug prose-h3:text-gray-800 prose-h3:font-bold prose-h3:scroll-mt-20 prose-h4:text-xl prose-h4:mt-10 prose-h4:mb-4 prose-h4:text-blue-900 prose-h4:font-bold prose-h4:scroll-mt-20 prose-p:text-gray-700 prose-p:leading-[1.85] prose-p:mb-7 prose-p:text-[1.1875rem] prose-p:max-w-[75ch] prose-a:text-blue-600 prose-a:font-semibold prose-a:underline prose-a:decoration-2 prose-a:underline-offset-2 prose-a:decoration-blue-300 hover:prose-a:decoration-blue-600 hover:prose-a:text-blue-700 prose-a:transition-all prose-strong:text-gray-900 prose-strong:font-bold prose-ul:my-10 prose-ul:space-y-4 prose-ul:pl-6 prose-ol:my-10 prose-ol:space-y-4 prose-ol:pl-6 prose-li:text-gray-700 prose-li:leading-[1.8] prose-li:text-[1.125rem] prose-li:pl-3 prose-li::marker:text-blue-600 prose-li::marker:font-bold prose-li::marker:text-lg prose-li>ul:mt-3 prose-li>ul:mb-1 prose-li>ol:mt-3 prose-li>ol:mb-1 prose-code:text-blue-700 prose-code:bg-blue-50 prose-code:px-2.5 prose-code:py-1 prose-code:rounded-md prose-code:font-semibold prose-code:text-base prose-code:border prose-code:border-blue-200 prose-code:before:content-none prose-code:after:content-none prose-pre:bg-gray-900 prose-pre:text-gray-100 prose-pre:p-8 prose-pre:rounded-2xl prose-pre:my-10 prose-pre:shadow-2xl prose-pre:border-2 prose-pre:border-gray-700 prose-blockquote:border-l-4 prose-blockquote:border-blue-600 prose-blockquote:pl-8 prose-blockquote:pr-6 prose-blockquote:py-5 prose-blockquote:italic prose-blockquote:bg-blue-50 prose-blockquote:my-10 prose-blockquote:rounded-r-xl prose-blockquote:text-gray-700 prose-blockquote:text-[1.125rem] prose-blockquote:leading-relaxed prose-table:my-12 prose-table:border-collapse prose-table:w-full prose-table:shadow-xl prose-table:rounded-xl prose-table:overflow-hidden prose-table:border-2 prose-table:border-gray-200 prose-thead:bg-gradient-to-r prose-thead:from-blue-600 prose-thead:to-blue-700 prose-thead:text-white prose-th:py-5 prose-th:px-6 prose-th:text-left prose-th:font-bold prose-th:text-base prose-th:uppercase prose-th:tracking-wide prose-td:py-5 prose-td:px-6 prose-td:border-b prose-td:border-gray-200 prose-td:text-[1.0625rem] prose-td:leading-relaxed prose-tbody:bg-white prose-tbody:divide-y prose-tbody:divide-gray-200 prose-tr:hover:bg-blue-50 prose-tr:transition-colors prose-img:rounded-2xl prose-img:shadow-2xl prose-img:my-12 prose-img:border-4 prose-img:border-gray-100 prose-hr:my-16 prose-hr:border-t-2 prose-hr:border-gray-300 [&>*:first-child]:mt-0 [&>*:last-child]:mb-0">
+          <div className="prose prose-lg max-w-none
+            prose-headings:font-serif prose-headings:font-bold prose-headings:text-warm-900 prose-headings:tracking-tight
+            prose-h2:text-3xl prose-h2:mt-16 prose-h2:mb-6 prose-h2:pb-3 prose-h2:border-b prose-h2:border-warm-200 prose-h2:leading-tight prose-h2:scroll-mt-20 prose-h2:text-accent
+            prose-h3:text-2xl prose-h3:mt-12 prose-h3:mb-5 prose-h3:leading-snug prose-h3:scroll-mt-20
+            prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-h4:text-warm-800 prose-h4:scroll-mt-20
+            prose-p:text-warm-700 prose-p:leading-[1.85] prose-p:mb-6 prose-p:text-[1.1rem]
+            prose-a:text-accent prose-a:font-medium prose-a:underline prose-a:decoration-accent-mid prose-a:underline-offset-2 prose-a:transition-colors
+            hover:prose-a:text-accent-dark
+            prose-strong:text-warm-900 prose-strong:font-bold
+            prose-ul:my-8 prose-ul:pl-6 prose-ol:my-8 prose-ol:pl-6
+            prose-li:text-warm-700 prose-li:leading-[1.8] prose-li:pl-2
+            prose-code:text-accent-dark prose-code:bg-accent-50 prose-code:px-2 prose-code:py-0.5 prose-code:font-medium prose-code:text-sm prose-code:border prose-code:border-accent-light prose-code:before:content-none prose-code:after:content-none
+            prose-pre:bg-warm-900 prose-pre:text-warm-100 prose-pre:p-8 prose-pre:my-10
+            prose-blockquote:border-l-4 prose-blockquote:border-accent prose-blockquote:pl-6 prose-blockquote:py-1 prose-blockquote:italic prose-blockquote:bg-accent-50 prose-blockquote:my-8 prose-blockquote:text-warm-700 prose-blockquote:leading-relaxed
+            prose-table:my-10 prose-table:border-collapse prose-table:w-full prose-table:border prose-table:border-warm-200
+            prose-thead:bg-warm-900 prose-thead:text-warm-white
+            prose-th:py-4 prose-th:px-5 prose-th:text-left prose-th:font-semibold prose-th:text-sm prose-th:uppercase prose-th:tracking-wide
+            prose-td:py-4 prose-td:px-5 prose-td:border-b prose-td:border-warm-200 prose-td:text-warm-700
+            prose-tbody:bg-warm-white prose-tr:hover:bg-warm-50 prose-tr:transition-colors
+            prose-img:my-10 prose-img:shadow-lg
+            prose-hr:my-12 prose-hr:border-warm-200
+            [&>*:first-child]:mt-0 [&>*:last-child]:mb-0">
             <ReactMarkdown
               remarkPlugins={[remarkGfm]}
               rehypePlugins={[rehypeRaw]}
-              components={{
-                h1: () => null,
-              }}
+              components={{ h1: () => null }}
             >
               {article.content}
             </ReactMarkdown>
           </div>
 
-          {/* Keywords/Tags */}
+          {/* Keywords */}
           {article.keywords.length > 0 && (
-            <div className="mt-16 pt-10 border-t-2 border-gray-200">
-              <p className="text-base font-bold text-gray-900 mb-5 uppercase tracking-wide">
-                Verwandte Themen
-              </p>
-              <div className="flex flex-wrap gap-3">
+            <div className="mt-14 pt-8 border-t border-warm-200">
+              <p className="category-label text-warm-400 mb-4">Verwandte Themen</p>
+              <div className="flex flex-wrap gap-2">
                 {article.keywords.map((keyword) => (
-                  <span
-                    key={keyword}
-                    className="px-4 py-2 text-sm font-medium bg-gradient-to-r from-blue-50 to-blue-100 text-blue-900 rounded-full border border-blue-200 hover:border-blue-400 transition-all"
-                  >
+                  <span key={keyword} className="px-3 py-1 text-sm text-warm-600 border border-warm-200 hover:border-warm-400 transition-colors bg-warm-50">
                     {keyword}
                   </span>
                 ))}
@@ -272,18 +272,32 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             </div>
           )}
 
+          {/* Expert Box */}
+          <div className="mt-12 border border-warm-200 bg-warm-50 p-6 flex flex-col sm:flex-row items-start sm:items-center gap-5">
+            <div className="shrink-0 w-10 h-10 bg-accent flex items-center justify-center text-white text-sm font-bold font-serif">
+              ?
+            </div>
+            <div className="flex-1">
+              <p className="font-semibold text-warm-900 mb-1">Noch eine Frage zu diesem Thema?</p>
+              <p className="text-sm text-warm-600">
+                Unsere kuratierten Experten sind selbst selbständig — und kennen die Antwort aus eigener Erfahrung.
+              </p>
+            </div>
+            <Link href="/experten" className="shrink-0 bg-accent text-white px-5 py-2.5 text-sm font-semibold hover:bg-accent-dark transition-colors whitespace-nowrap">
+              Experte fragen →
+            </Link>
+          </div>
+
           {/* CTA Box */}
-          <div className="mt-16 bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl p-10 text-center shadow-xl">
-            <p className="text-3xl font-bold text-white mb-4">
+          <div className="mt-12 bg-ink p-10 text-center">
+            <p className="category-label text-accent-mid mb-4">Weiterlesen</p>
+            <p className="font-serif text-2xl md:text-3xl font-bold text-warm-white mb-4 leading-tight">
               Bereit für den nächsten Schritt?
             </p>
-            <p className="text-blue-100 mb-8 text-lg">
-              Entdecke weitere hilfreiche Artikel zur Selbstständigkeit in der Schweiz
+            <p className="text-warm-500 mb-8 text-base leading-relaxed">
+              Entdecke weitere praxisnahe Guides zur Selbstständigkeit in der Schweiz.
             </p>
-            <Link
-              href="/artikel"
-              className="inline-block bg-white text-blue-700 px-8 py-4 rounded-xl font-bold hover:bg-blue-50 transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
-            >
+            <Link href="/artikel" className="inline-block bg-accent text-white px-7 py-3 text-sm font-semibold hover:bg-accent-dark transition-colors">
               Alle Artikel anzeigen →
             </Link>
           </div>

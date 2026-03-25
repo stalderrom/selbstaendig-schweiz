@@ -16,6 +16,7 @@ author: Redaktion
 publishedAt: 2025-12-06
 updatedAt: 2026-03-25
 published: true
+featuredImage: /images/articles/einfache-gesellschaft-schweiz/featuredImage.png
 slug: einfache-gesellschaft-schweiz
 faq:
   - question: Kann ich eine einfache Gesellschaft alleine gründen?

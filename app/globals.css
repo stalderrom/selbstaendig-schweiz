@@ -1,14 +1,46 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/* ─── Design Tokens ──────────────────────────────────────────── */
+@theme {
+  /* Warm neutral palette */
+  --color-warm-white: #FAFAF8;
+  --color-warm-50:    #F5F3EF;
+  --color-warm-100:   #EDE9E3;
+  --color-warm-200:   #DDD9D2;
+  --color-warm-300:   #C5BFB5;
+  --color-warm-400:   #A09790;
+  --color-warm-500:   #7D7470;
+  --color-warm-600:   #5E5652;
+  --color-warm-700:   #433E3B;
+  --color-warm-800:   #2E2A27;
+  --color-warm-900:   #1A1714;
+
+  /* Venetian Red — timeless, editorial, elegant */
+  --color-accent:       #A52D3C;
+  --color-accent-dark:  #861F2E;
+  --color-accent-mid:   #C4566A;
+  --color-accent-light: #F9ECEE;
+  --color-accent-50:    #FDF5F6;
+
+  /* Deep ink for dark sections */
+  --color-ink:      #1E1A17;
+  --color-ink-soft: #2B2520;
+
+}
+
+/* ─── Base ───────────────────────────────────────────────────── */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FAFAF8;
+  --foreground: #1A1714;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  /* Font families — resolved at runtime from Next.js font variables */
+  --font-sans:  var(--font-lato);
+  --font-serif: var(--font-playfair);
 }
 
 body {
@@ -16,18 +48,79 @@ body {
   color: var(--foreground);
 }
 
-/* Performance optimization: Prevent layout shift */
 html {
   scroll-behavior: smooth;
 }
 
-/* Image optimization */
 img {
   content-visibility: auto;
 }
 
-/* Font optimization */
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+/* ─── Editorial Prose Overrides ──────────────────────────────── */
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+  font-family: var(--font-playfair), Georgia, serif;
+  font-weight: 700;
+  color: #1A1714;
+  letter-spacing: -0.01em;
+}
+
+.prose h2 {
+  color: #A52D3C;
+}
+
+.prose a {
+  color: #A52D3C;
+  text-decoration-color: #C4566A;
+  text-underline-offset: 3px;
+}
+
+.prose a:hover {
+  color: #861F2E;
+}
+
+.prose strong {
+  color: #1A1714;
+  font-weight: 700;
+}
+
+/* ─── Utility: category eyebrow label ───────────────────────── */
+.category-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+/* ─── Hero Animations ────────────────────────────────────────── */
+@keyframes hero-float {
+  0%, 100% { transform: translateY(0px); }
+  50%       { transform: translateY(-8px); }
+}
+
+@keyframes hero-float-rotate {
+  0%, 100% { transform: translateY(0px) rotate(-2deg); }
+  50%       { transform: translateY(-7px) rotate(-2deg); }
+}
+
+@keyframes hero-fade-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0px); }
+}
+
+.hero-float        { animation: hero-float        4.2s ease-in-out infinite; }
+.hero-float-2      { animation: hero-float        5.1s ease-in-out infinite 0.9s; }
+.hero-float-3      { animation: hero-float        4.7s ease-in-out infinite 1.7s; }
+.hero-float-rotate { animation: hero-float-rotate 5.4s ease-in-out infinite 0.4s; }
+.hero-float-main   { animation: hero-float        7.0s ease-in-out infinite 0.6s; }
+
+.hero-fade-up   { opacity: 0; animation: hero-fade-up 0.65s ease-out 0.1s  forwards; }
+.hero-fade-up-1 { opacity: 0; animation: hero-fade-up 0.65s ease-out 0.25s forwards; }
+.hero-fade-up-2 { opacity: 0; animation: hero-fade-up 0.65s ease-out 0.45s forwards; }

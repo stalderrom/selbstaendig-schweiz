@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.1",
+    "@keystatic/core": "^0.5.49",
+    "@keystatic/next": "^5.0.4",
+    "fuse.js": "^7.1.0",
     "googleapis": "^171.0.0",
     "gray-matter": "^4.0.3",
     "next": "^16.0.7",
