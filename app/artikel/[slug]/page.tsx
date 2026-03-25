@@ -207,16 +207,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         </div>
 
         {/* Article Header — centred, editorial */}
-        <header className="max-w-3xl mx-auto px-4 sm:px-6 pt-12 pb-10 text-center">
+        <header className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-6 text-center">
           {category && (
-            <Link href={`/kategorie/${category.slug}`} className="category-label text-accent mb-5 block hover:text-accent-dark transition-colors">
+            <Link href={`/kategorie/${category.slug}`} className="category-label text-accent mb-4 block hover:text-accent-dark transition-colors">
               {category.name}
             </Link>
           )}
-          <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-warm-900 leading-tight mb-6">
+          <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-warm-900 leading-tight mb-4">
             {article.title}
           </h1>
-          <p className="text-lg md:text-xl text-warm-600 mb-8 leading-relaxed max-w-2xl mx-auto">
+          <p className="text-lg text-warm-600 mb-5 leading-relaxed max-w-2xl mx-auto">
             {article.description}
           </p>
           <div className="flex items-center justify-center gap-4 text-sm text-warm-400">
@@ -233,7 +233,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         {/* Featured Image — full editorial width, 16:9 */}
         {article.featuredImage && (
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
-            <div className="relative w-full aspect-video overflow-hidden">
+            <div className="relative w-full aspect-video overflow-hidden rounded-lg">
               <Image
                 src={article.featuredImage}
                 alt={article.title}
