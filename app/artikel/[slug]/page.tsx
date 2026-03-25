@@ -61,7 +61,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   }
 
   const category = CATEGORIES.find(cat => cat.slug === article.category);
-  const publishDate = new Date(article.publishedAt);
+  const publishDate = new Date(article.updatedAt || article.publishedAt);
 
   // Article Schema (vollständig nach Google-Standards)
   const articleSchema = {
@@ -218,8 +218,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <div className="flex items-center gap-4 border-t border-b border-warm-200 py-4 text-sm text-warm-500">
             <span>{article.author}</span>
             <span className="text-warm-300">·</span>
-            <time dateTime={article.publishedAt}>
-              {publishDate.toLocaleDateString('de-CH', { year: 'numeric', month: 'long', day: 'numeric' })}
+            <time dateTime={article.updatedAt || article.publishedAt}>
+              Aktualisiert: {publishDate.toLocaleDateString('de-CH', { year: 'numeric', month: 'long', day: 'numeric' })}
             </time>
             <span className="text-warm-300">·</span>
             <span>{article.readingTime} Min. Lesezeit</span>
