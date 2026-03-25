@@ -296,21 +296,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 </div>
               )}
 
-              {/* Expert Box */}
-              <div className="mt-12 border border-warm-200 bg-warm-50 p-6 flex flex-col sm:flex-row items-start sm:items-center gap-5">
-                <div className="shrink-0 w-10 h-10 bg-accent flex items-center justify-center text-white text-sm font-bold font-serif">
-                  ?
-                </div>
-                <div className="flex-1">
-                  <p className="font-semibold text-warm-900 mb-1">Noch eine Frage zu diesem Thema?</p>
-                  <p className="text-sm text-warm-600">
-                    Unsere kuratierten Experten sind selbst selbständig — und kennen die Antwort aus eigener Erfahrung.
-                  </p>
-                </div>
-                <Link href="/experten" className="shrink-0 bg-accent text-white px-5 py-2.5 text-sm font-semibold hover:bg-accent-dark transition-colors whitespace-nowrap">
-                  Experte fragen →
-                </Link>
-              </div>
 
               {/* CTA Box */}
               <div className="mt-12 bg-ink p-10 text-center">

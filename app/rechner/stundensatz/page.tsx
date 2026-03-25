@@ -577,10 +577,10 @@ export default function StundensatzPage() {
               </p>
             </div>
             <Link
-              href="/experten#treuhand"
+              href="/artikel/stundensatz-berechnen"
               className="shrink-0 bg-blue-600 text-white px-5 py-2.5 rounded-xl font-semibold text-sm hover:bg-blue-700 transition-colors whitespace-nowrap"
             >
-              Treuhänder finden →
+              Mehr erfahren →
             </Link>
           </div>
 

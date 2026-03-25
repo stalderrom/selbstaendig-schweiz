@@ -103,12 +103,6 @@ export default function Header() {
               <span className="absolute bottom-0 left-3 right-3 h-px bg-accent scale-x-0 group-hover:scale-x-100 transition-transform origin-left" />
             </Link>
 
-            <Link
-              href="/experten"
-              className="px-3 py-2 text-sm text-accent hover:text-accent-dark font-semibold transition-colors"
-            >
-              Experten
-            </Link>
           </nav>
 
           {/* Desktop right side: Search + CTA */}
@@ -209,13 +203,6 @@ export default function Header() {
                 Alle Artikel
               </Link>
 
-              <Link
-                href="/experten"
-                onClick={() => setMobileMenuOpen(false)}
-                className="block px-4 py-3 text-accent text-sm font-semibold hover:bg-accent-50 transition-colors"
-              >
-                Experten buchen
-              </Link>
 
               <div className="px-4 pt-3 pb-4">
                 <Link
