@@ -71,7 +71,7 @@ const EXAMPLE_POSITIONS: Position[] = [
 // ─── Sub-components ──────────────────────────────────────────────────────────
 
 const inputCls =
-  'w-full border border-gray-200 rounded-xl px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent placeholder:text-gray-300 bg-white transition-all';
+  'w-full border border-warm-200 rounded-md px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-accent focus:border-transparent placeholder:text-warm-300 bg-warm-white transition-all';
 
 function FormSection({
   num, icon, title, sub, children,
@@ -79,17 +79,17 @@ function FormSection({
   num: string; icon: string; title: string; sub: string; children: React.ReactNode;
 }) {
   return (
-    <div className="bg-white rounded-2xl border border-gray-200 shadow-sm overflow-hidden">
-      <div className="flex items-center gap-3 px-5 py-4 border-b border-gray-100 bg-gray-50/60">
-        <div className="w-7 h-7 rounded-full bg-blue-600 text-white text-xs font-bold flex items-center justify-center shrink-0 shadow-sm">
+    <div className="bg-warm-white border border-warm-200 overflow-hidden">
+      <div className="flex items-center gap-3 px-5 py-4 border-b border-warm-200 bg-warm-50">
+        <div className="w-7 h-7 bg-accent text-white text-xs font-bold font-serif flex items-center justify-center shrink-0">
           {num}
         </div>
         <div>
           <div className="flex items-center gap-2">
             <span>{icon}</span>
-            <span className="font-bold text-gray-900 text-sm">{title}</span>
+            <span className="font-bold text-warm-900 text-sm">{title}</span>
           </div>
-          <p className="text-xs text-gray-400 mt-0.5">{sub}</p>
+          <p className="text-xs text-warm-400 mt-0.5">{sub}</p>
         </div>
       </div>
       <div className="p-5">{children}</div>
@@ -104,11 +104,11 @@ function Field({
 }) {
   return (
     <div className={wide ? 'col-span-2' : ''}>
-      <label className="block text-xs font-semibold text-gray-600 mb-1.5 uppercase tracking-wide">
+      <label className="block text-xs font-semibold text-warm-600 mb-1.5 uppercase tracking-wide">
         {label}
       </label>
       {children}
-      {hint && <p className="text-xs text-gray-400 mt-1">{hint}</p>}
+      {hint && <p className="text-xs text-warm-400 mt-1">{hint}</p>}
     </div>
   );
 }
@@ -132,10 +132,10 @@ function PreviewDoc(p: DocProps) {
     return (
       <div className="flex flex-col items-center justify-center py-20 text-center px-8">
         <div className="text-6xl mb-5">📄</div>
-        <p className="font-semibold text-gray-600 text-sm mb-2">
+        <p className="font-semibold text-warm-600 text-sm mb-2">
           Hier erscheint deine Auftragsbestätigung
         </p>
-        <p className="text-xs text-gray-400 leading-relaxed max-w-52">
+        <p className="text-xs text-warm-400 leading-relaxed max-w-52">
           Fülle das Formular links aus – das Dokument aktualisiert sich sofort.
           Oder klicke auf <strong>«Beispiel laden»</strong>.
         </p>
@@ -145,7 +145,7 @@ function PreviewDoc(p: DocProps) {
 
   return (
     <div
-      className="p-7 text-gray-900"
+      className="p-7 text-warm-900"
       style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif', fontSize: '10px', lineHeight: '1.55' }}
     >
       {/* Header */}
@@ -521,16 +521,16 @@ export default function AuftragsbestaetigungGenerator() {
     <div className="bg-slate-50 min-h-screen">
 
       {/* ─── Sticky Toolbar ─────────────────────────────────────── */}
-      <div className="bg-white border-b border-gray-200 sticky top-16 z-30 shadow-sm">
+      <div className="bg-warm-white border-b border-warm-200 sticky top-16 z-30 shadow-sm">
         <div className="max-w-[1380px] mx-auto px-4 sm:px-6 py-3 flex items-center justify-between gap-4">
           <div className="min-w-0">
-            <p className="font-bold text-gray-900 text-sm sm:text-base leading-tight truncate">
+            <p className="font-bold text-warm-900 text-sm sm:text-base leading-tight truncate">
               Auftragsbestätigung Generator Schweiz
             </p>
-            <p className="text-xs text-gray-400 hidden sm:block">
+            <p className="text-xs text-warm-400 hidden sm:block">
               Formular ausfüllen → Vorschau erscheint sofort → kostenlos als PDF downloaden
             </p>
-            <p className="text-xs text-green-600 font-medium hidden sm:flex items-center gap-1 mt-0.5">
+            <p className="text-xs text-warm-700 font-medium hidden sm:flex items-center gap-1 mt-0.5">
               🔒 Keine Daten werden gespeichert – alles bleibt in deinem Browser
             </p>
           </div>
@@ -538,14 +538,14 @@ export default function AuftragsbestaetigungGenerator() {
             {!showExample && (
               <button
                 onClick={loadExample}
-                className="hidden sm:flex items-center gap-1.5 text-sm text-gray-600 hover:text-blue-600 border border-gray-200 hover:border-blue-300 px-3 py-2 rounded-xl transition-all"
+                className="hidden sm:flex items-center gap-1.5 text-sm text-warm-600 hover:text-accent border border-warm-200 hover:border-blue-300 px-3 py-2 rounded-md transition-all"
               >
                 ✨ Beispiel laden
               </button>
             )}
             <button
               onClick={handlePrint}
-              className="flex items-center gap-2 bg-blue-600 hover:bg-blue-700 active:scale-95 text-white px-4 sm:px-5 py-2.5 rounded-xl font-semibold text-sm transition-all shadow-sm"
+              className="flex items-center gap-2 bg-accent hover:bg-accent-dark active:scale-95 text-white px-4 sm:px-5 py-2.5 rounded-md font-semibold text-sm transition-all shadow-sm"
             >
               <span>📄</span>
               <span className="hidden sm:inline">Als PDF downloaden</span>
@@ -557,17 +557,17 @@ export default function AuftragsbestaetigungGenerator() {
 
       {/* ─── Banners ────────────────────────────────────────────── */}
       <div className="max-w-[1380px] mx-auto px-4 sm:px-6 pt-4 flex flex-col sm:flex-row gap-3">
-        <div className="flex-1 bg-blue-50 border border-blue-100 rounded-2xl px-5 py-3.5 flex items-start gap-3">
+        <div className="flex-1 bg-accent-50 border border-accent-light rounded-md px-5 py-3.5 flex items-start gap-3">
           <span className="text-xl shrink-0 mt-0.5">💡</span>
-          <div className="text-sm text-blue-800">
+          <div className="text-sm text-accent-dark">
             <strong>Was ist eine Auftragsbestätigung?</strong> Du bestätigst deinem Kunden schriftlich,
             dass du seinen Auftrag angenommen hast – mit allen Details zu Leistungen, Preis und Zahlungsfrist.
             Das schützt dich bei Streitigkeiten. <strong>Ab ca. CHF 500 Auftragswert empfohlen.</strong>
           </div>
         </div>
-        <div className="sm:w-72 bg-green-50 border border-green-200 rounded-2xl px-5 py-3.5 flex items-center gap-3">
+        <div className="sm:w-72 bg-warm-50 border border-warm-200 rounded-md px-5 py-3.5 flex items-center gap-3">
           <span className="text-2xl shrink-0">🔒</span>
-          <div className="text-sm text-green-800">
+          <div className="text-sm text-warm-800">
             <strong>Deine Daten bleiben bei dir.</strong> Alles läuft lokal in deinem Browser –
             nichts wird gespeichert oder übertragen.
           </div>
@@ -584,7 +584,7 @@ export default function AuftragsbestaetigungGenerator() {
           {!showExample && (
             <button
               onClick={loadExample}
-              className="sm:hidden w-full flex items-center justify-center gap-2 text-sm text-blue-600 border-2 border-dashed border-blue-200 rounded-2xl py-3 font-semibold"
+              className="sm:hidden w-full flex items-center justify-center gap-2 text-sm text-accent border-2 border-dashed border-accent-light rounded-md py-3 font-semibold"
             >
               ✨ Beispiel laden – so siehst du das fertige Dokument
             </button>
@@ -596,24 +596,24 @@ export default function AuftragsbestaetigungGenerator() {
             {/* Logo */}
             <div className="mb-4">
               {form.logo ? (
-                <div className="flex items-center gap-3 p-3 bg-gray-50 rounded-xl border border-gray-200">
+                <div className="flex items-center gap-3 p-3 bg-warm-50 rounded-md border border-warm-200">
                   <img src={form.logo} alt="Logo" className="h-10 object-contain" />
                   <div className="flex-1 min-w-0">
-                    <p className="text-xs font-semibold text-gray-700">Logo hochgeladen ✓</p>
-                    <p className="text-xs text-gray-400">Erscheint oben links im Dokument</p>
+                    <p className="text-xs font-semibold text-warm-700">Logo hochgeladen ✓</p>
+                    <p className="text-xs text-warm-400">Erscheint oben links im Dokument</p>
                   </div>
                   <button onClick={() => set('logo', '')} className="text-xs text-red-500 hover:text-red-700 font-medium">
                     Entfernen
                   </button>
                 </div>
               ) : (
-                <label className="group flex items-center gap-3 p-4 border-2 border-dashed border-gray-200 rounded-xl cursor-pointer hover:border-blue-400 hover:bg-blue-50/40 transition-all">
+                <label className="group flex items-center gap-3 p-4 border-2 border-dashed border-warm-200 rounded-md cursor-pointer hover:border-accent hover:bg-accent-50/40 transition-all">
                   <span className="text-2xl">🖼️</span>
                   <div>
-                    <p className="text-sm font-semibold text-gray-700 group-hover:text-blue-700">
-                      Logo hochladen <span className="text-gray-400 font-normal">(optional)</span>
+                    <p className="text-sm font-semibold text-warm-700 group-hover:text-accent-dark">
+                      Logo hochladen <span className="text-warm-400 font-normal">(optional)</span>
                     </p>
-                    <p className="text-xs text-gray-400">PNG oder JPG, max. 2 MB</p>
+                    <p className="text-xs text-warm-400">PNG oder JPG, max. 2 MB</p>
                   </div>
                   <input type="file" accept="image/*" onChange={handleLogo} className="hidden" />
                 </label>
@@ -692,7 +692,7 @@ export default function AuftragsbestaetigungGenerator() {
             {/* Column headers */}
             <div className="hidden sm:grid grid-cols-[1fr_52px_76px_86px_24px] gap-2 mb-2 px-1">
               {['Beschreibung', 'Menge', 'Einheit', 'Preis/Einheit', ''].map((h, i) => (
-                <span key={i} className={`text-xs font-semibold text-gray-400 uppercase tracking-wide ${i === 3 ? 'text-right' : ''}`}>
+                <span key={i} className={`text-xs font-semibold text-warm-400 uppercase tracking-wide ${i === 3 ? 'text-right' : ''}`}>
                   {h}
                 </span>
               ))}
@@ -702,7 +702,7 @@ export default function AuftragsbestaetigungGenerator() {
               {positionen.map((pos, i) => (
                 <div key={pos.id}>
                   {/* Mobile: label above */}
-                  <div className="sm:hidden text-xs font-semibold text-gray-400 uppercase tracking-wide mb-1.5">
+                  <div className="sm:hidden text-xs font-semibold text-warm-400 uppercase tracking-wide mb-1.5">
                     Position {i + 1}
                   </div>
                   <div className="grid grid-cols-[1fr_52px_76px_86px_24px] gap-2 items-center">
@@ -735,7 +735,7 @@ export default function AuftragsbestaetigungGenerator() {
                     <button
                       onClick={() => setPositionen(ps => ps.filter(x => x.id !== pos.id))}
                       disabled={positionen.length === 1}
-                      className="flex items-center justify-center text-gray-300 hover:text-red-400 disabled:invisible text-xl leading-none transition-colors"
+                      className="flex items-center justify-center text-warm-300 hover:text-red-400 disabled:invisible text-xl leading-none transition-colors"
                       title="Löschen"
                     >
                       ×
@@ -748,13 +748,13 @@ export default function AuftragsbestaetigungGenerator() {
             <div className="mt-3.5 flex items-center justify-between">
               <button
                 onClick={() => setPositionen(ps => [...ps, newPos()])}
-                className="flex items-center gap-1.5 text-sm text-blue-600 font-semibold hover:text-blue-800 transition-colors"
+                className="flex items-center gap-1.5 text-sm text-accent font-semibold hover:text-accent-dark transition-colors"
               >
                 <span className="text-lg leading-none">+</span> Position hinzufügen
               </button>
               {subtotal > 0 && (
-                <p className="text-sm text-gray-500">
-                  Subtotal: <span className="font-bold text-gray-900">{chf(subtotal)}</span>
+                <p className="text-sm text-warm-500">
+                  Subtotal: <span className="font-bold text-warm-900">{chf(subtotal)}</span>
                 </p>
               )}
             </div>
@@ -796,9 +796,9 @@ export default function AuftragsbestaetigungGenerator() {
                   <input
                     type="checkbox" checked={form.showRabatt}
                     onChange={e => set('showRabatt', e.target.checked)}
-                    className="w-4 h-4 rounded text-blue-600"
+                    className="w-4 h-4 rounded text-accent"
                   />
-                  <span className="text-sm font-semibold text-gray-700 group-hover:text-blue-700">
+                  <span className="text-sm font-semibold text-warm-700 group-hover:text-accent-dark">
                     Rabatt gewähren
                   </span>
                 </label>
@@ -810,9 +810,9 @@ export default function AuftragsbestaetigungGenerator() {
                       placeholder="5"
                       className={inputCls + ' w-24'}
                     />
-                    <span className="text-sm text-gray-600">%</span>
+                    <span className="text-sm text-warm-600">%</span>
                     {rabattBetrag > 0 && (
-                      <span className="text-sm font-semibold text-green-600">
+                      <span className="text-sm font-semibold text-warm-700">
                         = − {chf(rabattBetrag)}
                       </span>
                     )}
@@ -834,25 +834,25 @@ export default function AuftragsbestaetigungGenerator() {
 
             {/* Totals summary */}
             {subtotal > 0 && (
-              <div className="mt-5 bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-5 border border-blue-100">
-                <p className="text-xs font-bold text-blue-700 uppercase tracking-wider mb-3">
+              <div className="mt-5 bg-warm-50 rounded-md p-5 border border-accent-light">
+                <p className="text-xs font-bold text-accent-dark uppercase tracking-wider mb-3">
                   Zusammenfassung
                 </p>
                 <div className="space-y-2 text-sm">
-                  <div className="flex justify-between text-gray-700">
+                  <div className="flex justify-between text-warm-700">
                     <span>Subtotal</span><span>{chf(subtotal)}</span>
                   </div>
                   {form.showRabatt && rabattBetrag > 0 && (
-                    <div className="flex justify-between text-green-600 font-medium">
+                    <div className="flex justify-between text-warm-700 font-medium">
                       <span>Rabatt {form.rabattPct}%</span><span>− {chf(rabattBetrag)}</span>
                     </div>
                   )}
                   {form.showMwst && (
-                    <div className="flex justify-between text-gray-600">
+                    <div className="flex justify-between text-warm-600">
                       <span>MWST {form.mwstRate}%</span><span>+ {chf(mwstBetrag)}</span>
                     </div>
                   )}
-                  <div className="flex justify-between font-bold text-gray-900 text-base pt-2 border-t border-blue-200 mt-2">
+                  <div className="flex justify-between font-bold text-warm-900 text-base pt-2 border-t border-accent-light mt-2">
                     <span>Total CHF</span><span>{chf(total)}</span>
                   </div>
                 </div>
@@ -863,7 +863,7 @@ export default function AuftragsbestaetigungGenerator() {
           {/* Mobile download CTA */}
           <button
             onClick={handlePrint}
-            className="w-full lg:hidden bg-blue-600 hover:bg-blue-700 text-white py-4 rounded-2xl font-bold text-base shadow-lg transition-all"
+            className="w-full lg:hidden bg-accent hover:bg-accent-dark text-white py-4 rounded-md font-bold text-base shadow-lg transition-all"
           >
             📄 Als PDF downloaden – kostenlos & ohne Anmeldung
           </button>
@@ -873,25 +873,25 @@ export default function AuftragsbestaetigungGenerator() {
         {/* ═══════════════ PREVIEW ════════════════════════════════ */}
         <div className="lg:sticky lg:top-32">
           <div className="flex items-center justify-between mb-3">
-            <p className="text-xs font-bold text-gray-500 uppercase tracking-wider">
+            <p className="text-xs font-bold text-warm-500 uppercase tracking-wider">
               Live-Vorschau
             </p>
             <button
               onClick={handlePrint}
-              className="flex items-center gap-1.5 text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors"
+              className="flex items-center gap-1.5 text-sm font-semibold text-accent hover:text-accent-dark transition-colors"
             >
               ↓ PDF speichern
             </button>
           </div>
 
           {/* Paper */}
-          <div className="bg-white shadow-2xl rounded-2xl overflow-hidden border border-gray-100 ring-1 ring-black/5">
+          <div className="bg-warm-white shadow-2xl rounded-md overflow-hidden border border-warm-100 ring-1 ring-black/5">
             <PreviewDoc {...docProps} />
           </div>
 
-          <p className="text-center text-xs text-gray-300 mt-3">
+          <p className="text-center text-xs text-warm-300 mt-3">
             Erstellt mit{' '}
-            <span className="text-gray-400 font-medium">selbständig-schweiz.ch</span>
+            <span className="text-warm-400 font-medium">selbständig-schweiz.ch</span>
             {' '}– kostenlos &amp; ohne Anmeldung
           </p>
         </div>

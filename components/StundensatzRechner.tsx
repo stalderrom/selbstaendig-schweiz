@@ -209,10 +209,10 @@ function SliderRow({
     <div className="space-y-2">
       <div className="flex items-center justify-between gap-2">
         <div>
-          <p className="text-sm font-semibold text-gray-800">{label}</p>
-          {sublabel && <p className="text-xs text-gray-500">{sublabel}</p>}
+          <p className="text-sm font-semibold text-warm-800">{label}</p>
+          {sublabel && <p className="text-xs text-warm-500">{sublabel}</p>}
         </div>
-        <span className="text-sm font-bold text-blue-700 whitespace-nowrap">
+        <span className="text-sm font-bold text-accent-dark whitespace-nowrap">
           {formatValue(value)}
         </span>
       </div>
@@ -225,7 +225,7 @@ function SliderRow({
         onChange={(e) => onChange(Number(e.target.value))}
         className="w-full h-2 bg-gray-200 rounded-full appearance-none cursor-pointer accent-blue-600"
       />
-      <div className="flex justify-between text-xs text-gray-400">
+      <div className="flex justify-between text-xs text-warm-400">
         <span>{formatValue(min)}</span>
         <span>{formatValue(max)}</span>
       </div>
@@ -251,14 +251,14 @@ function CostBar({
       <div className="flex items-center justify-between text-sm">
         <div className="flex items-center gap-2">
           <span className={`inline-block w-3 h-3 rounded-full ${color}`} />
-          <span className="text-gray-700">{label}</span>
+          <span className="text-warm-700">{label}</span>
         </div>
         <div className="text-right">
-          <span className="font-semibold text-gray-800">CHF {fmt(amount)}</span>
-          <span className="text-gray-400 text-xs ml-2">({pct(pctOfTotal)})</span>
+          <span className="font-semibold text-warm-800">CHF {fmt(amount)}</span>
+          <span className="text-warm-400 text-xs ml-2">({pct(pctOfTotal)})</span>
         </div>
       </div>
-      <div className="h-3 bg-gray-100 rounded-full overflow-hidden">
+      <div className="h-3 bg-warm-100 rounded-full overflow-hidden">
         <div
           className={`h-full rounded-full ${bgColor} transition-all duration-300`}
           style={{ width: `${Math.min(Math.max(pctOfTotal * 100, 0), 100)}%` }}
@@ -287,15 +287,15 @@ function BenchmarkBadge({ status }: { status: BenchmarkStatus }) {
   }
   if (status === 'markt') {
     return (
-      <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-semibold bg-green-100 text-green-700">
-        <span className="w-1.5 h-1.5 rounded-full bg-green-500 inline-block" />
+      <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-semibold bg-green-100 text-warm-700">
+        <span className="w-1.5 h-1.5 rounded-full bg-warm-500 inline-block" />
         marktüblich
       </span>
     );
   }
   return (
-    <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-semibold bg-blue-100 text-blue-700">
-      <span className="w-1.5 h-1.5 rounded-full bg-blue-500 inline-block" />
+    <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-semibold bg-accent-light text-accent-dark">
+      <span className="w-1.5 h-1.5 rounded-full bg-accent-500 inline-block" />
       über Markt
     </span>
   );
@@ -334,33 +334,33 @@ export default function StundensatzRechner() {
     <section className="max-w-5xl mx-auto px-4 py-8">
       {/* Hero */}
       <div className="text-center mb-8">
-        <h1 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-2">
+        <h1 className="text-2xl sm:text-3xl font-bold text-warm-900 mb-2">
           Stundensatz Rechner Schweiz 2026
         </h1>
-        <p className="text-gray-600 max-w-2xl mx-auto text-sm sm:text-base">
+        <p className="text-warm-600 max-w-2xl mx-auto text-sm sm:text-base">
           Berechne deinen Mindeststundensatz als Selbständiger — inkl. AHV, Steuern,
           Betriebskosten und Säule 3a, für alle 26 Kantone.
         </p>
       </div>
 
       {/* ── Brutto/Netto Erklärung ── */}
-      <div className="mb-6 bg-amber-50 border border-amber-200 rounded-2xl p-5">
+      <div className="mb-6 bg-amber-50 border border-amber-200 rounded-md p-5">
         <p className="text-sm font-bold text-amber-900 mb-3">Kurz erklärt: Brutto vs. Netto für Selbständige</p>
         <div className="grid sm:grid-cols-3 gap-3 text-sm">
-          <div className="bg-white rounded-xl p-3 border border-amber-100">
+          <div className="bg-warm-white rounded-md p-3 border border-amber-100">
             <div className="text-lg mb-1">💼</div>
-            <p className="font-semibold text-gray-800">Stundensatz</p>
-            <p className="text-gray-500 text-xs mt-1">Was du dem Kunden in Rechnung stellst. Davon gehen noch AHV, Steuern und Kosten weg.</p>
+            <p className="font-semibold text-warm-800">Stundensatz</p>
+            <p className="text-warm-500 text-xs mt-1">Was du dem Kunden in Rechnung stellst. Davon gehen noch AHV, Steuern und Kosten weg.</p>
           </div>
-          <div className="bg-white rounded-xl p-3 border border-amber-100">
+          <div className="bg-warm-white rounded-md p-3 border border-amber-100">
             <div className="text-lg mb-1">📊</div>
-            <p className="font-semibold text-gray-800">Jahresgewinn (Brutto)</p>
-            <p className="text-gray-500 text-xs mt-1">Was nach Betriebskosten übrig bleibt — aber vor AHV und Steuern. Noch nicht dein Geld.</p>
+            <p className="font-semibold text-warm-800">Jahresgewinn (Brutto)</p>
+            <p className="text-warm-500 text-xs mt-1">Was nach Betriebskosten übrig bleibt — aber vor AHV und Steuern. Noch nicht dein Geld.</p>
           </div>
-          <div className="bg-white rounded-xl p-3 border border-amber-100 ring-2 ring-blue-400">
+          <div className="bg-warm-white rounded-md p-3 border border-amber-100 ring-2 ring-blue-400">
             <div className="text-lg mb-1">✅</div>
-            <p className="font-semibold text-blue-700">Nettoeinkommen</p>
-            <p className="text-gray-500 text-xs mt-1">Was wirklich auf deinem Konto landet — nach AHV (10.1%) und Einkommenssteuern. Das kannst du ausgeben.</p>
+            <p className="font-semibold text-accent-dark">Nettoeinkommen</p>
+            <p className="text-warm-500 text-xs mt-1">Was wirklich auf deinem Konto landet — nach AHV (10.1%) und Einkommenssteuern. Das kannst du ausgeben.</p>
           </div>
         </div>
         <div className="mt-3 flex items-center gap-2 text-xs text-amber-700 font-medium">
@@ -372,15 +372,15 @@ export default function StundensatzRechner() {
           <span>→</span>
           <span>− AHV − Steuern</span>
           <span>→</span>
-          <span className="text-blue-700 font-bold">Netto ✓</span>
+          <span className="text-accent-dark font-bold">Netto ✓</span>
         </div>
       </div>
 
       <div className="grid lg:grid-cols-2 gap-6">
         {/* ── INPUTS ── */}
         <div className="space-y-6">
-          <div className="bg-white rounded-2xl border border-gray-200 p-6 shadow-sm space-y-6">
-            <h2 className="font-bold text-gray-900 text-lg">Deine Angaben</h2>
+          <div className="bg-warm-white rounded-md border border-warm-200 p-6 shadow-sm space-y-6">
+            <h2 className="font-bold text-warm-900 text-lg">Deine Angaben</h2>
 
             {/* Zielnettoeinkommen */}
             <SliderRow
@@ -396,11 +396,11 @@ export default function StundensatzRechner() {
 
             {/* Kanton */}
             <div className="space-y-2">
-              <p className="text-sm font-semibold text-gray-800">Kanton</p>
+              <p className="text-sm font-semibold text-warm-800">Kanton</p>
               <select
                 value={canton}
                 onChange={(e) => setCanton(e.target.value)}
-                className="w-full border border-gray-200 rounded-xl px-4 py-2.5 text-sm text-gray-800 bg-white focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full border border-warm-200 rounded-md px-4 py-2.5 text-sm text-warm-800 bg-warm-white focus:outline-none focus:ring-2 focus:ring-accent"
               >
                 {Object.entries(CANTONS).map(([key, c]) => (
                   <option key={key} value={key}>{c.name}</option>
@@ -444,10 +444,10 @@ export default function StundensatzRechner() {
             />
 
             {/* Säule 3a */}
-            <div className="flex items-center justify-between gap-4 p-4 rounded-xl bg-green-50 border border-green-100">
+            <div className="flex items-center justify-between gap-4 p-4 rounded-md bg-warm-50 border border-green-100">
               <div>
-                <p className="text-sm font-semibold text-gray-800">Säule 3a einzahlen</p>
-                <p className="text-xs text-gray-500 mt-0.5">
+                <p className="text-sm font-semibold text-warm-800">Säule 3a einzahlen</p>
+                <p className="text-xs text-warm-500 mt-0.5">
                   Max. CHF {fmt(SAEULE_3A_MAX)}/Jahr — steuerlich abzugsfähig
                 </p>
               </div>
@@ -455,12 +455,12 @@ export default function StundensatzRechner() {
                 role="switch"
                 aria-checked={saeule3a}
                 onClick={() => setSaeule3a((v) => !v)}
-                className={`relative inline-flex h-7 w-12 shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 ${
-                  saeule3a ? 'bg-green-500' : 'bg-gray-200'
+                className={`relative inline-flex h-7 w-12 shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-accent focus:ring-offset-2 ${
+                  saeule3a ? 'bg-warm-500' : 'bg-gray-200'
                 }`}
               >
                 <span
-                  className={`pointer-events-none inline-block h-6 w-6 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out ${
+                  className={`pointer-events-none inline-block h-6 w-6 transform rounded-full bg-warm-white shadow ring-0 transition duration-200 ease-in-out ${
                     saeule3a ? 'translate-x-5' : 'translate-x-0'
                   }`}
                 />
@@ -472,7 +472,7 @@ export default function StundensatzRechner() {
         {/* ── RESULTS ── */}
         <div className="space-y-6">
           {/* Big numbers */}
-          <div className="bg-blue-600 rounded-2xl p-6 text-white shadow-lg">
+          <div className="bg-accent rounded-md p-6 text-white shadow-lg">
             <p className="text-blue-200 text-xs font-medium mb-1">💼 Was du dem Kunden in Rechnung stellst</p>
             <p className="text-blue-200 text-sm font-medium mb-3">Dein Mindeststundensatz</p>
             <div className="text-5xl sm:text-6xl font-extrabold tracking-tight mb-1">
@@ -481,9 +481,9 @@ export default function StundensatzRechner() {
             <p className="text-blue-200 text-sm">pro Stunde — das steht auf deiner Rechnung an den Kunden</p>
 
             <div className="mt-4 pt-4 border-t border-blue-500 flex items-center gap-2 text-xs text-blue-200">
-              <span className="bg-blue-500 rounded px-2 py-0.5">von CHF {fmt(result.stundensatz)}/Std.</span>
+              <span className="bg-accent-500 rounded px-2 py-0.5">von CHF {fmt(result.stundensatz)}/Std.</span>
               <span>landen</span>
-              <span className="bg-white text-blue-700 font-bold rounded px-2 py-0.5">CHF {fmt(zielnettoMonthly)}/Mt.</span>
+              <span className="bg-warm-white text-accent-dark font-bold rounded px-2 py-0.5">CHF {fmt(zielnettoMonthly)}/Mt.</span>
               <span>auf deinem Konto</span>
             </div>
 
@@ -504,9 +504,9 @@ export default function StundensatzRechner() {
           </div>
 
           {/* Cost breakdown bars */}
-          <div className="bg-white rounded-2xl border border-gray-200 p-6 shadow-sm space-y-4">
-            <h3 className="font-bold text-gray-900">Kostenaufschlüsselung</h3>
-            <p className="text-xs text-gray-500">
+          <div className="bg-warm-white rounded-md border border-warm-200 p-6 shadow-sm space-y-4">
+            <h3 className="font-bold text-warm-900">Kostenaufschlüsselung</h3>
+            <p className="text-xs text-warm-500">
               Anteil am benötigten Jahresumsatz CHF {fmt(result.requiredRevenue)}
             </p>
 
@@ -515,8 +515,8 @@ export default function StundensatzRechner() {
                 label="Nettoeinkommen"
                 amount={result.nettoEinkommen}
                 pctOfTotal={result.pctNetto}
-                color="bg-blue-500"
-                bgColor="bg-blue-500"
+                color="bg-accent-500"
+                bgColor="bg-accent-500"
               />
               <CostBar
                 label="AHV/IV/EO (10.1%)"
@@ -544,8 +544,8 @@ export default function StundensatzRechner() {
                   label="Säule 3a (gespart)"
                   amount={result.saeule3aJahr}
                   pctOfTotal={result.pctSaeule3a}
-                  color="bg-green-500"
-                  bgColor="bg-green-500"
+                  color="bg-warm-500"
+                  bgColor="bg-warm-500"
                 />
               )}
             </div>
@@ -554,7 +554,7 @@ export default function StundensatzRechner() {
             <div className="mt-4">
               <div className="h-5 rounded-full overflow-hidden flex">
                 <div
-                  className="bg-blue-500 transition-all duration-300"
+                  className="bg-accent-500 transition-all duration-300"
                   style={{ width: `${result.pctNetto * 100}%` }}
                   title="Nettoeinkommen"
                 />
@@ -575,7 +575,7 @@ export default function StundensatzRechner() {
                 />
                 {saeule3a && (
                   <div
-                    className="bg-green-500 transition-all duration-300"
+                    className="bg-warm-500 transition-all duration-300"
                     style={{ width: `${result.pctSaeule3a * 100}%` }}
                     title="Säule 3a"
                   />
@@ -587,49 +587,49 @@ export default function StundensatzRechner() {
       </div>
 
       {/* ── Jahresübersicht table ── */}
-      <div className="mt-6 bg-white rounded-2xl border border-gray-200 p-6 shadow-sm">
-        <h3 className="font-bold text-gray-900 mb-1">Von der Kundenrechnung zu deinem Nettolohn</h3>
-        <p className="text-xs text-gray-500 mb-5">So fliesst jeder Franken den du verrechnest</p>
+      <div className="mt-6 bg-warm-white rounded-md border border-warm-200 p-6 shadow-sm">
+        <h3 className="font-bold text-warm-900 mb-1">Von der Kundenrechnung zu deinem Nettolohn</h3>
+        <p className="text-xs text-warm-500 mb-5">So fliesst jeder Franken den du verrechnest</p>
         <div className="overflow-x-auto">
           <table className="w-full text-sm">
             <thead>
-              <tr className="border-b border-gray-200">
-                <th className="text-left py-2 pr-4 font-semibold text-gray-700">Schritt</th>
-                <th className="text-right py-2 pr-4 font-semibold text-gray-700">CHF/Jahr</th>
-                <th className="text-right py-2 font-semibold text-gray-700">CHF/Monat</th>
+              <tr className="border-b border-warm-200">
+                <th className="text-left py-2 pr-4 font-semibold text-warm-700">Schritt</th>
+                <th className="text-right py-2 pr-4 font-semibold text-warm-700">CHF/Jahr</th>
+                <th className="text-right py-2 font-semibold text-warm-700">CHF/Monat</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-100">
-              <tr className="bg-blue-50">
+              <tr className="bg-accent-50">
                 <td className="py-2.5 pr-4 font-semibold text-blue-900">
                   💼 Umsatz — was du dem Kunden verrechnest
                 </td>
-                <td className="py-2.5 pr-4 text-right font-bold text-blue-800">
+                <td className="py-2.5 pr-4 text-right font-bold text-accent-dark">
                   CHF {fmt(result.requiredRevenue)}
                 </td>
-                <td className="py-2.5 text-right font-bold text-blue-800">
+                <td className="py-2.5 text-right font-bold text-accent-dark">
                   CHF {fmt(result.requiredRevenue / 12)}
                 </td>
               </tr>
-              <tr className="bg-gray-50">
-                <td className="py-2.5 pr-4 text-gray-500 pl-4">
+              <tr className="bg-warm-50">
+                <td className="py-2.5 pr-4 text-warm-500 pl-4">
                   ↳ − Betriebskosten <span className="text-xs">(Büro, Software, Versicherungen...)</span>
                 </td>
                 <td className="py-2.5 pr-4 text-right text-red-600">
                   − CHF {fmt(result.betriebskostenJahr)}
                 </td>
-                <td className="py-2.5 text-right text-gray-500">
+                <td className="py-2.5 text-right text-warm-500">
                   − CHF {fmt(result.betriebskostenJahr / 12)}
                 </td>
               </tr>
               <tr>
-                <td className="py-2.5 pr-4 font-medium text-gray-800">
-                  = Jahresgewinn <span className="text-xs font-normal text-gray-400">(auch «Brutto» genannt — noch nicht dein Geld)</span>
+                <td className="py-2.5 pr-4 font-medium text-warm-800">
+                  = Jahresgewinn <span className="text-xs font-normal text-warm-400">(auch «Brutto» genannt — noch nicht dein Geld)</span>
                 </td>
-                <td className="py-2.5 pr-4 text-right font-semibold text-gray-900">
+                <td className="py-2.5 pr-4 text-right font-semibold text-warm-900">
                   CHF {fmt(result.jahresgewinn)}
                 </td>
-                <td className="py-2.5 text-right text-gray-600">
+                <td className="py-2.5 text-right text-warm-600">
                   CHF {fmt(result.jahresgewinn / 12)}
                 </td>
               </tr>
@@ -656,48 +656,48 @@ export default function StundensatzRechner() {
                 </td>
               </tr>
               {saeule3a && (
-                <tr className="bg-green-50">
-                  <td className="py-2.5 pr-4 text-green-700 pl-4">
+                <tr className="bg-warm-50">
+                  <td className="py-2.5 pr-4 text-warm-700 pl-4">
                     ↳ Säule 3a <span className="text-xs">(gespart für Pensionierung, steuerlich abzugsfähig)</span>
                   </td>
-                  <td className="py-2.5 pr-4 text-right text-green-600">
+                  <td className="py-2.5 pr-4 text-right text-warm-700">
                     CHF {fmt(result.saeule3aJahr)}
                   </td>
-                  <td className="py-2.5 text-right text-green-600">
+                  <td className="py-2.5 text-right text-warm-700">
                     CHF {fmt(result.saeule3aJahr / 12)}
                   </td>
                 </tr>
               )}
-              <tr className="border-t-2 border-blue-300 bg-blue-50">
+              <tr className="border-t-2 border-blue-300 bg-accent-50">
                 <td className="py-3 pr-4 font-bold text-blue-900 text-base">
                   ✅ Nettoeinkommen — was auf deinem Konto landet
                 </td>
-                <td className="py-3 pr-4 text-right font-bold text-blue-700 text-base">
+                <td className="py-3 pr-4 text-right font-bold text-accent-dark text-base">
                   CHF {fmt(result.nettoEinkommen)}
                 </td>
-                <td className="py-3 text-right font-bold text-blue-700 text-base">
+                <td className="py-3 text-right font-bold text-accent-dark text-base">
                   CHF {fmt(result.nettoEinkommen / 12)}
                 </td>
               </tr>
             </tbody>
           </table>
         </div>
-        <p className="text-xs text-gray-400 mt-3">
+        <p className="text-xs text-warm-400 mt-3">
           Kanton {CANTONS[canton]?.name}. AHV-Satz 10.1% für Selbständigerwerbende (2026).
           {saeule3a && ` Säule 3a CHF ${fmt(SAEULE_3A_MAX)} reduziert das steuerbare Einkommen.`}
         </p>
       </div>
 
       {/* ── Time breakdown ── */}
-      <div className="mt-6 bg-white rounded-2xl border border-gray-200 p-6 shadow-sm">
-        <h3 className="font-bold text-gray-900 mb-4">
+      <div className="mt-6 bg-warm-white rounded-md border border-warm-200 p-6 shadow-sm">
+        <h3 className="font-bold text-warm-900 mb-4">
           Zeitverteilung — {result.workingDaysTotal} Arbeitstage/Jahr
         </h3>
         <div className="space-y-3">
           {/* Stacked bar */}
-          <div className="h-8 rounded-xl overflow-hidden flex text-xs font-semibold">
+          <div className="h-8 rounded-md overflow-hidden flex text-xs font-semibold">
             <div
-              className="bg-gray-300 flex items-center justify-center text-gray-700 transition-all duration-300"
+              className="bg-gray-300 flex items-center justify-center text-warm-700 transition-all duration-300"
               style={{ width: `${pctVacSick * 100}%` }}
               title={`Ferien & Krankheit: ${sickAndVacation} Tage`}
             >
@@ -711,7 +711,7 @@ export default function StundensatzRechner() {
               {pctNonBill > 0.08 && `${nonBillableInt}T`}
             </div>
             <div
-              className="bg-blue-500 flex items-center justify-center text-white transition-all duration-300"
+              className="bg-accent-500 flex items-center justify-center text-white transition-all duration-300"
               style={{ width: `${pctBillable * 100}%` }}
               title={`Fakturierbar: ${billableInt} Tage`}
             >
@@ -724,8 +724,8 @@ export default function StundensatzRechner() {
             <div className="flex items-start gap-2">
               <span className="w-3 h-3 rounded-full bg-gray-300 mt-0.5 shrink-0" />
               <div>
-                <p className="font-medium text-gray-700">Ferien & Krankheit</p>
-                <p className="text-gray-500 text-xs">
+                <p className="font-medium text-warm-700">Ferien & Krankheit</p>
+                <p className="text-warm-500 text-xs">
                   {ferientage} Ferien + 5 Krankheit = {sickAndVacation} Tage
                 </p>
               </div>
@@ -733,17 +733,17 @@ export default function StundensatzRechner() {
             <div className="flex items-start gap-2">
               <span className="w-3 h-3 rounded-full bg-orange-300 mt-0.5 shrink-0" />
               <div>
-                <p className="font-medium text-gray-700">Admin / Akquise</p>
-                <p className="text-gray-500 text-xs">
+                <p className="font-medium text-warm-700">Admin / Akquise</p>
+                <p className="text-warm-500 text-xs">
                   {nichtFakturierbar}% von {Math.round(result.availableDays)} Tagen = {nonBillableInt} Tage
                 </p>
               </div>
             </div>
             <div className="flex items-start gap-2">
-              <span className="w-3 h-3 rounded-full bg-blue-500 mt-0.5 shrink-0" />
+              <span className="w-3 h-3 rounded-full bg-accent-500 mt-0.5 shrink-0" />
               <div>
-                <p className="font-medium text-gray-700 text-blue-700">Fakturierbare Tage</p>
-                <p className="text-gray-500 text-xs">
+                <p className="font-medium text-warm-700 text-accent-dark">Fakturierbare Tage</p>
+                <p className="text-warm-500 text-xs">
                   {billableInt} Tage = {fmt(result.billableHours)} Stunden
                 </p>
               </div>
@@ -753,27 +753,27 @@ export default function StundensatzRechner() {
       </div>
 
       {/* ── Industry benchmarks ── */}
-      <div className="mt-6 bg-white rounded-2xl border border-gray-200 p-6 shadow-sm">
-        <h3 className="font-bold text-gray-900 mb-1">Branchenvergleich</h3>
-        <p className="text-xs text-gray-500 mb-4">
+      <div className="mt-6 bg-warm-white rounded-md border border-warm-200 p-6 shadow-sm">
+        <h3 className="font-bold text-warm-900 mb-1">Branchenvergleich</h3>
+        <p className="text-xs text-warm-500 mb-4">
           Dein Stundensatz CHF {fmt(result.stundensatz)} verglichen mit Schweizer Marktpreisen 2026
         </p>
         <div className="overflow-x-auto">
           <table className="w-full text-sm">
             <thead>
-              <tr className="border-b border-gray-200">
-                <th className="text-left py-2 pr-4 font-semibold text-gray-700">Branche</th>
-                <th className="text-left py-2 pr-4 font-semibold text-gray-700">Markt CHF/Std.</th>
-                <th className="text-left py-2 font-semibold text-gray-700">Status</th>
+              <tr className="border-b border-warm-200">
+                <th className="text-left py-2 pr-4 font-semibold text-warm-700">Branche</th>
+                <th className="text-left py-2 pr-4 font-semibold text-warm-700">Markt CHF/Std.</th>
+                <th className="text-left py-2 font-semibold text-warm-700">Status</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-100">
               {BENCHMARKS.map(({ branche, min, max }) => {
                 const status = getBenchmarkStatus(result.stundensatz, min, max);
                 return (
-                  <tr key={branche} className="hover:bg-gray-50 transition-colors">
-                    <td className="py-2.5 pr-4 font-medium text-gray-800">{branche}</td>
-                    <td className="py-2.5 pr-4 text-gray-600">
+                  <tr key={branche} className="hover:bg-warm-50 transition-colors">
+                    <td className="py-2.5 pr-4 font-medium text-warm-800">{branche}</td>
+                    <td className="py-2.5 pr-4 text-warm-600">
                       CHF {min}–{max}
                     </td>
                     <td className="py-2.5">
@@ -785,7 +785,7 @@ export default function StundensatzRechner() {
             </tbody>
           </table>
         </div>
-        <p className="text-xs text-gray-400 mt-3">
+        <p className="text-xs text-warm-400 mt-3">
           Quellen: Freelancer.ch, experteer.ch, Marktbeobachtungen 2025/2026.
           Tatsächliche Sätze variieren je nach Erfahrung, Spezialisierung und Region.
         </p>
@@ -793,9 +793,9 @@ export default function StundensatzRechner() {
 
       {/* ── Info box & CTA ── */}
       <div className="mt-6 grid sm:grid-cols-2 gap-4">
-        <div className="bg-blue-50 border border-blue-100 rounded-2xl p-5 text-sm text-blue-800">
+        <div className="bg-accent-50 border border-accent-light rounded-md p-5 text-sm text-accent-dark">
           <p className="font-semibold mb-2">Wichtige Hinweise</p>
-          <ul className="space-y-1.5 text-blue-700">
+          <ul className="space-y-1.5 text-accent-dark">
             <li>• Steuersätze sind Näherungswerte (Hauptort, ledig, 2026)</li>
             <li>• AHV-Satz 10.1% für Selbständigerwerbende</li>
             <li>• Ohne MWST (ab CHF 100'000 Umsatz: +8.1%)</li>
@@ -803,7 +803,7 @@ export default function StundensatzRechner() {
             <li>• Reserve für Ausfallzeiten empfohlen: +10–15%</li>
           </ul>
         </div>
-        <div className="bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl p-5 text-white flex flex-col justify-between">
+        <div className="bg-gradient-to-br from-ink to-ink-soft rounded-md p-5 text-white flex flex-col justify-between">
           <div>
             <p className="font-bold text-lg mb-1">Mehr über Stundensätze</p>
             <p className="text-blue-100 text-sm">
@@ -812,7 +812,7 @@ export default function StundensatzRechner() {
           </div>
           <Link
             href="/artikel/stundensatz-berechnen"
-            className="mt-4 inline-block bg-white text-blue-700 text-sm font-bold px-5 py-2.5 rounded-xl hover:bg-blue-50 transition-all shadow"
+            className="mt-4 inline-block bg-warm-white text-accent-dark text-sm font-bold px-5 py-2.5 rounded-md hover:bg-accent-50 transition-all shadow"
           >
             Zum Artikel →
           </Link>

@@ -172,10 +172,10 @@ function DeductionBar({ label, amount, rate, color }: {
   return (
     <div className="space-y-1">
       <div className="flex justify-between text-sm">
-        <span className="text-gray-600">{label}</span>
-        <span className="font-medium text-gray-800">− CHF {fmt(amount)} <span className="text-gray-400 font-normal">({pct(rate)})</span></span>
+        <span className="text-warm-600">{label}</span>
+        <span className="font-medium text-warm-800">− CHF {fmt(amount)} <span className="text-warm-400 font-normal">({pct(rate)})</span></span>
       </div>
-      <div className="h-1.5 bg-gray-100 rounded-full overflow-hidden">
+      <div className="h-1.5 bg-warm-100 rounded-full overflow-hidden">
         <div className={`h-full rounded-full ${color}`} style={{ width: `${Math.min(rate * 400, 100)}%` }} />
       </div>
     </div>
@@ -184,7 +184,7 @@ function DeductionBar({ label, amount, rate, color }: {
 
 function InfoBox({ children }: { children: React.ReactNode }) {
   return (
-    <div className="bg-blue-50 border border-blue-100 rounded-lg p-4 text-sm text-blue-800">
+    <div className="bg-accent-50 border border-blue-100 rounded-lg p-4 text-sm text-accent-dark">
       {children}
     </div>
   );
@@ -294,7 +294,7 @@ export default function BruttoNettoRechner() {
     <div className="max-w-4xl mx-auto px-4 py-8 space-y-8">
 
       {/* ── Hero input card ── */}
-      <div className="bg-white rounded-2xl border border-gray-200 shadow-sm overflow-hidden">
+      <div className="bg-warm-white rounded-md border border-warm-200 shadow-sm overflow-hidden">
         <div className="bg-gradient-to-r from-blue-600 to-blue-700 px-6 py-5">
           <h1 className="text-xl font-bold text-white">Brutto-Netto-Rechner Schweiz 2026</h1>
           <p className="text-blue-100 text-sm mt-1">Alle Abzüge inkl. AHV, BVG, Quellensteuer – nach Kanton</p>
@@ -304,10 +304,10 @@ export default function BruttoNettoRechner() {
 
           {/* ── Labels row ── */}
           <div className="grid grid-cols-[1fr_auto_auto_auto] sm:grid-cols-[2fr_2fr_64px_96px] gap-3">
-            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">{pensum < 100 ? '100%-Lohn (CHF)' : 'Bruttolohn (CHF)'}</p>
-            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Kanton</p>
-            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Alter</p>
-            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Pensum</p>
+            <p className="text-xs font-semibold text-warm-500 uppercase tracking-wide">{pensum < 100 ? '100%-Lohn (CHF)' : 'Bruttolohn (CHF)'}</p>
+            <p className="text-xs font-semibold text-warm-500 uppercase tracking-wide">Kanton</p>
+            <p className="text-xs font-semibold text-warm-500 uppercase tracking-wide">Alter</p>
+            <p className="text-xs font-semibold text-warm-500 uppercase tracking-wide">Pensum</p>
           </div>
 
           {/* ── Inputs row ── */}
@@ -315,8 +315,8 @@ export default function BruttoNettoRechner() {
 
             {/* Bruttolohn */}
             <div>
-              <div className="flex h-11 rounded-xl border-2 border-gray-200 overflow-hidden focus-within:border-blue-500 transition-colors bg-white">
-                <span className="flex items-center pl-3 pr-1.5 text-gray-400 font-medium text-sm shrink-0">CHF</span>
+              <div className="flex h-11 rounded-md border-2 border-warm-200 overflow-hidden focus-within:border-blue-500 transition-colors bg-warm-white">
+                <span className="flex items-center pl-3 pr-1.5 text-warm-400 font-medium text-sm shrink-0">CHF</span>
                 <input
                   type="text"
                   inputMode="numeric"
@@ -325,19 +325,19 @@ export default function BruttoNettoRechner() {
                   className="flex-1 text-lg font-bold focus:outline-none min-w-0"
                   placeholder={inputMode === 'monthly' ? '8000' : '96000'}
                 />
-                <div className="flex border-l border-gray-200 shrink-0 text-xs font-semibold">
+                <div className="flex border-l border-warm-200 shrink-0 text-xs font-semibold">
                   <button
                     onClick={() => switchInputMode('monthly')}
-                    className={`px-2.5 transition-colors ${inputMode === 'monthly' ? 'bg-blue-600 text-white' : 'text-gray-400 hover:bg-gray-50'}`}
+                    className={`px-2.5 transition-colors ${inputMode === 'monthly' ? 'bg-accent text-white' : 'text-warm-400 hover:bg-gray-50'}`}
                   >/Mt.</button>
                   <button
                     onClick={() => switchInputMode('annual')}
-                    className={`px-2.5 transition-colors border-l border-gray-200 ${inputMode === 'annual' ? 'bg-blue-600 text-white' : 'text-gray-400 hover:bg-gray-50'}`}
+                    className={`px-2.5 transition-colors border-l border-warm-200 ${inputMode === 'annual' ? 'bg-accent text-white' : 'text-warm-400 hover:bg-gray-50'}`}
                   >/Jahr</button>
                 </div>
               </div>
               {inputMode === 'annual' && grossFull > 0 && pensum === 100 && (
-                <p className="text-xs text-gray-400 mt-1">= CHF {fmt(grossFull)}/Monat (÷&nbsp;{months})</p>
+                <p className="text-xs text-warm-400 mt-1">= CHF {fmt(grossFull)}/Monat (÷&nbsp;{months})</p>
               )}
               {gross > 0 && pensum < 100 && (
                 <p className="text-xs text-amber-600 font-semibold mt-1">
@@ -350,7 +350,7 @@ export default function BruttoNettoRechner() {
             <select
               value={canton}
               onChange={e => setCanton(e.target.value)}
-              className="h-11 py-0 px-3 border-2 border-gray-200 rounded-xl focus:border-blue-500 focus:outline-none transition-colors text-sm font-medium bg-white"
+              className="h-11 py-0 px-3 border-2 border-warm-200 rounded-md focus:border-blue-500 focus:outline-none transition-colors text-sm font-medium bg-warm-white"
             >
               {Object.entries(CANTONS).sort((a,b) => a[1].name.localeCompare(b[1].name)).map(([code, data]) => (
                 <option key={code} value={code}>{code} – {data.name.split(' ')[0]}</option>
@@ -363,7 +363,7 @@ export default function BruttoNettoRechner() {
               min={17} max={65}
               value={age}
               onChange={e => setAge(parseInt(e.target.value) || 35)}
-              className="h-11 w-full py-0 px-2 border-2 border-gray-200 rounded-xl focus:border-blue-500 focus:outline-none transition-colors font-medium text-center"
+              className="h-11 w-full py-0 px-2 border-2 border-warm-200 rounded-md focus:border-blue-500 focus:outline-none transition-colors font-medium text-center"
             />
 
             {/* Pensum */}
@@ -373,9 +373,9 @@ export default function BruttoNettoRechner() {
                 min={1} max={100}
                 value={pensum}
                 onChange={e => setPensum(Math.min(100, Math.max(1, parseInt(e.target.value) || 100)))}
-                className={`h-11 w-full py-0 pl-2 pr-5 border-2 rounded-xl focus:outline-none transition-colors font-medium text-center ${pensum < 100 ? 'border-amber-400 bg-amber-50 focus:border-amber-500' : 'border-gray-200 focus:border-blue-500'}`}
+                className={`h-11 w-full py-0 pl-2 pr-5 border-2 rounded-md focus:outline-none transition-colors font-medium text-center ${pensum < 100 ? 'border-amber-400 bg-amber-50 focus:border-amber-500' : 'border-warm-200 focus:border-blue-500'}`}
               />
-              <span className="absolute right-1.5 top-1/2 -translate-y-1/2 text-gray-400 text-xs font-semibold pointer-events-none">%</span>
+              <span className="absolute right-1.5 top-1/2 -translate-y-1/2 text-warm-400 text-xs font-semibold pointer-events-none">%</span>
             </div>
           </div>
 
@@ -390,11 +390,11 @@ export default function BruttoNettoRechner() {
                 key={label}
                 onClick={onClick}
                 className={`flex items-center gap-2 px-3 py-1.5 rounded-lg border text-sm font-medium transition-colors ${
-                  active ? 'bg-blue-50 border-blue-300 text-blue-700' : 'bg-white border-gray-200 text-gray-500 hover:border-gray-300'
+                  active ? 'bg-accent-50 border-blue-300 text-accent-dark' : 'bg-warm-white border-warm-200 text-warm-500 hover:border-gray-300'
                 }`}
               >
-                <span className={`w-3.5 h-3.5 rounded-full border-2 flex items-center justify-center shrink-0 transition-colors ${active ? 'bg-blue-600 border-blue-600' : 'border-gray-300'}`}>
-                  {active && <span className="w-1.5 h-1.5 bg-white rounded-full block" />}
+                <span className={`w-3.5 h-3.5 rounded-full border-2 flex items-center justify-center shrink-0 transition-colors ${active ? 'bg-accent border-blue-600' : 'border-gray-300'}`}>
+                  {active && <span className="w-1.5 h-1.5 bg-warm-white rounded-full block" />}
                 </span>
                 {label}
               </button>
@@ -403,7 +403,7 @@ export default function BruttoNettoRechner() {
 
           {/* Quellensteuer + Teilzeit warning */}
           {quellensteuer && pensum < 100 && (
-            <div className="flex items-start gap-2.5 bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 text-sm">
+            <div className="flex items-start gap-2.5 bg-amber-50 border border-amber-200 rounded-md px-4 py-3 text-sm">
               <span className="text-amber-500 shrink-0 mt-0.5">⚠</span>
               <span className="text-amber-800">
                 <strong>Quellensteuer-Hochrechnung ({pensum}%):</strong> Steuersatz basiert auf hochgerechnetem 100%-Lohn (CHF {fmt(grossFull)}/Mt.) – effektiv {pct(result.taxRate)} statt {pct(result.taxRateBase)} bei Vollanstellung.
@@ -411,7 +411,7 @@ export default function BruttoNettoRechner() {
             </div>
           )}
           {pensum < 100 && !quellensteuer && (
-            <p className="text-xs text-gray-400">
+            <p className="text-xs text-warm-400">
               Steuer auf tatsächlichem Einkommen (ordentliche Veranlagung). Ausweis B/L? → «Quellensteuer (B/L)» aktivieren.
             </p>
           )}
@@ -419,7 +419,7 @@ export default function BruttoNettoRechner() {
       </div>
 
       {/* ── Tabs ── */}
-      <div className="border-b border-gray-200">
+      <div className="border-b border-warm-200">
         <div className="flex gap-1 overflow-x-auto scrollbar-none -mb-px">
           {tabs.map(tab => (
             <button
@@ -427,8 +427,8 @@ export default function BruttoNettoRechner() {
               onClick={() => setActiveTab(tab.id)}
               className={`px-4 py-2.5 text-sm font-medium whitespace-nowrap border-b-2 transition-colors ${
                 activeTab === tab.id
-                  ? 'border-blue-600 text-blue-600'
-                  : 'border-transparent text-gray-500 hover:text-gray-700'
+                  ? 'border-blue-600 text-accent'
+                  : 'border-transparent text-warm-500 hover:text-warm-700'
               }`}
             >
               {tab.label}
@@ -442,15 +442,15 @@ export default function BruttoNettoRechner() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
 
           {/* Net result */}
-          <div className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6 flex flex-col justify-center">
-            <div className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">Nettolohn pro Monat</div>
-            <div className="text-5xl font-extrabold text-gray-900 tracking-tight">
+          <div className="bg-warm-white rounded-md border border-warm-200 shadow-sm p-6 flex flex-col justify-center">
+            <div className="text-xs font-semibold text-warm-500 uppercase tracking-wide mb-1">Nettolohn pro Monat</div>
+            <div className="text-5xl font-extrabold text-warm-900 tracking-tight">
               CHF {fmt(result.netMonthly)}
             </div>
-            <div className="text-sm text-gray-500 mt-2">
+            <div className="text-sm text-warm-500 mt-2">
               CHF {fmt(result.netAnnual)} pro Jahr · {pct(result.netRate)} von Brutto
             </div>
-            <div className="mt-4 text-xs text-gray-400">
+            <div className="mt-4 text-xs text-warm-400">
               Kanton {CANTONS[canton]?.name} · {age} Jahre · {months} Monatslöhne/Jahr
               {pensum < 100 ? ` · ${pensum}% Pensum` : ''}
               {selfEmployed ? ' · Selbständig' : ''}
@@ -458,17 +458,17 @@ export default function BruttoNettoRechner() {
 
             {/* Visual net bar */}
             <div className="mt-5">
-              <div className="flex text-xs text-gray-500 justify-between mb-1">
+              <div className="flex text-xs text-warm-500 justify-between mb-1">
                 <span>Netto {pct(result.netRate)}</span>
                 <span>Abzüge {pct(result.totalMonthly / result.grossMonthly)}</span>
               </div>
               <div className="h-3 bg-red-100 rounded-full overflow-hidden">
                 <div
-                  className="h-full bg-blue-500 rounded-full"
+                  className="h-full bg-accent-500 rounded-full"
                   style={{ width: `${result.netRate * 100}%` }}
                 />
               </div>
-              <div className="flex justify-between text-xs text-gray-400 mt-1">
+              <div className="flex justify-between text-xs text-warm-400 mt-1">
                 <span>CHF 0</span>
                 <span>CHF {fmt(result.grossMonthly)}</span>
               </div>
@@ -476,8 +476,8 @@ export default function BruttoNettoRechner() {
           </div>
 
           {/* Deduction breakdown */}
-          <div className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6 space-y-4">
-            <div className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Abzüge pro Monat</div>
+          <div className="bg-warm-white rounded-md border border-warm-200 shadow-sm p-6 space-y-4">
+            <div className="text-xs font-semibold text-warm-500 uppercase tracking-wide">Abzüge pro Monat</div>
 
             <div className="space-y-3">
               <DeductionBar
@@ -518,41 +518,41 @@ export default function BruttoNettoRechner() {
               />
             </div>
 
-            <div className="border-t border-gray-100 pt-3 flex justify-between text-sm font-semibold">
-              <span className="text-gray-700">Total Abzüge</span>
+            <div className="border-t border-warm-100 pt-3 flex justify-between text-sm font-semibold">
+              <span className="text-warm-700">Total Abzüge</span>
               <span className="text-red-600">− CHF {fmt(result.totalMonthly)}</span>
             </div>
 
-            <p className="text-xs text-gray-400">
+            <p className="text-xs text-warm-400">
               Ohne Krankenversicherung (wird separat bezahlt, Ø CHF 430/Monat 2026).
-              Steuersatz inkl. Bund, Kanton, Gemeinde. <a href="https://www.estv.admin.ch" target="_blank" rel="noopener noreferrer" className="underline hover:text-blue-600">Exakter Wert: ESTV-Rechner</a>
+              Steuersatz inkl. Bund, Kanton, Gemeinde. <a href="https://www.estv.admin.ch" target="_blank" rel="noopener noreferrer" className="underline hover:text-accent">Exakter Wert: ESTV-Rechner</a>
             </p>
           </div>
         </div>
       )}
 
       {gross <= 0 && (
-        <div className="text-center py-12 text-gray-400 text-sm">
+        <div className="text-center py-12 text-warm-400 text-sm">
           Bitte Bruttolohn eingeben, um das Ergebnis zu sehen.
         </div>
       )}
 
       {/* ── Tab: Kantonsvergleich ── */}
       {activeTab === 'cantons' && gross > 0 && (
-        <div className="bg-white rounded-2xl border border-gray-200 shadow-sm overflow-hidden">
-          <div className="px-6 py-4 border-b border-gray-100">
-            <h2 className="font-semibold text-gray-900">Kantonsvergleich – CHF {fmt(gross)} Brutto/Monat</h2>
-            <p className="text-sm text-gray-500 mt-0.5">Nettolohn nach Kanton (absteigend). Unterschied Zug vs. Genf: CHF {fmt(cantonComparison[0].net - cantonComparison[cantonComparison.length - 1].net)}/Monat</p>
+        <div className="bg-warm-white rounded-md border border-warm-200 shadow-sm overflow-hidden">
+          <div className="px-6 py-4 border-b border-warm-100">
+            <h2 className="font-semibold text-warm-900">Kantonsvergleich – CHF {fmt(gross)} Brutto/Monat</h2>
+            <p className="text-sm text-warm-500 mt-0.5">Nettolohn nach Kanton (absteigend). Unterschied Zug vs. Genf: CHF {fmt(cantonComparison[0].net - cantonComparison[cantonComparison.length - 1].net)}/Monat</p>
           </div>
           <div className="overflow-x-auto">
             <table className="w-full text-sm">
               <thead>
-                <tr className="border-b border-gray-100 bg-gray-50">
-                  <th className="text-left px-6 py-3 text-xs font-semibold text-gray-500 uppercase">#</th>
-                  <th className="text-left px-4 py-3 text-xs font-semibold text-gray-500 uppercase">Kanton</th>
-                  <th className="text-right px-4 py-3 text-xs font-semibold text-gray-500 uppercase">Steuersatz</th>
-                  <th className="text-right px-4 py-3 text-xs font-semibold text-gray-500 uppercase">Netto/Monat</th>
-                  <th className="text-right px-6 py-3 text-xs font-semibold text-gray-500 uppercase">Netto/Jahr</th>
+                <tr className="border-b border-warm-100 bg-gray-50">
+                  <th className="text-left px-6 py-3 text-xs font-semibold text-warm-500 uppercase">#</th>
+                  <th className="text-left px-4 py-3 text-xs font-semibold text-warm-500 uppercase">Kanton</th>
+                  <th className="text-right px-4 py-3 text-xs font-semibold text-warm-500 uppercase">Steuersatz</th>
+                  <th className="text-right px-4 py-3 text-xs font-semibold text-warm-500 uppercase">Netto/Monat</th>
+                  <th className="text-right px-6 py-3 text-xs font-semibold text-warm-500 uppercase">Netto/Jahr</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-50">
@@ -560,25 +560,25 @@ export default function BruttoNettoRechner() {
                   <tr
                     key={row.code}
                     onClick={() => { setCanton(row.code); setActiveTab('main'); }}
-                    className={`cursor-pointer transition-colors hover:bg-blue-50 ${row.code === canton ? 'bg-blue-50' : ''}`}
+                    className={`cursor-pointer transition-colors hover:bg-accent-50 ${row.code === canton ? 'bg-accent-50' : ''}`}
                   >
-                    <td className="px-6 py-3 text-gray-400 font-medium">{i + 1}</td>
+                    <td className="px-6 py-3 text-warm-400 font-medium">{i + 1}</td>
                     <td className="px-4 py-3">
-                      <span className={`font-medium ${row.code === canton ? 'text-blue-700' : 'text-gray-800'}`}>
+                      <span className={`font-medium ${row.code === canton ? 'text-accent-dark' : 'text-warm-800'}`}>
                         {row.name}
                       </span>
-                      {row.code === canton && <span className="ml-2 text-xs bg-blue-100 text-blue-700 px-1.5 py-0.5 rounded">aktuell</span>}
+                      {row.code === canton && <span className="ml-2 text-xs bg-blue-100 text-accent-dark px-1.5 py-0.5 rounded">aktuell</span>}
                     </td>
-                    <td className="px-4 py-3 text-right text-gray-600">{pct(row.rate)}</td>
-                    <td className="px-4 py-3 text-right font-semibold text-gray-900">CHF {fmt(row.net)}</td>
-                    <td className="px-6 py-3 text-right text-gray-600">CHF {fmt(row.net * months)}</td>
+                    <td className="px-4 py-3 text-right text-warm-600">{pct(row.rate)}</td>
+                    <td className="px-4 py-3 text-right font-semibold text-warm-900">CHF {fmt(row.net)}</td>
+                    <td className="px-6 py-3 text-right text-warm-600">CHF {fmt(row.net * months)}</td>
                   </tr>
                 ))}
               </tbody>
             </table>
           </div>
-          <div className="px-6 py-3 bg-gray-50 border-t border-gray-100">
-            <p className="text-xs text-gray-500">Klicken Sie auf eine Zeile, um den Kanton im Hauptrechner zu übernehmen. Steuersätze sind Schätzwerte inkl. Bund, Kanton, Gemeinde für die Kantonshauptstadt, Zivilstand ledig.</p>
+          <div className="px-6 py-3 bg-warm-50 border-t border-warm-100">
+            <p className="text-xs text-warm-500">Klicken Sie auf eine Zeile, um den Kanton im Hauptrechner zu übernehmen. Steuersätze sind Schätzwerte inkl. Bund, Kanton, Gemeinde für die Kantonshauptstadt, Zivilstand ledig.</p>
           </div>
         </div>
       )}
@@ -586,22 +586,22 @@ export default function BruttoNettoRechner() {
       {/* ── Tab: Quellensteuer Ausweis B/L ── */}
       {activeTab === 'permit' && (
         <div className="space-y-5">
-          <div className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6">
-            <h2 className="font-semibold text-gray-900 mb-1">Quellensteuer für Ausweis B und L</h2>
-            <p className="text-sm text-gray-600 mb-4">
+          <div className="bg-warm-white rounded-md border border-warm-200 shadow-sm p-6">
+            <h2 className="font-semibold text-warm-900 mb-1">Quellensteuer für Ausweis B und L</h2>
+            <p className="text-sm text-warm-600 mb-4">
               Personen mit Aufenthaltsbewilligung B oder L bezahlen Quellensteuer – direkt vom Arbeitgeber vom Lohn abgezogen.
               Die Berechnung im Hauptrechner verwendet die effektiven Quellensteuer-Sätze.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-4">
-              <div className="bg-gray-50 rounded-xl p-4">
-                <div className="text-xs font-semibold text-gray-500 uppercase mb-2">Ihr aktuelles Ergebnis ({CANTONS[canton]?.name.split(' ')[0]})</div>
-                <div className="text-2xl font-bold text-gray-900">CHF {fmt(result.netMonthly)}</div>
-                <div className="text-sm text-gray-500">Netto/Monat · Steuer {pct(result.taxRate)}</div>
+              <div className="bg-warm-50 rounded-md p-4">
+                <div className="text-xs font-semibold text-warm-500 uppercase mb-2">Ihr aktuelles Ergebnis ({CANTONS[canton]?.name.split(' ')[0]})</div>
+                <div className="text-2xl font-bold text-warm-900">CHF {fmt(result.netMonthly)}</div>
+                <div className="text-sm text-warm-500">Netto/Monat · Steuer {pct(result.taxRate)}</div>
               </div>
-              <div className="bg-blue-50 rounded-xl p-4">
-                <div className="text-xs font-semibold text-blue-700 uppercase mb-2">Wichtig zu wissen</div>
-                <ul className="text-sm text-blue-800 space-y-1">
+              <div className="bg-accent-50 rounded-md p-4">
+                <div className="text-xs font-semibold text-accent-dark uppercase mb-2">Wichtig zu wissen</div>
+                <ul className="text-sm text-accent-dark space-y-1">
                   <li>• Ab CHF 120'000/Jahr: ordentliche Veranlagung</li>
                   <li>• Satz richtet sich nach Kanton, Zivilstand, Konfession</li>
                   <li>• Nachträgliche Korrektur möglich (Antrag bis 31. März)</li>
@@ -609,24 +609,24 @@ export default function BruttoNettoRechner() {
               </div>
             </div>
 
-            <h3 className="font-medium text-gray-800 mb-3">Quellensteuer-Sätze im Kantonsvergleich (Single, kein Kinder)</h3>
+            <h3 className="font-medium text-warm-800 mb-3">Quellensteuer-Sätze im Kantonsvergleich (Single, kein Kinder)</h3>
             <div className="overflow-x-auto">
               <table className="w-full text-sm border-collapse">
                 <thead>
-                  <tr className="border-b border-gray-200 bg-gray-50">
-                    <th className="text-left px-4 py-2.5 text-xs font-semibold text-gray-500">Kanton</th>
-                    <th className="text-right px-4 py-2.5 text-xs font-semibold text-gray-500">CHF 5'000/Mt.</th>
-                    <th className="text-right px-4 py-2.5 text-xs font-semibold text-gray-500">CHF 8'000/Mt.</th>
-                    <th className="text-right px-4 py-2.5 text-xs font-semibold text-gray-500">CHF 12'000/Mt.</th>
+                  <tr className="border-b border-warm-200 bg-gray-50">
+                    <th className="text-left px-4 py-2.5 text-xs font-semibold text-warm-500">Kanton</th>
+                    <th className="text-right px-4 py-2.5 text-xs font-semibold text-warm-500">CHF 5'000/Mt.</th>
+                    <th className="text-right px-4 py-2.5 text-xs font-semibold text-warm-500">CHF 8'000/Mt.</th>
+                    <th className="text-right px-4 py-2.5 text-xs font-semibold text-warm-500">CHF 12'000/Mt.</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-gray-100">
                   {['ZG','SZ','NW','ZH','AG','LU','BS','BE','GE','VD'].map(code => (
-                    <tr key={code} className={`${code === canton ? 'bg-blue-50' : 'hover:bg-gray-50'}`}>
-                      <td className="px-4 py-2.5 font-medium text-gray-800">{CANTONS[code]?.name.split(' ')[0]}</td>
-                      <td className="px-4 py-2.5 text-right text-gray-600">{pct(interpolateRate(60000, CANTONS[code].rates))}</td>
-                      <td className="px-4 py-2.5 text-right text-gray-600">{pct(interpolateRate(96000, CANTONS[code].rates))}</td>
-                      <td className="px-4 py-2.5 text-right text-gray-600">{pct(interpolateRate(144000, CANTONS[code].rates))}</td>
+                    <tr key={code} className={`${code === canton ? 'bg-accent-50' : 'hover:bg-gray-50'}`}>
+                      <td className="px-4 py-2.5 font-medium text-warm-800">{CANTONS[code]?.name.split(' ')[0]}</td>
+                      <td className="px-4 py-2.5 text-right text-warm-600">{pct(interpolateRate(60000, CANTONS[code].rates))}</td>
+                      <td className="px-4 py-2.5 text-right text-warm-600">{pct(interpolateRate(96000, CANTONS[code].rates))}</td>
+                      <td className="px-4 py-2.5 text-right text-warm-600">{pct(interpolateRate(144000, CANTONS[code].rates))}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -643,20 +643,20 @@ export default function BruttoNettoRechner() {
       {/* ── Tab: 13. Monatslohn ── */}
       {activeTab === 'month13' && gross > 0 && (
         <div className="space-y-5">
-          <div className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6">
-            <h2 className="font-semibold text-gray-900 mb-4">13. Monatslohn – was ändert sich?</h2>
+          <div className="bg-warm-white rounded-md border border-warm-200 shadow-sm p-6">
+            <h2 className="font-semibold text-warm-900 mb-4">13. Monatslohn – was ändert sich?</h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
               {[12, 13].map(m => {
                 const r = runCalc(gross, canton, age, m, nbuvRate, selfEmployed, quellensteuer, grossFull);
                 return (
-                  <div key={m} className={`rounded-xl p-5 border-2 ${m === 13 ? 'border-blue-500 bg-blue-50' : 'border-gray-200 bg-gray-50'}`}>
-                    <div className={`text-xs font-semibold uppercase tracking-wide mb-2 ${m === 13 ? 'text-blue-700' : 'text-gray-500'}`}>
+                  <div key={m} className={`rounded-md p-5 border-2 ${m === 13 ? 'border-blue-500 bg-accent-50' : 'border-warm-200 bg-gray-50'}`}>
+                    <div className={`text-xs font-semibold uppercase tracking-wide mb-2 ${m === 13 ? 'text-accent-dark' : 'text-warm-500'}`}>
                       {m === 12 ? 'Ohne 13. Monatslohn' : 'Mit 13. Monatslohn'}
                     </div>
-                    <div className="text-3xl font-bold text-gray-900">CHF {fmt(r.netMonthly)}</div>
-                    <div className="text-sm text-gray-600 mt-1">Netto pro Monat</div>
-                    <div className="mt-3 text-sm space-y-1 text-gray-600">
+                    <div className="text-3xl font-bold text-warm-900">CHF {fmt(r.netMonthly)}</div>
+                    <div className="text-sm text-warm-600 mt-1">Netto pro Monat</div>
+                    <div className="mt-3 text-sm space-y-1 text-warm-600">
                       <div className="flex justify-between"><span>Jahresbrutto</span><span className="font-medium">CHF {fmt(r.grossAnnual)}</span></div>
                       <div className="flex justify-between"><span>Jahres-Netto</span><span className="font-medium">CHF {fmt(r.netAnnual)}</span></div>
                       <div className="flex justify-between"><span>Steuersatz</span><span className="font-medium">{pct(r.taxRate)}</span></div>
@@ -672,7 +672,7 @@ export default function BruttoNettoRechner() {
               const extraNet = r13.netAnnual - r12.netAnnual;
               const extraTax = (r13.taxMonthly - r12.taxMonthly) * 12;
               return (
-                <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 text-sm">
+                <div className="bg-amber-50 border border-amber-200 rounded-md p-4 text-sm">
                   <strong className="text-amber-800">Was der 13. Monatslohn tatsächlich bringt:</strong>
                   <div className="mt-2 space-y-1 text-amber-700">
                     <div>+ CHF {fmt(gross)} Brutto mehr pro Jahr</div>
@@ -690,20 +690,20 @@ export default function BruttoNettoRechner() {
       {/* ── Tab: Selbständig ── */}
       {activeTab === 'freelancer' && gross > 0 && (
         <div className="space-y-5">
-          <div className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6">
-            <h2 className="font-semibold text-gray-900 mb-1">Selbständig vs. Angestellt – Netto-Vergleich</h2>
-            <p className="text-sm text-gray-500 mb-4">Gleicher Umsatz / Bruttolohn – unterschiedliche Abzüge</p>
+          <div className="bg-warm-white rounded-md border border-warm-200 shadow-sm p-6">
+            <h2 className="font-semibold text-warm-900 mb-1">Selbständig vs. Angestellt – Netto-Vergleich</h2>
+            <p className="text-sm text-warm-500 mb-4">Gleicher Umsatz / Bruttolohn – unterschiedliche Abzüge</p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-4">
               {[
                 { label: 'Angestellt', result: result, se: false },
                 { label: 'Selbständig (Einzelfirma)', result: freelancerResult, se: true },
               ].map(({ label, result: r }) => (
-                <div key={label} className="bg-gray-50 rounded-xl p-5 space-y-2">
-                  <div className="text-xs font-semibold text-gray-500 uppercase tracking-wide">{label}</div>
-                  <div className="text-3xl font-bold text-gray-900">CHF {fmt(r.netMonthly)}</div>
-                  <div className="text-sm text-gray-600">Netto/Monat</div>
-                  <div className="border-t border-gray-200 pt-2 space-y-1 text-sm text-gray-600">
+                <div key={label} className="bg-warm-50 rounded-md p-5 space-y-2">
+                  <div className="text-xs font-semibold text-warm-500 uppercase tracking-wide">{label}</div>
+                  <div className="text-3xl font-bold text-warm-900">CHF {fmt(r.netMonthly)}</div>
+                  <div className="text-sm text-warm-600">Netto/Monat</div>
+                  <div className="border-t border-warm-200 pt-2 space-y-1 text-sm text-warm-600">
                     <div className="flex justify-between"><span>AHV/IV/EO</span><span>− CHF {fmt(r.ahvMonthly)} ({pct(r.ahvRate)})</span></div>
                     {!r.ahvRate || r.ahvRate < 0.1 ? (
                       <>
@@ -712,7 +712,7 @@ export default function BruttoNettoRechner() {
                         {r.bvgMonthly > 0 && <div className="flex justify-between"><span>BVG</span><span>− CHF {fmt(r.bvgMonthly)}</span></div>}
                       </>
                     ) : (
-                      <div className="flex justify-between text-xs text-gray-400"><span>ALV/NBUV/BVG</span><span>nicht obligatorisch</span></div>
+                      <div className="flex justify-between text-xs text-warm-400"><span>ALV/NBUV/BVG</span><span>nicht obligatorisch</span></div>
                     )}
                     <div className="flex justify-between"><span>Steuer ({pct(r.taxRate)})</span><span>− CHF {fmt(r.taxMonthly)}</span></div>
                   </div>
@@ -725,7 +725,7 @@ export default function BruttoNettoRechner() {
             </InfoBox>
 
             <div className="mt-4">
-              <Link href="/artikel/stundensatz-berechnen" className="text-blue-600 text-sm font-medium hover:underline">
+              <Link href="/artikel/stundensatz-berechnen" className="text-accent text-sm font-medium hover:underline">
                 → Stundensatz als Selbständige/r berechnen
               </Link>
             </div>
@@ -734,8 +734,8 @@ export default function BruttoNettoRechner() {
       )}
 
       {/* ── Methodology note ── */}
-      <div className="bg-gray-50 rounded-xl border border-gray-200 p-5 text-sm text-gray-600 space-y-2">
-        <div className="font-semibold text-gray-700">Berechnungsmethodik</div>
+      <div className="bg-warm-50 rounded-md border border-warm-200 p-5 text-sm text-warm-600 space-y-2">
+        <div className="font-semibold text-warm-700">Berechnungsmethodik</div>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-1 text-xs">
           <div><strong>AHV/IV/EO:</strong> 5.3% (AN) / 10.1% (Selbständige) – AHVG 2026</div>
           <div><strong>ALV:</strong> 1.1% bis CHF 148'200 Jahreslohn – AVIG Art. 3</div>
@@ -744,7 +744,7 @@ export default function BruttoNettoRechner() {
           <div><strong>Steuern:</strong> Effektive Sätze (Bund+Kanton+Gemeinde), interpoliert nach ESTV-Tarifen 2026</div>
           <div><strong>Nicht enthalten:</strong> KK, Kirchensteuer, individuelle Abzüge, Säule 3a</div>
         </div>
-        <p className="text-xs text-gray-500">Dieser Rechner dient der Orientierung. Für verbindliche Zahlen: <a href="https://www.estv.admin.ch/estv/de/home/direkte-bundessteuer/quellensteuer.html" target="_blank" rel="noopener noreferrer" className="underline hover:text-blue-600">ESTV Quellensteuerrechner</a> oder Treuhänder.</p>
+        <p className="text-xs text-warm-500">Dieser Rechner dient der Orientierung. Für verbindliche Zahlen: <a href="https://www.estv.admin.ch/estv/de/home/direkte-bundessteuer/quellensteuer.html" target="_blank" rel="noopener noreferrer" className="underline hover:text-accent">ESTV Quellensteuerrechner</a> oder Treuhänder.</p>
       </div>
 
       {/* ── Related articles ── */}
@@ -754,31 +754,31 @@ export default function BruttoNettoRechner() {
           { href: '/artikel/ahv-selbststaendige',           label: 'AHV für Selbständige',         sub: 'Beiträge, Anmeldung, Fristen' },
           { href: '/artikel/steuern-selbststaendige',       label: 'Steuern für Selbständige',     sub: 'Alle Abzüge optimal nutzen' },
         ].map(item => (
-          <Link key={item.href} href={item.href} className="bg-white rounded-xl border border-gray-200 p-4 hover:border-blue-300 hover:bg-blue-50 transition-colors group">
-            <div className="font-medium text-gray-800 group-hover:text-blue-700 text-sm">{item.label}</div>
-            <div className="text-xs text-gray-500 mt-0.5">{item.sub}</div>
+          <Link key={item.href} href={item.href} className="bg-warm-white rounded-md border border-warm-200 p-4 hover:border-blue-300 hover:bg-accent-50 transition-colors group">
+            <div className="font-medium text-warm-800 group-hover:text-accent-dark text-sm">{item.label}</div>
+            <div className="text-xs text-warm-500 mt-0.5">{item.sub}</div>
           </Link>
         ))}
       </div>
 
       {/* ── FAQ ── */}
       <div className="space-y-3">
-        <h2 className="text-lg font-bold text-gray-900">Häufige Fragen zum Brutto-Netto-Rechner</h2>
+        <h2 className="text-lg font-bold text-warm-900">Häufige Fragen zum Brutto-Netto-Rechner</h2>
         {FAQS.map((faq, i) => (
-          <div key={i} className="bg-white rounded-xl border border-gray-200 overflow-hidden">
+          <div key={i} className="bg-warm-white rounded-md border border-warm-200 overflow-hidden">
             <button
               onClick={() => setOpenFaq(openFaq === i ? null : i)}
-              className="w-full text-left px-5 py-4 flex justify-between items-start gap-3 hover:bg-gray-50 transition-colors"
+              className="w-full text-left px-5 py-4 flex justify-between items-start gap-3 hover:bg-warm-50 transition-colors"
             >
-              <span className="font-medium text-gray-800 text-sm">{faq.q}</span>
-              <span className={`text-gray-400 flex-shrink-0 mt-0.5 transition-transform ${openFaq === i ? 'rotate-180' : ''}`}>
+              <span className="font-medium text-warm-800 text-sm">{faq.q}</span>
+              <span className={`text-warm-400 flex-shrink-0 mt-0.5 transition-transform ${openFaq === i ? 'rotate-180' : ''}`}>
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
                 </svg>
               </span>
             </button>
             {openFaq === i && (
-              <div className="px-5 pb-4 text-sm text-gray-600 border-t border-gray-100 pt-3">
+              <div className="px-5 pb-4 text-sm text-warm-600 border-t border-warm-100 pt-3">
                 {faq.a}
               </div>
             )}

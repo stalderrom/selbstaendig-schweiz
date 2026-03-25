@@ -173,12 +173,12 @@ export default function BruttoNettoPage() {
       <main>
         {/* Breadcrumb */}
         <div className="max-w-4xl mx-auto px-4 pt-4">
-          <nav className="flex items-center gap-2 text-sm text-gray-500">
-            <Link href="/" className="hover:text-blue-600 transition-colors">Home</Link>
-            <span className="text-gray-300">/</span>
-            <Link href="/rechner" className="hover:text-blue-600 transition-colors">Rechner</Link>
-            <span className="text-gray-300">/</span>
-            <span className="text-gray-700">Brutto-Netto-Rechner Schweiz 2026</span>
+          <nav className="flex items-center gap-2 text-sm text-warm-500">
+            <Link href="/" className="hover:text-accent transition-colors">Home</Link>
+            <span className="text-warm-300">/</span>
+            <Link href="/rechner" className="hover:text-accent transition-colors">Rechner</Link>
+            <span className="text-warm-300">/</span>
+            <span className="text-warm-700">Brutto-Netto-Rechner Schweiz 2026</span>
           </nav>
         </div>
 
@@ -189,28 +189,28 @@ export default function BruttoNettoPage() {
 
           {/* ── Section 1: Abzüge Überblick ── */}
           <div className="prose prose-gray max-w-none">
-            <h2 className="text-xl font-bold text-gray-900">Brutto zu Netto in der Schweiz 2026 – alle Abzüge</h2>
-            <p className="text-gray-600">
+            <h2 className="text-xl font-bold text-warm-900">Brutto zu Netto in der Schweiz 2026 – alle Abzüge</h2>
+            <p className="text-warm-600">
               Der Brutto-Netto-Rechner berechnet Ihren Nettolohn nach Schweizer Recht für 2026.
               Anders als deutsche Rechner berücksichtigt er die spezifischen Schweizer
               Sozialabgaben (AHV/IV/EO, ALV, NBUV, BVG) sowie die kantonale Einkommenssteuer –
               die je nach Kanton zwischen rund 3% (Zug) und über 28% (Waadt, Genf) effektiv variieren kann.
             </p>
-            <p className="text-gray-600">
+            <p className="text-warm-600">
               Wichtig: Die Krankenkasse (KVG) wird in der Schweiz <strong>nicht</strong> vom Lohn abgezogen –
               sie ist eine Prämie, die direkt an die Krankenkasse bezahlt wird. Der Durchschnitt liegt 2026 bei
               rund CHF 430/Monat pro erwachsene Person (Quelle: BAG Prämienübersicht 2026).
             </p>
 
-            <h3 className="text-lg font-semibold text-gray-800 mt-6">Alle Abzüge im Überblick 2026</h3>
+            <h3 className="text-lg font-semibold text-warm-800 mt-6">Alle Abzüge im Überblick 2026</h3>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
                   <tr className="bg-gray-50">
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Abzug</th>
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Satz (AN)</th>
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Grundlage</th>
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Rechtsgrundlage</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Abzug</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Satz (AN)</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Grundlage</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Rechtsgrundlage</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -221,24 +221,24 @@ export default function BruttoNettoPage() {
                     ['BVG (Pensionskasse)', '3.5–9%', 'Koordinierter Lohn', 'BVG Art. 8, 16'],
                     ['Einkommenssteuer', '3–28% eff.', 'Steuerbares Einkommen', 'DBG + kant. Steuergesetze'],
                   ].map(([abzug, satz, basis, recht]) => (
-                    <tr key={abzug} className="border-t border-gray-100">
-                      <td className="p-3 border border-gray-200 font-medium text-gray-800">{abzug}</td>
-                      <td className="p-3 border border-gray-200 text-gray-700">{satz}</td>
-                      <td className="p-3 border border-gray-200 text-gray-600 text-xs">{basis}</td>
-                      <td className="p-3 border border-gray-200 text-gray-500 text-xs">{recht}</td>
+                    <tr key={abzug} className="border-t border-warm-100">
+                      <td className="p-3 border border-warm-200 font-medium text-warm-800">{abzug}</td>
+                      <td className="p-3 border border-warm-200 text-warm-700">{satz}</td>
+                      <td className="p-3 border border-warm-200 text-warm-600 text-xs">{basis}</td>
+                      <td className="p-3 border border-warm-200 text-warm-500 text-xs">{recht}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Quellen: AHVG, AVIG, UVG, BVG (Stand 2026). Arbeitgeber zahlt zusätzlich je 5.3% AHV + ALV-Anteil + BVG-Anteil.
             </p>
           </div>
 
           {/* ── Section 2: Schritt-für-Schritt ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-4">Brutto-Netto berechnen – Schritt für Schritt 2026</h2>
+            <h2 className="text-xl font-bold text-warm-900 mb-4">Brutto-Netto berechnen – Schritt für Schritt 2026</h2>
             <ol className="space-y-4">
               {[
                 {
@@ -268,10 +268,10 @@ export default function BruttoNettoPage() {
                 },
               ].map(({ n, title, text }) => (
                 <li key={n} className="flex gap-4">
-                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white text-sm font-bold flex items-center justify-center mt-0.5">{n}</span>
+                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-accent text-white text-sm font-bold flex items-center justify-center mt-0.5">{n}</span>
                   <div>
-                    <p className="font-semibold text-gray-900">{title}</p>
-                    <p className="text-sm text-gray-600 mt-1">{text}</p>
+                    <p className="font-semibold text-warm-900">{title}</p>
+                    <p className="text-sm text-warm-600 mt-1">{text}</p>
                   </div>
                 </li>
               ))}
@@ -280,15 +280,15 @@ export default function BruttoNettoPage() {
 
           {/* ── Section 3: Kantonsvergleich ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-2">Kantonsvergleich Nettolohn 2026: Zürich, Zug, Genf, Basel</h2>
-            <p className="text-sm text-gray-600 mb-4">
+            <h2 className="text-xl font-bold text-warm-900 mb-2">Kantonsvergleich Nettolohn 2026: Zürich, Zug, Genf, Basel</h2>
+            <p className="text-sm text-warm-600 mb-4">
               Basis: CHF 8'000/Mt. Brutto, ledig, konfessionslos, 35 Jahre, ohne 13. Monatslohn.
               Steuer inkl. Bundes-, Kantons- und Gemeindesteuer (Hauptort). Sozialabgaben identisch.
             </p>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
-                  <tr className="bg-blue-600 text-white">
+                  <tr className="bg-accent text-white">
                     <th className="text-left p-3 font-semibold">Kanton</th>
                     <th className="text-right p-3 font-semibold">Eff. Steuersatz</th>
                     <th className="text-right p-3 font-semibold">Steuer/Mt.</th>
@@ -309,22 +309,22 @@ export default function BruttoNettoPage() {
                     ['Bern', '~19%', 'CHF 1\'520', 'CHF 5\'550', 'CHF 66\'600'],
                     ['Genf', '~21%', 'CHF 1\'680', 'CHF 5\'390', 'CHF 64\'680'],
                   ].map(([kanton, rate, tax, net, netYear], i) => (
-                    <tr key={kanton} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="p-3 border-b border-gray-100 font-medium text-gray-800">{kanton}</td>
-                      <td className="p-3 border-b border-gray-100 text-right text-gray-700">{rate}</td>
-                      <td className="p-3 border-b border-gray-100 text-right text-gray-700">{tax}</td>
-                      <td className="p-3 border-b border-gray-100 text-right font-semibold text-gray-900">{net}</td>
-                      <td className="p-3 border-b border-gray-100 text-right text-gray-700">{netYear}</td>
+                    <tr key={kanton} className={i % 2 === 0 ? 'bg-warm-white' : 'bg-gray-50'}>
+                      <td className="p-3 border-b border-warm-100 font-medium text-warm-800">{kanton}</td>
+                      <td className="p-3 border-b border-warm-100 text-right text-warm-700">{rate}</td>
+                      <td className="p-3 border-b border-warm-100 text-right text-warm-700">{tax}</td>
+                      <td className="p-3 border-b border-warm-100 text-right font-semibold text-warm-900">{net}</td>
+                      <td className="p-3 border-b border-warm-100 text-right text-warm-700">{netYear}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Richtwerte auf Basis interpolierter Steuertabellen (Hauptort, 2026). Exakte Werte variieren je nach Konfession,
               Gemeinde und abzugsfähigen Kosten. Quelle: kantonale Steuertarife, ESTV Steuerrechner.
             </p>
-            <p className="text-sm text-gray-600 mt-3">
+            <p className="text-sm text-warm-600 mt-3">
               <strong>Fazit:</strong> Bei CHF 8'000/Mt. Brutto ergibt sich zwischen Zug und Genf ein jährlicher
               Netto-Unterschied von rund <strong>CHF 11'500</strong> – allein durch den Wohnkanton.
               Der vollständige Vergleich aller 26 Kantone ist direkt im Rechner oben abrufbar (Tab «Kantonsvergleich»).
@@ -333,19 +333,19 @@ export default function BruttoNettoPage() {
 
           {/* ── Section 4: Grenzgänger ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-2">Grenzgänger Schweiz 2026: Brutto-Netto für CH-DE, CH-FR, CH-IT</h2>
-            <p className="text-sm text-gray-600 mb-4">
+            <h2 className="text-xl font-bold text-warm-900 mb-2">Grenzgänger Schweiz 2026: Brutto-Netto für CH-DE, CH-FR, CH-IT</h2>
+            <p className="text-sm text-warm-600 mb-4">
               Grenzgänger (Ausweis G) unterliegen einem speziellen Steuerregime: Die Schweiz besteuert
               nur einen Teil des Einkommens, der Rest wird im Wohnsitzland versteuert.
             </p>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
                   <tr className="bg-gray-50">
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Korridor</th>
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">CH-Quellensteuer</th>
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Besteuerung Wohnsitzland</th>
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Abkommen</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Korridor</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">CH-Quellensteuer</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Besteuerung Wohnsitzland</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Abkommen</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -354,44 +354,44 @@ export default function BruttoNettoPage() {
                     ['CH–FR (Schweiz/Frankreich)', '4.5% an CH-Kanton', 'Frankreich besteuert, Anrechnung nach Kantonszugehörigkeit', 'DBA CH-FR, Art. 17'],
                     ['CH–IT (Schweiz/Italien)', 'Kantonaler Satz (variiert)', 'Neues Abkommen 2024: anteilige Besteuerung', 'Rev. DBA CH-IT 2024'],
                   ].map(([korridor, ch, wohn, abk]) => (
-                    <tr key={korridor} className="border-t border-gray-100">
-                      <td className="p-3 border border-gray-200 font-medium text-gray-800">{korridor}</td>
-                      <td className="p-3 border border-gray-200 text-gray-700">{ch}</td>
-                      <td className="p-3 border border-gray-200 text-gray-600 text-xs">{wohn}</td>
-                      <td className="p-3 border border-gray-200 text-gray-500 text-xs">{abk}</td>
+                    <tr key={korridor} className="border-t border-warm-100">
+                      <td className="p-3 border border-warm-200 font-medium text-warm-800">{korridor}</td>
+                      <td className="p-3 border border-warm-200 text-warm-700">{ch}</td>
+                      <td className="p-3 border border-warm-200 text-warm-600 text-xs">{wohn}</td>
+                      <td className="p-3 border border-warm-200 text-warm-500 text-xs">{abk}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <div className="mt-4 bg-blue-50 border border-blue-200 rounded-xl p-4 text-sm text-blue-800">
+            <div className="mt-4 bg-accent-50 border border-accent-light rounded-md p-4 text-sm text-accent-dark">
               <strong>Schweizer Sozialabgaben gelten für alle Grenzgänger:</strong> AHV 5.3%, ALV 1.1%,
               BVG (ab CHF 22'050 Jahreslohn), NBUV ~0.8%. Diese Abzüge sind identisch mit Schweizer Arbeitnehmern.
               Krankenkasse: Grenzgänger können sich je nach Kanton entweder in der Schweiz oder im Wohnsitzland versichern
               (Wahlrecht, EFTA/EU-Abkommen).
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Quellen: ESTV Merkblatt Grenzgänger, SECO, DBA-Texte (Stand 2026). Für individuelle Fälle: kantonales Steueramt.
             </p>
           </div>
 
           {/* ── Section 5: 13. Monatslohn & Bonus ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-2">13. Monatslohn & Bonus in der Schweiz 2026: Was bleibt netto?</h2>
-            <p className="text-sm text-gray-600 mb-4">
+            <h2 className="text-xl font-bold text-warm-900 mb-2">13. Monatslohn & Bonus in der Schweiz 2026: Was bleibt netto?</h2>
+            <p className="text-sm text-warm-600 mb-4">
               Rund 90% aller Schweizer Arbeitnehmenden erhalten einen 13. Monatslohn – er ist in vielen
               Gesamtarbeitsverträgen (GAV) und Einzelarbeitsverträgen verankert (Quelle: BFS SAKE 2024).
               Steuerlich wird er wie regulärer Lohn behandelt und erhöht den Jahresbruttolohn auf 13 Monatslöhne.
             </p>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
                   <tr className="bg-gray-50">
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Brutto/Mt.</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">13. Mt. brutto</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Mehrsteuer/Jahr</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">13. Mt. netto (ZH)</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Eff. Netto-%</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Brutto/Mt.</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">13. Mt. brutto</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Mehrsteuer/Jahr</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">13. Mt. netto (ZH)</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Eff. Netto-%</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -401,22 +401,22 @@ export default function BruttoNettoPage() {
                     ['CHF 12\'000', 'CHF 12\'000', '~CHF 2\'000', '~CHF 6\'500', '~54%'],
                     ['CHF 18\'000', 'CHF 18\'000', '~CHF 4\'200', '~CHF 8\'800', '~49%'],
                   ].map(([brutto, mon13, steuer, netto, effpct]) => (
-                    <tr key={brutto} className="border-t border-gray-100">
-                      <td className="p-3 border border-gray-200 font-medium text-gray-800">{brutto}</td>
-                      <td className="p-3 border border-gray-200 text-right text-gray-700">{mon13}</td>
-                      <td className="p-3 border border-gray-200 text-right text-red-600">{steuer}</td>
-                      <td className="p-3 border border-gray-200 text-right font-semibold text-gray-900">{netto}</td>
-                      <td className="p-3 border border-gray-200 text-right text-gray-600">{effpct}</td>
+                    <tr key={brutto} className="border-t border-warm-100">
+                      <td className="p-3 border border-warm-200 font-medium text-warm-800">{brutto}</td>
+                      <td className="p-3 border border-warm-200 text-right text-warm-700">{mon13}</td>
+                      <td className="p-3 border border-warm-200 text-right text-red-600">{steuer}</td>
+                      <td className="p-3 border border-warm-200 text-right font-semibold text-warm-900">{netto}</td>
+                      <td className="p-3 border border-warm-200 text-right text-warm-600">{effpct}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Richtwerte für Kanton Zürich, ledig, konfessionslos, 35 Jahre. Werte variieren je nach Kanton und Zivilstand.
               Genaue Berechnung: im Rechner oben Tab «13. Monatslohn».
             </p>
-            <p className="text-sm text-gray-600 mt-3">
+            <p className="text-sm text-warm-600 mt-3">
               <strong>Bonus:</strong> Ein einmaliger Bonus wird ebenfalls wie Lohn besteuert und erhöht das steuerbare
               Jahreseinkommen. Bei progressiver Besteuerung kostet ein CHF 10'000 Bonus in Zürich
               (CHF 100'000 Jahreslohn) rund CHF 3'500–4'000 mehr Steuern – netto verbleiben ca. CHF 6'000–6'500.
@@ -425,19 +425,19 @@ export default function BruttoNettoPage() {
 
           {/* ── Section 6: Branchen-Benchmarks ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-2">Brutto-Benchmarks nach Branche und Kader Schweiz 2026</h2>
-            <p className="text-sm text-gray-600 mb-4">
+            <h2 className="text-xl font-bold text-warm-900 mb-2">Brutto-Benchmarks nach Branche und Kader Schweiz 2026</h2>
+            <p className="text-sm text-warm-600 mb-4">
               Gehaltsverhandlung: Wer seinen Marktwert kennt, verhandelt besser. Diese Richtwerte basieren
               auf der BFS-Lohnstrukturerhebung (LSE 2022, Fortschreibung 2026), Lohnrechner.ch und Salarium.
             </p>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
                   <tr className="bg-gray-50">
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Berufsfeld</th>
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Erfahrungsstufe</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Brutto/Mt. (Median)</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Netto/Mt. (ZH, ~)</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Berufsfeld</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Erfahrungsstufe</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Brutto/Mt. (Median)</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Netto/Mt. (ZH, ~)</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -453,17 +453,17 @@ export default function BruttoNettoPage() {
                     ['Marketing / Kommunikation', 'Manager', 'CHF 8\'000–11\'000', 'CHF 5\'600–7\'400'],
                     ['Handwerk / Bau', 'Polier', 'CHF 6\'000–7\'500', 'CHF 4\'400–5\'400'],
                   ].map(([bereich, stufe, brutto, netto], i) => (
-                    <tr key={`${bereich}-${stufe}`} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="p-3 border-b border-gray-100 font-medium text-gray-800">{bereich}</td>
-                      <td className="p-3 border-b border-gray-100 text-gray-600">{stufe}</td>
-                      <td className="p-3 border-b border-gray-100 text-right text-gray-700">{brutto}</td>
-                      <td className="p-3 border-b border-gray-100 text-right font-semibold text-gray-900">{netto}</td>
+                    <tr key={`${bereich}-${stufe}`} className={i % 2 === 0 ? 'bg-warm-white' : 'bg-gray-50'}>
+                      <td className="p-3 border-b border-warm-100 font-medium text-warm-800">{bereich}</td>
+                      <td className="p-3 border-b border-warm-100 text-warm-600">{stufe}</td>
+                      <td className="p-3 border-b border-warm-100 text-right text-warm-700">{brutto}</td>
+                      <td className="p-3 border-b border-warm-100 text-right font-semibold text-warm-900">{netto}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Quellen: BFS Lohnstrukturerhebung LSE 2022 (Fortschreibung), Lohnrechner.ch, Salarium.ch (2025/2026).
               Netto-Schätzung: Kanton Zürich, ledig, 35 Jahre, ohne 13. Monatslohn. Tatsächliche Werte im Rechner berechnen.
             </p>
@@ -471,19 +471,19 @@ export default function BruttoNettoPage() {
 
           {/* ── Section 7: Mindestlohn ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-2">Mindestlohn Schweiz 2026 nach Kanton und GAV</h2>
-            <p className="text-sm text-gray-600 mb-4">
+            <h2 className="text-xl font-bold text-warm-900 mb-2">Mindestlohn Schweiz 2026 nach Kanton und GAV</h2>
+            <p className="text-sm text-warm-600 mb-4">
               Die Schweiz kennt keinen nationalen Mindestlohn. Stattdessen regeln kantonale Gesetze
               und Gesamtarbeitsverträge (GAV) branchenspezifische Untergrenzen.
             </p>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
                   <tr className="bg-gray-50">
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Kanton / Branche</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Mindestlohn/h</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">ca. Brutto/Mt. (100%)</th>
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Grundlage</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Kanton / Branche</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Mindestlohn/h</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">ca. Brutto/Mt. (100%)</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Grundlage</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -497,17 +497,17 @@ export default function BruttoNettoPage() {
                     ['Gastgewerbe (L-GAV)', 'CHF 18.60–21.00', 'CHF 3\'135–3\'540', 'L-GAV Gastro 2025'],
                     ['Reinigung (BIGA-GAV)', 'CHF 19.65', 'CHF 3\'310', 'GAV Reinigung 2025'],
                   ].map(([kanton, lohn, monat, grundlage], i) => (
-                    <tr key={kanton} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="p-3 border-b border-gray-100 font-medium text-gray-800">{kanton}</td>
-                      <td className="p-3 border-b border-gray-100 text-right text-gray-700">{lohn}</td>
-                      <td className="p-3 border-b border-gray-100 text-right font-semibold text-gray-900">{monat}</td>
-                      <td className="p-3 border-b border-gray-100 text-gray-500 text-xs">{grundlage}</td>
+                    <tr key={kanton} className={i % 2 === 0 ? 'bg-warm-white' : 'bg-gray-50'}>
+                      <td className="p-3 border-b border-warm-100 font-medium text-warm-800">{kanton}</td>
+                      <td className="p-3 border-b border-warm-100 text-right text-warm-700">{lohn}</td>
+                      <td className="p-3 border-b border-warm-100 text-right font-semibold text-warm-900">{monat}</td>
+                      <td className="p-3 border-b border-warm-100 text-warm-500 text-xs">{grundlage}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Quellen: Kantonale Erlasse (Stand 2026), SECO GAV-Übersicht, Seco.admin.ch.
               Monatswert basiert auf 42 h/Woche × 4.333 Wochen. Ohne Kantonalsteuer-Abzüge.
             </p>
@@ -515,7 +515,7 @@ export default function BruttoNettoPage() {
 
           {/* ── Section 8: FAQ ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-4">Häufige Fragen zum Brutto-Netto-Rechner Schweiz 2026</h2>
+            <h2 className="text-xl font-bold text-warm-900 mb-4">Häufige Fragen zum Brutto-Netto-Rechner Schweiz 2026</h2>
             <div className="space-y-4">
               {[
                 {
@@ -555,12 +555,12 @@ export default function BruttoNettoPage() {
                   a: 'Mediane Brutto-Monatslöhne 2026: IT-Entwickler Senior CHF 10\'500–13\'500, Finanzen Analyst CHF 8\'500–11\'000, Buchhalter CHF 6\'500–8\'500, Pflege HF CHF 5\'200–6\'500, Projektleitung CHF 9\'000–12\'500. Quellen: BFS Lohnstrukturerhebung, Lohnrechner.ch, Salarium.ch.',
                 },
               ].map(({ q, a }, i) => (
-                <details key={i} className="group border border-gray-200 rounded-xl overflow-hidden">
-                  <summary className="flex items-center justify-between gap-3 p-4 cursor-pointer font-semibold text-gray-900 hover:bg-gray-50 transition-colors list-none">
+                <details key={i} className="group border border-warm-200 rounded-md overflow-hidden">
+                  <summary className="flex items-center justify-between gap-3 p-4 cursor-pointer font-semibold text-warm-900 hover:bg-warm-50 transition-colors list-none">
                     <span>{q}</span>
-                    <span className="shrink-0 text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                    <span className="shrink-0 text-warm-400 group-open:rotate-180 transition-transform">▼</span>
                   </summary>
-                  <div className="px-4 pb-4 pt-1 text-sm text-gray-600 border-t border-gray-100">
+                  <div className="px-4 pb-4 pt-1 text-sm text-warm-600 border-t border-warm-100">
                     {a}
                   </div>
                 </details>
@@ -569,14 +569,14 @@ export default function BruttoNettoPage() {
           </div>
 
           {/* ── CTA ── */}
-          <div className="bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl p-8 text-center shadow-lg">
+          <div className="bg-gradient-to-br from-blue-600 to-blue-700 rounded-md p-8 text-center shadow-lg">
             <p className="text-2xl font-bold text-white mb-3">Selbständig in der Schweiz?</p>
             <p className="text-blue-100 mb-6">
               Erfahre alles über Einzelfirma gründen, Steuern und Vorsorge als Selbständigerwerbender.
             </p>
             <Link
               href="/artikel"
-              className="inline-block bg-white text-blue-700 px-7 py-3 rounded-xl font-bold hover:bg-blue-50 transition-all shadow-md hover:shadow-lg"
+              className="inline-block bg-warm-white text-accent-dark px-7 py-3 rounded-md font-bold hover:bg-accent-50 transition-all shadow-md hover:shadow-lg"
             >
               Alle Artikel anzeigen →
             </Link>

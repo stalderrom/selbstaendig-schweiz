@@ -157,12 +157,12 @@ export default function StundensatzPage() {
       <main>
         {/* Breadcrumb */}
         <div className="max-w-5xl mx-auto px-4 pt-4">
-          <nav className="flex items-center gap-2 text-sm text-gray-500">
-            <Link href="/" className="hover:text-blue-600 transition-colors">Home</Link>
-            <span className="text-gray-300">/</span>
-            <Link href="/rechner" className="hover:text-blue-600 transition-colors">Rechner</Link>
-            <span className="text-gray-300">/</span>
-            <span className="text-gray-700">Stundensatz Rechner Schweiz 2026</span>
+          <nav className="flex items-center gap-2 text-sm text-warm-500">
+            <Link href="/" className="hover:text-accent transition-colors">Home</Link>
+            <span className="text-warm-300">/</span>
+            <Link href="/rechner" className="hover:text-accent transition-colors">Rechner</Link>
+            <span className="text-warm-300">/</span>
+            <span className="text-warm-700">Stundensatz Rechner Schweiz 2026</span>
           </nav>
         </div>
 
@@ -173,34 +173,34 @@ export default function StundensatzPage() {
 
           {/* ── Section 1: Formel & Grundlagen ── */}
           <div className="prose prose-gray max-w-none">
-            <h2 className="text-xl font-bold text-gray-900">Stundensatz berechnen Schweiz – die Formel</h2>
-            <p className="text-gray-600">
+            <h2 className="text-xl font-bold text-warm-900">Stundensatz berechnen Schweiz – die Formel</h2>
+            <p className="text-warm-600">
               Der Stundensatz-Rechner löst das Kernproblem jedes Selbständigen: Wie viel muss ich pro Stunde
               verlangen, damit ich nach AHV, Steuern und Betriebskosten mein Wunscheinkommen erreiche?
               Die Grundformel ist einfach — die Herausforderung liegt in den korrekten Eingaben.
             </p>
-            <div className="bg-gray-50 border border-gray-200 rounded-xl p-5 my-4 font-mono text-sm">
-              <p className="text-gray-700 font-semibold mb-2">Stundensatz-Formel:</p>
-              <p className="text-gray-800">Stundensatz = (Jahresgewinn + Betriebskosten) ÷ Fakturierbare Stunden</p>
-              <p className="text-gray-500 mt-2 text-xs">
+            <div className="bg-warm-50 border border-warm-200 rounded-md p-5 my-4 font-mono text-sm">
+              <p className="text-warm-700 font-semibold mb-2">Stundensatz-Formel:</p>
+              <p className="text-warm-800">Stundensatz = (Jahresgewinn + Betriebskosten) ÷ Fakturierbare Stunden</p>
+              <p className="text-warm-500 mt-2 text-xs">
                 Jahresgewinn = Betrag, der nach AHV und Steuern dein Zielnettoeinkommen ergibt
               </p>
             </div>
-            <p className="text-gray-600">
+            <p className="text-warm-600">
               Der Rechner berechnet den erforderlichen Jahresgewinn iterativ: Er startet mit einer Schätzung
               und passt sie an, bis das verbleibende Nettoeinkommen exakt deinem Ziel entspricht —
               unter Berücksichtigung der AHV (10.1% für Selbständige), der kantonal unterschiedlichen
               Einkommenssteuer und der optionalen Säule-3a-Deduktion (max. CHF 40'320/Jahr, 2026).
             </p>
 
-            <h3 className="text-lg font-semibold text-gray-800 mt-6">Was viele Selbständige vergessen</h3>
+            <h3 className="text-lg font-semibold text-warm-800 mt-6">Was viele Selbständige vergessen</h3>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
-                  <tr className="bg-gray-50">
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Kostenblock</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Typischer Betrag/Jahr</th>
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Häufig vergessen?</th>
+                  <tr className="bg-warm-50">
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Kostenblock</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Typischer Betrag/Jahr</th>
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Häufig vergessen?</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -214,31 +214,31 @@ export default function StundensatzPage() {
                     ['Berufliche Weiterbildung', 'CHF 1\'000–4\'000/Jahr', 'Ja'],
                     ['Reserve / Notgroschen', '10–15% des Umsatzes', 'Meistens'],
                   ].map(([pos, betrag, vergessen]) => (
-                    <tr key={pos} className="border-t border-gray-100">
-                      <td className="p-3 border border-gray-200 font-medium text-gray-800">{pos}</td>
-                      <td className="p-3 border border-gray-200 text-right text-gray-700">{betrag}</td>
-                      <td className="p-3 border border-gray-200 text-gray-500 text-xs">{vergessen}</td>
+                    <tr key={pos} className="border-t border-warm-100">
+                      <td className="p-3 border border-warm-200 font-medium text-warm-800">{pos}</td>
+                      <td className="p-3 border border-warm-200 text-right text-warm-700">{betrag}</td>
+                      <td className="p-3 border border-warm-200 text-warm-500 text-xs">{vergessen}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Quellen: AHV-Gesetz (AHVG Art. 8), ESTV Steuerrechner 2026, Branchenbeobachtungen.
             </p>
           </div>
 
           {/* ── Section 2: Fakturierbare Stunden ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-4">Fakturierbare Stunden realistisch planen</h2>
-            <p className="text-sm text-gray-600 mb-4">
+            <h2 className="text-xl font-bold text-warm-900 mb-4">Fakturierbare Stunden realistisch planen</h2>
+            <p className="text-sm text-warm-600 mb-4">
               Der grösste Irrtum: zu denken, man könne 8 Stunden pro Tag × 250 Arbeitstage = 2'000 Stunden
               fakturieren. In der Praxis sind 900–1'300 Stunden realistisch.
             </p>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
-                  <tr className="bg-blue-600 text-white">
+                  <tr className="bg-accent text-white">
                     <th className="text-left p-3 font-semibold">Profil</th>
                     <th className="text-right p-3 font-semibold">Fakturierb. Tage</th>
                     <th className="text-right p-3 font-semibold">Fakturierb. Std.</th>
@@ -252,20 +252,20 @@ export default function StundensatzPage() {
                     ['Voll ausgelastet (>5 Jahre)', '~175',  '~1\'400', '20% Admin/Akquise, 25 Ferientage'],
                     ['Teilzeit (60%)',              '~95',   '~760',  '30% Admin, 25 Ferientage, 60% Pensum'],
                   ].map(([profil, tage, std, annahmen], i) => (
-                    <tr key={profil} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="p-3 border-b border-gray-100 font-medium text-gray-800">{profil}</td>
-                      <td className="p-3 border-b border-gray-100 text-right text-gray-700">{tage}</td>
-                      <td className="p-3 border-b border-gray-100 text-right font-semibold text-gray-900">{std}</td>
-                      <td className="p-3 border-b border-gray-100 text-gray-500 text-xs">{annahmen}</td>
+                    <tr key={profil} className={i % 2 === 0 ? 'bg-warm-white' : 'bg-warm-50'}>
+                      <td className="p-3 border-b border-warm-100 font-medium text-warm-800">{profil}</td>
+                      <td className="p-3 border-b border-warm-100 text-right text-warm-700">{tage}</td>
+                      <td className="p-3 border-b border-warm-100 text-right font-semibold text-warm-900">{std}</td>
+                      <td className="p-3 border-b border-warm-100 text-warm-500 text-xs">{annahmen}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Basis: 253 Arbeitstage/Jahr, 5 Krankheitstage, 8 Std./Tag. Tatsächliche Werte variieren stark.
             </p>
-            <div className="mt-4 bg-amber-50 border border-amber-200 rounded-xl p-4 text-sm text-amber-800">
+            <div className="mt-4 bg-amber-50 border border-amber-200 rounded-md p-4 text-sm text-amber-800">
               <strong>Tipp:</strong> Tracke deine tatsächlichen fakturierbaren Stunden mindestens
               im ersten Jahr konsequent — die meisten Selbständigen überschätzen ihre Auslastung um 20–30%.
               Ein gutes Zeiterfassungs-Tool hilft, die Realität sauber zu dokumentieren.
@@ -274,18 +274,18 @@ export default function StundensatzPage() {
 
           {/* ── Section 3: Branchenübliche Stundensätze ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-2">Branchenübliche Stundensätze Schweiz 2026</h2>
-            <p className="text-sm text-gray-600 mb-4">
+            <h2 className="text-xl font-bold text-warm-900 mb-2">Branchenübliche Stundensätze Schweiz 2026</h2>
+            <p className="text-sm text-warm-600 mb-4">
               Orientierungswerte für häufige Tätigkeitsbereiche. Die Spanne erklärt sich durch
               Erfahrung, Spezialisierungsgrad, Kundengrösse und Region.
             </p>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
-                  <tr className="bg-gray-50">
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Tätigkeitsbereich</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Stundensatz (CHF)</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Tagessatz (CHF)</th>
+                  <tr className="bg-warm-50">
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Tätigkeitsbereich</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Stundensatz (CHF)</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Tagessatz (CHF)</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -309,16 +309,16 @@ export default function StundensatzPage() {
                     ['Architekt', '120–200', '960–1\'600'],
                     ['Schreiner / Maler', '75–120', '600–960'],
                   ].map(([bereich, std, tag], i) => (
-                    <tr key={bereich} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="p-3 border-b border-gray-100 font-medium text-gray-800">{bereich}</td>
-                      <td className="p-3 border-b border-gray-100 text-right text-gray-700">CHF {std}</td>
-                      <td className="p-3 border-b border-gray-100 text-right text-gray-600">CHF {tag}</td>
+                    <tr key={bereich} className={i % 2 === 0 ? 'bg-warm-white' : 'bg-warm-50'}>
+                      <td className="p-3 border-b border-warm-100 font-medium text-warm-800">{bereich}</td>
+                      <td className="p-3 border-b border-warm-100 text-right text-warm-700">CHF {std}</td>
+                      <td className="p-3 border-b border-warm-100 text-right text-warm-600">CHF {tag}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Richtwerte basierend auf Freelancer.ch, experteer.ch, Marktbeobachtungen 2025/2026.
               Tatsächliche Sätze hängen stark von Erfahrung, Referenzen, Positionierung und Kundensegment ab.
             </p>
@@ -326,40 +326,40 @@ export default function StundensatzPage() {
 
           {/* ── Section 4: AHV und Steuern ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-2">AHV und Steuern für Selbständige 2026</h2>
-            <p className="text-sm text-gray-600 mb-4">
+            <h2 className="text-xl font-bold text-warm-900 mb-2">AHV und Steuern für Selbständige 2026</h2>
+            <p className="text-sm text-warm-600 mb-4">
               Selbständige zahlen andere Sozialabgaben als Angestellte. Diese Unterschiede sind
               entscheidend für die korrekte Stundensatz-Kalkulation.
             </p>
             <div className="grid sm:grid-cols-2 gap-4 mb-4">
-              <div className="border border-gray-200 rounded-xl p-4">
-                <p className="font-semibold text-gray-900 mb-3">Selbständige (Einzelfirma)</p>
-                <ul className="space-y-2 text-sm text-gray-700">
+              <div className="border border-warm-200 rounded-md p-4">
+                <p className="font-semibold text-warm-900 mb-3">Selbständige (Einzelfirma)</p>
+                <ul className="space-y-2 text-sm text-warm-700">
                   <li className="flex justify-between">
                     <span>AHV/IV/EO</span>
                     <span className="font-semibold text-orange-600">10.1%</span>
                   </li>
                   <li className="flex justify-between">
                     <span>ALV</span>
-                    <span className="text-gray-500">nicht obligatorisch</span>
+                    <span className="text-warm-500">nicht obligatorisch</span>
                   </li>
                   <li className="flex justify-between">
                     <span>BVG (Pensionskasse)</span>
-                    <span className="text-gray-500">freiwillig</span>
+                    <span className="text-warm-500">freiwillig</span>
                   </li>
                   <li className="flex justify-between">
                     <span>Unfallversicherung</span>
-                    <span className="text-gray-500">freiwillig</span>
+                    <span className="text-warm-500">freiwillig</span>
                   </li>
                   <li className="flex justify-between">
                     <span>Säule 3a</span>
-                    <span className="font-semibold text-green-600">max. CHF 40'320</span>
+                    <span className="font-semibold text-warm-700">max. CHF 40'320</span>
                   </li>
                 </ul>
               </div>
-              <div className="border border-gray-200 rounded-xl p-4 bg-gray-50">
-                <p className="font-semibold text-gray-900 mb-3">Angestellte (zum Vergleich)</p>
-                <ul className="space-y-2 text-sm text-gray-700">
+              <div className="border border-warm-200 rounded-md p-4 bg-warm-50">
+                <p className="font-semibold text-warm-900 mb-3">Angestellte (zum Vergleich)</p>
+                <ul className="space-y-2 text-sm text-warm-700">
                   <li className="flex justify-between">
                     <span>AHV/IV/EO</span>
                     <span className="font-semibold">5.3% (AN-Anteil)</span>
@@ -383,7 +383,7 @@ export default function StundensatzPage() {
                 </ul>
               </div>
             </div>
-            <div className="bg-blue-50 border border-blue-200 rounded-xl p-4 text-sm text-blue-800">
+            <div className="bg-accent-50 border border-accent-light rounded-md p-4 text-sm text-accent-dark">
               <strong>Wichtig:</strong> Als Selbständiger zahlst du den gesamten AHV-Satz von 10.1%
               selbst — das ist der doppelte Arbeitnehmer-Anteil, weil du auch den Arbeitgeber-Anteil übernimmst.
               Dafür kannst du bis zu CHF 40'320/Jahr in die Säule 3a einzahlen (Angestellte max. CHF 7'258),
@@ -393,17 +393,17 @@ export default function StundensatzPage() {
 
           {/* ── Section 5: Kantonsvergleich ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-2">
+            <h2 className="text-xl font-bold text-warm-900 mb-2">
               Stundensatz-Unterschied nach Kanton – Beispielrechnung 2026
             </h2>
-            <p className="text-sm text-gray-600 mb-4">
+            <p className="text-sm text-warm-600 mb-4">
               Basis: CHF 6'000/Mt. Netto-Ziel, 25 Ferientage, 30% Admin/Akquise, CHF 15'000 Betriebskosten,
               Säule 3a aktiviert.
             </p>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
-                  <tr className="bg-blue-600 text-white">
+                  <tr className="bg-accent text-white">
                     <th className="text-left p-3 font-semibold">Kanton</th>
                     <th className="text-right p-3 font-semibold">Eff. Steuersatz</th>
                     <th className="text-right p-3 font-semibold">Jahresumsatz nötig</th>
@@ -421,20 +421,20 @@ export default function StundensatzPage() {
                     ['Waadt',         '~25%',   'CHF 151\'000', 'CHF 110'],
                     ['Genf',          '~24.7%', 'CHF 152\'000', 'CHF 111'],
                   ].map(([kanton, rate, umsatz, std], i) => (
-                    <tr key={kanton} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="p-3 border-b border-gray-100 font-medium text-gray-800">{kanton}</td>
-                      <td className="p-3 border-b border-gray-100 text-right text-gray-700">{rate}</td>
-                      <td className="p-3 border-b border-gray-100 text-right text-gray-700">{umsatz}</td>
-                      <td className="p-3 border-b border-gray-100 text-right font-semibold text-gray-900">{std}</td>
+                    <tr key={kanton} className={i % 2 === 0 ? 'bg-warm-white' : 'bg-warm-50'}>
+                      <td className="p-3 border-b border-warm-100 font-medium text-warm-800">{kanton}</td>
+                      <td className="p-3 border-b border-warm-100 text-right text-warm-700">{rate}</td>
+                      <td className="p-3 border-b border-warm-100 text-right text-warm-700">{umsatz}</td>
+                      <td className="p-3 border-b border-warm-100 text-right font-semibold text-warm-900">{std}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Näherungswerte. Exakte Berechnung im Rechner oben — alle 26 Kantone verfügbar.
             </p>
-            <p className="text-sm text-gray-600 mt-3">
+            <p className="text-sm text-warm-600 mt-3">
               <strong>Fazit:</strong> Bei gleichem Nettoeinkommen ist in Zug ein um ca. CHF 15–17/Std.
               tieferer Stundensatz ausreichend als in Genf oder Waadt — ein erheblicher Wettbewerbsvorteil.
             </p>
@@ -442,22 +442,22 @@ export default function StundensatzPage() {
 
           {/* ── Section 6: Säule 3a ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-2">
+            <h2 className="text-xl font-bold text-warm-900 mb-2">
               Säule 3a für Selbständige: Steuern sparen und Vorsorge aufbauen
             </h2>
-            <p className="text-sm text-gray-600 mb-4">
+            <p className="text-sm text-warm-600 mb-4">
               Selbständige können 2026 bis zu CHF 40'320 in die Säule 3a einzahlen (oder 20% des
               Reingewinns, je nachdem was tiefer ist). Dieser Betrag wird vollständig vom steuerbaren
               Einkommen abgezogen — ein erheblicher Steuervorteil.
             </p>
             <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse border border-gray-200 rounded-lg overflow-hidden">
+              <table className="w-full text-sm border-collapse border border-warm-200 rounded-lg overflow-hidden">
                 <thead>
-                  <tr className="bg-gray-50">
-                    <th className="text-left p-3 border border-gray-200 font-semibold text-gray-700">Reingewinn/Jahr</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Steuerersparnis ZH</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Steuerersparnis BE</th>
-                    <th className="text-right p-3 border border-gray-200 font-semibold text-gray-700">Steuerersparnis ZG</th>
+                  <tr className="bg-warm-50">
+                    <th className="text-left p-3 border border-warm-200 font-semibold text-warm-700">Reingewinn/Jahr</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Steuerersparnis ZH</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Steuerersparnis BE</th>
+                    <th className="text-right p-3 border border-warm-200 font-semibold text-warm-700">Steuerersparnis ZG</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -467,17 +467,17 @@ export default function StundensatzPage() {
                     ['CHF 160\'000', '~CHF 8\'200',  '~CHF 10\'500', '~CHF 4\'000'],
                     ['CHF 200\'000', '~CHF 9\'000',  '~CHF 11\'500', '~CHF 4\'800'],
                   ].map(([gewinn, zh, be, zg]) => (
-                    <tr key={gewinn} className="border-t border-gray-100">
-                      <td className="p-3 border border-gray-200 font-medium text-gray-800">{gewinn}</td>
-                      <td className="p-3 border border-gray-200 text-right text-green-600 font-semibold">{zh}</td>
-                      <td className="p-3 border border-gray-200 text-right text-green-600 font-semibold">{be}</td>
-                      <td className="p-3 border border-gray-200 text-right text-green-600 font-semibold">{zg}</td>
+                    <tr key={gewinn} className="border-t border-warm-100">
+                      <td className="p-3 border border-warm-200 font-medium text-warm-800">{gewinn}</td>
+                      <td className="p-3 border border-warm-200 text-right text-warm-700 font-semibold">{zh}</td>
+                      <td className="p-3 border border-warm-200 text-right text-warm-700 font-semibold">{be}</td>
+                      <td className="p-3 border border-warm-200 text-right text-warm-700 font-semibold">{zg}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-400 mt-2">
+            <p className="text-xs text-warm-400 mt-2">
               Richtwerte auf Basis interpolierter Steuertabellen (Hauptort, ledig, 2026). Säule 3a = CHF 40'320.
               Tatsächliche Steuerersparnis im Rechner berechnen.
             </p>
@@ -485,7 +485,7 @@ export default function StundensatzPage() {
 
           {/* ── Section 7: FAQ ── */}
           <div>
-            <h2 className="text-xl font-bold text-gray-900 mb-4">
+            <h2 className="text-xl font-bold text-warm-900 mb-4">
               Häufige Fragen zum Stundensatz Rechner Schweiz
             </h2>
             <div className="space-y-4">
@@ -519,12 +519,12 @@ export default function StundensatzPage() {
                   a: 'Empfehlung: jährlich 5–10% Erhöhung bei bestehenden Kunden (3 Monate Voranmeldung), neue Kunden gleich zum aktuellen Satz. Gründe: gestiegene Lebenskosten, Inflation, neue Qualifikationen, gewachsene Erfahrung. Wenn alle Kunden sofort zustimmen, bist du zu günstig — ein guter Satz führt bei 10–20% der Anfragen zu Preisverhandlungen.',
                 },
               ].map(({ q, a }, i) => (
-                <details key={i} className="group border border-gray-200 rounded-xl overflow-hidden">
-                  <summary className="flex items-center justify-between gap-3 p-4 cursor-pointer font-semibold text-gray-900 hover:bg-gray-50 transition-colors list-none">
+                <details key={i} className="group border border-warm-200 rounded-md overflow-hidden">
+                  <summary className="flex items-center justify-between gap-3 p-4 cursor-pointer font-semibold text-warm-900 hover:bg-warm-50 transition-colors list-none">
                     <span>{q}</span>
-                    <span className="shrink-0 text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                    <span className="shrink-0 text-warm-400 group-open:rotate-180 transition-transform">▼</span>
                   </summary>
-                  <div className="px-4 pb-4 pt-1 text-sm text-gray-600 border-t border-gray-100">
+                  <div className="px-4 pb-4 pt-1 text-sm text-warm-600 border-t border-warm-100">
                     {a}
                   </div>
                 </details>
@@ -539,60 +539,60 @@ export default function StundensatzPage() {
                 href: '/artikel/stundensatz-berechnen',
                 title: 'Ratgeber: Stundensatz berechnen',
                 desc: 'Formel, Branchenwerte, Tipps zur Preiskommunikation',
-                color: 'border-blue-200 hover:border-blue-400',
+                color: 'border-accent-light hover:border-accent',
               },
               {
                 href: '/artikel/offerte-erstellen-schweiz',
                 title: 'Offerte erstellen Schweiz',
                 desc: 'Professionelle Angebote mit Stundensatz und Projektpreis',
-                color: 'border-gray-200 hover:border-blue-300',
+                color: 'border-warm-200 hover:border-accent',
               },
               {
                 href: '/artikel/einzelfirma-gruenden',
                 title: 'Einzelfirma gründen',
                 desc: 'Alles zur Anmeldung und zum Start als Selbständiger',
-                color: 'border-gray-200 hover:border-blue-300',
+                color: 'border-warm-200 hover:border-accent',
               },
             ].map(({ href, title, desc, color }) => (
               <Link
                 key={href}
                 href={href}
-                className={`block border-2 ${color} rounded-xl p-4 transition-all hover:shadow-md`}
+                className={`block border-2 ${color} rounded-md p-4 transition-all hover:shadow-md`}
               >
-                <p className="font-semibold text-gray-900 mb-1">{title}</p>
-                <p className="text-xs text-gray-500">{desc}</p>
+                <p className="font-semibold text-warm-900 mb-1">{title}</p>
+                <p className="text-xs text-warm-500">{desc}</p>
               </Link>
             ))}
           </div>
 
           {/* ── Experten CTA ── */}
-          <div className="border-2 border-blue-200 bg-blue-50 rounded-2xl p-6 flex flex-col sm:flex-row items-start sm:items-center gap-4">
-            <div className="w-12 h-12 rounded-full bg-blue-600 flex items-center justify-center text-white text-xl shrink-0">
+          <div className="border-2 border-accent-light bg-accent-50 rounded-md p-6 flex flex-col sm:flex-row items-start sm:items-center gap-4">
+            <div className="w-12 h-12 rounded-full bg-accent flex items-center justify-center text-white text-xl shrink-0">
               🧾
             </div>
             <div className="flex-1">
-              <p className="font-bold text-gray-900 mb-1">Steuern optimieren? Treuhänder fragen.</p>
-              <p className="text-sm text-gray-600">
+              <p className="font-bold text-warm-900 mb-1">Steuern optimieren? Treuhänder fragen.</p>
+              <p className="text-sm text-warm-600">
                 Unsere kuratierten Treuhänder sind selbst selbständig — sie kennen AHV, Steuern und Säule 3a aus eigener Erfahrung.
               </p>
             </div>
             <Link
               href="/artikel/stundensatz-berechnen"
-              className="shrink-0 bg-blue-600 text-white px-5 py-2.5 rounded-xl font-semibold text-sm hover:bg-blue-700 transition-colors whitespace-nowrap"
+              className="shrink-0 bg-accent text-white px-5 py-2.5 rounded-md font-semibold text-sm hover:bg-accent-dark transition-colors whitespace-nowrap"
             >
               Mehr erfahren →
             </Link>
           </div>
 
           {/* ── CTA ── */}
-          <div className="bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl p-8 text-center shadow-lg">
+          <div className="bg-gradient-to-br from-ink to-ink-soft rounded-md p-8 text-center shadow-lg">
             <p className="text-2xl font-bold text-white mb-3">Selbständig in der Schweiz?</p>
             <p className="text-blue-100 mb-6">
               Alle Ratgeber zu Steuern, Vorsorge, Buchhaltung und Kunden gewinnen — für Einsteiger und Profis.
             </p>
             <Link
               href="/artikel"
-              className="inline-block bg-white text-blue-700 px-7 py-3 rounded-xl font-bold hover:bg-blue-50 transition-all shadow-md hover:shadow-lg"
+              className="inline-block bg-warm-white text-accent-dark px-7 py-3 rounded-md font-bold hover:bg-accent-50 transition-all shadow-md hover:shadow-lg"
             >
               Alle Artikel anzeigen →
             </Link>
