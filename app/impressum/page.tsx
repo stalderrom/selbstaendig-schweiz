@@ -23,30 +23,22 @@ export default function ImpressumPage() {
           <div className="prose prose-lg max-w-none">
             <h2>Angaben gemäss Art. 3 Abs. 1 E-Commerce-Gesetz</h2>
 
-            <h3>Betreiber dieser Website</h3>
+            <h3>Selbständig Schweiz</h3>
             <p>
               <strong>Selbständig Schweiz</strong><br />
-              [Ihre Firma oder Name]<br />
-              [Strasse und Hausnummer]<br />
-              [PLZ und Ort]<br />
+              [Rte de Mauvoisin 125]<br />
+              [1947 Versegères]<br />
               Schweiz
             </p>
 
             <h3>Kontakt</h3>
             <p>
               E-Mail: <a href="mailto:kontakt@selbstaendig-schweiz.ch">kontakt@selbstaendig-schweiz.ch</a><br />
-              Telefon: [Ihre Telefonnummer]
-            </p>
-
-            <h3>Handelsregister</h3>
-            <p>
-              Handelsregister-Nummer: [Falls zutreffend]<br />
-              UID-Nummer: CHE-[Ihre UID-Nummer]
             </p>
 
             <h3>Inhaltlich Verantwortlicher</h3>
             <p>
-              [Name des Verantwortlichen]<br />
+              Roman Stalder<br />
               Adresse wie oben
             </p>
 
