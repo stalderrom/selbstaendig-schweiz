@@ -23,11 +23,11 @@ export default function ImpressumPage() {
           <div className="prose prose-lg max-w-none">
             <h2>Angaben gemäss Art. 3 Abs. 1 E-Commerce-Gesetz</h2>
 
-            <h3>Selbständig Schweiz</h3>
+            <h3>Inhaber</h3>
             <p>
               <strong>Selbständig Schweiz</strong><br />
-              [Rte de Mauvoisin 125]<br />
-              [1947 Versegères]<br />
+              Rte de Mauvoisin 125<br />
+              1947 Versegères<br />
               Schweiz
             </p>
 
@@ -39,7 +39,6 @@ export default function ImpressumPage() {
             <h3>Inhaltlich Verantwortlicher</h3>
             <p>
               Roman Stalder<br />
-              Adresse wie oben
             </p>
 
             <h3>Haftungsausschluss</h3>
