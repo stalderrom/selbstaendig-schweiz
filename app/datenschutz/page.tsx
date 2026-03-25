@@ -33,9 +33,8 @@ export default function DatenschutzPage() {
               Verantwortlich für die Datenverarbeitung auf dieser Website ist:<br />
               <br />
               <strong>Selbständig Schweiz</strong><br />
-              [Ihre Firma oder Name]<br />
-              [Strasse und Hausnummer]<br />
-              [PLZ und Ort]<br />
+              Rte de Mauvoisin 125<br />
+              1947 Versegères<br />
               Schweiz<br />
               <br />
               E-Mail: <a href="mailto:kontakt@selbstaendig-schweiz.ch">kontakt@selbstaendig-schweiz.ch</a>
