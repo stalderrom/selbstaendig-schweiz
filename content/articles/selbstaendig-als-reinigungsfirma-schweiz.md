@@ -3,7 +3,7 @@ title: "Selbständig mit Reinigungsfirma Schweiz 2026: Gründung, Kosten & Kunde
 metaTitle: 'Reinigungsfirma Schweiz: Selbständig 2026'
 description: "Reinigungsfirma gründen in der Schweiz: Welche Bewilligungen brauchst du, wie findest du Kunden, welche Kosten entstehen und wie viel kannst du verdienen?"
 keywords: ["reinigungsfirma gründen schweiz", "selbständig reinigung schweiz", "putzdienst selbständig schweiz", "reinigungsunternehmen schweiz", "gebäudereinigung selbständig"]
-category: "selbststaendigkeit-nach-beruf"
+category: berufsratgeber
 author: "Redaktion"
 publishedAt: "2026-02-17"
 slug: "selbstaendig-als-reinigungsfirma-schweiz"

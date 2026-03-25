@@ -8,7 +8,7 @@ keywords:
   - firma gründen schweiz
   - selbständig werden
   - freiberufler schweiz
-category: selbständig-machen-/-gründung
+category: selbstaendig-machen-gruendung
 author: Redaktion
 publishedAt: '2025-12-06'
 slug: selbstaendig-machen-schweiz

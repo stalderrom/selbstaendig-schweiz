@@ -3,7 +3,7 @@ title: "Erfolgsrechnung erstellen: Guide Schweiz 2026"
 metaTitle: 'Erfolgsrechnung erstellen Schweiz 2026'
 description: "So erstellen Sie eine Erfolgsrechnung für Ihr Unternehmen: Aufbau, Beispiele und Tipps für die Schweiz. Jetzt Guide lesen!"
 keywords: ["erfolgsrechnung", "erfolgsrechnung erstellen", "erfolgsrechnung schweiz", "erfolgsrechnung beispiel", "gewinn und verlustrechnung"]
-category: "buchhaltung-&-finanzen"
+category: buchhaltung-und-finanzen
 author: "Redaktion"
 publishedAt: "2025-12-07"
 slug: "erfolgsrechnung-erstellen-schweiz"

@@ -9,7 +9,7 @@ keywords:
   - gesellschaft mit beschränkter haftung
   - gmbh kosten
   - stammkapital
-category: selbststaendig-machen-gruendung
+category: selbstaendig-machen-gruendung
 author: Redaktion
 publishedAt: '2025-12-06'
 updatedAt: '2026-03-03'

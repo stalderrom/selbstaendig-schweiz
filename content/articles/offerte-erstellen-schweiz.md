@@ -3,7 +3,7 @@ title: "Offerte erstellen Schweiz: Rechtssicher Guide 2026"
 metaTitle: 'Offerte erstellen Schweiz: Guide 2026'
 description: "Professionelle Offerten erstellen: Rechtliche Anforderungen, MWST-Ausweisung und Vorlagen für die Schweiz. Jetzt Guide lesen!"
 keywords: ["offerte erstellen", "offerte erstellen schweiz", "offerten vorlage schweiz", "offerte rechtlich schweiz", "angebot erstellen schweiz"]
-category: "buchhaltung-&-finanzen"
+category: buchhaltung-und-finanzen
 author: "Redaktion"
 publishedAt: "2025-12-07"
 slug: "offerte-erstellen-schweiz"

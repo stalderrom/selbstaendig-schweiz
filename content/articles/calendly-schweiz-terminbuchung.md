@@ -3,7 +3,7 @@ title: "Calendly Schweiz: Online Terminbuchung Guide"
 metaTitle: 'Calendly Schweiz: Online Terminbuchung Guide'
 description: "Calendly für Schweizer Unternehmen: Funktionen, Preise, Alternativen und Integration. Optimiere deine Terminplanung. Jetzt Guide lesen!"
 keywords: ["calendly", "calendly alternative schweiz", "online terminbuchung tool", "calendly preise schweiz", "terminplanung software"]
-category: "tools-&-software"
+category: tools-und-software
 author: "Redaktion"
 publishedAt: "2025-12-07"
 slug: "calendly-schweiz-terminbuchung"

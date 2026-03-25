@@ -3,7 +3,7 @@ title: "Freizügigkeitskonto: Leitfaden Schweiz 2026"
 metaTitle: 'Freizügigkeitskonto Schweiz: Leitfaden 2026'
 description: "Freizügigkeitskonto bei Jobwechsel oder Auswanderung: Voraussetzungen, Steuern, Auszahlung und Tipps für die Schweiz. Jetzt Guide lesen!"
 keywords: ["freizügigkeitskonto", "freizügigkeitskonto schweiz", "freizügigkeitsleistung auszahlung", "pensionskasse freizügigkeitskonto", "freizügigkeitskonto steuern"]
-category: "buchhaltung-&-finanzen"
+category: buchhaltung-und-finanzen
 author: "Redaktion"
 publishedAt: "2025-12-07"
 slug: "freizuegigkeitskonto-schweiz"

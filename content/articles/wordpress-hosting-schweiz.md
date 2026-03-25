@@ -3,7 +3,7 @@ title: "WordPress Hosting Schweiz: Top Anbieter & Guide 2026"
 metaTitle: 'WordPress Hosting Schweiz: Top Anbieter 2026'
 description: "WordPress Hosting Schweiz: Beste Anbieter, Kosten ab CHF 7/Mt, Server-Standorte & Compliance. Vergleich + Setup-Guide. Jetzt lesen!"
 keywords: ["wordpress hosting schweiz", "wordpress hosting anbieter schweiz", "managed wordpress hosting schweiz", "wordpress hosting kosten schweiz", "schweizer wordpress hosting"]
-category: "tools-&-software"
+category: tools-und-software
 author: "Redaktion"
 publishedAt: "2025-12-08"
 slug: "wordpress-hosting-schweiz"

@@ -3,7 +3,7 @@ title: "Selbständig als Architekt Schweiz 2026: Zulassung, Einkommen & Kanzlei"
 metaTitle: 'Selbständig als Architekt Schweiz: Guide 2026'
 description: "Selbständig als Architekt in der Schweiz: Berufszulassung, Kammer-Mitgliedschaft, Stundensatz, Rechtsform und wie du dein Architekturbüro erfolgreich aufbaust."
 keywords: ["selbständig als architekt schweiz", "architekt selbständig machen schweiz", "architekturbüro gründen schweiz", "sia mitgliedschaft selbständig", "architekt stundensatz schweiz"]
-category: "selbststaendigkeit-nach-beruf"
+category: berufsratgeber
 author: "Redaktion"
 publishedAt: "2026-02-17"
 slug: "selbstaendig-als-architekt-schweiz"

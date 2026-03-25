@@ -26,6 +26,8 @@ faq:
 
 Der **Stundensatz** ist eine der wichtigsten Entscheidungen als Selbständiger. Zu tief und du arbeitest zum Nulltarif. Zu hoch und du verlierst Aufträge. Dieser Guide zeigt dir, wie du deinen Stundensatz korrekt berechnest, was in der Schweiz üblich ist und wie du ihn erfolgreich kommunizierst.
 
+> **Direkt berechnen:** [Stundensatz Rechner Schweiz →](/rechner/stundensatz) — inkl. AHV, Steuern, alle 26 Kantone, Branchenvergleich.
+
 ## Warum viele Selbständige zu wenig verlangen
 
 Der häufigste Fehler: Selbständige rechnen ihren bisherigen Angestelltenlohn auf einen Stundensatz um – und vergessen dabei die versteckten Kosten.

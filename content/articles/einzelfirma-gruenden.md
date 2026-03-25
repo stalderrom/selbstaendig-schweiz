@@ -9,11 +9,31 @@ keywords:
   - einzelunternehmen gründen
   - firma gründen
   - selbständig machen
-category: selbststaendig-machen-gruendung
+category: selbstaendig-machen-gruendung
 author: Redaktion
 publishedAt: '2025-12-06'
-updatedAt: '2026-03-03'
+updatedAt: '2026-03-19'
 slug: einzelfirma-gruenden
+howto:
+  name: 'Einzelfirma gründen in der Schweiz'
+  description: 'Schritt-für-Schritt-Anleitung zur Gründung einer Einzelfirma (Einzelunternehmen) in der Schweiz – von der Vorbereitung bis zur ersten Rechnung.'
+  totalTime: 'P3D'
+  steps:
+    - name: 'Vorbereitung: Firmenname, Kapital und Geschäftskonto'
+      text: 'Firmenname wählen und auf Zefix.ch prüfen (muss Ihren Nachnamen enthalten). Startkapital sichern (min. 6 Monate Lebenshaltungskosten). Geschäftskonto eröffnen – z.B. Neon Business kostenlos oder Postfinance.'
+      url: 'https://selbstaendig-schweiz.ch/artikel/einzelfirma-gruenden#schritt-1-vorbereitung-1-2-wochen'
+    - name: 'Handelsregister-Anmeldung (ab CHF 100k Umsatz Pflicht, sonst freiwillig)'
+      text: 'Formular beim kantonalen Handelsregisteramt ausfüllen, Kopie ID/Pass und Aufenthaltsbewilligung beilegen, Unterschrift beim Notar beglaubigen lassen (CHF 50–100). Gebühr bezahlen (CHF 180–400 je nach Kanton). Eintrag erfolgt innert 3–5 Arbeitstagen.'
+      url: 'https://selbstaendig-schweiz.ch/artikel/einzelfirma-gruenden#schritt-2-anmeldung-beim-handelsregister'
+    - name: 'AHV-Anmeldung bei der Ausgleichskasse (innert 14 Tagen Pflicht!)'
+      text: 'Kantonale Ausgleichskasse wählen (z.B. SVA Zürich). Formular "Anmeldung selbständige Erwerbstätigkeit" ausfüllen (ahv.ch). Tätigkeitsbeschreibung beilegen. Einreichen. Beitrag: 10.1% vom Nettoeinkommen.'
+      url: 'https://selbstaendig-schweiz.ch/artikel/einzelfirma-gruenden#schritt-3-anmeldung-bei-sozialversicherungen-innerhalb-14-tage-nach-start'
+    - name: 'MWST-Anmeldung (nur bei Umsatz über CHF 100k)'
+      text: 'Online auf estv.admin.ch anmelden. MWST-Nummer erhalten (CHE-xxx.xxx.xxx MWST). Ab dann quartalsweise abrechnen. Unter CHF 100k Umsatz: keine Pflicht, meist auch nicht lohnenswert.'
+      url: 'https://selbstaendig-schweiz.ch/artikel/einzelfirma-gruenden#schritt-4-mwst-anmeldung-bei-umsatz--chf-100000'
+    - name: 'Buchhaltung, Versicherungen und erste Rechnung'
+      text: 'Buchhaltungssoftware einrichten (z.B. Bexio, Banana). Krankentaggeld und Unfallversicherung abschliessen. Berufshaftpflicht prüfen. 30–40% des Gewinns für Steuern zurücklegen. Erste Rechnung schreiben.'
+      url: 'https://selbstaendig-schweiz.ch/artikel/einzelfirma-gruenden#schritt-5-weitere-anmeldungen--setup'
 faq:
   - question: 'Wie viel kostet es, eine Einzelfirma zu gründen?'
     answer: >-
@@ -70,6 +90,53 @@ faq:
       abziehen). Vorteil: Vorsteuer zurück (auf Laptop, Büro, etc.). Nachteil:
       Admin-Aufwand, höhere Preise für B2C. Unter CHF 100k: Meist nicht
       lohnenswert (ausser hohe Investitionen).
+  - question: Kann ein Ausländer in der Schweiz eine Einzelfirma gründen?
+    answer: >-
+      Ja – mit den richtigen Bewilligungen. EU/EFTA-Bürger mit Aufenthaltsbewilligung
+      B (mit Erwerbstätigkeit) oder C können sofort gründen. Drittstaaten-Angehörige
+      benötigen die Niederlassungsbewilligung C. Grenzgänger (G-Ausweis) können
+      keine Einzelfirma mit Sitz in der Schweiz gründen. Benötigte Dokumente:
+      Pass/ID, Aufenthaltsbewilligung, ggf. Arbeitsbewilligung. Anlaufstelle:
+      Kantonales Handelsregisteramt (nicht das SECO). Dauer: identisch zu
+      Schweizern, 1–7 Tage.
+  - question: Wie melde ich mich nach der Gründung bei der AHV an?
+    answer: >-
+      Schritt 1: Ausgleichskasse wählen – entweder die kantonale Kasse Ihres
+      Wohnsitzkantons oder eine Verbandsausgleichskasse (z.B. SKV, SAV). Schritt 2:
+      Formular "Anmeldung als Selbständigerwerbende/r" ausfüllen (erhältlich auf
+      ahv.ch oder direkt bei der Kasse). Schritt 3: Tätigkeitsbeschreibung /
+      Businessplan beilegen. Schritt 4: Einreichen – persönlich, per Post oder
+      online. Frist: innert 14 Tagen nach Aufnahme der Tätigkeit (Quelle: AHV-Gesetz
+      Art. 11 AHVG). Kosten: 10.1% vom Nettoeinkommen (mind. CHF 503/Jahr, 2026).
+  - question: Welche Schweizer Banken akzeptieren eine Einzelfirma ohne Mindesteinlage?
+    answer: >-
+      Banken ohne CHF 5'000 Mindesteinlage für Einzelfirmen (Stand 2026): Neon
+      Business (CHF 0, komplett kostenlos), Revolut Business (CHF 0 Eröffnung,
+      ab CHF 0/Monat), Wise Business (CHF 0, günstige Fremdwährungen). Klassische
+      Banken verlangen oft CHF 500–5'000 Mindestguthaben: Raiffeisen, Postfinance,
+      UBS, ZKB. Empfehlung für Freelancer unter CHF 100k: Neon Business oder
+      Revolut Business – kostenlos, IBAN.ch, schnelle Eröffnung online.
+  - question: Ab wann muss sich eine Einzelfirma ins Handelsregister eintragen?
+    answer: >-
+      Eintragungspflicht: ab CHF 100'000 Jahresumsatz (OR Art. 934 Abs. 2).
+      Freiwillig möglich ab dem ersten Tag. Was sich rechtlich ändert ab CHF 100k:
+      (1) Eintragungspflicht innert 3 Monaten nach Überschreiten. (2) Firmenname
+      wird bundesweit geschützt. (3) Handelsregisterauszug muss auf Rechnungen /
+      Verträgen erscheinen. (4) Buchführungspflicht nach OR Art. 957 (einfache
+      Buchhaltung bis CHF 500k Umsatz). (5) Öffentliche Transparenz: Firmenname,
+      Inhaber, Sitz sind einsehbar (zefix.ch). Sanktion bei Nichtanmeldung:
+      Busse und zivilrechtliche Nachteile.
+  - question: Lohnt sich die Einzelfirma gegenüber der GmbH für Freelancer unter CHF 100k?
+    answer: >-
+      Ja, fast immer. Vergleich bei CHF 80'000 Jahresumsatz: Einzelfirma –
+      Gründungskosten CHF 0–600, keine Gewinnsteuer (nur Einkommenssteuer ~12%
+      effektiv), AHV 10.1% = CHF 8'080, gesamte Steuer+AHV-Last ca. CHF 18'000–22'000.
+      GmbH – Gründungskosten CHF 2'000–5'000, Gewinnsteuer ca. 12–15% auf
+      Unternehmensgewinn, Lohn → Einkommenssteuer, AHV 5.3% AN + 5.3% AG,
+      gesamte Last ähnlich aber mit mehr Admin. Fazit: Unter CHF 100k Gewinn
+      ist die Einzelfirma bei vergleichbarer Steuerlast deutlich günstiger in
+      der Gründung und Administration. Erst ab ca. CHF 150k Reingewinn lohnt
+      sich die GmbH steuerlich.
 ---
 
 # Einzelfirma gründen in der Schweiz: Schritt-für-Schritt-Anleitung 2026
@@ -205,6 +272,166 @@ Sie können einen Fantasienamen als Zusatz verwenden:
 
 → [Firmennamen finden: Tipps & Generator](/artikel/firmennamen-finden)
 
+## Einzelfirma gründen als Ausländer in der Schweiz
+
+Rund 30% aller Selbständigerwerbenden in der Schweiz sind ausländischer Herkunft (Quelle: BFS STATENT 2023). Hier die spezifischen Anforderungen je nach Status:
+
+### Welche Bewilligung brauche ich?
+
+| Aufenthaltsstatus | Einzelfirma möglich? | Bedingung |
+|---|---|---|
+| **Schweizer Bürger** | ✅ Ja | Keine Einschränkung |
+| **EU/EFTA – Ausweis B** | ✅ Ja | Erwerbstätigkeit im Ausweis |
+| **EU/EFTA – Ausweis C** | ✅ Ja | Keine Einschränkung |
+| **Drittstaaten – Ausweis C** | ✅ Ja | Keine Einschränkung |
+| **Drittstaaten – Ausweis B** | ⚠️ Eingeschränkt | Kantonale Bewilligung nötig |
+| **Grenzgänger – Ausweis G** | ❌ Nein | Kein Sitz in CH möglich |
+| **Asylbewerber – Ausweis N** | ❌ Nein | Keine Erwerbstätigkeit |
+
+### Benötigte Dokumente (Ausländer)
+
+1. **Pass oder Personalausweis** (Kopie)
+2. **Gültiger Aufenthaltstitel** (Kopie Ausweis B oder C)
+3. **Anmeldeformular Handelsregister** (vom kantonalen Amt)
+4. **Unterschriftserklärung** (beglaubigt, CHF 50–100 beim Notar)
+5. **Bei bewilligungspflichtigen Berufen:** Bewilligungskopie
+
+### Welches Kantonsamt ist zuständig?
+
+Das Handelsregisteramt des **Kantons Ihres Geschäftssitzes** – nicht Ihres Wohnkantons.
+
+Direktlinks zu den wichtigsten kantonalen Handelsregisterämtern:
+- **Zürich:** zefix.ch → Kanton ZH
+- **Bern:** zefix.ch → Kanton BE
+- **Basel-Stadt:** zefix.ch → Kanton BS
+- **Genf:** zefix.ch → Kanton GE
+- **Alle Kantone:** zefix.ch (zentrale Suche)
+
+### Zeitleiste für Ausländer
+
+| Tag | Was tun |
+|-----|---------|
+| Tag 1 | Aufenthaltsbewilligung prüfen (Kategorie B mit Erwerbstätigkeit oder C?) |
+| Tag 1–2 | Dokumente zusammenstellen, Notar für Unterschriftsbeglaubigung aufsuchen |
+| Tag 2–3 | Formular beim Handelsregisteramt einreichen (wenn HR-Eintrag gewünscht) |
+| Tag 3–5 | AHV-Anmeldung bei kantonaler Ausgleichskasse (innert 14 Tagen!) |
+| Tag 3–7 | HR-Eintrag erscheint (3–5 Arbeitstage nach Einreichung) |
+
+**Kein HR-Eintrag nötig?** → Sie können auch ohne Handelsregister starten (unter CHF 100k Umsatz): AHV anmelden, Geschäftskonto eröffnen, loslegen.
+
+*Quelle: SECO, Staatssekretariat für Wirtschaft – Informationen zur selbständigen Erwerbstätigkeit für ausländische Staatsangehörige*
+
+---
+
+## Geschäftskonto für Einzelfirma: Welche Banken ohne Mindesteinlage?
+
+Ein Geschäftskonto zu eröffnen ist eine der ersten praktischen Hürden. Viele Banken verlangen CHF 1'000–5'000 Mindestguthaben. Das sind die Optionen **ohne** Mindesteinlage:
+
+### Kostenlose / günstige Optionen für Einzelfirmen
+
+| Anbieter | Konto-Kosten | Mindesteinlage | Schweizer IBAN | Besonderheit |
+|----------|-------------|----------------|----------------|-------------|
+| **Neon Business** | CHF 0/Monat | CHF 0 | ✅ (CH…) | Voll kostenlos, App-Only |
+| **Revolut Business** | Ab CHF 0/Monat | CHF 0 | ✅ | Fremdwährungen günstig |
+| **Wise Business** | CHF 0 Eröffnung | CHF 0 | ✅ | Multi-Währungskonto |
+| **Postfinance** | CHF 5/Monat | CHF 0 | ✅ | Sehr verbreitet in CH |
+| **Raiffeisen** | CHF 15–20/Monat | Keine Pflicht | ✅ | Guter Support |
+
+### Welche Banken verlangen CHF 5'000+ Mindestguthaben?
+
+- UBS, ZKB, Migros Bank: typischerweise CHF 1'000–5'000 Mindestguthaben oder monatliche Gebühren bei Unterschreitung
+
+### Empfehlung je nach Situation
+
+**Freelancer, Dienstleister (unter CHF 100k):** Neon Business → kostenlos, einfach, sofort.
+
+**Handelsunternehmen, Import/Export:** Wise Business → Fremdwährungen ohne Aufschlag.
+
+**Traditionelles Handwerk, viel Barzahlungen:** Postfinance oder Raiffeisen → physische Filialen, Einzahlungen möglich.
+
+**Wachstumsorientiert, Kreditkarte nötig:** Revolut Business → viele Features, skalierbar.
+
+→ [Geschäftskonto-Vergleich Schweiz: Alle Anbieter](/artikel/geschaeftskonto-vergleich)
+
+---
+
+## Handelsregister: Wann Sie sich eintragen müssen – und was sich ändert
+
+### Die CHF 100'000-Regel erklärt
+
+Das Obligationenrecht (OR Art. 934 Abs. 2) schreibt vor: **Einzelfirmen mit einem Jahresumsatz von CHF 100'000 oder mehr müssen sich ins Handelsregister eintragen.**
+
+**Wichtig:** Die Grenze gilt für den Umsatz (nicht den Gewinn). Auch MWST-freie Umsätze zählen.
+
+### Was sich beim Überschreiten der CHF 100k-Grenze rechtlich ändert
+
+| Aspekt | Vor CHF 100k (ohne HR) | Ab CHF 100k (mit HR-Pflicht) |
+|--------|------------------------|-------------------------------|
+| **Eintragungspflicht** | Nein | Ja (innert 3 Monaten) |
+| **Firmennamenschutz** | Kein Bundesschutz | Schweizweit geschützt |
+| **Rechnungsinhalt** | Frei | HR-Nummer muss erscheinen |
+| **Buchführung** | Empfohlen | Pflicht (OR Art. 957) |
+| **Öffentlichkeit** | Nicht einsehbar | Zefix.ch: öffentlich |
+| **Unterschriftsbeglaubigung** | Nein | Ja (einmalig beim Notar) |
+| **Firmennamenregel** | Nachname Pflicht | Nachname Pflicht (wie bisher) |
+
+### Handelsregister-Kosten im Kantonsvergleich
+
+| Kanton | Erstanmeldung | Änderungen (Mutation) |
+|--------|--------------|----------------------|
+| **Zürich (ZH)** | CHF 200 | CHF 80–150 |
+| **Bern (BE)** | CHF 300 | CHF 100–180 |
+| **Basel-Stadt (BS)** | CHF 250 | CHF 80–150 |
+| **Aargau (AG)** | CHF 180 | CHF 70–120 |
+| **St. Gallen (SG)** | CHF 200 | CHF 80–150 |
+| **Luzern (LU)** | CHF 220 | CHF 90–150 |
+| **Genf (GE)** | CHF 400 | CHF 150–250 |
+| **Tessin (TI)** | CHF 350 | CHF 120–200 |
+
+*Quelle: Kantonale Handelsregisterämter, Stand 2026. Gebühren können sich ändern – vor Einreichung aktuellen Tarif prüfen.*
+
+### Freiwilliger HR-Eintrag: Wann sinnvoll?
+
+**Ja lohnt sich, wenn:**
+- Sie seriöse B2B-Kunden überzeugen möchten
+- Sie ein Geschäftskonto bei einer klassischen Bank eröffnen wollen
+- Sie Ihren Firmennamen schützen möchten
+- Sie eine Website-Domain auf die Firma registrieren wollen
+
+**Warten auf CHF 100k, wenn:**
+- Sie das Geschäftsmodell noch testen
+- Nur B2C-Kunden (Privatkunden), kein Namenssschutz nötig
+- Sie die CHF 200–600 Kosten sparen möchten
+
+---
+
+## Steuervergleich: Einzelfirma vs. GmbH für Freelancer unter CHF 100k
+
+Einer der häufigsten Irrtümer: "Die GmbH spart Steuern." Für Freelancer mit unter CHF 100k Umsatz ist das selten wahr.
+
+### Konkreter Vergleich bei CHF 80'000 Jahresumsatz (Kanton Zürich, Stadt Zürich)
+
+| | **Einzelfirma** | **GmbH (Lohn CHF 60k)** |
+|---|---|---|
+| **Umsatz** | CHF 80'000 | CHF 80'000 |
+| **Betriebsausgaben** | CHF 15'000 | CHF 15'000 |
+| **Gewinn vor Soziales** | CHF 65'000 | CHF 65'000 |
+| **AHV/IV/EO** | CHF 6'565 (10.1% auf 65k) | CHF 6'360 (AN+AG auf 60k) |
+| **Gewinnsteuer GmbH** | – | ~CHF 750 (auf rest. Gewinn 5k) |
+| **Einkommenssteuer** | ~CHF 9'000 | ~CHF 7'500 (auf 60k Lohn) |
+| **Gesamtlast Steuern+AHV** | ~CHF 15'565 | ~CHF 14'610 |
+| **Gründungskosten** | CHF 0–600 | CHF 2'000–5'000 |
+| **Admin/Jahres-Mehraufwand** | Minimal | CHF 1'500–3'000 (Treuhänder) |
+| **Effektiver Netto-Vorteil GmbH** | – | **Nachteil: CHF 3'000–7'000/Jahr mehr Kosten** |
+
+**Fazit:** Erst ab ca. CHF 150'000 Reingewinn lohnt sich die GmbH steuerlich. Für Freelancer unter CHF 100k ist die Einzelfirma fast immer günstiger.
+
+*Hinweis: Steuerberechnung ist eine Schätzung. Individuelle Situation mit Treuhänder besprechen. Kantonale Unterschiede sind erheblich.*
+
+→ [Einzelfirma vs. GmbH: Detaillierter Steuervergleich](/artikel/einzelfirma-vs-gmbh-steuern)
+
+---
+
 ## Schritt-für-Schritt: Einzelfirma gründen Schweiz
 
 ### Schritt 1: Vorbereitung (1-2 Wochen)
@@ -328,6 +555,45 @@ Als Selbständiger sind Sie NICHT obligatorisch unfallversichert.
 - Kosten: CHF 1'200-2'400/Jahr (je nach Einkommen)
 
 → [Krankentaggeld: Vergleich & Anbieter](/artikel/versicherungen-selbststaendige)
+
+### Schritt 3b: AHV-Anmeldung – der häufig vergessene Schritt
+
+**Warum dieser Schritt so oft verpasst wird:**
+Viele Gründer fokussieren sich auf Handelsregister und Website – und melden sich zu spät bei der AHV an. Laut AHVG Art. 11 gilt: **innert 14 Tagen nach Aufnahme der Tätigkeit.**
+
+**Schritt-für-Schritt AHV-Anmeldung:**
+
+1. **Ausgleichskasse wählen**
+   - Kantonale Ausgleichskasse (Wohnsitzkanton, z.B. SVA Zürich, SVA Bern)
+   - Oder Verbandsausgleichskasse (Branchenverband, z.B. SKV für KMU)
+   - Tipp: Verbandsausgleichskassen haben oft günstigere Verwaltungskosten
+
+2. **Formular herunterladen**
+   - "Anmeldung selbständige Erwerbstätigkeit" (ahv.ch → Formulare)
+   - Oder direkt bei Ihrer kantonalen Ausgleichskasse
+
+3. **Dokumente zusammenstellen**
+   - Ausgefülltes Anmeldeformular
+   - Kopie Pass/ID + Aufenthaltsbewilligung (Ausländer)
+   - Kurze Tätigkeitsbeschreibung (1 Seite reicht)
+   - Optional: Erster Auftrag / Rechnung als Nachweis
+
+4. **Einreichen und bestätigen lassen**
+   - Per Post, persönlich oder online (je nach Kasse)
+   - Sie erhalten eine Bestätigung + provisorische Beiträge
+
+5. **Quartalsweise Akonto bezahlen**
+   - Provisorischer Beitrag basierend auf geschätztem Einkommen
+   - Definitiv-Abrechnung nach Steuererklärung (2–3 Jahre rückwirkend)
+
+**Was passiert bei zu später Anmeldung?**
+- Nachforderung der AHV-Beiträge rückwirkend
+- Verwaltungskosten-Zuschlag möglich
+- Lücken in der Altersvorsorge!
+
+*Quelle: Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG), Art. 11*
+
+→ [AHV für Selbständige: Kompletter Guide](/artikel/ahv-selbststaendige)
 
 ### Schritt 4: MWST-Anmeldung (bei Umsatz > CHF 100'000)
 
@@ -778,6 +1044,21 @@ Steuern (grob):
 
 ### Muss ich als Einzelfirma MWST abrechnen?
 **Pflicht ab:** CHF 100'000 Jahresumsatz (weltweit). **Freiwillig ab:** CHF 10'000 (macht Sinn bei hohen Geschäftsausgaben mit MWST). **Ablauf:** Anmeldung ESTV → MWST-Nummer → Quartalsweise Abrechnung (7.7% kassieren, Vorsteuer abziehen). **Vorteil:** Vorsteuer zurück (auf Laptop, Büro, etc.). **Nachteil:** Admin-Aufwand, höhere Preise für B2C. Unter CHF 100k: Meist nicht lohnenswert (ausser hohe Investitionen). → [MWST-Guide](/artikel/steuern-selbststaendige)
+
+### Kann ein Ausländer in der Schweiz eine Einzelfirma gründen?
+**Ja** – mit den richtigen Bewilligungen. EU/EFTA-Bürger mit Aufenthaltsbewilligung B (mit Erwerbstätigkeit) oder C können sofort gründen. Drittstaaten-Angehörige benötigen die Niederlassungsbewilligung C. Grenzgänger (G-Ausweis) können keine Einzelfirma mit Sitz in der Schweiz führen. Benötigte Dokumente: Pass/ID + Aufenthaltsbewilligung + Anmeldeformular (kantonales Handelsregisteramt). Dauer: identisch zu Schweizern, 1–7 Tage.
+
+### Wie melde ich mich nach der Einzelfirma-Gründung bei der AHV an?
+1. Ausgleichskasse wählen (kantonal oder Verband). 2. Formular "Anmeldung selbständige Erwerbstätigkeit" ausfüllen (ahv.ch oder direkt bei Kasse). 3. Tätigkeitsbeschreibung beilegen. 4. Einreichen – per Post, persönlich oder online. **Frist: innert 14 Tagen** nach Aufnahme der Tätigkeit (AHVG Art. 11). Beitrag: 10.1% vom Nettoeinkommen (mind. CHF 503/Jahr, 2026). Bei zu später Anmeldung: Nachzahlung + Lücken in der Altersvorsorge.
+
+### Welche Schweizer Banken akzeptieren eine Einzelfirma ohne Mindesteinlage?
+Ohne Mindesteinlage: **Neon Business** (CHF 0/Monat, kostenlos), **Revolut Business** (ab CHF 0), **Wise Business** (CHF 0). Postfinance: CHF 5/Monat, keine Mindesteinlage. Klassische Banken (UBS, ZKB, Raiffeisen) verlangen oft CHF 500–5'000 Mindestguthaben oder erheben Gebühren. Empfehlung für Freelancer unter CHF 100k Umsatz: Neon Business – komplett kostenlos, Schweizer IBAN, sofort online eröffnen.
+
+### Ab wann muss eine Einzelfirma ins Handelsregister?
+**Pflicht ab CHF 100'000 Jahresumsatz** (OR Art. 934 Abs. 2). Was sich ändert: Firmenname wird schweizweit geschützt, HR-Nummer muss auf Rechnungen erscheinen, Buchführungspflicht nach OR Art. 957, öffentliche Einsehbarkeit (zefix.ch). Kosten: CHF 180–400 je nach Kanton (ZH: 200, BE: 300, GE: 400). Freiwilliger Eintrag ist immer möglich – sinnvoll für seriösen Auftritt und Namensschutz.
+
+### Lohnt sich die GmbH für Freelancer unter CHF 100k Umsatz?
+**Fast nie.** Vergleich bei CHF 80'000 Umsatz in Zürich: Einzelfirma – Gesamtlast Steuern+AHV ~CHF 15'500, Gründungskosten CHF 0–600. GmbH – Gesamtlast ähnlich (~CHF 14'600), aber Gründungskosten CHF 2'000–5'000 + CHF 1'500–3'000/Jahr mehr Admin. Effektiver Nachteil GmbH: CHF 3'000–7'000/Jahr mehr Gesamtkosten. Erst ab ca. CHF 150'000 Reingewinn wird die GmbH steuerlich interessant.
 
 ## Fazit
 

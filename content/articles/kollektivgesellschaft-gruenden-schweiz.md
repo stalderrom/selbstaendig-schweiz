@@ -3,7 +3,7 @@ title: "Kollektivgesellschaft gründen Schweiz: Guide & Tipps"
 metaTitle: 'Kollektivgesellschaft gründen Schweiz'
 description: "Kollektivgesellschaft gründen: Voraussetzungen, Kosten, Haftung und Alternativen in der Schweiz. Kompletter Guide für Gründer. Jetzt lesen!"
 keywords: ["kollektivgesellschaft", "kollektivgesellschaft schweiz", "kollektivgesellschaft kosten", "kollektivgesellschaft haftung", "personengesellschaft gründen"]
-category: "selbstaendig-machen-/-gruendung"
+category: selbstaendig-machen-gruendung
 author: "Redaktion"
 publishedAt: "2025-12-07"
 slug: "kollektivgesellschaft-gruenden-schweiz"

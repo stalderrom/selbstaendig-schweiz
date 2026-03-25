@@ -175,14 +175,15 @@ Für die Gründung einer einfachen Gesellschaft müssen nur wenige Voraussetzung
 * Gemeinsamer Zweck (gewerblich oder ideell)
 * Beiträge aller Beteiligten (Arbeit, Geld oder Sachleistungen)
 
-Es gibt keine Mindestkapitalanforderungen. Auch eine Eintragung ins Handelsregister ist grundsätzlich nicht erforderlich. Ein Eintrag ins Handelsregister ist bei der einfachen Gesellschaft gar nicht möglich. Selbst wenn du möchtest, kannst du deine Gesellschaft dort nicht anmelden. Ausnahme: Betreibt die Gesellschaft ein Gewerbe nach kaufmännischer Art mit über CHF 100'000.– Jahresumsatz, kann eine Eintragungspflicht entstehen.
+Es gibt keine Mindestkapitalanforderungen. Auch eine [Eintragung ins Handelsregister](/artikel/handelsregister-eintrag-schweiz) ist grundsätzlich nicht erforderlich. Ein Eintrag ins Handelsregister ist bei der einfachen Gesellschaft gar nicht möglich. Selbst wenn du möchtest, kannst du deine Gesellschaft dort nicht anmelden. Ausnahme: Betreibt die Gesellschaft ein Gewerbe nach kaufmännischer Art mit über CHF 100'000.– Jahresumsatz, kann eine Eintragungspflicht entstehen.
 
 **Versicherungspflichten:**
-Jeder Gesellschafter muss sich separat bei der AHV als Selbständiger anmelden. Dies gilt auch für sehr kleine Einkommen. Die Anmeldung muss spätestens drei Monate nach Aufnahme der Tätigkeit erfolgen.
+Jeder Gesellschafter muss sich separat [bei der AHV als Selbständiger anmelden](/artikel/sozialversicherungen-selbststaendige-schweiz). Dies gilt auch für sehr kleine Einkommen. Die Anmeldung muss spätestens drei Monate nach Aufnahme der Tätigkeit erfolgen.
 
 Eine Berufshaftpflichtversicherung ist rechtlich nicht vorgeschrieben, aber dringend empfohlen. Da alle Gesellschafter unbeschränkt haften, kann ein Schadenfall schnell die private Existenz gefährden.
 
-**MWST-Pflicht:\&#xA;**&#x41;b einem Gesamtumsatz von CHF 100'000.– pro Jahr wird die einfache Gesellschaft MWST-pflichtig. Der Umsatz aller Gesellschafter wird dabei zusammengerechnet.
+**MWST-Pflicht:**\
+Ab einem Gesamtumsatz von CHF 100'000.– pro Jahr wird die einfache Gesellschaft [MWST-pflichtig](/artikel/mwst-anmeldung-schweiz). Der Umsatz aller Gesellschafter wird dabei zusammengerechnet.
 
 ## Kosten einer einfache Gesellschaft (Schweiz)
 
@@ -296,7 +297,7 @@ Jeder Gesellschafter meldet sich spätestens drei Monate nach Tätigkeitsbeginn 
 Bei gewerblicher Tätigkeit meldet ihr euch bei der Gemeindeverwaltung an.\
 Kosten: CHF 100.– bis 300.– je nach Gemeinde.
 
-**MWST-Anmeldung (ab CHF 100'000.–):**\
+**[MWST-Anmeldung](/artikel/mwst-anmeldung-schweiz) (ab CHF 100'000.–):**\
 Die Anmeldung erfolgt bei der Eidgenössischen Steuerverwaltung. Ihr erhaltet eine MWST-Nummer und müsst quartalsweise oder jährlich abrechnen.
 
 ### Schritt 4: Versicherungen abschliessen
@@ -305,7 +306,7 @@ Die Anmeldung erfolgt bei der Eidgenössischen Steuerverwaltung. Ihr erhaltet ei
 Deckt Schäden ab, die ihr bei Kunden verursacht. Deckungssummen von CHF 1-5 Millionen sind üblich.
 
 **Krankentaggeld:**
-Sichert euer Einkommen bei Krankheit oder Unfall ab. Besonders wichtig, da Selbständige keinen gesetzlichen Lohnfortzahlungsanspruch haben.
+Sichert euer Einkommen bei Krankheit oder Unfall ab. Besonders wichtig, da Selbständige keinen gesetzlichen Lohnfortzahlungsanspruch haben. Mehr zu Vorsorgelösungen: [Berufliche Vorsorge für Selbständige](/artikel/berufliche-vorsorge-schweiz) und [Säule 3a](/artikel/saeule-3a-selbststaendige).
 
 **Rechtsschutz:**
 Hilft bei Vertragsstreitigkeiten oder anderen rechtlichen Problemen.
@@ -316,14 +317,14 @@ Hilft bei Vertragsstreitigkeiten oder anderen rechtlichen Problemen.
 Nicht obligatorisch, aber sehr empfehlenswert für saubere Buchhaltung. Viele Banken bieten kostenlose Geschäftskonten für Kleinunternehmen.
 
 **Buchhaltungssystem wählen:**\
-Einfache Einnahmen-Ausgaben-Rechnung reicht oft aus. Software-Lösungen kosten CHF 200.– bis 800.– pro Jahr. Alternativ könnt ihr einen Treuhänder beauftragen.
+[Einfache Einnahmen-Ausgaben-Rechnung](/artikel/einfache-buchhaltung-schweiz) reicht oft aus. Software-Lösungen kosten CHF 200.– bis 800.– pro Jahr. Alternativ könnt ihr einen Treuhänder beauftragen.
 
 **Belegarchivierung:**
 Alle Geschäftsbelege müssen 10 Jahre aufbewahrt werden. Digitale Archivierung ist erlaubt.
 
 ### Schritt 6: Operative Umsetzung
 
-Startet mit euren ersten gemeinsamen Projekten und etabliert regelmässige Abläufe:
+Startet mit euren [ersten gemeinsamen Projekten und Kunden](/artikel/kunden-gewinnen-schweiz) und etabliert regelmässige Abläufe:
 
 * Monatliche Partnerbesprechungen
 * Quartalsweise Gewinnverteilung
@@ -352,7 +353,8 @@ Definiert präzise, wie verschiedene Beiträge bewertet werden. Berücksichtigt 
 
 ### Fehler 3: Solidarische Haftung ignorieren
 
-**Problem:\&#xA;**&#x49;hr haftet mit eurem gesamten Privatvermögen. Solidarisch und unbeschränkt für alle Schulden der Gesellschaft. Auch für Fehler oder Verbindlichkeiten eures Partners. Eine Begrenzung ist nur möglich, wenn ein Gesellschafter ausdrücklich im eigenen Namen handelt.
+**Problem:**\
+Ihr haftet mit eurem gesamten Privatvermögen. Solidarisch und unbeschränkt für alle Schulden der Gesellschaft. Auch für Fehler oder Verbindlichkeiten eures Partners. Eine Begrenzung ist nur möglich, wenn ein Gesellschafter ausdrücklich im eigenen Namen handelt.
 
 **Lösung:**\
 Schliesst eine ausreichende Berufshaftpflichtversicherung ab. Vereinbart Haftungsausschlüsse in Kundenverträgen. Bei hohem Risiko: Wechsel zur GmbH prüfen.
@@ -367,9 +369,11 @@ Meldet euch sofort als Selbständige an, auch bei kleinen Einkommen. Die Minimal
 
 ### Fehler 5: Keine Exit-Strategie
 
-**Problem:\&#xA;**&#x57;enn keine Regeln bestehen ist die Auflösung kompliziert. Z.B. bei Meinungsverschiedenheiten oder veränderter Lebenssituation.
+**Problem:**\
+Wenn keine Regeln bestehen ist die Auflösung kompliziert. Z.B. bei Meinungsverschiedenheiten oder veränderter Lebenssituation.
 
-**Lösung:\&#xA;**&#x56;ereinbart im Voraus Kündigungsfristen, Bewertungsmethoden für Gesellschaftsvermögen. Und Übernahmeregelungen für laufende Projekte.
+**Lösung:**\
+Vereinbart im Voraus Kündigungsfristen, Bewertungsmethoden für Gesellschaftsvermögen. Und Übernahmeregelungen für laufende Projekte.
 
 ### Fehler 6: Vermischung von Privat und Geschäft
 
@@ -439,11 +443,14 @@ Ja, aber es ist kompliziert und selten sinnvoll. Als Arbeitgeber müsst ihr euch
 
 Die einfache Gesellschaft ist die unkomplizierteste Rechtsform für gemeinsame Projekte in der Schweiz. Sie entsteht automatisch bei jeder partnerschaftlichen Zusammenarbeit. Und bietet maximale Flexibilität ohne bürokratischen Aufwand.
 
-**Wichtigste Erkenntnisse:\&#xA;**&#x45;ine einfache Gesellschaft kostet praktisch nichts zu gründen. Sie erfordert keine Registrierung und kann jederzeit aufgelöst werden. Gleichzeitig haften alle Partner unbeschränkt mit ihrem Privatvermögen. Ein schriftlicher Gesellschaftsvertrag ist zwar nicht vorgeschrieben, aber essentiell für funktionierende Partnerschaften.
+**Wichtigste Erkenntnisse:**\
+Eine einfache Gesellschaft kostet praktisch nichts zu gründen. Sie erfordert keine Registrierung und kann jederzeit aufgelöst werden. Gleichzeitig haften alle Partner unbeschränkt mit ihrem Privatvermögen. Ein schriftlicher Gesellschaftsvertrag ist zwar nicht vorgeschrieben, aber essentiell für funktionierende Partnerschaften.
 
-**Ideal geeignet für:\&#xA;**&#x54;emporäre Projekte, Start-ups in der Entwicklungsphase, Freelancer-Kooperationen und Dienstleistungen mit geringem Haftungsrisiko. Bei Jahresumsätzen unter CHF 200'000.– und klaren Partnerverhältnissen ist sie oft die beste Wahl.
+**Ideal geeignet für:**\
+Temporäre Projekte, Start-ups in der Entwicklungsphase, Freelancer-Kooperationen und Dienstleistungen mit geringem Haftungsrisiko. Bei Jahresumsätzen unter CHF 200'000.– und klaren Partnerverhältnissen ist sie oft die beste Wahl.
 
-**Grenzen beachten:\&#xA;**&#x42;ei wachsendem Geschäft, höherem Haftungsrisiko oder Investorenbeteiligung stösst die einfache Gesellschaft an ihre Grenzen. Ein rechtzeitiger Wechsel zur GmbH verhindert spätere Probleme.
+**Grenzen beachten:**\
+Bei wachsendem Geschäft, höherem Haftungsrisiko oder Investorenbeteiligung stösst die einfache Gesellschaft an ihre Grenzen. Ein rechtzeitiger Wechsel zur GmbH verhindert spätere Probleme.
 
 **Deine nächsten Schritte sollten sein:**
 

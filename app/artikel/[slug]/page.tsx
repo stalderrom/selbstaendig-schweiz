@@ -5,6 +5,7 @@ import { CATEGORIES } from '@/types/article';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
+import Image from 'next/image';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
@@ -224,6 +225,21 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             <span>{article.readingTime} Min. Lesezeit</span>
           </div>
         </header>
+
+        {/* Featured Image */}
+        {article.featuredImage && (
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
+            <div className="relative w-full aspect-video overflow-hidden">
+              <Image
+                src={article.featuredImage}
+                alt={article.title}
+                fill
+                className="object-cover"
+                priority
+              />
+            </div>
+          </div>
+        )}
 
         {/* Article Content */}
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
