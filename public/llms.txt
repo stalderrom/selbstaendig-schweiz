@@ -1,0 +1,96 @@
+# Selbstaendig Schweiz
+
+> Schweizer Ratgeberportal für Selbständige, Freelancer und Gründer: Gründung, Steuern, Versicherungen, Buchhaltung, Kundenakquise und Berufsratgeber — auf Deutsch, für die Schweiz.
+
+## Kernthemen
+
+- [Selbständig machen Schweiz](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-machen-schweiz): Vollständiger Guide vom Entscheid bis zum Start — Rechtsform, Anmeldung AHV, Businessplan, erste Kunden.
+- [Einzelfirma gründen](https://www.selbstaendig-schweiz.ch/artikel/einzelfirma-gruenden): Schritt-für-Schritt-Anleitung zur Einzelfirma in der Schweiz — kein Mindestkapital, Anmeldung in 1–3 Tagen.
+- [GmbH gründen](https://www.selbstaendig-schweiz.ch/artikel/gmbh-gruenden): GmbH-Gründung mit CHF 20'000 Stammkapital — Ablauf, Kosten, Vor- und Nachteile gegenüber Einzelfirma.
+- [Selbständig werden Schweiz](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-werden-schweiz): Checkliste und Voraussetzungen für den Einstieg in die Selbständigkeit in der Schweiz.
+- [Freelancer Schweiz Guide](https://www.selbstaendig-schweiz.ch/artikel/freelancer-schweiz-guide): Rechtliche und steuerliche Grundlagen für Freelancer, Unterschied Angestellte vs. Selbständige.
+- [Businessplan erstellen](https://www.selbstaendig-schweiz.ch/artikel/businessplan-erstellen): Aufbau eines Businessplans für Schweizer Gründer — Vorlage, Finanzplanung, Executive Summary.
+- [Alle Berufe als Selbständige/r](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-schweiz-berufe): Übersicht über 50+ Berufe mit Voraussetzungen, Einkommenspotenzial und Startinfos.
+
+## Steuern & AHV
+
+- [Steuern für Selbständige](https://www.selbstaendig-schweiz.ch/artikel/steuern-selbststaendige): Einkommenssteuer, AHV-Beiträge und MWST für Selbständige erklärt — mit Spartipps und Beispielberechnungen.
+- [MWST für Selbständige](https://www.selbstaendig-schweiz.ch/artikel/mwst-selbststaendige): Wann MWST-pflichtig, Normalsatz vs. Saldosteuersatz, Abrechnung und Anmeldung.
+- [MWST-Pflicht ab wann](https://www.selbstaendig-schweiz.ch/artikel/mwst-pflicht-ab-wann-schweiz): Grenzwert CHF 100'000 Umsatz, Ausnahmen, freiwillige Unterstellung — detailliert erklärt.
+- [MWST-Anmeldung Schweiz](https://www.selbstaendig-schweiz.ch/artikel/mwst-anmeldung-schweiz): Schritt-für-Schritt-Anleitung zur MWST-Anmeldung bei der ESTV inklusive Fristen.
+- [Steueroptimierung Selbständige](https://www.selbstaendig-schweiz.ch/artikel/steueroptimierung-selbstaendige): Legale Steuersparmöglichkeiten — Abzüge, Säule 3a, Geschäftsfahrzeug, Homeoffice.
+- [Einzelfirma vs. GmbH Steuern](https://www.selbstaendig-schweiz.ch/artikel/einzelfirma-vs-gmbh-steuern): Steuervergleich der beiden häufigsten Rechtsformen für Selbständige in der Schweiz.
+- [AHV für Selbständige](https://www.selbstaendig-schweiz.ch/artikel/ahv-selbststaendige): AHV-Beiträge berechnen, Anmeldung bei der Ausgleichskasse, sinkende Beitragsskala.
+- [Säule 3a für Selbständige](https://www.selbstaendig-schweiz.ch/artikel/saeule-3a-selbststaendige): Erhöhter 3a-Abzug ohne Pensionskasse (bis CHF 35'280) — Vergleich Bankprodukte und Wertschriften.
+
+## Versicherungen
+
+- [Versicherungen für Selbständige](https://www.selbstaendig-schweiz.ch/artikel/versicherungen-selbststaendige): Überblick aller Pflicht- und empfohlenen Versicherungen — Kranken, AHV, BVG, Haftpflicht.
+- [Krankentaggeld Selbständige](https://www.selbstaendig-schweiz.ch/artikel/krankentaggeld-selbstaendige): Warum Krankentaggeld für Selbständige unverzichtbar ist und was Policen kosten.
+- [Berufshaftpflicht Schweiz](https://www.selbstaendig-schweiz.ch/artikel/berufshaftpflicht-schweiz): Welche Berufe eine Berufshaftpflicht brauchen, Deckungssummen und Prämienvergleich.
+- [Sozialversicherungen Selbständige](https://www.selbstaendig-schweiz.ch/artikel/sozialversicherungen-selbstaendige-schweiz): AHV, IV, EO und ALV für Selbständige — Beitragspflicht, Lücken und freiwillige Versicherung.
+- [Altersvorsorge Selbständige](https://www.selbstaendig-schweiz.ch/artikel/altersvorsorge-selbstaendige): Vorsorgelösungen ohne Pensionskasse: 3a, freiwillige BVG, Immobilien und Investitionen.
+- [Berufliche Vorsorge Schweiz](https://www.selbstaendig-schweiz.ch/artikel/berufliche-vorsorge-schweiz): Freiwilliger BVG-Anschluss für Selbständige — Stiftungen, Kosten, Vorteile.
+
+## Buchhaltung & Finanzen
+
+- [Buchhaltung für Selbständige](https://www.selbstaendig-schweiz.ch/artikel/buchhaltung-selbststaendige): Von der einfachen Buchführung bis zur doppelten Buchhaltung — Pflichten je nach Umsatz und Rechtsform.
+- [Einfache Buchhaltung Schweiz](https://www.selbstaendig-schweiz.ch/artikel/einfache-buchhaltung-schweiz): Einnahmen-Ausgaben-Rechnung für Einzelfirmen unter CHF 500'000 Umsatz erklärt.
+- [Buchhaltungssoftware Vergleich](https://www.selbstaendig-schweiz.ch/artikel/buchhaltungssoftware-vergleich): Vergleich von Bexio, Banana, Abacus und weiteren Schweizer Buchhaltungsprogrammen.
+- [Bexio Preise und Erfahrungen](https://www.selbstaendig-schweiz.ch/artikel/bexio-preise-kosten-erfahrungen): Kostenübersicht aller Bexio-Pakete, Funktionen und Praxis-Erfahrungsberichte.
+- [Banana Buchhaltung Schweiz](https://www.selbstaendig-schweiz.ch/artikel/banana-buchhaltung-schweiz-guide): Banana Accounting für Selbständige — Preise, Funktionen, Vor- und Nachteile.
+- [Stundensatz berechnen](https://www.selbstaendig-schweiz.ch/artikel/stundensatz-berechnen): Formel und Beispiele zur Berechnung des Mindest-Stundensatzes als Freelancer in der Schweiz.
+- [Offerte erstellen Schweiz](https://www.selbstaendig-schweiz.ch/artikel/offerte-erstellen-schweiz): Gesetzliche Anforderungen und Aufbau einer Offerte — mit kostenloser Vorlage.
+- [Rechnungsvorlage Schweiz](https://www.selbstaendig-schweiz.ch/artikel/rechnungsvorlage-schweiz): Pflichtangaben auf Rechnungen, QR-Rechnung und kostenlose Word/Excel-Vorlagen.
+- [QR-Rechnung erstellen](https://www.selbstaendig-schweiz.ch/artikel/qr-rechnung-erstellen-schweiz): Swiss QR Code auf Rechnungen — technische Anforderungen, Tools und Gratisgeneratoren.
+- [Betreibung Schweiz Selbständige](https://www.selbstaendig-schweiz.ch/artikel/betreibung-schweiz-selbstaendige): Ablauf Betreibungsverfahren, Zahlungsbefehl, Rechtsvorschlag und Fortsetzungsbegehren erklärt.
+- [Insolvenz und Konkurs](https://www.selbstaendig-schweiz.ch/artikel/insolvenz-konkurs-selbstaendige-schweiz): Was bei Überschuldung und Zahlungsunfähigkeit auf Selbständige zukommt — Konkursverfahren und Alternativen.
+- [Geschäftskonto Vergleich](https://www.selbstaendig-schweiz.ch/artikel/geschaeftskonto-vergleich): Vergleich Schweizer Geschäftskonten für Selbständige — Kosten, Funktionen, Empfehlungen.
+
+## Marketing & Kundenakquise
+
+- [Kunden gewinnen Schweiz](https://www.selbstaendig-schweiz.ch/artikel/kunden-gewinnen-schweiz): Alle Akquise-Strategien — Netzwerk, Empfehlungen, Online-Marketing und Kaltakquise.
+- [Erste Kunden gewinnen](https://www.selbstaendig-schweiz.ch/artikel/erste-kunden-gewinnen-schweiz): Spezifische Strategien für den Start — ohne Budget und ohne bestehendes Netzwerk.
+- [Crowdfunding Schweiz](https://www.selbstaendig-schweiz.ch/artikel/crowdfunding-schweiz-selbstaendige): Schweizer Crowdfunding-Plattformen, Kampagnenplanung und Erfolgsquoten für Selbständige.
+
+## Gründung & Recht
+
+- [Unternehmen gründen Schweiz](https://www.selbstaendig-schweiz.ch/artikel/unternehmen-gruenden-schweiz): Überblick aller Rechtsformen — Einzelfirma, GmbH, AG, Kollektivgesellschaft — mit Vergleichstabelle.
+- [Einfache Gesellschaft Schweiz](https://www.selbstaendig-schweiz.ch/artikel/einfache-gesellschaft-schweiz): Rechtliche Grundlagen der einfachen Gesellschaft — Haftung, Steuern, Auflösung.
+- [Kollektivgesellschaft gründen](https://www.selbstaendig-schweiz.ch/artikel/kollektivgesellschaft-gruenden-schweiz): Vor- und Nachteile der Kollektivgesellschaft, Gründungsschritte und Haftungsfragen.
+- [Handelsregister Eintrag Schweiz](https://www.selbstaendig-schweiz.ch/artikel/handelsregister-eintrag-schweiz): Wann HR-Pflicht entsteht, Eintragungskosten und Ablauf der Anmeldung.
+- [Nachweis Selbständigkeit](https://www.selbstaendig-schweiz.ch/artikel/nachweis-selbststaendigkeit-schweiz): Welche Dokumente die AHV und Banken als Nachweis der Selbständigkeit akzeptieren.
+- [Bewilligungen Selbständige](https://www.selbstaendig-schweiz.ch/artikel/bewilligungen-selbstaendige): Gewerbe- und Berufsbewilligungen für reglementierte Berufe in der Schweiz — Übersicht.
+- [Nebenerwerb Selbständigkeit](https://www.selbstaendig-schweiz.ch/artikel/nebenerwerb-selbststaendigkeit-schweiz): Selbständig neben dem Angestelltenverhältnis — AHV, Steuern, Arbeitgeber informieren.
+
+## Tools & Rechner
+
+- [Stundensatz-Rechner](https://www.selbstaendig-schweiz.ch/rechner/stundensatz): Interaktiver Rechner für den Mindest-Stundensatz als Freelancer — inkl. AHV, Ferien, Auslastung.
+- [Brutto-Netto-Rechner](https://www.selbstaendig-schweiz.ch/rechner/brutto-netto): Berechnung des Nettoeinkommens nach AHV, Steuern und Krankenversicherung für Selbständige.
+- [Auftragsbestätigung Generator](https://www.selbstaendig-schweiz.ch/tools/auftragsbestaetigung): Kostenloser Generator für rechtsgültige Auftragsbestätigungen — als PDF herunterladen.
+- [Tools für Selbständige](https://www.selbstaendig-schweiz.ch/artikel/tools-selbststaendige): Kuratierte Liste der besten Tools für Buchhaltung, CRM, Kommunikation und Projektmanagement.
+
+## Berufsratgeber (Auswahl)
+
+- [Selbständig als Programmierer](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-programmierer-schweiz): Stundensätze, Kundenakquise und Rechtliches für freie Software-Entwickler in der Schweiz.
+- [Selbständig als Grafiker](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-grafiker-schweiz): Preisgestaltung, Verträge und Marktüberblick für selbständige Grafikerinnen und Grafiker.
+- [Selbständig als Coach](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-coach-schweiz): Zulassungsvoraussetzungen, Positionierung und Einkommenspotenzial für Coaches in der Schweiz.
+- [Selbständig als Berater](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-berater-schweiz): Business-Setup für Unternehmensberater und Consultants — Honorare, Akquise, Rechtsform.
+- [Selbständig als Treuhänder](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-treuhaender-schweiz): Berufsausübungsbewilligung, Haftpflicht und Marktchancen für selbständige Treuhänder.
+- [Selbständig als Handwerker](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-handwerker-schweiz): Meisterprüfung, Bewilligungen und Kalkulation für Handwerksbetriebe in der Schweiz.
+- [Selbständig als Fotograf](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-fotograf-schweiz): Honorargestaltung, Urheberrecht und Kundenakquise für freie Fotografinnen und Fotografen.
+
+## Schlüsselfakten
+
+- Betrieben in der Schweiz, Inhalte ausschliesslich auf Schweizer Recht und Schweizer Behörden zugeschnitten
+- Über 100 Artikel in 9 Themenkategorien (Stand 2026)
+- Kostenlose interaktive Rechner: Stundensatz, Brutto-Netto, Auftragsbestätigung
+- Sprache: Deutsch (Schweizer Hochdeutsch, Du-Form)
+- Zielgruppe: Gründerinnen und Gründer, Freelancer, Einzelunternehmen, KMU in der Schweiz
+
+## Kontakt
+
+- Website: https://www.selbstaendig-schweiz.ch
+- E-Mail: kontakt@selbstaendig-schweiz.ch
+- Impressum: https://www.selbstaendig-schweiz.ch/impressum
+- Datenschutz: https://www.selbstaendig-schweiz.ch/datenschutz
