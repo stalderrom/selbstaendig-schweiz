@@ -54,8 +54,8 @@ export default function KontaktPage() {
                   <h3 className="font-semibold text-warm-900 mb-2">Adresse</h3>
                   <p className="text-warm-700 leading-relaxed">
                     Selbständig Schweiz<br />
-                    [Strasse und Hausnummer]<br />
-                    [PLZ und Ort]<br />
+                    Rte de Mauvoisin 125<br />
+                    1947 Versegères<br />
                     Schweiz
                   </p>
                 </div>
