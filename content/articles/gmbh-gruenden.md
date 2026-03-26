@@ -25,11 +25,11 @@ faq:
       (Buchhaltung, Steuern, Versicherungen, Lohnnebenkosten).
   - question: Kann ich eine GmbH alleine gründen?
     answer: >-
-      Ja! Sie können einziger Gesellschafter UND Geschäftsführer sein. Minimum:
-      1 Person. Sie bringen CHF 20'000 Stammkapital, erhalten 100% der Anteile.
-      Wichtig: Trotzdem Generalversammlung abhalten (Sie alleine beschliessen),
+      Ja! Du kannst einziger Gesellschafter UND Geschäftsführer sein. Minimum:
+      1 Person. Du bringst CHF 20'000 Stammkapital und erhältst 100% der Anteile.
+      Wichtig: Trotzdem Generalversammlung abhalten (du alleine beschliesst),
       Protokoll führen. Vorteil: Volle Kontrolle. Nachteil: Alle Verantwortung
-      bei Ihnen. Häufig: Start alleine, später Partner dazu (Kapitalerhöhung
+      bei dir. Häufig: Start alleine, später Partner dazu (Kapitalerhöhung
       oder Verkauf von Stammeinlagen).
   - question: 'Wie lange dauert es, eine GmbH zu gründen?'
     answer: >-
@@ -41,16 +41,16 @@ faq:
       Vergleich: Einzelfirma dauert 1-3 Tage.
   - question: Was passiert mit den CHF 20'000 Stammkapital?
     answer: >-
-      Das Geld gehört der GmbH (nicht Ihnen persönlich). Vor HR-Eintrag:
+      Das Geld gehört der GmbH (nicht dir persönlich). Vor HR-Eintrag:
       Gesperrt auf Kapitalkonto. Nach HR-Eintrag: Freigegeben für
-      Geschäftsbetrieb. Sie können es nutzen für: Büro-Miete, Equipment,
-      Marketing, Löhne, Lieferanten. NICHT: Einfach wieder an sich privat
-      auszahlen (= Veruntreuung!). Bei Liquidation: Was übrig bleibt, zurück an
+      Geschäftsbetrieb. Du kannst es nutzen für: Büro-Miete, Equipment,
+      Marketing, Löhne, Lieferanten. NICHT: Einfach wieder privat auszahlen
+      (= Veruntreuung!). Bei Liquidation: Was übrig bleibt, zurück an
       Gesellschafter (proportional zu Stammeinlagen). Wichtig: CHF 20k sind
       MINIMUM, besser CHF 30-50k Startkapital.
   - question: Hafte ich bei einer GmbH persönlich?
     answer: >-
-      Grundsätzlich NEIN. Sie haften nur bis CHF 20'000 (Stammkapital). Ihr
+      Grundsätzlich NEIN. Du haftest nur bis CHF 20'000 (Stammkapital). Dein
       Privatvermögen (Haus, Auto, Ersparnis) ist geschützt. ABER Ausnahmen: (1)
       Konkursverschleppung (weitergemacht trotz Insolvenz), (2)
       Sozialversicherungen nicht bezahlt (AHV, BVG), (3) Vermischung GmbH/Privat
@@ -59,13 +59,13 @@ faq:
       Geschäftsführer-Haftpflicht (D&O).
   - question: Muss ich als Geschäftsführer einer GmbH Lohn beziehen?
     answer: >-
-      Nicht zwingend, aber dringend empfohlen! Rechtlich: Sie können CHF 0 Lohn
-      nehmen, nur Dividenden. ABER: (1) Steuern: Bei CHF 0 Lohn korrigiert
-      Steuerbehörde oft (='verdeckte Gewinnausschüttung'), verlangt Nachzahlung.
-      (2) AHV: Bei CHF 0 Lohn keine AHV-Beiträge = Rentenlücke. (3) BVG: Nur auf
-      Lohn (ab CHF 22k), nicht auf Dividende. (4) Hypothek: Bank will Lohn
-      sehen. Empfehlung: Mind. CHF 60-80k Lohn bei Vollzeit, Rest Dividende
-      (steueroptimiert).
+      Nicht zwingend, aber dringend empfohlen! Rechtlich: Du kannst CHF 0 Lohn
+      nehmen und nur Dividenden beziehen. ABER: (1) Steuern: Bei CHF 0 Lohn
+      korrigiert die Steuerbehörde oft (='verdeckte Gewinnausschüttung') und
+      verlangt Nachzahlung. (2) AHV: Bei CHF 0 Lohn keine AHV-Beiträge = Rentenlücke.
+      (3) BVG: Nur auf Lohn (ab CHF 22k), nicht auf Dividende. (4) Hypothek:
+      Bank will Lohn sehen. Empfehlung: Mind. CHF 60-80k Lohn bei Vollzeit, Rest
+      Dividende (steueroptimiert).
   - question: Wann lohnt sich eine GmbH gegenüber Einzelfirma?
     answer: >-
       GmbH lohnt sich bei: (1) Haftungsrisiko: Produktion, Handel, Gastronomie,
@@ -81,7 +81,7 @@ faq:
 
 **GmbH Gründung Schweiz:** Der professionelle Weg für Unternehmer, die Haftungsschutz, Investoren oder ein seriöses Image wollen. Du möchtest dich [selbständig machen in der Schweiz](/artikel/selbstaendig-machen-schweiz) und suchst die passende Rechtsform?
 
-Mit CHF 20'000 Stammkapital und etwas Papierkram schaffen Sie in 2-6 Wochen eine vollwertige Kapitalgesellschaft. Dieser umfassende Guide führt Sie Schritt für Schritt durch die GmbH-Gründung in der Schweiz – von den Voraussetzungen über die Statuten bis zur Handelsregister-Eintragung.
+Mit CHF 20'000 Stammkapital und etwas Papierkram hast du in 2-6 Wochen eine vollwertige Kapitalgesellschaft. Dieser Guide führt dich Schritt für Schritt durch die GmbH-Gründung in der Schweiz – von den Voraussetzungen über die Statuten bis zur Handelsregister-Eintragung.
 
 ## Was ist eine GmbH?
 

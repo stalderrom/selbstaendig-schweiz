@@ -61,7 +61,7 @@ Die Erhöhung von 7.7% auf 8.1% (Normalsatz) erfolgte per 1.1.2024 zur Finanzier
 
 ## Ab wann MWST Pflicht in der Schweiz?
 
-**Obligatorische Anmeldung:** Du bist steuerpflichtig, sobald du in einem Jahr **CHF 100'000 Umsatz** aus steuerbaren Leistungen im Inland erzielst oder voraussichtlich erzielen wirst.
+**Obligatorische Anmeldung:** Du bist steuerpflichtig, sobald du in einem Jahr **CHF 100'000 Umsatz** aus steuerbaren Leistungen im Inland erzielst oder voraussichtlich erzielen wirst. → [Alles zur MWST-Pflicht: wann genau, welche Ausnahmen, Saldosteuersatz](/artikel/mwst-pflicht-ab-wann-schweiz)
 
 **Umsatz vs. Gewinn:** Es zählt der **Umsatz** (Gesamteinnahmen), nicht der Gewinn. Auch wenn du nach Abzug aller Kosten keinen Gewinn erzielst, bist du ab CHF 100'000 Umsatz steuerpflichtig.
 

@@ -48,8 +48,8 @@ faq:
       Pflicht: Ab CHF 100'000 Jahresumsatz. Freiwillig darunter: Vorteile:
       Firmenname geschützt, professioneller, Geschäftskonto einfacher.
       Nachteile: Kosten CHF 200-600 einmalig + jährliche Mutation bei
-      Änderungen. Empfehlung: Wenn Sie seriös auftreten wollen → eintragen. Wenn
-      Sie nebenbei testen → warten bis CHF 100k. Kosten: CHF 200-600 je nach
+      Änderungen. Empfehlung: Wenn du seriös auftreten willst → eintragen. Wenn
+      du nebenbei testest → warten bis CHF 100k. Kosten: CHF 200-600 je nach
       Kanton + CHF 50-100 Notar.
   - question: 'Wie lange dauert es, eine Einzelfirma zu gründen?'
     answer: >-
@@ -69,19 +69,20 @@ faq:
     answer: >-
       Ja! Sehr verbreitet und empfohlen. Wichtig: (1) Arbeitgeber informieren
       (Arbeitsvertrag prüfen – meist Erlaubnis nötig bei Konkurrenz). (2) AHV:
-      Bei Haupterwerb (Angestellter) zahlt AG, bei Nebenerwerb Sie (10.1%). (3)
-      Arbeitszeit: Max. 45-50h/Woche total (Gesundheitsschutz). (4) Steuern:
-      Beide Einkommen addiert. Vorteil: Risiko minimiert, Kunden aufbauen,
-      testen. Nach 1-2 Jahren: Entscheidung Vollzeit ja/nein.
+      Bei Haupterwerb (Angestellter) zahlt der Arbeitgeber, bei Nebenerwerb
+      zahlst du (10.1%). (3) Arbeitszeit: Max. 45-50h/Woche total
+      (Gesundheitsschutz). (4) Steuern: Beide Einkommen werden addiert. Vorteil:
+      Risiko minimiert, Kunden aufbauen, testen. Nach 1-2 Jahren: Entscheidung
+      Vollzeit ja/nein.
   - question: Hafte ich mit meinem Privatvermögen bei einer Einzelfirma?
     answer: >-
-      Ja, vollumfänglich! Geschäftsschulden = Privatschulden. Ihr Haus, Auto,
-      Ersparnis können gepfändet werden. Beispiel: Kunde verklagt Sie auf CHF
-      50'000 Schadenersatz, Sie verlieren → Privatvermögen haftet. Schutz: (1)
-      Berufshaftpflicht-Versicherung (dringend!). (2) Niedriges Risiko-Geschäft
+      Ja, vollumfänglich! Geschäftsschulden = Privatschulden. Dein Haus, Auto
+      und deine Ersparnisse können gepfändet werden. Beispiel: Ein Kunde klagt
+      auf CHF 50'000 Schadenersatz, du verlierst → Privatvermögen haftet. Schutz:
+      (1) Berufshaftpflicht-Versicherung (dringend!). (2) Niedriges Risiko-Geschäft
       wählen. (3) Bei hohem Risiko → GmbH gründen (Haftung beschränkt auf CHF
-      20'000 Kapital). Häufigste Fehler: Handwerker ohne Haftpflicht, dann
-      Schaden.
+      20'000 Kapital). Häufigster Fehler: Handwerker ohne Haftpflicht, dann
+      kommt der Schaden.
   - question: Muss ich als Einzelfirma MWST abrechnen?
     answer: >-
       Pflicht ab: CHF 100'000 Jahresumsatz (weltweit). Freiwillig ab: CHF 10'000
@@ -143,7 +144,7 @@ faq:
 
 **Einzelfirma gründen Schweiz:** Der einfachste und schnellste Weg in die Selbständigkeit. Du möchtest dich [selbständig machen in der Schweiz](/artikel/selbstaendig-machen-schweiz)? Die Einzelfirma ist die beliebteste Rechtsform für den Start.
 
-**Eine Einzelfirma gründen** ist unkompliziert und günstig – kein Mindestkapital, minimaler Aufwand, in wenigen Tagen startklar. Über 60% aller Schweizer Selbständigen wählen diese Rechtsform. Dieser umfassende Guide führt Sie Schritt für Schritt durch die Gründung Ihrer Einzelfirma – von den Voraussetzungen über die Anmeldung bis zu Steuern und Versicherungen.
+**Eine Einzelfirma gründen** ist unkompliziert und günstig — kein Mindestkapital, minimaler Aufwand, in wenigen Tagen startklar. Über 60% aller Schweizer Selbständigen wählen diese Rechtsform. Dieser Guide führt dich Schritt für Schritt durch die Gründung deiner Einzelfirma — von den Voraussetzungen über die Anmeldung bis zu Steuern und Versicherungen.
 
 ## Was ist eine Einzelfirma?
 

@@ -155,6 +155,8 @@ Nicht jede internationale Software ist für die Schweiz geeignet. Diese Funktion
 
 **Für wen:** Kostenbewusste Selbständige mit Buchhalter-Grundkenntnissen
 
+→ [Banana Buchhaltung: Ausführlicher Test, Preise & Erfahrungen](/artikel/banana-buchhaltung-schweiz-guide)
+
 ### Stärken
 - **Einmalkauf statt Abo** – kein laufendes Abo!
 - Vollständige Schweizer Buchhaltung (doppelte Buchführung)
@@ -309,8 +311,10 @@ Moderne Buchhaltungssoftware lässt sich mit vielen Tools verbinden:
 
 - [Buchhaltung für Selbständige](/artikel/buchhaltung-selbststaendige)
 - [Einfache Buchhaltung Schweiz](/artikel/einfache-buchhaltung-schweiz)
+- [Banana Buchhaltung: Test, Preise & Erfahrungen](/artikel/banana-buchhaltung-schweiz-guide)
+- [Bexio Preise & Erfahrungen im Detail](/artikel/bexio-preise-kosten-erfahrungen)
 - [QR-Rechnung erstellen](/artikel/qr-rechnung-erstellen-schweiz)
-- [MWST für Selbständige](/artikel/mwst-selbststaendige)
+- [MWST für Selbständige](/artikel/mwst-selbstaendige)
 - [Offerte erstellen Schweiz](/artikel/offerte-erstellen-schweiz)
 
 ## FAQ – Häufig gestellte Fragen
