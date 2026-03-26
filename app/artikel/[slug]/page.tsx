@@ -47,7 +47,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       authors: [article.author],
     },
     alternates: {
-      canonical: `https://www.selbständig-schweiz.ch/artikel/${article.slug}`,
+      canonical: `https://www.selbstaendig-schweiz.ch/artikel/${article.slug}`,
     },
   };
 }

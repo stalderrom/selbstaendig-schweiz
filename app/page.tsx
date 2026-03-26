@@ -79,17 +79,17 @@ export default async function Home() {
 
   const organizationSchema = {
     '@context': 'https://schema.org', '@type': 'Organization',
-    name: 'Selbständig Schweiz', url: 'https://www.selbständig-schweiz.ch',
+    name: 'Selbständig Schweiz', url: 'https://www.selbstaendig-schweiz.ch',
     description: 'Ratgeber & Tools für Selbständige und Gründer in der Schweiz.',
     foundingDate: '2025', areaServed: { '@type': 'Country', name: 'Schweiz' }
   };
 
   const websiteSchema = {
     '@context': 'https://schema.org', '@type': 'WebSite',
-    name: 'Selbständig Schweiz', url: 'https://www.selbständig-schweiz.ch',
+    name: 'Selbständig Schweiz', url: 'https://www.selbstaendig-schweiz.ch',
     potentialAction: {
       '@type': 'SearchAction',
-      target: { '@type': 'EntryPoint', urlTemplate: 'https://www.selbständig-schweiz.ch/artikel?q={search_term_string}' },
+      target: { '@type': 'EntryPoint', urlTemplate: 'https://www.selbstaendig-schweiz.ch/artikel?q={search_term_string}' },
       'query-input': 'required name=search_term_string'
     }
   };

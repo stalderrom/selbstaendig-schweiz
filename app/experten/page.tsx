@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     'berater selbständige schweiz',
   ],
   alternates: {
-    canonical: 'https://www.selbständig-schweiz.ch/experten',
+    canonical: 'https://www.selbstaendig-schweiz.ch/experten',
   },
   openGraph: {
     title: 'Experten für Selbständige Schweiz – Dein kuratiertes Experten-Team als Abo',
