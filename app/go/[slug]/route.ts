@@ -14,6 +14,31 @@ const AFFILIATE_LINKS: Record<string, string> = {
   'helsana': 'https://www.helsana.ch/de/business/krankenkasse/krankentaggeld.html',
 };
 
+async function trackClickInSupabase(partner: string, referrer: string | null) {
+  const supabaseUrl = process.env.SUPABASE_URL;
+  const supabaseKey = process.env.SUPABASE_SERVICE_KEY;
+  if (!supabaseUrl || !supabaseKey) return;
+
+  try {
+    await fetch(`${supabaseUrl}/rest/v1/affiliate_clicks`, {
+      method: 'POST',
+      headers: {
+        'apikey': supabaseKey,
+        'Authorization': `Bearer ${supabaseKey}`,
+        'Content-Type': 'application/json',
+        'Prefer': 'return=minimal',
+      },
+      body: JSON.stringify({
+        partner,
+        referrer: referrer ?? null,
+        clicked_at: new Date().toISOString(),
+      }),
+    });
+  } catch {
+    // Non-fatal — tracking failure should not break redirects
+  }
+}
+
 export async function GET(
   request: NextRequest,
   { params }: { params: Promise<{ slug: string }> }
@@ -25,13 +50,14 @@ export async function GET(
     return NextResponse.redirect(new URL('/', request.url));
   }
 
-  // Log the click (server-side only — no PII stored)
+  const referrer = request.headers.get('referer');
   console.log(`[affiliate] click: ${slug} at ${new Date().toISOString()}`);
+
+  // Fire-and-forget Supabase tracking (does not block redirect)
+  trackClickInSupabase(slug, referrer);
 
   return NextResponse.redirect(destination, {
     status: 302,
-    headers: {
-      'Cache-Control': 'no-store',
-    },
+    headers: { 'Cache-Control': 'no-store' },
   });
 }
