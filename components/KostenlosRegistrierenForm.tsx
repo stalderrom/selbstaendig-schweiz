@@ -42,11 +42,31 @@ export default function KostenlosRegistrierenForm() {
   const [vorname, setVorname] = useState('');
   const [email, setEmail] = useState('');
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState('');
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     if (!vorname.trim() || !email.trim()) return;
-    setSubmitted(true);
+    setLoading(true);
+    setError('');
+    try {
+      const res = await fetch('/api/newsletter', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ vorname: vorname.trim(), email: email.trim() }),
+      });
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({}));
+        setError(data.error || 'Fehler beim Registrieren. Bitte versuche es erneut.');
+      } else {
+        setSubmitted(true);
+      }
+    } catch {
+      setError('Keine Verbindung. Bitte versuche es erneut.');
+    } finally {
+      setLoading(false);
+    }
   }
 
   return (
@@ -113,10 +133,15 @@ export default function KostenlosRegistrierenForm() {
 
               <button
                 type="submit"
-                className="w-full bg-blue-600 text-white py-4 rounded-xl font-bold text-base hover:bg-blue-700 active:scale-[0.99] transition-all shadow-md mt-2"
+                disabled={loading}
+                className="w-full bg-blue-600 text-white py-4 rounded-xl font-bold text-base hover:bg-blue-700 active:scale-[0.99] transition-all shadow-md mt-2 disabled:opacity-60 disabled:cursor-not-allowed"
               >
-                Kostenloses Konto erstellen →
+                {loading ? 'Wird gesendet…' : 'Kostenloses Konto erstellen →'}
               </button>
+
+              {error && (
+                <p className="text-center text-sm text-red-600 pt-1">{error}</p>
+              )}
 
               <p className="text-center text-xs text-gray-400 pt-1">
                 Kein Abo. Keine Kreditkarte. Für immer kostenlos.
