@@ -27,6 +27,7 @@
 
 - [Versicherungen für Selbständige](https://www.selbstaendig-schweiz.ch/artikel/versicherungen-selbststaendige): Überblick aller Pflicht- und empfohlenen Versicherungen — Kranken, AHV, BVG, Haftpflicht.
 - [Krankentaggeld Selbständige](https://www.selbstaendig-schweiz.ch/artikel/krankentaggeld-selbstaendige): Warum Krankentaggeld für Selbständige unverzichtbar ist und was Policen kosten.
+- [Krankenkasse Selbständige Schweiz](https://www.selbstaendig-schweiz.ch/artikel/krankenkasse-selbststaendige-schweiz): Franchise-Strategie, Modellwahl (HMO/Telmed), Krankentaggeld und Prämienverbilligung für Selbständige.
 - [Berufshaftpflicht Schweiz](https://www.selbstaendig-schweiz.ch/artikel/berufshaftpflicht-schweiz): Welche Berufe eine Berufshaftpflicht brauchen, Deckungssummen und Prämienvergleich.
 - [Sozialversicherungen Selbständige](https://www.selbstaendig-schweiz.ch/artikel/sozialversicherungen-selbstaendige-schweiz): AHV, IV, EO und ALV für Selbständige — Beitragspflicht, Lücken und freiwillige Versicherung.
 - [Altersvorsorge Selbständige](https://www.selbstaendig-schweiz.ch/artikel/altersvorsorge-selbstaendige): Vorsorgelösungen ohne Pensionskasse: 3a, freiwillige BVG, Immobilien und Investitionen.
@@ -45,6 +46,7 @@
 - [QR-Rechnung erstellen](https://www.selbstaendig-schweiz.ch/artikel/qr-rechnung-erstellen-schweiz): Swiss QR Code auf Rechnungen — technische Anforderungen, Tools und Gratisgeneratoren.
 - [Betreibung Schweiz Selbständige](https://www.selbstaendig-schweiz.ch/artikel/betreibung-schweiz-selbstaendige): Ablauf Betreibungsverfahren, Zahlungsbefehl, Rechtsvorschlag und Fortsetzungsbegehren erklärt.
 - [Insolvenz und Konkurs](https://www.selbstaendig-schweiz.ch/artikel/insolvenz-konkurs-selbstaendige-schweiz): Was bei Überschuldung und Zahlungsunfähigkeit auf Selbständige zukommt — Konkursverfahren und Alternativen.
+- [Lohnausweis für Selbständige](https://www.selbstaendig-schweiz.ch/artikel/lohnausweis-selbststaendige-schweiz): Wann Einzelfirma keinen Lohnausweis braucht und wie GmbH/AG-Inhaber ihn korrekt ausstellen.
 - [Geschäftskonto Vergleich](https://www.selbstaendig-schweiz.ch/artikel/geschaeftskonto-vergleich): Vergleich Schweizer Geschäftskonten für Selbständige — Kosten, Funktionen, Empfehlungen.
 
 ## Marketing & Kundenakquise
@@ -52,6 +54,7 @@
 - [Kunden gewinnen Schweiz](https://www.selbstaendig-schweiz.ch/artikel/kunden-gewinnen-schweiz): Alle Akquise-Strategien — Netzwerk, Empfehlungen, Online-Marketing und Kaltakquise.
 - [Erste Kunden gewinnen](https://www.selbstaendig-schweiz.ch/artikel/erste-kunden-gewinnen-schweiz): Spezifische Strategien für den Start — ohne Budget und ohne bestehendes Netzwerk.
 - [Crowdfunding Schweiz](https://www.selbstaendig-schweiz.ch/artikel/crowdfunding-schweiz-selbstaendige): Schweizer Crowdfunding-Plattformen, Kampagnenplanung und Erfolgsquoten für Selbständige.
+- [Social Media Marketing KMU Schweiz](https://www.selbstaendig-schweiz.ch/artikel/social-media-marketing-kmu-schweiz): Plattformauswahl, Content-Plan, Tools und Paid Ads für Schweizer KMU und Selbständige.
 
 ## Gründung & Recht
 
@@ -79,6 +82,15 @@
 - [Selbständig als Treuhänder](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-treuhaender-schweiz): Berufsausübungsbewilligung, Haftpflicht und Marktchancen für selbständige Treuhänder.
 - [Selbständig als Handwerker](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-handwerker-schweiz): Meisterprüfung, Bewilligungen und Kalkulation für Handwerksbetriebe in der Schweiz.
 - [Selbständig als Fotograf](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-fotograf-schweiz): Honorargestaltung, Urheberrecht und Kundenakquise für freie Fotografinnen und Fotografen.
+- [Selbständig als Personal Trainer](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-personal-trainer-schweiz): Ausbildung, Haftpflicht, Stundensätze und Kundengewinnung für selbständige Personal Trainer.
+- [Selbständig als Friseur](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-friseur-schweiz): Meisterbrief, Bewilligungen und Businessaufbau für selbständige Friseurinnen und Friseure.
+- [Selbständig als Kosmetikerin](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-kosmetikerin-schweiz): Ausbildungsvoraussetzungen, Betriebsbewilligungen und Pricing für Kosmetikerinnen.
+- [Selbständig als Masseur](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-masseur-schweiz): Anerkannte Ausbildungen, Krankenkassenzulassung und Praxisaufbau für Masseure.
+- [Selbständig als Gärtner](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-gaertner-schweiz): Betriebsaufbau, Geräteinvestition und Kundengewinnung für selbständige Gärtner.
+- [Selbständig als Maler](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-maler-schweiz): Meisterprüfung, Offertenwesen und Kalkulation für selbständige Maler und Gipser.
+- [Selbständig als Übersetzer](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-uebersetzer-schweiz): Sprachkombinationen, Fachgebiete und Direktkunden-Akquise für freie Übersetzer.
+- [Selbständig als Texter](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-texter-schweiz): Textarten, Honorare und Kundenfindung für freie Texter und Copywriter in der Schweiz.
+- [Selbständig als Virtual Assistant](https://www.selbstaendig-schweiz.ch/artikel/selbstaendig-als-virtual-assistant-schweiz): Aufgaben, Preisgestaltung und Plattformen für virtuelle Assistenten in der Schweiz.
 
 ## Schlüsselfakten
 

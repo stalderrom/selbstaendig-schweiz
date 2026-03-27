@@ -63,6 +63,24 @@ export const metadata: Metadata = {
   }
 };
 
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Selbständig Schweiz',
+  url: 'https://www.selbstaendig-schweiz.ch',
+  logo: 'https://www.selbstaendig-schweiz.ch/logo.png',
+  description: 'Schweizer Ratgeberportal für Selbständige, Freelancer und Gründer – Guides zu Gründung, Steuern, Versicherungen und Kundengewinnung.',
+  inLanguage: 'de-CH',
+  areaServed: {
+    '@type': 'Country',
+    name: 'Switzerland',
+  },
+  sameAs: [
+    'https://www.linkedin.com/company/selbstaendig-schweiz',
+    'https://www.instagram.com/selbstaendig_schweiz',
+  ],
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -72,6 +90,10 @@ export default function RootLayout({
     <html lang="de-CH">
       <head>
         <script src="https://analytics.ahrefs.com/analytics.js" data-key="OhOg6BnWptgP4aNQHhumbw" async></script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
       </head>
       {process.env.NODE_ENV === 'production' && (
         <>

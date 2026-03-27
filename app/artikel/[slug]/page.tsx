@@ -139,6 +139,22 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     })),
   } : null;
 
+  // Speakable Schema (für AI-Assistenten und Voice Search)
+  const speakableSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: article.title,
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['h1', '.article-description', '.faq-section'],
+      xpath: [
+        "/html/head/title",
+        "/html/head/meta[@name='description']/@content",
+      ],
+    },
+    url: `https://www.selbstaendig-schweiz.ch/artikel/${article.slug}`,
+  };
+
   // FAQ Schema (wenn FAQs vorhanden)
   const faqSchema = article.faq && article.faq.length > 0 ? {
     '@context': 'https://schema.org',
@@ -182,6 +198,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
       )}
+
+      {/* Speakable Schema (AI assistants + voice search) */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+      />
 
       <Header />
 
