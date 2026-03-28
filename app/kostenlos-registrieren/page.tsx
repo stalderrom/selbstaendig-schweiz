@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Kostenlos registrieren – Selbständigkeits-Cockpit',
   description: 'Dein persönliches Cockpit für Selbständige in der Schweiz. Fristen-Wächter, Dokument-Archiv, Selbständigkeits-Score — kostenlos, für immer.',
   alternates: {
-    canonical: 'https://www.selbstaendig-schweiz.ch/kostenlos-registrieren',
+    canonical: 'https://www.selbständig-schweiz.ch/kostenlos-registrieren',
   },
   openGraph: {
     title: 'Kostenlos registrieren – Selbständigkeits-Cockpit',

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     'auftragsbestätigung kostenlos',
   ],
   alternates: {
-    canonical: 'https://www.selbstaendig-schweiz.ch/tools/auftragsbestaetigung',
+    canonical: 'https://www.selbständig-schweiz.ch/tools/auftragsbestaetigung',
   },
   openGraph: {
     title: 'Auftragsbestätigung erstellen Schweiz – kostenlos als PDF',
@@ -34,7 +34,7 @@ const softwareSchema = {
   '@type': 'WebApplication',
   name: 'Auftragsbestätigung Generator Schweiz',
   description: 'Kostenloser Online-Generator für Auftragsbestätigungen nach Schweizer Standard. Formular ausfüllen, Logo hochladen, PDF downloaden.',
-  url: 'https://www.selbstaendig-schweiz.ch/tools/auftragsbestaetigung',
+  url: 'https://www.selbständig-schweiz.ch/tools/auftragsbestaetigung',
   applicationCategory: 'BusinessApplication',
   operatingSystem: 'Web Browser',
   offers: {
@@ -152,9 +152,9 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.selbstaendig-schweiz.ch/' },
-    { '@type': 'ListItem', position: 2, name: 'Tools', item: 'https://www.selbstaendig-schweiz.ch/tools' },
-    { '@type': 'ListItem', position: 3, name: 'Auftragsbestätigung Generator', item: 'https://www.selbstaendig-schweiz.ch/tools/auftragsbestaetigung' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.selbständig-schweiz.ch/' },
+    { '@type': 'ListItem', position: 2, name: 'Tools', item: 'https://www.selbständig-schweiz.ch/tools' },
+    { '@type': 'ListItem', position: 3, name: 'Auftragsbestätigung Generator', item: 'https://www.selbständig-schweiz.ch/tools/auftragsbestaetigung' },
   ],
 };
 

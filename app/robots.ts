@@ -19,6 +19,6 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: 'CCBot', allow: '/', disallow: ['/api/', '/admin/'] },
       { userAgent: 'cohere-ai', allow: '/', disallow: ['/api/', '/admin/'] },
     ],
-    sitemap: 'https://www.selbstaendig-schweiz.ch/sitemap.xml',
+    sitemap: 'https://www.selbständig-schweiz.ch/sitemap.xml',
   };
 }

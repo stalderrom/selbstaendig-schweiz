@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getArticleBySlug, getAllArticles } from '@/lib/articles';
-import { CATEGORIES } from '@/types/article';
+import { Article, CATEGORIES, FAQ } from '@/types/article';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
@@ -9,6 +9,150 @@ import Image from 'next/image';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
+
+const DOMAIN = 'https://www.selbständig-schweiz.ch';
+
+const HUB_LINKS = [
+  { href: '/kategorie/steuern', label: 'Steuern' },
+  { href: '/kategorie/buchhaltung-und-finanzen', label: 'Buchhaltung' },
+  { href: '/kategorie/versicherungen', label: 'Versicherung' },
+  { href: '/kategorie/selbstaendig-machen-gruendung', label: 'Firmengründung' },
+];
+
+const TRAFFIC_PRIORITY_SLUGS = new Set([
+  'selbstaendig-machen-schweiz',
+  'buchhaltung-selbststaendige',
+  'einzelfirma-gruenden',
+  'gmbh-gruenden',
+  'einfache-gesellschaft-schweiz',
+  'kollektivgesellschaft-gruenden-schweiz',
+  'unternehmen-gruenden-schweiz',
+  'selbstaendig-werden-schweiz',
+  'einfache-buchhaltung-schweiz',
+  'erfolgsrechnung-erstellen-schweiz',
+  'lohnabrechnung-schweiz-unternehmen',
+  'offerte-erstellen-schweiz',
+  'qr-rechnung-erstellen-schweiz',
+  'rechnungsvorlage-schweiz',
+  'steuern-selbststaendige',
+  'versicherungen-selbststaendige',
+  'ahv-rente-berechnen-schweiz',
+  'berufshaftpflicht-schweiz',
+  'rechtsschutzversicherung-schweiz',
+  'mwst-selbststaendige',
+]);
+
+function cleanMarkdownText(text: string): string {
+  return text
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/[`*_>#-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function extractSectionSnippets(content: string): Array<{ heading: string; snippet: string }> {
+  const lines = content.split('\n');
+  const snippets: Array<{ heading: string; snippet: string }> = [];
+  let currentHeading = '';
+  let currentBody: string[] = [];
+
+  const flush = () => {
+    if (!currentHeading) {
+      return;
+    }
+    const body = cleanMarkdownText(currentBody.join(' '));
+    if (body.length > 40) {
+      snippets.push({
+        heading: cleanMarkdownText(currentHeading),
+        snippet: body.slice(0, 260),
+      });
+    }
+  };
+
+  for (const line of lines) {
+    const headingMatch = line.match(/^##\s+(.+)$/);
+    if (headingMatch) {
+      flush();
+      currentHeading = headingMatch[1];
+      currentBody = [];
+      continue;
+    }
+    if (line.startsWith('#')) {
+      continue;
+    }
+    currentBody.push(line);
+  }
+  flush();
+
+  return snippets.slice(0, 4);
+}
+
+function buildFallbackFaq(article: Article): FAQ[] {
+  const snippets = extractSectionSnippets(article.content);
+  const baseFaq: FAQ = {
+    question: `Was ist bei ${article.title} in der Schweiz besonders wichtig?`,
+    answer: cleanMarkdownText(article.description),
+  };
+
+  const sectionFaqs = snippets.map(({ heading, snippet }) => ({
+    question: heading.endsWith('?') ? heading : `Wie funktioniert ${heading} in der Schweiz?`,
+    answer: snippet,
+  }));
+
+  return [baseFaq, ...sectionFaqs].slice(0, 5);
+}
+
+function buildRelatedArticles(article: Article, allArticles: Article[]): Article[] {
+  const bySlug = new Map(allArticles.map((candidate) => [candidate.slug, candidate]));
+  const ordered: Article[] = [];
+  const seen = new Set<string>([article.slug]);
+
+  const addCandidate = (candidate: Article | undefined) => {
+    if (!candidate || seen.has(candidate.slug)) {
+      return;
+    }
+    seen.add(candidate.slug);
+    ordered.push(candidate);
+  };
+
+  for (const slug of article.related || []) {
+    addCandidate(bySlug.get(slug));
+  }
+
+  for (const candidate of allArticles) {
+    if (candidate.category === article.category) {
+      addCandidate(candidate);
+    }
+  }
+
+  const hubArticleSlugs = [
+    'steuern-selbststaendige',
+    'buchhaltung-selbststaendige',
+    'versicherungen-selbststaendige',
+    'selbstaendig-machen-schweiz',
+  ];
+  for (const hubSlug of hubArticleSlugs) {
+    addCandidate(bySlug.get(hubSlug));
+  }
+
+  const keywordPool = new Set(article.keywords.map((keyword) => keyword.toLowerCase()));
+  const byKeywordOverlap = [...allArticles]
+    .filter((candidate) => candidate.slug !== article.slug)
+    .map((candidate) => ({
+      candidate,
+      score: candidate.keywords.reduce(
+        (sum, keyword) => sum + (keywordPool.has(keyword.toLowerCase()) ? 1 : 0),
+        0,
+      ),
+    }))
+    .sort((a, b) => b.score - a.score);
+
+  for (const { candidate } of byKeywordOverlap) {
+    addCandidate(candidate);
+  }
+
+  return ordered.slice(0, 6);
+}
 
 interface ArticlePageProps {
   params: Promise<{
@@ -47,7 +191,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       authors: [article.author],
     },
     alternates: {
-      canonical: `https://www.selbstaendig-schweiz.ch/artikel/${article.slug}`,
+      canonical: `${DOMAIN}/artikel/${article.slug}`,
     },
   };
 }
@@ -63,11 +207,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const category = CATEGORIES.find(cat => cat.slug === article.category);
   const publishDate = new Date(article.updatedAt || article.publishedAt);
 
-  // Related articles: use explicit `related` slugs or fall back to same category
   const allArticles = await getAllArticles();
-  const relatedArticles = article.related?.length
-    ? (article.related.map(s => allArticles.find(a => a.slug === s)).filter(Boolean) as typeof allArticles).slice(0, 3)
-    : allArticles.filter(a => a.slug !== article.slug && a.category === article.category).slice(0, 3);
+  const relatedArticles = buildRelatedArticles(article, allArticles);
+  const contextualLinks = relatedArticles.slice(0, 3);
+  const faqItems = article.faq && article.faq.length > 0
+    ? article.faq.slice(0, 5)
+    : TRAFFIC_PRIORITY_SLUGS.has(article.slug)
+      ? buildFallbackFaq(article)
+      : [];
 
   // Article Schema (vollständig nach Google-Standards)
   const articleSchema = {
@@ -75,7 +222,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     '@type': 'Article',
     headline: article.title,
     description: article.description,
-    image: article.featuredImage || 'https://selbstaendig-schweiz.ch/og-image.jpg',
+    image: article.featuredImage || `${DOMAIN}/og-image.jpg`,
     author: {
       '@type': 'Person',
       name: article.author,
@@ -85,16 +232,19 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       name: 'Selbständig Schweiz',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://selbstaendig-schweiz.ch/logo.png',
+        url: `${DOMAIN}/logo.png`,
         width: 600,
         height: 60,
       }
     },
     datePublished: article.publishedAt,
     dateModified: article.updatedAt,
+    wordCount: article.wordCount,
+    inLanguage: 'de-CH',
+    url: `${DOMAIN}/artikel/${article.slug}`,
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://selbstaendig-schweiz.ch/artikel/${article.slug}`
+      '@id': `${DOMAIN}/artikel/${article.slug}`
     }
   };
 
@@ -107,13 +257,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://selbstaendig-schweiz.ch'
+        item: DOMAIN
       },
       ...(category ? [{
         '@type': 'ListItem',
         position: 2,
         name: category.name,
-        item: `https://selbstaendig-schweiz.ch/kategorie/${category.slug}`
+        item: `${DOMAIN}/kategorie/${category.slug}`
       }] : []),
       {
         '@type': 'ListItem',
@@ -152,14 +302,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         "/html/head/meta[@name='description']/@content",
       ],
     },
-    url: `https://www.selbstaendig-schweiz.ch/artikel/${article.slug}`,
+    url: `${DOMAIN}/artikel/${article.slug}`,
   };
 
   // FAQ Schema (wenn FAQs vorhanden)
-  const faqSchema = article.faq && article.faq.length > 0 ? {
+  const faqSchema = faqItems.length > 0 ? {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: article.faq.map(item => ({
+    mainEntity: faqItems.map(item => ({
       '@type': 'Question',
       name: item.question,
       acceptedAnswer: {
@@ -317,6 +467,38 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   </div>
                 </div>
               )}
+
+              <section className="mt-10 border-t border-warm-200 pt-8">
+                <h2 className="font-serif text-2xl font-bold text-warm-900 mb-4">Interne Links zum Vertiefen</h2>
+                <p className="text-warm-600 leading-relaxed mb-5">
+                  Diese Themen passen inhaltlich zu diesem Artikel und helfen dir, die nächsten Schritte gezielt umzusetzen.
+                </p>
+                <div className="grid gap-3 sm:grid-cols-2">
+                  {contextualLinks.map((rel) => (
+                    <Link
+                      key={rel.slug}
+                      href={`/artikel/${rel.slug}`}
+                      className="border border-warm-200 bg-warm-50 px-4 py-3 hover:border-accent transition-colors"
+                    >
+                      <span className="text-sm font-semibold text-warm-900">{rel.title}</span>
+                    </Link>
+                  ))}
+                </div>
+                <div className="mt-6">
+                  <p className="category-label text-warm-400 mb-3">Strategische Hub-Seiten</p>
+                  <div className="flex flex-wrap gap-3">
+                    {HUB_LINKS.map((hub) => (
+                      <Link
+                        key={hub.href}
+                        href={hub.href}
+                        className="text-sm font-medium text-accent underline decoration-accent-mid underline-offset-2 hover:text-accent-dark"
+                      >
+                        {hub.label}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              </section>
 
 
               {/* CTA Box */}

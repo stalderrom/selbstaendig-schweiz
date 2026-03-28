@@ -26,12 +26,13 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
       publishedAt: data.publishedAt,
       updatedAt: data.updatedAt || data.publishedAt,
       featuredImage: data.featuredImage,
+      wordCount,
       readingTime,
       related: data.related || [],
       faq: data.faq || [],
       howto: data.howto || undefined
     };
-  } catch (error) {
+  } catch {
     return null;
   }
 }

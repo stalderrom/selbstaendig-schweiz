@@ -43,10 +43,10 @@ export default function KontaktPage() {
                 <div className="border-t border-warm-200 pt-6">
                   <h3 className="font-semibold text-warm-900 mb-2">E-Mail</h3>
                   <a
-                    href="mailto:kontakt@selbstaendig-schweiz.ch"
+                    href="mailto:kontakt@selbständig-schweiz.ch"
                     className="text-accent hover:text-accent-dark font-medium transition-colors"
                   >
-                    kontakt@selbstaendig-schweiz.ch
+                    kontakt@selbständig-schweiz.ch
                   </a>
                 </div>
 

@@ -28,6 +28,7 @@ export interface Article {
   publishedAt: string;
   updatedAt: string;
   featuredImage?: string;
+  wordCount: number;
   readingTime: number;
   related?: string[];
   faq?: FAQ[];

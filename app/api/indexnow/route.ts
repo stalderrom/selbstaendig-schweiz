@@ -71,7 +71,7 @@ export async function POST(request: NextRequest) {
         message:
           'Invalid request. Provide either "url", "urls", or "type" with "slug"',
         examples: [
-          { url: 'https://www.selbstaendig-schweiz.ch/artikel/...' },
+          { url: 'https://www.selbständig-schweiz.ch/artikel/...' },
           { urls: ['https://...', 'https://...'] },
           { type: 'article', slug: 'einzelfirma-gruenden' },
           { type: 'category', slug: 'selbstaendig-machen-gruendung' },
@@ -101,9 +101,9 @@ export async function POST(request: NextRequest) {
 export async function GET() {
   return NextResponse.json({
     status: 'IndexNow is configured',
-    host: 'www.selbstaendig-schweiz.ch',
+    host: 'www.selbständig-schweiz.ch',
     keyLocation:
-      'https://www.selbstaendig-schweiz.ch/7d22c5dd-0c94-432e-b929-6355d1bc0152.txt',
+      'https://www.selbständig-schweiz.ch/7d22c5dd-0c94-432e-b929-6355d1bc0152.txt',
     endpoints: {
       'POST /api/indexnow': 'Submit URLs to IndexNow',
     },
@@ -111,7 +111,7 @@ export async function GET() {
       {
         description: 'Submit single URL',
         method: 'POST',
-        body: { url: 'https://www.selbstaendig-schweiz.ch/artikel/...' },
+        body: { url: 'https://www.selbständig-schweiz.ch/artikel/...' },
       },
       {
         description: 'Submit multiple URLs',

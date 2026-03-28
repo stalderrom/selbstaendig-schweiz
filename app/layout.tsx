@@ -19,7 +19,7 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.selbstaendig-schweiz.ch'),
+  metadataBase: new URL('https://www.selbständig-schweiz.ch'),
   title: {
     default: "Selbständig Schweiz – Portal für Gründer & Freelancer",
     template: "%s"
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "de_CH",
-    url: "https://www.selbstaendig-schweiz.ch",
+    url: "https://www.selbständig-schweiz.ch",
     siteName: "Selbständig Schweiz",
     title: "Selbständig Schweiz - Das Portal für Selbstständige und Gründer",
     description: "Alles rund um Selbstständigkeit, Freelancing und Startup-Gründung in der Schweiz.",
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     }
   },
   alternates: {
-    canonical: "https://www.selbstaendig-schweiz.ch"
+    canonical: "https://www.selbständig-schweiz.ch"
   }
 };
 
@@ -67,8 +67,8 @@ const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: 'Selbständig Schweiz',
-  url: 'https://www.selbstaendig-schweiz.ch',
-  logo: 'https://www.selbstaendig-schweiz.ch/logo.png',
+  url: 'https://www.selbständig-schweiz.ch',
+  logo: 'https://www.selbständig-schweiz.ch/logo.png',
   description: 'Schweizer Ratgeberportal für Selbständige, Freelancer und Gründer – Guides zu Gründung, Steuern, Versicherungen und Kundengewinnung.',
   inLanguage: 'de-CH',
   areaServed: {

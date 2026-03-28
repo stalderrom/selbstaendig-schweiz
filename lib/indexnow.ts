@@ -1,5 +1,5 @@
 /**
- * IndexNow Implementation für selbstaendig-schweiz.ch
+ * IndexNow Implementation für selbständig-schweiz.ch
  *
  * IndexNow ermöglicht es, Suchmaschinen sofort über neue/aktualisierte URLs zu informieren.
  * Unterstützt: Bing, Yandex, Seznam.cz, Naver, und indirekt Google.
@@ -8,7 +8,7 @@
  */
 
 const INDEXNOW_API_KEY = '7d22c5dd-0c94-432e-b929-6355d1bc0152';
-const SITE_HOST = 'www.selbstaendig-schweiz.ch';
+const SITE_HOST = 'www.selbständig-schweiz.ch';
 
 /**
  * Sendet eine einzelne URL an IndexNow

@@ -41,20 +41,25 @@ const TRUST = [
 export default function KostenlosRegistrierenForm() {
   const [vorname, setVorname] = useState('');
   const [email, setEmail] = useState('');
+  const [consent, setConsent] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
-    if (!vorname.trim() || !email.trim()) return;
+    if (!vorname.trim() || !email.trim() || !consent) return;
     setLoading(true);
     setError('');
     try {
       const res = await fetch('/api/newsletter', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ vorname: vorname.trim(), email: email.trim() }),
+        body: JSON.stringify({
+          vorname: vorname.trim(),
+          email: email.trim(),
+          consent: true,
+        }),
       });
       if (!res.ok) {
         const data = await res.json().catch(() => ({}));
@@ -133,11 +138,29 @@ export default function KostenlosRegistrierenForm() {
 
               <button
                 type="submit"
-                disabled={loading}
+                disabled={loading || !consent}
                 className="w-full bg-blue-600 text-white py-4 rounded-xl font-bold text-base hover:bg-blue-700 active:scale-[0.99] transition-all shadow-md mt-2 disabled:opacity-60 disabled:cursor-not-allowed"
               >
                 {loading ? 'Wird gesendet…' : 'Kostenloses Konto erstellen →'}
               </button>
+
+              <label className="flex items-start gap-2.5 pt-1">
+                <input
+                  type="checkbox"
+                  required
+                  checked={consent}
+                  onChange={e => setConsent(e.target.checked)}
+                  className="mt-0.5 h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
+                />
+                <span className="text-xs text-gray-500 leading-relaxed">
+                  Ich möchte den Newsletter mit Tipps für Selbständige erhalten und akzeptiere die Verarbeitung
+                  meiner Daten gemäss{' '}
+                  <Link href="/datenschutz" className="text-blue-600 hover:underline">
+                    Datenschutzerklärung
+                  </Link>
+                  . Abmeldung jederzeit über den Link in jeder E-Mail möglich.
+                </span>
+              </label>
 
               {error && (
                 <p className="text-center text-sm text-red-600 pt-1">{error}</p>

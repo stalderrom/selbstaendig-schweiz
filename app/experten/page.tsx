@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     'berater selbständige schweiz',
   ],
   alternates: {
-    canonical: 'https://www.selbstaendig-schweiz.ch/experten',
+    canonical: 'https://www.selbständig-schweiz.ch/experten',
   },
   openGraph: {
     title: 'Experten für Selbständige Schweiz – Dein kuratiertes Experten-Team als Abo',
@@ -425,7 +425,7 @@ export default function ExpertenPage() {
               Trag dich ein — du bekommst als Erste/r Zugang und einen Launch-Rabatt.
             </p>
             <a
-              href="mailto:hallo@selbstaendig-schweiz.ch?subject=Warteliste Experten-Netzwerk"
+              href="mailto:hallo@selbständig-schweiz.ch?subject=Warteliste Experten-Netzwerk"
               className="inline-block bg-white text-blue-700 px-8 py-3 rounded-xl font-bold hover:bg-blue-50 transition-all shadow-md"
             >
               Jetzt eintragen →

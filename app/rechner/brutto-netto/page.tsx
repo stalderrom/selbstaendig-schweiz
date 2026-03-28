@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     'lohnrechner schweiz 2026',
   ],
   alternates: {
-    canonical: 'https://www.selbstaendig-schweiz.ch/rechner/brutto-netto',
+    canonical: 'https://www.selbständig-schweiz.ch/rechner/brutto-netto',
   },
   openGraph: {
     title: 'Brutto-Netto-Rechner Schweiz 2026',
@@ -153,9 +153,9 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.selbstaendig-schweiz.ch/' },
-    { '@type': 'ListItem', position: 2, name: 'Rechner', item: 'https://www.selbstaendig-schweiz.ch/rechner' },
-    { '@type': 'ListItem', position: 3, name: 'Brutto-Netto-Rechner', item: 'https://www.selbstaendig-schweiz.ch/rechner/brutto-netto' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.selbständig-schweiz.ch/' },
+    { '@type': 'ListItem', position: 2, name: 'Rechner', item: 'https://www.selbständig-schweiz.ch/rechner' },
+    { '@type': 'ListItem', position: 3, name: 'Brutto-Netto-Rechner', item: 'https://www.selbständig-schweiz.ch/rechner/brutto-netto' },
   ],
 };
 

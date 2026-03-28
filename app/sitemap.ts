@@ -59,7 +59,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Use Punycode for XML compatibility (Google's sitemap parser needs ASCII)
   // Note: GSC property can still be selbständig-schweiz.ch, but sitemap URLs must be Punycode
-  const DOMAIN = 'https://www.selbstaendig-schweiz.ch';
+  const DOMAIN = 'https://www.selbständig-schweiz.ch';
 
   const articleUrls = articles.map((article) => ({
     url: `${DOMAIN}/artikel/${article.slug}`,

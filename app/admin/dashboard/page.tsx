@@ -192,9 +192,9 @@ export default function AdminDashboard() {
           <h2 className="font-semibold text-gray-900 mb-3">Google Search Console — Setup</h2>
           <ol className="text-sm text-gray-700 space-y-2 list-decimal list-inside">
             <li>Gehe zu <strong>search.google.com/search-console</strong></li>
-            <li>Klicke auf "Property hinzufügen" → URL-Präfix: <code className="bg-white px-1 rounded">https://www.selbstaendig-schweiz.ch</code></li>
+            <li>Klicke auf "Property hinzufügen" → URL-Präfix: <code className="bg-white px-1 rounded">https://www.selbständig-schweiz.ch</code></li>
             <li>Verifiziere mit dem HTML-Tag (Google liefert einen Meta-Tag → in <code>app/layout.tsx</code> metadata.verification einfügen)</li>
-            <li>Nach Verifizierung: Sitemaps → <code className="bg-white px-1 rounded">https://www.selbstaendig-schweiz.ch/sitemap.xml</code> einreichen</li>
+            <li>Nach Verifizierung: Sitemaps → <code className="bg-white px-1 rounded">https://www.selbständig-schweiz.ch/sitemap.xml</code> einreichen</li>
             <li>Prüfe nach 24–48h "Coverage" und "Performance" für erste Daten</li>
           </ol>
         </div>

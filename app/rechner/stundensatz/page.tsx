@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     'stundensatz mit ahv und steuern',
   ],
   alternates: {
-    canonical: 'https://www.selbstaendig-schweiz.ch/rechner/stundensatz',
+    canonical: 'https://www.selbständig-schweiz.ch/rechner/stundensatz',
   },
   openGraph: {
     title: 'Stundensatz Rechner Schweiz 2026 – kostenlos & sofort',
@@ -137,9 +137,9 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.selbstaendig-schweiz.ch/' },
-    { '@type': 'ListItem', position: 2, name: 'Rechner', item: 'https://www.selbstaendig-schweiz.ch/rechner' },
-    { '@type': 'ListItem', position: 3, name: 'Stundensatz Rechner', item: 'https://www.selbstaendig-schweiz.ch/rechner/stundensatz' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.selbständig-schweiz.ch/' },
+    { '@type': 'ListItem', position: 2, name: 'Rechner', item: 'https://www.selbständig-schweiz.ch/rechner' },
+    { '@type': 'ListItem', position: 3, name: 'Stundensatz Rechner', item: 'https://www.selbständig-schweiz.ch/rechner/stundensatz' },
   ],
 };
 
