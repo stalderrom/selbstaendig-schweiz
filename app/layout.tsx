@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Playfair_Display, Lato } from "next/font/google";
 import Script from "next/script";
+import CookieConsent from "@/components/CookieConsent";
 import "./globals.css";
 
 const playfair = Playfair_Display({
@@ -94,6 +95,21 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
         />
+        {process.env.NODE_ENV === 'production' && process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID && (
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('consent', 'default', {
+                  analytics_storage: 'denied',
+                  ad_storage: 'denied',
+                  wait_for_update: 2000
+                });
+              `,
+            }}
+          />
+        )}
       </head>
       <body className={`${playfair.variable} ${lato.variable} font-sans antialiased`}>
         {children}
@@ -111,6 +127,7 @@ export default function RootLayout({
                 gtag('config', '${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}');
               `}
             </Script>
+            <CookieConsent />
           </>
         )}
       </body>
