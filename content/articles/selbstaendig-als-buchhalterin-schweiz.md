@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Buchhalterin/Buchhalter Schweiz 2026: Leitfaden"
-metaTitle: 'Selbständig als Buchhalter Schweiz 2026: Start & Verdienst'
+metaTitle: "Selbständig als Buchhalter Schweiz 2026: Einkommen"
 description: "Selbständig als Buchhalter/Buchhalterin in der Schweiz: Ausbildung, Zertifikate, Kunden gewinnen und Einkommenspotenzial. Vollständiger Leitfaden 2026."
 keywords:
   - selbständig als buchhalterin schweiz

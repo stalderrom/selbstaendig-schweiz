@@ -1,6 +1,6 @@
 ---
 title: "Freelancer Schweiz 2026: Alles was du für den Start wissen musst"
-metaTitle: 'Freelancer Schweiz 2026: Steuern, AHV & Start-Guide'
+metaTitle: "Freelancer Schweiz 2026: Steuern, AHV & Einstieg"
 description: 'Freelancer in der Schweiz: Wie du startest, AHV anmeldest, Steuern zahlst und deinen Stundensatz berechnest. Schritt für Schritt erklärt.'
 keywords: ["freelancer schweiz", "freelancer werden schweiz", "freelancer steuern schweiz", "freelancer ahv schweiz", "freelancer selbständig schweiz"]
 category: "selbstaendig-machen-gruendung"

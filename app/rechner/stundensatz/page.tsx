@@ -5,7 +5,7 @@ import StundensatzRechner from '@/components/StundensatzRechner';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Stundensatz Rechner Schweiz 2026 – kostenlos & sofort',
+  title: 'Stundensatz Rechner Schweiz 2026 – direkt berechnen',
   description: 'Kostenloser Stundensatz Rechner Schweiz 2026: Berechne deinen Mindeststundensatz als Selbständiger – inkl. AHV, Steuern, Betriebskosten, alle 26 Kantone.',
   keywords: [
     'stundensatz rechner schweiz',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.selbständig-schweiz.ch/rechner/stundensatz',
   },
   openGraph: {
-    title: 'Stundensatz Rechner Schweiz 2026 – kostenlos & sofort',
+    title: 'Stundensatz Rechner Schweiz 2026 – direkt berechnen',
     description: 'Berechne deinen Mindeststundensatz als Selbständiger – inkl. AHV, Steuern, Betriebskosten, alle 26 Kantone.',
     type: 'website',
   },

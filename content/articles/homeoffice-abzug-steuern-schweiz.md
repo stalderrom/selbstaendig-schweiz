@@ -1,6 +1,6 @@
 ---
 title: "Homeoffice Abzug Steuern Schweiz 2026: Was darf ich abziehen?"
-metaTitle: 'Homeoffice Abzug Steuern Schweiz 2026: Anleitung'
+metaTitle: "Homeoffice Abzug Steuern Schweiz 2026: So geht es"
 description: "Homeoffice Abzug Steuern Schweiz: Was können Selbständige und Angestellte abziehen? Fläche, Einrichtung, Internet – Rechenbeispiele und Tipps 2026."
 keywords:
   - homeoffice abzug steuern schweiz

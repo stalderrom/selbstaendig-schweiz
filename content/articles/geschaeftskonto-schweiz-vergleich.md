@@ -1,6 +1,6 @@
 ---
 title: "Geschäftskonto Schweiz Vergleich 2026: Die besten KMU-Konten"
-metaTitle: 'Geschäftskonto Schweiz 2026: Top 8 im Vergleich'
+metaTitle: "Geschäftskonto Schweiz 2026: Vergleich der besten"
 description: "Geschäftskonto Schweiz Vergleich 2026: Die besten Konten für Selbständige und KMU. Preise, Funktionen, Vor- und Nachteile von UBS, Neon, Revolut & Co."
 keywords:
   - geschäftskonto schweiz

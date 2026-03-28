@@ -1,6 +1,6 @@
 ---
 title: "Businessplan Vorlage Schweiz 2026: Kostenlose Vorlage mit Beispielen"
-metaTitle: 'Businessplan Vorlage Schweiz 2026: Gratis Download'
+metaTitle: "Businessplan Vorlage Schweiz 2026: Gratis Muster"
 description: 'Businessplan Vorlage Schweiz kostenlos: Alle Abschnitte erklärt, mit Beispielen und Zahlen für CHF. Für Einzelfirma, GmbH und Startups.'
 keywords: ["businessplan vorlage schweiz", "businessplan schweiz kostenlos", "businessplan erstellen schweiz", "businessplan vorlage kostenlos", "businessplan vorlage selbständige schweiz"]
 category: "selbstaendig-machen-gruendung"

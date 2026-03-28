@@ -1,6 +1,6 @@
 ---
 title: "MWST Pflicht Schweiz 2026: Ab wann bist du MWST-pflichtig?"
-metaTitle: 'MWST Pflicht Schweiz 2026: Schwellenwert & Anmeldung'
+metaTitle: "MWST Pflicht Schweiz 2026: Grenze & Anmeldung"
 description: "MWST Pflicht Schweiz 2026: Ab CHF 100'000 Umsatz obligatorisch. Berechnung, Ausnahmen, freiwillige Registrierung und Anmeldung bei der ESTV erklärt."
 keywords:
   - mwst pflicht schweiz
