@@ -524,11 +524,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   {relatedArticles.map((rel) => {
                     const relCategory = CATEGORIES.find(c => c.slug === rel.category);
                     return (
-                      <Link
-                        key={rel.slug}
-                        href={`/artikel/${rel.slug}`}
-                        className="group block border-t border-warm-200 py-5 hover:border-accent transition-colors"
-                      >
+                      <div key={rel.slug} className="relative group border-t border-warm-200 py-5 hover:border-accent transition-colors">
+                        <Link
+                          href={`/artikel/${rel.slug}`}
+                          className="absolute inset-0"
+                          aria-label={rel.title}
+                        />
                         {relCategory && (
                           <span className="category-label text-accent block mb-2">{relCategory.name}</span>
                         )}
@@ -542,7 +543,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                             <path d="M2 6h8M7 3l3 3-3 3" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                           </svg>
                         </span>
-                      </Link>
+                      </div>
                     );
                   })}
                 </div>
