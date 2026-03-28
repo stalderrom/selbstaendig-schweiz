@@ -153,31 +153,31 @@ Kündigungsklauseln, Sicherheitenverwertung und Reporting-Pflichten werden oft �
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wie lange dauert eine Kreditprüfung in der Schweiz?
+**Wie lange dauert eine Kreditprüfung in der Schweiz?**
 
 Bei Standardfällen dauert die Prüfung 2-4 Wochen, bei komplexeren Finanzierungen bis zu 8 Wochen. Kantonalbanken und Regionalbanken sind oft schneller als Grossbanken, da sie kürzere Entscheidungswege haben. Die Vollständigkeit deiner Unterlagen beeinflusst die Dauer massgeblich – fehlende Dokumente können die Prüfung um weitere 2-3 Wochen verzögern. Einige Banken bieten gegen Aufpreis Express-Verfahren an, die binnen 3-5 Arbeitstagen zu einem Entscheid führen.
 
-### Kann ich als Einzelfirma überhaupt einen Geschäftskredit erhalten?
+**Kann ich als Einzelfirma überhaupt einen Geschäftskredit erhalten?**
 
 Ja, aber die Hürden sind höher als bei GmbH oder AG. Als Einzelfirmen-Inhaber haftest du persönlich und unbeschränkt, weshalb Banken sowohl deine geschäftliche als auch private Bonität prüfen. Du brauchst meist zusätzliche Sicherheiten und einen Nachweis stabiler Geschäftstätigkeit über mindestens 2-3 Jahre. Vorteil: Du kannst flexibel zwischen Geschäfts- und Privatkredit wählen, je nachdem was günstiger ist. Viele erfolgreiche Einzelfirmen erhalten problemlos Kredite bis CHF 500'000.
 
-### Was passiert bei einer ZEK-Eintragung?
+**Was passiert bei einer ZEK-Eintragung?**
 
 Negative ZEK-Einträge wie Betreibungen oder Verlustscheine erschweren die Kreditvergabe erheblich. Ein einzelner kleiner Eintrag kann durch höhere Sicherheiten oder Bürgschaften kompensiert werden. Mehrere Einträge oder grosse Beträge führen meist zur Ablehnung. Positive Nachricht: Nach 5 Jahren werden Einträge automatisch gelöscht. Du kannst jährlich eine kostenlose ZEK-Auskunft verlangen und Fehler korrigieren lassen. Bei alten, erledigten Betreibungen hilft manchmal ein Begleitschreiben mit der Erklärung der Umstände.
 
-### Welche Sicherheiten akzeptieren Schweizer Banken?
+**Welche Sicherheiten akzeptieren Schweizer Banken?**
 
 Schweizer Banken akzeptieren verschiedene Sicherheiten mit unterschiedlichen Beleihungsquoten. Grundpfandrechte auf Immobilien sind am beliebtesten (Beleihung 60-80% des Verkehrswerts). Faustpfand auf Wertschriften wird zu 70-90% des Kurswerts akzeptiert. Bürgschaften solventer Dritter gelten als erstklassige Sicherheit. Geschäftsausstattung und Warenlager werden nur zu 20-40% des Werts beliehen. Forderungen aus Lieferungen können zediert werden, bringen aber meist nur 50-70% Sicherheitswert.
 
-### Sind Online-Kredite eine Alternative?
+**Sind Online-Kredite eine Alternative?**
 
 Online-Plattformen wie cashgate, BANK-now oder Lendico bieten schnellere Prozesse und weniger Papierkram. Die Zinsen sind aber oft 1-3% höher als bei traditionellen Banken. Für kleinere Beträge bis CHF 50'000 sind sie durchaus eine Option, besonders wenn es schnell gehen muss. Für grössere Finanzierungen sind traditionelle Banken meist günstiger. Vorteil der Online-Anbieter: Sie nutzen moderne Scoring-Verfahren und sind bei unregelmässigen Einkommen flexibler. Der persönliche Kontakt fehlt aber völlig.
 
-### Was ist der Unterschied zwischen Privat- und Geschäftskredit?
+**Was ist der Unterschied zwischen Privat- und Geschäftskredit?**
 
 Privatkredite unterstehen dem Konsumkreditgesetz (KKG) mit strengeren Schutzbestimmungen und Bedenkzeit. Sie sind oft zinsgünstiger, aber auf CHF 80'000 begrenzt. Verwendung ist auf private Zwecke beschränkt. Geschäftskredite bieten mehr Flexibilität, höhere Limiten und sind zweckgebunden für geschäftliche Investitionen. Als Selbständiger kannst du meist beide Varianten wählen. Für Betriebsmittel und Investitionen ist der Geschäftskredit richtig, für private Anschaffungen der Privatkredit. Die steuerliche Behandlung unterscheidet sich: Geschäftskreditzinsen sind voll abzugsfähig.
 
-### Gibt es staatliche Hilfen oder Bürgschaften?
+**Gibt es staatliche Hilfen oder Bürgschaften?**
 
 Ja, in jedem Kanton gibt es Bürgschaftsgenossenschaften, die für Kredite bis CHF 1'000'000 bürgen. Die Bürgschaftsquote beträgt meist 80% des Kreditbetrags. Kosten: 1-3% der Bürgschaftssumme pro Jahr. Voraussetzungen sind ein solider Businessplan und ausreichende Eigenmittel. Zusätzlich gibt es kantonale Wirtschaftsförderungsprogramme mit zinsgünstigen Darlehen. Für Exportbetriebe stehen ERG-Bürgschaften (Exportrisikogarantie) zur Verfügung. Spezielle Programme existieren für Jungunternehmer, Innovationsprojekte und strukturschwache Regionen. Die COVID-Kredite sind ausgelaufen, aber ähnliche Programme können in Krisenzeiten reaktiviert werden.
 

@@ -133,7 +133,7 @@ Die richtige Rechnungsvorlage spart erheblich Zeit und reduziert Fehler. Hier si
 
 ## Schritt-für-Schritt Anleitung: Rechnung erstellen
 
-### 1. Vorbereitung der Geschäftsdaten
+**1. Vorbereitung der Geschäftsdaten**
 
 Sammle alle relevanten Unternehmensdaten:
 
@@ -154,7 +154,7 @@ Sammle alle relevanten Unternehmensdaten:
 - Bankverbindung für Zahlungsangaben
 - Zahlungskonditionen definieren (meist 30 Tage netto)
 
-### 2. Pflichtangaben korrekt eintragen
+**2. Pflichtangaben korrekt eintragen**
 
 **Absender-Angaben (vollständig):**
 - Firmierung und Rechtsform
@@ -174,7 +174,7 @@ Sammle alle relevanten Unternehmensdaten:
 - Leistungsdatum oder -zeitraum
 - Bei Anzahlungen: Verweis auf Hauptauftrag
 
-### 3. Leistungen detailliert beschreiben
+**3. Leistungen detailliert beschreiben**
 
 **Leistungsbeschreibung:**
 Beschreibe deine Leistung so präzise, dass Dritte sie verstehen:
@@ -187,7 +187,7 @@ Beschreibe deine Leistung so präzise, dass Dritte sie verstehen:
 - Einheitspreis ohne MWST angeben
 - Zwischensummen bei mehreren Positionen
 
-### 4. MWST korrekt berechnen und ausweisen
+**4. MWST korrekt berechnen und ausweisen**
 
 **Aktuelle MWST-Sätze 2026:**
 - **Standard-Satz**: 8.1% (die meisten Leistungen)
@@ -207,7 +207,7 @@ MWST-Nummer: CHE-123.456.789 MWST
 Weise keine MWST aus und füge einen Vermerk hinzu:
 "Als nicht MWST-pflichtiges Unternehmen wird keine MWST erhoben."
 
-### 5. Zahlungskonditionen festlegen
+**5. Zahlungskonditionen festlegen**
 
 **Standard-Zahlungskonditionen:**
 - "Zahlbar innert 30 Tagen netto"
@@ -220,7 +220,7 @@ Weise keine MWST aus und füge einen Vermerk hinzu:
 - BIC/SWIFT-Code (bei internationalen Kunden)
 - QR-Rechnung-Code (empfohlen seit 2020)
 
-### 6. Finale Kontrolle und Versand
+**6. Finale Kontrolle und Versand**
 
 **Checkliste vor Versand:**
 - [ ] Alle Pflichtangaben vollständig
@@ -237,35 +237,35 @@ Weise keine MWST aus und füge einen Vermerk hinzu:
 
 ## Häufige Fehler vermeiden
 
-### 1. Unvollständige Rechnungsadresse
+**1. Unvollständige Rechnungsadresse**
 **Problem:** Fehlende Postadresse oder nur "z.Hd. Buchhaltung"
 **Lösung:** Vollständige Firmen- oder Privatadresse mit Strasse, PLZ und Ort. Bei Firmen exakte Firmierung aus Handelsregister verwenden.
 
-### 2. Falsche oder veraltete MWST-Sätze
+**2. Falsche oder veraltete MWST-Sätze**
 **Problem:** Verwendung alter Sätze (7.7% statt 8.1%)
 **Lösung:** Aktuelle Sätze verwenden: 8.1% Standard, 2.6% reduziert, 3.8% Beherbergung. Software automatisch aktualisieren lassen.
 
-### 3. UID-Nummer vergessen oder falsch
+**3. UID-Nummer vergessen oder falsch**
 **Problem:** MWST-pflichtige Unternehmen ohne UID-Angabe
 **Lösung:** UID-Nummer (Format: CHE-XXX.XXX.XXX MWST) bei jeder MWST-Rechnung angeben. Nummer bei Eidgenössischer Steuerverwaltung abrufen.
 
-### 4. Unklare oder zu pauschale Leistungsbeschreibung
+**4. Unklare oder zu pauschale Leistungsbeschreibung**
 **Problem:** "Beratungsleistung" oder "Diverses"
 **Lösung:** Konkret beschreiben: "Steuerberatung Einzelfirma, 3 Stunden à CHF 150, Termin 15.01.2026". Leistungsdatum und Umfang angeben.
 
-### 5. Lücken in der Rechnungsnummerierung
+**5. Lücken in der Rechnungsnummerierung**
 **Problem:** Fehlende Nummern durch verworfene Rechnungen
 **Lösung:** Konsequente fortlaufende Nummerierung. Stornierte Rechnungen als "storniert" kennzeichnen, aber Nummer nicht wiederverwenden.
 
-### 6. Fehlende oder unklare Zahlungskonditionen
+**6. Fehlende oder unklare Zahlungskonditionen**
 **Problem:** Keine Angabe der Zahlungsfrist oder Bankverbindung
 **Lösung:** Klare Zahlungskonditionen ("30 Tage netto") und vollständige IBAN angeben. QR-Code für einfache Zahlung integrieren.
 
-### 7. Falsches oder fehlendes Rechnungsdatum
+**7. Falsches oder fehlendes Rechnungsdatum**
 **Problem:** Rechnungen ohne Datum oder mit falschem Datum
 **Lösung:** Immer aktuelles Rechnungsdatum und bei Bedarf separates Leistungsdatum angeben. Datum bestimmt MWST-Abrechnungsperiode.
 
-### 8. MWST-Ausweis ohne Registrierung
+**8. MWST-Ausweis ohne Registrierung**
 **Problem:** MWST berechnet obwohl nicht registriert
 **Lösung:** Nur MWST ausweisen wenn tatsächlich registriert. Sonst Vermerk: "Nicht MWST-pflichtig, daher keine MWST erhoben."
 
@@ -280,31 +280,31 @@ Weise keine MWST aus und füge einen Vermerk hinzu:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Muss ich als Kleinunternehmer MWST auf der Rechnung ausweisen?
+**Muss ich als Kleinunternehmer MWST auf der Rechnung ausweisen?**
 
 Nein, als Kleinunternehmer unter CHF 100'000 Jahresumsatz bist du nicht MWST-pflichtig und darfst keine MWST ausweisen. Eine freiwillige Registrierung ist ab CHF 10'000 Umsatz möglich, dann musst du aber konsequent MWST auf alle Rechnungen setzen und quartalsweise oder halbjährlich mit der Steuerverwaltung abrechnen. Viele Kleinunternehmer verzichten bewusst auf die Registrierung, da der administrative Aufwand den Nutzen übersteigt.
 
-### Welche MWST-Sätze gelten aktuell in der Schweiz?
+**Welche MWST-Sätze gelten aktuell in der Schweiz?**
 
 Seit 2024 gelten folgende MWST-Sätze: Standard-Satz 8.1% für die meisten Waren und Dienstleistungen, reduzierter Satz 2.6% für Lebensmittel, Bücher, Zeitungen und Medikamente, sowie Sondersatz 3.8% für Beherbergungsleistungen. Diese Sätze bleiben voraussichtlich auch 2026 stabil. Bei gemischten Leistungen gilt der Satz der Hauptleistung. Software und digitale Dienstleistungen fallen unter den Standard-Satz von 8.1%. Exportleistungen sind grundsätzlich von der MWST befreit.
 
-### Kann ich meine Rechnungsnummern frei wählen?
+**Kann ich meine Rechnungsnummern frei wählen?**
 
 Ja, du kannst das Format frei wählen, musst aber einige Regeln beachten: Die Nummern müssen eindeutig und fortlaufend sein, ohne Lücken oder Dopplungen. Erlaubt sind Formate wie "1, 2, 3..." oder "2026-001, 2026-002" oder "R-001, R-002". Wichtig ist die chronologische Reihenfolge – spätere Rechnungen müssen höhere Nummern haben. Bei Stornorechungen die Nummer nicht wiederverwenden, sondern als "storniert" kennzeichnen. Ein einmal gewähltes System solltest du konsequent durchziehen.
 
-### Wie lange muss ich Rechnungskopien aufbewahren?
+**Wie lange muss ich Rechnungskopien aufbewahren?**
 
 In der Schweiz beträgt die Aufbewahrungspflicht für Geschäftsunterlagen grundsätzlich 10 Jahre. Dies gilt sowohl für ausgehende Rechnungen als auch für alle Belege und Buchungsunterlagen, unabhängig von der Unternehmensgrösse. Die Aufbewahrung kann digital oder physisch erfolgen, wichtig ist die jederzeitige Lesbarkeit und Verfügbarkeit. Bei digitaler Archivierung solltest du regelmässige Backups erstellen und auf dauerhafte Dateiformate (PDF) setzen. MWST-pflichtige Unternehmen werden regelmässig geprüft und müssen alle Unterlagen lückenlos vorlegen können.
 
-### Was passiert bei fehlerhaften Rechnungen?
+**Was passiert bei fehlerhaften Rechnungen?**
 
 Kleinere Fehler wie Tippfehler im Firmennamen sind meist unproblematisch, können aber zu Zahlungsverzögerungen führen. Bei grösseren Fehlern in Beträgen oder MWST musst du eine Korrekturrechnung oder Gutschrift erstellen. Die ursprüngliche Rechnung bleibt bestehen und wird als "korrigiert" gekennzeichnet. MWST-Fehler musst du in der nächsten Abrechnungsperiode korrigieren und der Steuerverwaltung melden. Systematische Fehler können zu Nachzahlungen und Bussen führen. Deshalb ist es wichtig, ein durchdachtes System zu verwenden und regelmässig zu kontrollieren.
 
-### Brauche ich als Einzelfirma eine UID-Nummer?
+**Brauche ich als Einzelfirma eine UID-Nummer?**
 
 Du brauchst nur dann eine UID-Nummer, wenn du MWST-pflichtig bist – also ab CHF 100'000 Jahresumsatz oder bei freiwilliger Registrierung. Die UID-Nummer (Unternehmens-Identifikationsnummer) erhältst du automatisch bei der MWST-Anmeldung bei der Eidgenössischen Steuerverwaltung. Das Format ist CHE-XXX.XXX.XXX MWST. Ohne MWST-Registrierung hast du keine UID-Nummer und darfst auch keine erfinden. Viele Einzelfirmen unter der Limite arbeiten bewusst ohne UID-Nummer, da sie keine MWST ausweisen dürfen und der administrative Aufwand wegfällt.
 
-### Welche kostenlosen Alternativen gibt es zu teurer Rechnungssoftware?
+**Welche kostenlosen Alternativen gibt es zu teurer Rechnungssoftware?**
 
 Für den Start eignen sich Word- oder Excel-Vorlagen perfekt – sie kosten nichts und erfüllen alle rechtlichen Anforderungen. Banana Buchhaltung bietet eine kostenlose Version für einfache Rechnungen. Google Sheets oder LibreOffice Calc sind ebenfalls kostenlose Alternativen zu Excel. Viele Banken bieten ihren Geschäftskunden einfache Online-Tools zur Rechnungserstellung. Erst bei grösseren Mengen (ab 50+ Rechnungen/Monat) lohnt sich professionelle Software. Wichtig bei kostenlosen Lösungen: Regelmässige Backups erstellen und bei wachsendem Business rechtzeitig auf professionelle Tools umsteigen.
 

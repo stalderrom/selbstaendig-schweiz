@@ -40,7 +40,7 @@ Eine anerkannte Ausbildung ist eine Investition von CHF 2'000–6'000 — die si
 
 ## So startest du
 
-### 1. Ausbildung und Zertifikat
+**1. Ausbildung und Zertifikat**
 
 Wenn du noch keins hast: Schau dir die Swiss Olympic Trainer Lizenz an. Sie wird in der Schweiz am breitesten anerkannt. Weitere Optionen:
 
@@ -51,13 +51,13 @@ Wenn du noch keins hast: Schau dir die Swiss Olympic Trainer Lizenz an. Sie wird
 | NASM CPT (USA) | CHF 500–1'000 | Selbststudium | International anerkannt |
 | dipl. Fitnesscoach HF | CHF 8'000–15'000 | 2 Jahre | Medizinisches Fitness |
 
-### 2. AHV anmelden
+**2. AHV anmelden**
 
 Das ist Pflicht ab dem ersten Franken Einkommen als Selbständiger.
 
 → [AHV für Selbständige](/artikel/ahv-selbstaendige-beitraege-schweiz)
 
-### 3. Trainingsort klären
+**3. Trainingsort klären**
 
 Du hast mehrere Möglichkeiten:
 
@@ -80,7 +80,7 @@ Du hast mehrere Möglichkeiten:
 - Sehr hohe Investition (CHF 50'000+)
 - Erst sinnvoll mit vielen Stammkunden
 
-### 4. Versicherungen
+**4. Versicherungen**
 
 - **Berufshaftpflicht:** CHF 300–700/Jahr — falls ein Kunde sich verletzt und dich verantwortlich macht
 - **Krankentaggeld:** Du kannst nicht trainieren wenn du krank bist — sichere dein Einkommen ab

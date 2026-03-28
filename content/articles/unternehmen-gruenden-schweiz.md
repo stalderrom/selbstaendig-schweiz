@@ -25,7 +25,7 @@ Ein wichtiges Detail: In der Schweiz gilt die Handelsregisterpflicht für Einzel
 
 ## Voraussetzungen und Anforderungen
 
-### Rechtliche Voraussetzungen
+**Rechtliche Voraussetzungen**
 
 Für die Gründung in der Schweiz brauchst du das Schweizer Bürgerrecht oder eine gültige Aufenthaltsbewilligung. Bei Einzelfirmen ist ein Wohnsitz in der Schweiz zwingend erforderlich. Kapitalgesellschaften haben mehr Flexibilität – hier genügt es, wenn mindestens ein Geschäftsführer (GmbH) oder Verwaltungsrat (AG) in der Schweiz wohnt.
 
@@ -47,7 +47,7 @@ Alle Selbständigen müssen sich bei der AHV/IV/EO anmelden. Die Mindestbeiträg
 
 Je nach Branche ist eine Berufshaftpflichtversicherung obligatorisch oder empfehlenswert. Rechtsanwälte, Ärzte und Treuhänder müssen zwingend eine Berufshaftpflicht haben.
 
-### Fachliche Anforderungen
+**Fachliche Anforderungen**
 
 Viele Branchen sind bewilligungspflichtig. Dazu gehören das Gastgewerbe, Finanzdienstleistungen, das Gesundheitswesen und das Transportgewerbe. Informiere dich frühzeitig bei der zuständigen kantonalen Behörde über die Anforderungen.
 
@@ -63,7 +63,7 @@ Reglementierte Berufe wie Anwalt, Arzt oder Architekt erfordern spezifische Ausb
 | Gründungsdokumente | CHF 0-500 | CHF 500-1'000 | CHF 1'000-2'000 |
 | **Total einmalig** | **CHF 100-1'100** | **CHF 21'900-23'100** | **CHF 103'100-105'100** |
 
-### Laufende Jahreskosten
+**Laufende Jahreskosten**
 
 | Kostenart | Betrag (CHF) | Pflicht/Optional |
 |-----------|--------------|------------------|
@@ -154,35 +154,35 @@ Entscheide dich für eine Buchhaltungssoftware oder einen Treuhänder. Bei einfa
 
 ## Häufige Fehler vermeiden
 
-### 1. Falsche Rechtsform gewählt
+**1. Falsche Rechtsform gewählt**
 Viele Gründer wählen eine GmbH, obwohl eine Einzelfirma ausreicht. Das kostet unnötig viel Geld und bringt mehr Aufwand.
 **Lösung:** Lass dich von einem Treuhänder oder Anwalt beraten. Eine Stunde Beratung kostet CHF 200-400, spart aber oft Tausende.
 
-### 2. Ungenügende Liquiditätsplanung
+**2. Ungenügende Liquiditätsplanung**
 Die meisten Gründer unterschätzen den Liquiditätsbedarf der ersten Monate. Umsätze kommen oft später als geplant.
 **Lösung:** Erstelle eine realistische Cashflow-Prognose für 18 Monate. Plane konservativ und rechne mit Verzögerungen.
 
-### 3. Versicherungen vergessen
+**3. Versicherungen vergessen**
 Ohne Krankentaggeld und Berufshaftpflicht riskierst du im Ernstfall deine Existenz.
 **Lösung:** Erstelle eine Versicherungs-Checkliste und arbeite sie systematisch ab. Ein Versicherungsberater hilft bei der Auswahl.
 
-### 4. Steuerliche Pflichten unterschätzt
+**4. Steuerliche Pflichten unterschätzt**
 Viele Gründer sind überrascht von den steuerlichen Pflichten und Fristen in der Schweiz.
 **Lösung:** Ziehe frühzeitig einen Treuhänder bei. Die Kosten von CHF 2'000-4'000 jährlich sind gut investiert.
 
-### 5. Handelsregister-Pflicht übersehen
+**5. Handelsregister-Pflicht übersehen**
 Ab CHF 100'000 Umsatz muss sich auch eine Einzelfirma ins Handelsregister eintragen lassen.
 **Lösung:** Behalte deine Umsatzentwicklung im Auge. Die Anmeldung muss innerhalb von drei Monaten nach Überschreitung erfolgen.
 
-### 6. Firmennamen nicht richtig geprüft
+**6. Firmennamen nicht richtig geprüft**
 Ein bereits bestehender Firmenname kann zu teuren Rechtsstreitigkeiten führen.
 **Lösung:** Prüfe nicht nur die Zefix-Datenbank, sondern auch das Markenregister und Google-Suche. Eine Markenanmeldung kostet nur CHF 550.
 
-### 7. Sozialversicherungen zu spät angemeldet
+**7. Sozialversicherungen zu spät angemeldet**
 Die AHV-Anmeldung muss innerhalb von 30 Tagen erfolgen. Verspätete Anmeldungen führen zu Bussen.
 **Lösung:** Melde dich sofort nach der Gründung bei der zuständigen AHV-Ausgleichskasse. Die Anmeldung ist kostenlos.
 
-### 8. Domizil-Vorschriften missachtet
+**8. Domizil-Vorschriften missachtet**
 Nicht alle Gemeinden erlauben Geschäftstätigkeit in Wohnungen. Das kann zu Problemen mit Vermieter und Behörden führen.
 **Lösung:** Kläre vor der Gründung mit der Gemeinde und dem Vermieter ab, ob deine Geschäftstätigkeit erlaubt ist.
 
@@ -196,31 +196,31 @@ Nicht alle Gemeinden erlauben Geschäftstätigkeit in Wohnungen. Das kann zu Pro
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich als Ausländer in der Schweiz gründen?
+**Kann ich als Ausländer in der Schweiz gründen?**
 
 Ja, aber es gibt Einschränkungen je nach Aufenthaltsstatus. EU/EFTA-Bürger mit einer Aufenthaltsbewilligung B oder C können problemlos gründen. Drittstaatenangehörige brauchen meist eine Niederlassungsbewilligung C. Bei Kapitalgesellschaften ist es einfacher: Hier genügt es, wenn ein Geschäftsführer oder Verwaltungsrat in der Schweiz wohnt. Ausländische Investoren können über eine Schweizer Gesellschaft investieren, ohne selbst hier zu wohnen. Grenzgänger können bedingt eine Einzelfirma führen, sollten aber steuerliche Aspekte klären.
 
-### Wie lange dauert eine Unternehmensgründung?
+**Wie lange dauert eine Unternehmensgründung?**
 
 Eine Einzelfirma ist am schnellsten gegründet: 1-2 Wochen für Vorbereitung und Anmeldungen. Eine GmbH dauert 2-4 Wochen, da du Statuten erstellen, Kapital einzahlen und einen Notartermin vereinbaren musst. Eine AG braucht 3-6 Wochen, vor allem wegen der komplexeren Struktur und höheren Kapitalanforderungen. Faktoren, die den Prozess beschleunigen: vollständige Unterlagen, klare Gesellschafterstruktur und professionelle Beratung. Verzögerungen entstehen durch fehlende Dokumente, Änderungswünsche bei Statuten oder überlastete Notare in der Hochsaison (Jahresende).
 
-### Brauche ich zwingend einen Treuhänder?
+**Brauche ich zwingend einen Treuhänder?**
 
 Rechtlich ist ein Treuhänder nicht immer erforderlich. Bei einer einfachen Einzelfirma ohne Angestellte kannst du die Buchhaltung selbst machen. Bei GmbH und AG wird es schnell komplex: Lohnbuchhaltung, MWST-Abrechnung, Jahresabschluss und Steuererklärungen erfordern Fachwissen. Ein Treuhänder kostet CHF 2'000-8'000 pro Jahr, spart aber Zeit und verhindert teure Fehler. Spätestens bei der ersten Revision oder komplexeren Steuerfragen ist professionelle Hilfe unerlässlich. Viele Gründer starten selbst und wechseln nach 1-2 Jahren zum Treuhänder.
 
-### Was passiert, wenn ich die CHF 100'000 Umsatzgrenze überschreite?
+**Was passiert, wenn ich die CHF 100'000 Umsatzgrenze überschreite?**
 
 Bei Überschreitung der CHF 100'000 Umsatzgrenze hast du verschiedene Pflichten: Einzelfirmen müssen sich binnen drei Monaten ins Handelsregister eintragen lassen (kostet CHF 100-600). Die MWST-Registrierung wird obligatorisch – du musst vierteljährlich oder jährlich abrechnen. Die ordentliche Buchhaltung wird Pflicht mit Bilanz und Erfolgsrechnung. Du kannst dich auch freiwillig früher anmelden, etwa um Vorsteuern geltend zu machen. Verspätete Anmeldungen führen zu Bussen von mehreren hundert Franken. Die Eidgenössische Steuerverwaltung prüft regelmäßig und entdeckt Verstöße meist schnell.
 
-### Kann ich von zuhause aus gründen?
+**Kann ich von zuhause aus gründen?**
 
 Grundsätzlich ja, aber es gibt Einschränkungen. Die meisten Gemeinden erlauben Bürotätigkeiten in Wohnungen, solange kein Publikumsverkehr stattfindet. Du brauchst eine offizielle Geschäftsadresse für das Handelsregister – deine Privatadresse ist erlaubt. Prüfe deinen Mietvertrag: Viele Verträge schließen gewerbliche Nutzung aus oder erfordern die Zustimmung des Vermieters. Einige Branchen sind problematisch: Gastronomie, Detailhandel oder Handwerk mit Lärm sind meist nicht erlaubt. Ein Postfach genügt nicht als Geschäftssitz – du brauchst eine physische Adresse. Domizil-Services kosten CHF 500-2'000 pro Jahr.
 
-### Wie viel Steuern zahle ich als Unternehmer?
+**Wie viel Steuern zahle ich als Unternehmer?**
 
 Die Steuerlast hängt von der Rechtsform ab. Bei einer Einzelfirma zahlst du Einkommenssteuer auf den Gewinn – je nach Kanton und Einkommen 20-45%. Zusätzlich kommt die Vermögenssteuer auf Geschäftsvermögen. Bei GmbH und AG zahlt das Unternehmen Gewinnsteuer (12-24% je nach Kanton) und Kapitalsteuer (0.1-0.5% auf Eigenkapital). Als Geschäftsführer zahlst du auf deinen Lohn normale Einkommenssteuer, auf Dividenden nochmals Einkommenssteuer (aber mit Teilbesteuerung). Kantonale Unterschiede sind erheblich: Zug und Schwyz sind steuerfreundlich, Genf und Basel-Stadt teurer. Eine Steuerplanung mit einem Experten lohnt sich ab CHF 100'000 Gewinn.
 
-### Welche Rechtsform ist für mich die richtige?
+**Welche Rechtsform ist für mich die richtige?**
 
 Die Wahl hängt von mehreren Faktoren ab. Eine Einzelfirma eignet sich für einfache Geschäftsmodelle ohne große Haftungsrisiken: Beratung, IT-Services oder Online-Handel. Vorteile sind niedrige Kosten und einfache Führung. Nachteile: unbeschränkte Haftung und hohe Steuern ab etwa CHF 150'000 Gewinn. Eine GmbH lohnt sich bei Haftungsrisiken oder mehreren Gesellschaftern. Das Stammkapital von CHF 20'000 ist überschaubar, die Steueroptimierung ab CHF 100'000 Gewinn interessant. Eine AG ist sinnvoll bei großen Kapitalbedürfnissen oder geplanten Investoren. Die Struktur ist professioneller, aber auch komplexer und teurer in der Führung.
 

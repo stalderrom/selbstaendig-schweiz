@@ -44,7 +44,7 @@ Als IT-Berater analysierst und optimierst du die IT-Landschaft von Unternehmen. 
 
 ## Voraussetzungen
 
-### Fachliche Anforderungen
+**Fachliche Anforderungen**
 
 - Mindestens 5–8 Jahre Berufserfahrung in IT oder verwandten Bereichen
 - Breites IT-Wissen (Infrastruktur, Software, Prozesse, Sicherheit)
@@ -52,14 +52,14 @@ Als IT-Berater analysierst und optimierst du die IT-Landschaft von Unternehmen. 
 - Branchenkenntnisse: Finanz, Gesundheit oder Industrie erhöhen den Wert
 - Ausgeprägte Kommunikations- und Präsentationsfähigkeiten
 
-### Rechtliche Anforderungen
+**Rechtliche Anforderungen**
 
 - **AHV-Anmeldung:** Pflicht innerhalb 30 Tagen nach Tätigkeitsbeginn
 - **Handelsregister:** Ab CHF 100'000 Jahresumsatz obligatorisch
 - **MWST:** Ab CHF 100'000 Jahresumsatz pflichtig
 - Scheinselbständigkeit prüfen: IT-Berater sollten für mehrere Kunden tätig sein
 
-### Finanzielle Voraussetzungen
+**Finanzielle Voraussetzungen**
 
 - Startkapital: CHF 15'000–25'000
 - Liquiditätsreserve: 3–6 Monate Lebenshaltungskosten
@@ -67,7 +67,7 @@ Als IT-Berater analysierst und optimierst du die IT-Landschaft von Unternehmen. 
 
 ## Kosten als selbständiger IT-Berater
 
-### Einmalige Kosten
+**Einmalige Kosten**
 
 | Position | Kosten (CHF) |
 |----------|-------------|
@@ -78,7 +78,7 @@ Als IT-Berater analysierst und optimierst du die IT-Landschaft von Unternehmen. 
 | Büroeinrichtung | 1'000–3'000 |
 | **Total einmalig** | **5'300–14'300** |
 
-### Laufende Kosten (jährlich)
+**Laufende Kosten (jährlich)**
 
 | Position | Kosten (CHF/Jahr) |
 |----------|------------------|
@@ -102,7 +102,7 @@ Als IT-Berater analysierst und optimierst du die IT-Landschaft von Unternehmen. 
 | Senior / Spezialist (12+ Jahre) | 200–280 |
 | Nischenexperte (z.B. FINMA, SAP, SAFe) | 250–350+ |
 
-### Realistische Jahresdurchschnittseinkommen
+**Realistische Jahresdurchschnittseinkommen**
 
 - **Einsteiger-Phase (Jahr 1–2):** CHF 80'000–120'000 brutto
 - **Etabliert (Jahr 3–6):** CHF 120'000–180'000 brutto
@@ -190,17 +190,17 @@ Die Hälfte aller IT-Berater-Mandate kommt über persönliche Empfehlungen. Wer 
 
 ## FAQ – Häufig gestellte Fragen
 
-### Ab wann lohnt sich die Selbständigkeit als IT-Berater?
+**Ab wann lohnt sich die Selbständigkeit als IT-Berater?**
 Wenn du in einem Unternehmen CHF 120'000–140'000 verdienst und 5+ Jahre Erfahrung hast, ist Selbständigkeit fast immer finanziell attraktiver. Mit CHF 150/h und 180 fakturierbaren Tagen erreichst du CHF 216'000 Jahresumsatz – vor Steuern und AHV, aber deutlich über einem typischen Angestelltenlohn.
 
-### Brauche ich eine GmbH als IT-Berater?
+**Brauche ich eine GmbH als IT-Berater?**
 Für die meisten IT-Berater genügt die Einzelfirma, bis der Gewinn CHF 150'000–200'000 übersteigt. Ab dann kann die GmbH durch den Lohn/Dividenden-Split Steuern sparen. Grosskonzerne und Banken vergeben Mandate aber oft lieber an GmbHs.
 
-### Wie schütze ich mich vor Scheinselbständigkeit?
+**Wie schütze ich mich vor Scheinselbständigkeit?**
 Arbeite für mindestens 2–3 verschiedene Auftraggeber, halte eigene Arbeitszeiten ein, nutze deine eigene Hardware und trage unternehmerisches Risiko (z.B. kein bezahlter Urlaub). Lass Verträge von einem Anwalt prüfen.
 
-### Welche Zertifizierungen erhöhen meinen Stundensatz?
+**Welche Zertifizierungen erhöhen meinen Stundensatz?**
 Am meisten Nachfrage 2026: AWS Certified Solutions Architect, Microsoft Azure, Google Cloud, PMP/PRINCE2, SAFe, CISSP (Security), SAP-Zertifizierungen. Eine aktuelle Cloud-Zertifizierung kann den Stundensatz um CHF 20–40/h erhöhen.
 
-### Wie viel Vorlaufzeit brauche ich für den Start?
+**Wie viel Vorlaufzeit brauche ich für den Start?**
 Plane 3–6 Monate Vorlauf: LinkedIn und Netzwerk aktivieren, erste Gespräche führen, Einzelfirma anmelden, Versicherungen abschliessen. Viele starten mit einem festen Übergangs-Auftrag beim bisherigen Arbeitgeber als erster Auftraggeber.

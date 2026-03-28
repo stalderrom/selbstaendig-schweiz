@@ -47,7 +47,7 @@ Die **Digitalisierung** verändert die Branche rasant. Cloud-basierte Buchhaltun
 
 **Berufserfahrung:** Mind. 3 Jahre praktische Tätigkeit in einer Treuhandfirma oder Finanzabteilung sind für die SRO-Zulassung erforderlich.
 
-### Rechtliche Anforderungen
+**Rechtliche Anforderungen**
 
 **SRO-Mitgliedschaft:** Bei gewerbsmässiger Treuhändertätigkeit musst du einer der drei SROs beitreten:
 - EXPERT suisse: CHF 1'200-1'800 jährlich
@@ -86,7 +86,7 @@ Die **Digitalisierung** verändert die Branche rasant. Cloud-basierte Buchhaltun
 
 ## Kosten im Überblick
 
-### Einmalige Startkosten
+**Einmalige Startkosten**
 
 | Position | Kosten CHF | Bemerkung |
 |----------|------------|-----------|
@@ -380,22 +380,22 @@ Viele Treuhänder arbeiten mit Monatspauschalen, die planbare Einkommen ermögli
 
 ## FAQ – Häufig gestellte Fragen
 
-### Brauche ich zwingend den eidgenössischen Fachausweis als Treuhänder?
+**Brauche ich zwingend den eidgenössischen Fachausweis als Treuhänder?**
 
 Rechtlich ist der Fachausweis nicht vorgeschrieben, praktisch aber unverzichtbar. Die SRO-Mitgliedschaft verlangt entweder den Fachausweis oder eine gleichwertige Ausbildung plus mehrjährige Berufserfahrung. Ohne SRO-Mitgliedschaft darfst du nur gelegentlich treuhänderische Tätigkeiten ausüben, nicht gewerbsmässig. Mandanten erwarten heute eine zertifizierte Ausbildung - ohne Fachausweis ist die Kundenakquise deutlich schwieriger. Die Investition von CHF 8'000-15'000 rentiert sich durch höhere Stundenansätze und bessere Marktposition schnell.
 
-### Wie finde ich meine ersten Mandanten als Treuhänder-Neuling?
+**Wie finde ich meine ersten Mandanten als Treuhänder-Neuling?**
 
 Starte mit deinem persönlichen Netzwerk: ehemalige Kollegen, Arbeitgeber und Bekannte sind oft die ersten Kunden. Aktiviere Kontakte aus deiner bisherigen Berufslaufbahn systematisch. Besuche lokale Unternehmer-Events und tritt Wirtschaftsverbänden bei - Networking ist in der Treuhänder-Branche gold wert. Eine professionelle Website mit lokalem SEO bringt Anfragen von KMU in deiner Region. Kooperiere mit Anwaltskanzleien, Banken und Versicherungsmaklern, die regelmässig Mandate weiterleiten. Biete anfangs kostenlose Erstberatungen an, um Vertrauen aufzubauen. Mundpropaganda funktioniert bei Treuhändern besser als jede Werbung.
 
-### Welche Software benötige ich zwingend für meine Treuhändertätigkeit?
+**Welche Software benötige ich zwingend für meine Treuhändertätigkeit?**
 
 Eine professionelle, MWST-konforme Buchhaltungssoftware ist das Herzstück deiner Tätigkeit. Bewährte Lösungen sind Sage 50 (CHF 150-300 monatlich), Abacus (CHF 200-400 monatlich) oder für kleinere Mandate bexio (CHF 29-59 monatlich). Die Software muss elektronische Bankschnittstellen und Mehrfach-Mandantenfähigkeit bieten. Zusätzlich brauchst du eine Lohnbuchhaltungssoftware mit AHV-Schnittstellen und ein CRM-System für die Kundenverwaltung. Eine Zeiterfassung ist für die Abrechnung unverzichtbar. Cloud-basierte Lösungen ermöglichen flexibles Arbeiten und automatische Updates. Plane CHF 2'400-7'200 jährlich für Software-Lizenzen ein.
 
-### Lohnt sich eine Spezialisierung auf bestimmte Branchen oder Dienstleistungen?
+**Lohnt sich eine Spezialisierung auf bestimmte Branchen oder Dienstleistungen?**
 
 Eine moderate Spezialisierung ist sehr lukrativ und empfehlenswert. Branchen wie Gastronomie, Baugewerbe oder E-Commerce haben spezielle Anforderungen, die höhere Stundenansätze von CHF 150-200 rechtfertigen statt CHF 100-120 für Standardleistungen. Du positionierst dich als Experte und generierst Empfehlungen innerhalb der Branche. Allerdings solltest du nicht zu früh und zu eng spezialisieren - sammle erst 2-3 Jahre Erfahrung mit verschiedenen Mandatstypen. Optimal ist eine 70/30-Aufteilung: 70% bewährte Standard-Treuhändertätigkeiten für stabile Basis, 30% spezialisierte Nische für höhere Margen und Differenzierung.
 
-### Was kann ich als selbständiger Treuhänder realistisch verdienen?
+**Was kann ich als selbständiger Treuhänder realistisch verdienen?**
 
 Das Einkommen variiert stark nach Erfahrung, Region und Positionierung. Im ersten Jahr sind CHF 60'000-80'000 realistisch, da der Mandantenaufbau Zeit braucht. Nach 3-5 Jahren erreichen etablierte Treuhänder CHF 100'000-150'000 bei guter Auslastung. Erfahrene Spezialisten mit 50+ Mandanten erzielen CHF 150'000-250'000 jährlich. Die Obergrenze als Einzelkämpfer liegt bei etwa CHF 300'000 - darüber musst du Mitarbeiter einstellen. Wichtige Kennzahl: 1'200-1'500 fakturierbare

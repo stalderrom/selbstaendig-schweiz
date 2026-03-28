@@ -338,7 +338,7 @@ Melde dich bei der zuständigen Ausgleichskasse als selbständig erwerbend an:
 
 ## Kosten der Selbständigkeit
 
-### Einmalige Startkosten
+**Einmalige Startkosten**
 
 | Kostenart | Einzelfirma | GmbH | AG |
 |-----------|-------------|------|-----|
@@ -350,7 +350,7 @@ Melde dich bei der zuständigen Ausgleichskasse als selbständig erwerbend an:
 | Logo/Branding | CHF 300-2'000 | CHF 1'000-5'000 | CHF 3'000-10'000 |
 | **Total** | **CHF 1'300-9'600** | **CHF 26'100-42'200** | **CHF 114'200-142'000** |
 
-### Laufende Jahreskosten
+**Laufende Jahreskosten**
 
 | Kostenart | Betrag (CHF/Jahr) |
 |-----------|-------------------|
@@ -409,35 +409,35 @@ Melde dich bei der zuständigen Ausgleichskasse als selbständig erwerbend an:
 
 ## Häufige Fehler vermeiden
 
-### 1. Zu wenig Eigenkapital
+**1. Zu wenig Eigenkapital**
 Viele Gründer unterschätzen die Anlaufzeit bis zu regelmässigen Einnahmen.
 - **Lösung:** Minimum 6 Monate Lebenshaltung + Betriebskosten als Reserve
 
-### 2. Preise zu niedrig
+**2. Preise zu niedrig**
 Aus Unsicherheit werden Dienstleistungen zu günstig angeboten.
 - **Lösung:** Alle Kosten (inkl. Steuern, Sozialabgaben, unbezahlte Zeit) einrechnen + 20-30% Gewinnmarge
 
-### 3. Keine Verträge
+**3. Keine Verträge**
 Mündliche Vereinbarungen führen oft zu Konflikten.
 - **Lösung:** Immer schriftliche Verträge mit klaren Leistungen, Preisen und Zahlungsbedingungen
 
-### 4. Vernachlässigung der Buchhaltung
+**4. Vernachlässigung der Buchhaltung**
 Chaotische Belege führen zu Problemen bei Steuererklärung.
 - **Lösung:** Von Tag 1 professionelles System (Software oder Treuhänder)
 
-### 5. Keine Altersvorsorge
+**5. Keine Altersvorsorge**
 Selbständige haben keine automatische Pensionskasse.
 - **Lösung:** Säule 3a von Anfang an maximal einzahlen (CHF 7'056 in 2026), zusätzlich freiwillig in Säule 3b
 
-### 6. Überlastung
+**6. Überlastung**
 "Einzelkämpfer-Mentalität" führt zu Burnout.
 - **Lösung:** Aufgaben delegieren, Netzwerk nutzen, Pausen einplanen
 
-### 7. Fehlende Kundenakquise
+**7. Fehlende Kundenakquise**
 Wer nur für bestehende Kunden arbeitet, riskiert plötzliche Einbrüche.
 - **Lösung:** Kontinuierlich Marketing betreiben, auch bei voller Auftragslage
 
-### 8. Keine Spezialisierung
+**8. Keine Spezialisierung**
 "Ich mache alles" führt zu Austauschbarkeit und Preisdruck.
 - **Lösung:** Fokus auf 2-3 Kernkompetenzen, klare Positionierung
 
@@ -511,25 +511,25 @@ Jede Branche hat ihre Besonderheiten. Hier findest du detaillierte Guides für s
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich mich ohne Eigenkapital selbständig machen?
+**Kann ich mich ohne Eigenkapital selbständig machen?**
 Ja, rechtlich ist keine Mindestkapitalanforderung bei einer Einzelfirma nötig. Praktisch sollten Sie aber mindestens 6-12 Monate Betriebskosten und Lebenshaltung angespart haben. In Branchen mit geringen Startinvestitionen (z.B. Beratung, IT) können Sie mit CHF 10'000-20'000 starten. Bei kapitalintensiven Geschäften (Laden, Produktion) benötigen Sie deutlich mehr. Prüfen Sie auch Förderprogramme und Mikrokredite.
 
-### Muss ich ein Gewerbe anmelden?
+**Muss ich ein Gewerbe anmelden?**
 Bei einer Einzelfirma ist die Gewerbeanmeldung bei der Gemeinde nur in gewissen Kantonen erforderlich. Der Handelsregistereintrag ist erst ab CHF 100'000 Jahresumsatz obligatorisch. Entscheidend ist die Anmeldung bei der AHV-Ausgleichskasse als selbständig erwerbend – diese ist immer erforderlich und bestätigt Ihren Status. Bei GmbH/AG ist der Handelsregistereintrag immer Pflicht.
 
-### Wie viel verdiene ich als Selbständiger wirklich?
+**Wie viel verdiene ich als Selbständiger wirklich?**
 Vom Bruttoumsatz bleiben nach Abzug von Steuern (20-35%), Sozialversicherungen (~10%) und Betriebskosten (20-40%) etwa 40-50% als Nettoeinkommen übrig. Bei CHF 100'000 Umsatz bleiben also ca. CHF 40'000-50'000 netto. Dies entspricht etwa CHF 60'000-75'000 Bruttolohn als Angestellter. Viele Selbständige verdienen im ersten Jahr weniger als in ihrer Anstellung, steigern sich aber ab Jahr 2-3 deutlich.
 
-### Welche Rechtsform soll ich wählen?
+**Welche Rechtsform soll ich wählen?**
 Für Einzelgründer ohne hohes Haftungsrisiko ist die Einzelfirma ideal: einfach, günstig, flexibel. Bei erhöhtem Risiko (z.B. Bau, Gastronomie), Wachstumsplänen oder mehreren Gründern empfiehlt sich eine GmbH (ab CHF 20'000 Stammkapital). Eine AG lohnt sich erst ab grösseren Umsätzen (>CHF 500'000) oder wenn Investoren einsteigen. Viele starten mit Einzelfirma und wechseln später zur GmbH.
 
-### Kann ich nebenberuflich selbständig sein?
+**Kann ich nebenberuflich selbständig sein?**
 Ja, die nebenberufliche Selbständigkeit ist in der Schweiz erlaubt und verbreitet. Sie müssen aber Ihren Arbeitgeber informieren und dessen Zustimmung einholen, besonders wenn Konkurrenzklauseln im Arbeitsvertrag existieren. Ab CHF 2'300 Jahresumsatz aus Nebentätigkeit gelten Sie als selbständig und müssen sich bei der AHV anmelden. Das Nebeneinkommen wird steuerlich zum Angestelltenlohn addiert. Dies ist eine risikoarme Methode zum Testen Ihrer Geschäftsidee.
 
-### Was passiert bei Krankheit oder Unfall?
+**Was passiert bei Krankheit oder Unfall?**
 Als Selbständiger haben Sie keine automatische Lohnfortzahlung bei Krankheit. Deshalb ist eine Krankentaggeldversicherung essenziell (CHF 80-150/Monat). Sie zahlt nach einer Wartefrist (meist 30 Tage) bis zu 80% des versicherten Einkommens während 720 Tagen. Eine Unfallversicherung deckt Unfälle ab. Ohne diese Versicherungen tragen Sie das volle Risiko selbst – ein Ausfall von 3 Monaten kann existenzbedrohend sein. Die Prämien sind steuerlich absetzbar.
 
-### Wie funktioniert die Altersvorsorge als Selbständiger?
+**Wie funktioniert die Altersvorsorge als Selbständiger?**
 Als Selbständiger haben Sie keine obligatorische Pensionskasse (2. Säule). Die AHV (1. Säule) bildet Ihre Basisabsicherung, deckt aber nur das Existenzminimum. Sie sollten unbedingt privat vorsorgen: Säule 3a ist Pflicht (CHF 7'056/Jahr in 2026, steuerlich voll abzugsfähig). Zusätzlich können Sie sich freiwillig einer Pensionskasse anschliessen oder private Vorsorgepläne (Säule 3b) nutzen. Planen Sie mindestens 15-20% Ihres Einkommens für Altersvorsorge ein.
 
 ## Fazit
@@ -554,6 +554,7 @@ Unterschätzen Sie nicht den administrativen Aufwand und die Anfangsinvestitione
 5. **Versicherungen abschliessen** – Besonders Krankentaggeld!
 6. **Los geht's** – Learning by doing
 
+<!--
 ### Verlinkungsstrategie:
 Diese Pillar Page sollte von ALLEN Artikeln im Gründungs-Silo verlinkt werden.
 
@@ -578,4 +579,5 @@ Diese Pillar Page sollte von ALLEN Artikeln im Gründungs-Silo verlinkt werden.
 - Jährlich aktualisieren (Beträge, Gesetze)
 - Bei neuen Sub-Artikeln: Links ergänzen
 - FAQ erweitern basierend auf häufigen Fragen
+-->
 -->

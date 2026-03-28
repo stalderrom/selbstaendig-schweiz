@@ -46,7 +46,7 @@ Wenn du medizinische Massagen anbieten willst: Eidg. Fachausweis ist der Weg. Oh
 
 ## Schritt für Schritt zur eigenen Praxis
 
-### 1. AHV-Anmeldung
+**1. AHV-Anmeldung**
 
 Das ist der erste Schritt für jede Selbständigkeit in der Schweiz.
 
@@ -54,7 +54,7 @@ Melde dich bei der **AHV-Ausgleichskasse** an — am besten bei der kantonalen K
 
 → [Alles zur AHV als Selbständiger](/artikel/ahv-selbstaendige-beitraege-schweiz)
 
-### 2. Berufsausübungsbewilligung (falls nötig)
+**2. Berufsausübungsbewilligung (falls nötig)**
 
 Als medizinischer Masseur brauchst du in vielen Kantonen eine Bewilligung. Wende dich an das Kantonsgesundheitsamt. Du brauchst:
 - Eidg. Fachausweis oder gleichwertige Ausbildung
@@ -62,7 +62,7 @@ Als medizinischer Masseur brauchst du in vielen Kantonen eine Bewilligung. Wende
 - Strafregisterauszug
 - Kosten: CHF 100–500 je nach Kanton
 
-### 3. Praxisraum finden
+**3. Praxisraum finden**
 
 Du hast drei Möglichkeiten:
 
@@ -74,7 +74,7 @@ Du hast drei Möglichkeiten:
 
 Zum Start empfiehlt sich die **Untermiete** — du sparst Kosten und kannst erst Kundenstamm aufbauen.
 
-### 4. Versicherungen abschliessen
+**4. Versicherungen abschliessen**
 
 Als Masseur mit Körperkontakt am Kunden brauchst du unbedingt:
 
@@ -84,7 +84,7 @@ Als Masseur mit Körperkontakt am Kunden brauchst du unbedingt:
 
 → [Versicherungen für Selbständige](/artikel/versicherungen-selbstaendige-schweiz)
 
-### 5. Kunden gewinnen
+**5. Kunden gewinnen**
 
 Kunden kommen am Anfang selten von selbst. Was funktioniert:
 

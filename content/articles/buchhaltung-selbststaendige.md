@@ -360,94 +360,25 @@ Haben: Umsatz (Erfolg)          CHF 5'000
 | **Klara** | CHF 39-99 | ✅ | ✅ | ✅ | ✅ | Moderne Lösung |
 | **Crésus** | CHF 80-300 | ✅ | ✅ | ✅ | Teilweise | Traditionell |
 
-### 1. Bexio - Der Schweizer Marktführer
+**1. Bexio – Der Schweizer Marktführer**
 
-**Stärken:**
-- Sehr umfangreich (CRM, Projekte, Zeiterfassung)
-- Perfekt für CH (MWST, QR-Rechnung, Banking)
-- Viele Integrationen
-- Guter Support (Deutsch, Französisch)
-- Mobile App
+All-in-One-Lösung mit Buchhaltung, CRM, Zeiterfassung und Lohnabrechnung. Banking-Integration, QR-Rechnung, guter Deutsch-Support. CHF 35–65/Monat. Ideal für wachsende Unternehmen ab CHF 80'000 Umsatz.
 
-**Schwächen:**
-- Relativ teuer (ab CHF 420/Jahr)
-- Kann überladen wirken für Einsteiger
-- Gewisse Features nur in teuren Plänen
+**2. Run my Accounts – Einsteigerfreundlich**
 
-**Preise:**
-- **Starter:** CHF 35/Monat (Basis-Buchhaltung)
-- **Business:** CHF 55/Monat (+ Banking, Reports)
-- **Enterprise:** CHF 65/Monat (+ Mehrbenutzer, API)
+Sehr intuitive Oberfläche, Banking-Integration, OCR-Belegscan. Weniger Features als Bexio, dafür günstiger und fokussierter. CHF 24–49/Monat. Ideal für Freelancer bis CHF 100'000 Umsatz.
 
-**Ideal für:** Wachsende Unternehmen mit Mitarbeitern, die eine All-in-One-Lösung wollen.
+**3. Banana Accounting – Budget-Champion**
 
-→ [Tools für Selbständige: Alle Empfehlungen](/artikel/tools-selbststaendige)
+Desktop-Software mit Einmalkauf (CHF 119). Doppelte Buchhaltung, MWST, keine Banking-Integration. Für kosteneffiziente Selbständige mit Buchhaltungskenntnissen.
 
-### 2. Run my Accounts - Einsteigerfreundlich
+→ [Banana Accounting: Ausführlicher Test](/artikel/banana-buchhaltung-schweiz-guide)
 
-**Stärken:**
-- Sehr einfache Bedienung
-- Günstig (ab CHF 24/Monat)
-- Automatische Bankintegration
-- Gute Übersicht
-- OCR-Belegscan (Foto → Buchung)
+**4. Klara – Modern & Intuitiv**
 
-**Schwächen:**
-- Weniger Features als Bexio
-- Kein CRM oder Projektmanagement
-- Kleinerer Funktionsumfang
+Cloud-Buchhaltung mit modernstem Interface, KI-Belegerfassung und Smart Banking. CHF 39–99/Monat. Beste Benutzerfreundlichkeit, etwas teurer als Konkurrenten.
 
-**Preise:**
-- **Basic:** CHF 24/Monat (Vereinfachte Buchhaltung)
-- **Plus:** CHF 39/Monat (Doppelte Buchhaltung)
-- **Premium:** CHF 49/Monat (+ Mehrbenutzer)
-
-**Ideal für:** Einzelunternehmer und Freelancer die eine simple, fokussierte Lösung wollen.
-
-### 3. Banana Accounting - Budget-Champion
-
-**Stärken:**
-- **Einmalkauf** statt Abo (CHF 119-299)
-- Sehr flexibel und anpassbar
-- Keine Cloud (Datenschutz)
-- Leistungsstark
-- Kostenlose Basis-Version
-
-**Schwächen:**
-- Steile Lernkurve
-- Altmodisches Interface
-- Keine Banking-Integration
-- Keine Cloud-Sync
-
-**Preise:**
-- **Free:** CHF 0 (Basis-Features, begrenzt)
-- **Advanced:** CHF 119 (einmalig, vollständig)
-- **Professional:** CHF 299 (mehrere Firmen)
-
-**Ideal für:** Sparsame Selbständige mit Buchhaltungskenntnissen, die Kontrolle über Daten wollen.
-
-### 4. Klara - Modern & Intuitiv
-
-**Stärken:**
-- Modernes, schönes Interface
-- Sehr intuitiv
-- KI-gestützte Belegerfassung
-- Gute Mobile App
-- Automatisierung
-
-**Schwächen:**
-- Noch relativ jung (weniger Features)
-- Höherer Preis
-- Kleinerer Kundenstamm
-
-**Preise:**
-- **Starter:** CHF 39/Monat
-- **Business:** CHF 69/Monat
-- **Professional:** CHF 99/Monat
-
-**Ideal für:** Tech-affine Selbständige die Wert auf Design und Benutzerfreundlichkeit legen.
-
-### 5. Excel / Google Sheets - Die kostenlose Option
+**5. Excel / Google Sheets - Die kostenlose Option**
 
 **Stärken:**
 - Kostenlos
@@ -469,6 +400,8 @@ Haben: Umsatz (Erfolg)          CHF 5'000
 - Als Übergangslösung
 
 **Wichtig:** Spätestens bei MWST-Pflicht auf richtige Software wechseln!
+
+→ [Alle Buchhaltungssoftware im Vergleich](/artikel/buchhaltungssoftware-vergleich)
 
 → [Tools für Selbständige: Kompletter Überblick](/artikel/tools-selbststaendige)
 
@@ -554,7 +487,7 @@ An ESTV zu zahlen: CHF 107'700 × 4.7% = CHF 5'062
 
 ## Buchhaltung organisieren: Best Practices
 
-### 1. Belege erfassen - sofort!
+**1. Belege erfassen - sofort!**
 
 **Das grösste Problem:** Belege sammeln sich an, dann fehlen welche oder sind unleserlich.
 
@@ -573,7 +506,7 @@ An ESTV zu zahlen: CHF 107'700 × 4.7% = CHF 5'062
 
 **Wichtig:** Je länger Sie warten, desto mehr Arbeit!
 
-### 2. Kontenabgleich monatlich
+**2. Kontenabgleich monatlich**
 
 **Was:** Bankkontoauszüge mit Buchhaltung abgleichen
 
@@ -588,7 +521,7 @@ An ESTV zu zahlen: CHF 107'700 × 4.7% = CHF 5'062
 
 **Best Practice:** Immer am Monatsanfang (1.-5. des Monats)
 
-### 3. Rechnungen systematisch verwalten
+**3. Rechnungen systematisch verwalten**
 
 **Ausgangsrechnungen (an Kunden):**
 - Fortlaufende Nummerierung (z.B. 2026-001, 2026-002)
@@ -602,7 +535,7 @@ An ESTV zu zahlen: CHF 107'700 × 4.7% = CHF 5'062
 
 **Tool-Tipp:** Bexio und Klara haben automatische Mahnläufe.
 
-### 4. Kategorien richtig nutzen
+**4. Kategorien richtig nutzen**
 
 Ordnen Sie Ausgaben sinnvoll:
 
@@ -622,7 +555,7 @@ Ordnen Sie Ausgaben sinnvoll:
 - Ausgaben-Analyse möglich
 - Kostenkontrolle
 
-### 5. Separate Konten nutzen
+**5. Separate Konten nutzen**
 
 **Geschäftskonto vs. Privatkonto:**
 
@@ -644,7 +577,7 @@ Wenn Sie Geld vom Geschäfts- aufs Privatkonto überweisen:
 - Buchhaltung: "Privatentnahme" (nicht Ausgabe!)
 - Steuern: Nur Gewinn zählt, nicht Entnahmen
 
-### 6. Jahresabschluss vorbereiten
+**6. Jahresabschluss vorbereiten**
 
 **Was gehört zum Jahresabschluss:**
 - Erfolgsrechnung (Gewinn/Verlust)
@@ -709,35 +642,35 @@ Wenn Sie Geld vom Geschäfts- aufs Privatkonto überweisen:
 
 ## Häufige Buchhaltungsfehler vermeiden
 
-### 1. Belege verlieren
+**1. Belege verlieren**
 **Fehler:** Quittungen nicht aufbewahrt
 **Lösung:** Sofort digitalisieren (Foto), automatisch in Cloud
 
-### 2. Private und geschäftliche Ausgaben vermischen
+**2. Private und geschäftliche Ausgaben vermischen**
 **Fehler:** Alles auf einem Konto
 **Lösung:** Separates Geschäftskonto, klare Trennung
 
-### 3. Kategorien falsch verwenden
+**3. Kategorien falsch verwenden**
 **Fehler:** Alles unter "Diverses"
 **Lösung:** Saubere Kategorisierung von Anfang an
 
-### 4. Rechnungen ohne Pflichtangaben
+**4. Rechnungen ohne Pflichtangaben**
 **Fehler:** MWST-Nummer fehlt, keine QR-Rechnung
 **Lösung:** Template verwenden (in Software integriert)
 
-### 5. MWST falsch abrechnen
+**5. MWST falsch abrechnen**
 **Fehler:** Vorsteuer falsch berechnet, Fristen verpasst
 **Lösung:** Software nutzt, quartalsweise rechtzeitig machen
 
-### 6. Keine Rückstellungen für Steuern
+**6. Keine Rückstellungen für Steuern**
 **Fehler:** Gesamten Gewinn ausgegeben, dann Steuerschock
 **Lösung:** 30-40% des Gewinns für Steuern + AHV zurücklegen
 
-### 7. Jahresabschluss zu spät
+**7. Jahresabschluss zu spät**
 **Fehler:** Panik im März wegen Steuererklärung
 **Lösung:** Jahresabschluss im Januar/Februar machen
 
-### 8. Keine Backups
+**8. Keine Backups**
 **Fehler:** Computer kaputt, alle Daten weg
 **Lösung:** Cloud-Software nutzen oder tägliche Backups
 
@@ -817,25 +750,25 @@ Die meisten Software-Anbieter bieten:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Brauche ich eine Buchhaltungssoftware oder reicht Excel?
+**Brauche ich eine Buchhaltungssoftware oder reicht Excel?**
 Für die ersten 3-6 Monate und bei sehr wenigen Transaktionen (< 20/Monat) reicht Excel. Sobald Sie MWST-pflichtig werden oder mehr als 20 Transaktionen pro Monat haben, wird eine richtige Buchhaltungssoftware dringend empfohlen. Diese prüft automatisch auf Fehler, erstellt MWST-Abrechnungen korrekt und spart massiv Zeit. Kosten: ab CHF 24/Monat – das ist günstiger als der Zeitaufwand mit Excel.
 
-### Wann brauche ich einen Treuhänder?
+**Wann brauche ich einen Treuhänder?**
 Ein Treuhänder wird sinnvoll ab CHF 150'000-200'000 Umsatz, bei MWST-Pflicht mit vielen Transaktionen, bei Mitarbeitern (Lohnbuchhaltung) oder wenn Sie unsicher sind bei Steuerfragen. Kosten: CHF 2'500-4'000 pro Jahr für laufende Buchhaltung + Jahresabschluss + Steuererklärung. Darunter ist der Hybrid-Ansatz optimal: Buchhaltung selbst, Jahresabschluss vom Treuhänder (CHF 1'000-2'000).
 
-### Welche Buchhaltungssoftware ist die beste für Selbständige?
+**Welche Buchhaltungssoftware ist die beste für Selbständige?**
 Für Einsteiger: Run my Accounts (ab CHF 24/Monat, sehr einfach). Für wachsende Unternehmen: Bexio (ab CHF 35/Monat, umfangreich). Für Sparsame: Banana Accounting (CHF 119 einmalig). Für Design-Liebhaber: Klara (ab CHF 39/Monat, modern). Alle unterstützen MWST, QR-Rechnungen und Banking-Integration. Wählen Sie nach Ihrem Umsatz, Komplexität und Budget.
 
-### Muss ich Belege physisch aufbewahren oder reichen Fotos?
+**Muss ich Belege physisch aufbewahren oder reichen Fotos?**
 Digitale Aufbewahrung ist vollständig erlaubt in der Schweiz. Sie können Belege fotografieren oder scannen und die Originale danach entsorgen. Wichtig: Die digitale Kopie muss lesbar sein, 10 Jahre aufbewahrt werden und vor Veränderung geschützt sein. Am besten: Cloud-Speicher (Dropbox, Google Drive) oder direkt in Buchhaltungssoftware hochladen. Viele nutzen Apps wie Bexio Mobile für Sofort-Erfassung per Foto.
 
-### Wie viel Zeit braucht Buchhaltung pro Monat?
+**Wie viel Zeit braucht Buchhaltung pro Monat?**
 Mit guter Software: 1-2 Stunden pro Monat für laufende Erfassung, Kontenabgleich und Rechnungsstellung. Plus 1 Stunde quartalsweise für MWST. Plus 4-6 Stunden jährlich für Jahresabschluss/Steuern. Total: ca. 20-30 Stunden pro Jahr. Mit Treuhänder: Nur 10-15 Stunden pro Jahr (Belege sammeln, übergeben). Mit Excel: 50-80 Stunden pro Jahr (fehleranfällig, aufwändig).
 
-### Was kostet ein Treuhänder für Selbständige?
+**Was kostet ein Treuhänder für Selbständige?**
 Die Kosten hängen vom Umsatz ab: Unter CHF 100'000: CHF 1'500-2'500/Jahr. CHF 100'000-250'000: CHF 2'500-4'000/Jahr. CHF 250'000-500'000: CHF 4'000-6'000/Jahr. Darüber: CHF 6'000-10'000+/Jahr. Das beinhaltet: Laufende Buchhaltung, MWST-Abrechnung, Jahresabschluss, Steuererklärung. Nur Jahresabschluss + Steuern (ohne laufende Buchhaltung): CHF 1'000-2'000.
 
-### Kann ich Buchhaltungskosten von den Steuern abziehen?
+**Kann ich Buchhaltungskosten von den Steuern abziehen?**
 Ja, alle Buchhaltungskosten sind vollständig als Geschäftsausgaben abzugsfähig: Buchhaltungssoftware (CHF 300-800/Jahr), Treuhänder-Kosten (CHF 1'500-6'000/Jahr), Beratungshonorare, Kurse/Weiterbildung. Bei 30% Grenzsteuersatz sparen Sie ca. 30% der Kosten durch Steuerabzug. Beispiel: CHF 3'000 Treuhänder = CHF 900 Steuerersparnis, effektive Kosten also nur CHF 2'100.
 
 ## Fazit
@@ -861,6 +794,7 @@ Ob Software (CHF 360-780/Jahr) oder Treuhänder (CHF 2'500-4'000/Jahr) – gute 
 
 Mit sauberer Buchhaltung haben Sie jederzeit den Überblick über Ihre Finanzen, erfüllen alle gesetzlichen Pflichten und können sich aufs Wesentliche konzentrieren: Ihr Geschäft wachsen lassen.
 
+<!--
 ### Verlinkungsstrategie:
 Diese Pillar Page sollte von ALLEN Artikeln im Buchhaltungs-Silo verlinkt werden.
 
@@ -886,4 +820,5 @@ Diese Pillar Page sollte von ALLEN Artikeln im Buchhaltungs-Silo verlinkt werden
 - Treuhänder-Kosten anpassen
 - MWST-Sätze bei Änderung updaten
 - Gesetzliche Anforderungen prüfen
+-->
 -->

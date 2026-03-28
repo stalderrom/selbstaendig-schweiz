@@ -60,7 +60,7 @@ Nicht jede internationale Software ist für die Schweiz geeignet. Diese Funktion
 
 **Für wen:** KMU mit 1–50 Mitarbeitern, Allrounder-Bedarf
 
-### Stärken
+**Stärken**
 - Marktführer in der Schweiz: 60'000+ Unternehmen nutzen es
 - Umfangreichste Funktionen: Buchhaltung, CRM, Projektverwaltung, Zeiterfassung, Lohn
 - Exzellente Banking-Integration (direkter Import aller CH-Banken)
@@ -68,12 +68,12 @@ Nicht jede internationale Software ist für die Schweiz geeignet. Diese Funktion
 - Sehr guter Schweizer Support (DE/FR)
 - Grosse Community und viele Treuhänder kennen Bexio
 
-### Schwächen
+**Schwächen**
 - Teuerste Lösung (ab CHF 35/Monat)
 - Kann für kleine Freelancer überladen wirken
 - Benutzeroberfläche nicht die modernste
 
-### Preise (2026)
+**Preise (2026)**
 
 | Plan | Preis/Monat | Inkl. |
 |---|---|---|
@@ -92,7 +92,7 @@ Nicht jede internationale Software ist für die Schweiz geeignet. Diese Funktion
 
 **Für wen:** Tech-affine Selbständige und Freelancer, die Design schätzen
 
-### Stärken
+**Stärken**
 - Schönstes, intuitivstes Interface aller Schweizer Tools
 - KI-gestützte Belegerfassung (Foto → automatische Buchung)
 - Sehr gute mobile App
@@ -100,12 +100,12 @@ Nicht jede internationale Software ist für die Schweiz geeignet. Diese Funktion
 - Banking-Integration
 - Lohnabrechnung inklusive
 
-### Schwächen
+**Schwächen**
 - Noch relativ junges Produkt (weniger Features als Bexio)
 - Höherer Preispunkt für den Funktionsumfang
 - Kleinere Community
 
-### Preise (2026)
+**Preise (2026)**
 
 | Plan | Preis/Monat | Inkl. |
 |---|---|---|
@@ -124,19 +124,19 @@ Nicht jede internationale Software ist für die Schweiz geeignet. Diese Funktion
 
 **Für wen:** Freelancer und Kleinunternehmer, die einfach und günstig starten wollen
 
-### Stärken
+**Stärken**
 - Günstigster Preis bei vollem Funktionsumfang
 - Sehr einfache Bedienung – kein Buchhalter-Wissen nötig
 - OCR-Belegscan (Foto → automatisch erfasst)
 - Gute Banking-Integration
 - QR-Rechnung und MWST vollständig
 
-### Schwächen
+**Schwächen**
 - Weniger Funktionen als Bexio (kein CRM, keine Projekte)
 - Kleinerer Funktionsumfang für komplexe Situationen
 - Support nicht immer schnell
 
-### Preise (2026)
+**Preise (2026)**
 
 | Plan | Preis/Monat | Inkl. |
 |---|---|---|
@@ -157,7 +157,7 @@ Nicht jede internationale Software ist für die Schweiz geeignet. Diese Funktion
 
 → [Banana Buchhaltung: Ausführlicher Test, Preise & Erfahrungen](/artikel/banana-buchhaltung-schweiz-guide)
 
-### Stärken
+**Stärken**
 - **Einmalkauf statt Abo** – kein laufendes Abo!
 - Vollständige Schweizer Buchhaltung (doppelte Buchführung)
 - MWST vollständig unterstützt
@@ -166,14 +166,14 @@ Nicht jede internationale Software ist für die Schweiz geeignet. Diese Funktion
 - Kostenlose Basisversion verfügbar
 - Seit 30+ Jahren bewährt
 
-### Schwächen
+**Schwächen**
 - Altmodisches Interface
 - Steile Lernkurve für Buchhalter-Laien
 - **Keine Banking-Integration** (manueller Import möglich)
 - Keine mobile App für Unterwegs
 - Kein Cloud-Sync
 
-### Preise (2026)
+**Preise (2026)**
 
 | Version | Preis | Inkl. |
 |---|---|---|
@@ -194,19 +194,19 @@ Nicht jede internationale Software ist für die Schweiz geeignet. Diese Funktion
 
 **Für wen:** Selbständige die maximale Automatisierung wollen
 
-### Stärken
+**Stärken**
 - Stärkste Automatisierung: Banking → Buchung zu 80% automatisch
 - KI-basierte Belegerfassung und -kategorisierung
 - Vollständige MWST und QR-Rechnung
 - Sehr gute Banking-Integration
 - Integrierter Jahresabschluss
 
-### Schwächen
+**Schwächen**
 - Teuerster Einstieg
 - Weniger etabliert als Bexio
 - Kleinere Community
 
-### Preise (2026)
+**Preise (2026)**
 
 | Plan | Preis/Monat | Inkl. |
 |---|---|---|
@@ -319,19 +319,19 @@ Moderne Buchhaltungssoftware lässt sich mit vielen Tools verbinden:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich Buchhaltungssoftware wechseln wenn ich schon laufende Daten habe?
+**Kann ich Buchhaltungssoftware wechseln wenn ich schon laufende Daten habe?**
 
 Ja, aber am besten zum Jahresbeginn. Du gibst die Eröffnungsbilanz manuell ein und startest neu. Historische Daten kannst du im alten System archivieren. Die meisten Tools bieten Migrations-Support.
 
-### Kann mein Treuhänder auf meine Daten zugreifen?
+**Kann mein Treuhänder auf meine Daten zugreifen?**
 
 Bei Cloud-Lösungen (Bexio, Klara, etc.) kannst du deinem Treuhänder einen Lese- oder Bearbeitungszugang geben. Das spart Exportieren und Schicken von Dateien. Bei Banana Accounting musst du die Datei exportieren und schicken.
 
-### Ist die Datenspeicherung in der Cloud sicher?
+**Ist die Datenspeicherung in der Cloud sicher?**
 
 Seriöse Schweizer Anbieter (Bexio, Klara) speichern Daten in der Schweiz auf ISO-zertifizierten Servern. Das entspricht den Anforderungen des Datenschutzgesetzes (DSG). Wenn du aus Datenschutzgründen keine Cloud willst: Banana Accounting speichert lokal.
 
-### Was passiert mit meinen Daten wenn ein Anbieter pleitegeht?
+**Was passiert mit meinen Daten wenn ein Anbieter pleitegeht?**
 
 Meist kannst du deine Daten exportieren (CSV, XML). Stelle sicher, dass du regelmässig Exporte machst. Cloud-Anbieter sind in der Regel reguliert und müssen Daten herausgeben oder migrieren.
 

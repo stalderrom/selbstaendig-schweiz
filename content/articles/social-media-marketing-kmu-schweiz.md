@@ -150,19 +150,19 @@ Organische Reichweite reicht oft für den Start. Paid Ads werden sinnvoll, wenn:
 
 ## Häufige Fehler von Schweizer KMU
 
-### 1. Auf zu vielen Plattformen gleichzeitig
+**1. Auf zu vielen Plattformen gleichzeitig**
 Besser: **1–2 Plattformen richtig** statt 5 halb. Wähle die Plattform, wo deine Kunden sind.
 
-### 2. Nur Werbung posten
+**2. Nur Werbung posten**
 Wer immer nur verkauft, wird weggeklickt. Der 4-Typen-Mix ist entscheidend.
 
-### 3. Kein Gesicht zeigen
+**3. Kein Gesicht zeigen**
 Menschen folgen Menschen, nicht Logos. Zeig dein Gesicht und deine Persönlichkeit – besonders auf LinkedIn und Instagram.
 
-### 4. Kein Call-to-Action
+**4. Kein Call-to-Action**
 Jeder Post braucht eine klare Handlungsaufforderung: "Was denkst du?", "Link im Profil", "DM mir für mehr Info".
 
-### 5. Inkonsistenz
+**5. Inkonsistenz**
 Wer 3 Wochen postet und dann 2 Monate nichts: verliert alles. Lieber seltener, aber regelmässig.
 
 ---

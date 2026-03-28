@@ -307,18 +307,18 @@ Du musst das nicht allein machen:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Muss der Businessplan auf Deutsch sein?
+**Muss der Businessplan auf Deutsch sein?**
 
 Für Schweizer Banken und Förderstellen ja — auf Deutsch, Französisch oder Italienisch je nach Kanton. Für internationale Investoren oft auf Englisch. Bei der AHV-Anmeldung reicht ein kurzes deutsches Dokument.
 
-### Wie aktuell müssen die Zahlen im Businessplan sein?
+**Wie aktuell müssen die Zahlen im Businessplan sein?**
 
 Wenn du ihn für eine Bankfinanzierung einreichst: aktuelle Zahlen, nicht älter als 6 Monate. Für die AHV-Anmeldung: Schätzungen für das erste Jahr reichen. Wichtiger als perfekte Zahlen ist eine nachvollziehbare Herleitung.
 
-### Kann ich eine Excel-Tabelle als Finanzplan verwenden?
+**Kann ich eine Excel-Tabelle als Finanzplan verwenden?**
 
 Ja. Excel ist völlig in Ordnung für den Finanzplan. Wichtig ist, dass die Zahlen stimmen und klar dokumentiert sind. Viele Banken haben eigene Excel-Vorlagen — frag direkt bei deiner Bank nach.
 
-### Wie erkläre ich im Businessplan, dass ich MWST-pflichtig bin?
+**Wie erkläre ich im Businessplan, dass ich MWST-pflichtig bin?**
 
 Im Finanzplan gibst du an, ob du MWST-pflichtig bist oder nicht. Wenn ja: Zeige die Zahlen inkl. und exkl. MWST sauber getrennt. Die MWST-Pflicht beginnt ab CHF 100'000 Jahresumsatz. → [Mehr zur MWST-Pflicht](/artikel/mwst-pflicht-ab-wann-schweiz)

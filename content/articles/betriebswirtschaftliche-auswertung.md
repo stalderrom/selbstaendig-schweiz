@@ -412,25 +412,25 @@ AUFWAND
 
 ## FAQ – Betriebswirtschaftliche Auswertung
 
-### Was ist eine betriebswirtschaftliche Auswertung (BWA)?
+**Was ist eine betriebswirtschaftliche Auswertung (BWA)?**
 Eine BWA ist ein monatlicher Kurzabschluss, der alle Erträge und Aufwände einer Periode zusammenfasst. Sie zeigt: Umsatz, Rohertrag, Personalkosten, Betriebskosten und Betriebsergebnis. In der Schweiz ist sie kein Pflichtdokument, aber jede Buchhaltungssoftware (Bexio, Banana, Abacus) erzeugt sie automatisch. Sie ist das zentrale Instrument für monatliche Unternehmenssteuerung.
 
-### Was ist der Unterschied zwischen BWA, Bilanz und Erfolgsrechnung?
+**Was ist der Unterschied zwischen BWA, Bilanz und Erfolgsrechnung?**
 **BWA:** Monatlich, unterjährig, für interne Steuerung. **Erfolgsrechnung (GuV):** Jährlich, gesetzlich vorgeschrieben (ab CHF 500k Umsatz nach OR Art. 957), für Steuern. **Bilanz:** Stichtagsaufnahme am Jahresende, zeigt Vermögen und Schulden, für Kreditgeber. Faustregel: BWA für laufende Steuerung, Erfolgsrechnung für Jahresabschluss, Bilanz für Finanzierung.
 
-### Muss ich als Einzelfirma in der Schweiz eine BWA erstellen?
+**Muss ich als Einzelfirma in der Schweiz eine BWA erstellen?**
 Nein – die BWA ist gesetzlich nicht vorgeschrieben. Pflicht ab CHF 500k Umsatz ist eine Erfolgsrechnung (OR Art. 957). Darunter reicht eine einfache Einnahmen-Ausgaben-Rechnung. Die BWA ist trotzdem sinnvoll: monatlicher Überblick, Frühwarnsystem, effizienteres Treuhänder-Meeting. Moderne Software erstellt sie automatisch.
 
-### Welche Kennzahlen sind in einer BWA am wichtigsten?
+**Welche Kennzahlen sind in einer BWA am wichtigsten?**
 Die 5 wichtigsten Kennzahlen: (1) Rohertragsmarge = Rohertrag ÷ Umsatz × 100. (2) Personalkostenquote = Personalkosten ÷ Umsatz × 100. (3) Fixkostenquote = Fixkosten ÷ Umsatz × 100. (4) EBIT-Marge = Betriebsergebnis ÷ Umsatz × 100. (5) Cashflow-Abweichung = BWA-Gewinn minus tatsächlicher Kontostand. Ziel-EBIT-Marge: mind. 8%.
 
-### Wann warnt eine BWA vor Insolvenz oder Liquiditätsproblemen?
+**Wann warnt eine BWA vor Insolvenz oder Liquiditätsproblemen?**
 5 Warnsignale: (1) Umsatz 3 Monate in Folge minus 10%+. (2) Rohertrag unter Branchenwert. (3) EBIT negativ für 2+ Monate. (4) Grosse Lücke zwischen Buchgewinn und Kontostand (Forderungsstau). (5) Personalkosten über 60% Umsatz. Bei 2+ gleichzeitigen Warnsignalen: sofort Treuhänder kontaktieren und Liquiditätsplan erstellen.
 
-### Wie lese ich eine BWA als Nicht-Buchhalter?
+**Wie lese ich eine BWA als Nicht-Buchhalter?**
 In 5 Schritten: (1) Umsatz – höher oder tiefer als letzten Monat? (2) Rohertrag – wie hoch ist die Marge? (3) Personalkosten + Fixkosten – wie gross ist der Anteil am Umsatz? (4) Betriebsergebnis – positiv oder negativ? (5) Vergleich mit Vormonat und Vorjahr – Abweichungen über 10% erklären. Diese 5 Zahlen decken 80% der Entscheidungen ab.
 
-### Welche Buchhaltungssoftware erstellt automatisch eine BWA in der Schweiz?
+**Welche Buchhaltungssoftware erstellt automatisch eine BWA in der Schweiz?**
 Software mit BWA-Funktion: Bexio (CHF 35–65/Monat, meistgenutzt in CH), Abacus (CHF 80–200/Monat, für grössere KMU), Banana Accounting (CHF 119/Jahr), Run my Accounts (CHF 24–49/Monat), Klara (ab CHF 0). In Bexio: Berichte → Erfolgsrechnung → Monatsbericht. In Banana: Berichte → Erweiterte Berichte.
 
 ---

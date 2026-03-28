@@ -63,7 +63,7 @@ Dringend empfohlen ist ein Krankentaggeld. Ohne bist du bei längerer Krankheit 
 
 ## Kosten im Überblick
 
-### Einmalige Startkosten
+**Einmalige Startkosten**
 
 | Position | Kosten (CHF) | Obligatorisch |
 |----------|-------------|---------------|
@@ -74,7 +74,7 @@ Dringend empfohlen ist ein Krankentaggeld. Ohne bist du bei längerer Krankheit 
 | Logo/Corporate Design | 500-2'000 | Optional |
 | Rechtsberatung | 300-800 | Empfohlen |
 
-### Laufende Jahreskosten
+**Laufende Jahreskosten**
 
 | Position | Kosten (CHF) | Obligatorisch |
 |----------|-------------|---------------|
@@ -128,7 +128,7 @@ Erfolgsfaktoren für höhere Einkommen: Spezialisierung auf Nischenbereiche, lan
 
 ## Schritt-für-Schritt Anleitung zur Selbständigkeit
 
-### 1. Vorbereitung und Planung (4-8 Wochen)
+**1. Vorbereitung und Planung (4-8 Wochen)**
 
 **Geschäftsidee konkretisieren:** Definiere deine Zielkunden, dein Leistungsangebot und deine Preise. Teste die Nachfrage mit 5-10 potenziellen Kunden.
 
@@ -136,7 +136,7 @@ Erfolgsfaktoren für höhere Einkommen: Spezialisierung auf Nischenbereiche, lan
 
 **Erste Kundenansprache:** Beginne bereits vor der Gründung mit Networking. Nutze bestehende Kontakte und baue dir einen ersten Kundenstamm auf.
 
-### 2. Behördliche Anmeldungen (1-2 Wochen)
+**2. Behördliche Anmeldungen (1-2 Wochen)**
 
 **AHV-Ausgleichskasse kontaktieren:** Melde deine Selbständigkeit mit dem Fragebogen für Selbständigerwerbende an. Bring Belege für deine ersten Aufträge mit.
 
@@ -144,7 +144,7 @@ Erfolgsfaktoren für höhere Einkommen: Spezialisierung auf Nischenbereiche, lan
 
 **MWST-Anmeldung:** Obligatorisch ab CHF 100'000 Umsatz, freiwillig ab CHF 0. Bei schwankenden Einnahmen kann die freiwillige Anmeldung steuerliche Vorteile bringen.
 
-### 3. Versicherungen organisieren (1 Woche)
+**3. Versicherungen organisieren (1 Woche)**
 
 **Krankentaggeld:** Schliesse es vor dem ersten Arbeitstag ab. Wartefristen von 30-365 Tagen sind üblich. Bei Vorerkrankungen kann eine Gesundheitsprüfung nötig sein.
 
@@ -152,7 +152,7 @@ Erfolgsfaktoren für höhere Einkommen: Spezialisierung auf Nischenbereiche, lan
 
 **Unfallversicherung:** Als Selbständiger nicht mehr automatisch versichert. Private Unfallversicherung kostet CHF 200-600 jährlich.
 
-### 4. Administrative Grundlagen (2-3 Wochen)
+**4. Administrative Grundlagen (2-3 Wochen)**
 
 **Geschäftskonto eröffnen:** Auch bei Einzelfirmen empfohlen für saubere Trennung. Viele Banken bieten spezielle KMU-Konten ab CHF 10-30 monatlich.
 
@@ -160,7 +160,7 @@ Erfolgsfaktoren für höhere Einkommen: Spezialisierung auf Nischenbereiche, lan
 
 **Rechnungsvorlagen erstellen:** Alle Rechnungen müssen deine vollständigen Kontaktdaten, eine fortlaufende Nummer und klare Zahlungskonditionen enthalten.
 
-### 5. Marketing und Kundenakquise (laufend)
+**5. Marketing und Kundenakquise (laufend)**
 
 **Website aufsetzen:** Ein professioneller Webauftritt kostet CHF 1'500-4'000. Wichtiger als das Design sind klare Leistungsbeschreibungen und Referenzen.
 
@@ -168,7 +168,7 @@ Erfolgsfaktoren für höhere Einkommen: Spezialisierung auf Nischenbereiche, lan
 
 **Referenzen sammeln:** Dokumentiere deine ersten Projekte ausführlich. Bitte zufriedene Kunden um schriftliche Testimonials.
 
-### 6. Erste Aufträge und Skalierung
+**6. Erste Aufträge und Skalierung**
 
 **Qualität vor Quantität:** Lieber wenige Projekte perfekt abwickeln als sich zu verzetteln. Zufriedene Kunden bringen Folgeaufträge.
 
@@ -223,31 +223,31 @@ Wer erst nach der Gründung anfängt, Kunden zu suchen, überbrückt schwer die 
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich neben dem Angestelltenverhältnis selbständig sein?
+**Kann ich neben dem Angestelltenverhältnis selbständig sein?**
 
 Ja, das ist grundsätzlich möglich, aber du musst mehrere Punkte beachten. Informiere deinen Arbeitgeber und prüfe deinen Arbeitsvertrag auf Konkurrenzverbote. Du zahlst AHV-Beiträge auf beide Einkommen, kannst aber den BVG-Koordinationsabzug nur einmal geltend machen. Steuerlich werden beide Einkommen zusammengezählt, was zu einer höheren Progression führt. Die Nebenselbständigkeit muss echte unternehmerische Züge haben, sonst gilt sie als Schwarzarbeit.
 
-### Wann muss ich mich ins Handelsregister eintragen?
+**Wann muss ich mich ins Handelsregister eintragen?**
 
 Bei einer Einzelfirma ist der Handelsregistereintrag ab CHF 100'000 Jahresumsatz obligatorisch. Du kannst dich aber auch freiwillig früher eintragen lassen, wenn du unter einem Firmennamen auftreten willst – also nicht nur unter deinem bürgerlichen Namen. Der Eintrag kostet CHF 100-200 und ermöglicht es dir, Geschäftskonten zu eröffnen und unter dem Firmennamen zu fakturieren. GmbH und AG müssen sich immer ins Handelsregister eintragen, unabhängig vom Umsatz.
 
-### Wie hoch sind die AHV-Beiträge als Selbständiger?
+**Wie hoch sind die AHV-Beiträge als Selbständiger?**
 
 Als Selbständiger zahlst du mindestens CHF 514 AHV/IV/EO-Beiträge pro Jahr, auch bei sehr kleinem Einkommen. Ab einem jährlichen Nettoeinkommen von CHF 5'323 werden 9.65% des tatsächlichen Einkommens fällig. Der Höchstbeitrag liegt bei CHF 2'724 pro Jahr. Die Beiträge kannst du in Raten zahlen, musst aber mit Verzugszinsen rechnen bei verspäteter Zahlung. Bei schwankendem Einkommen werden die Beiträge jährlich angepasst.
 
-### Was passiert bei Krankheit ohne Krankentaggeld?
+**Was passiert bei Krankheit ohne Krankentaggeld?**
 
 Ohne Krankentaggeld erhältst du bei Arbeitsunfähigkeit keinen Erwerbsersatz. Du bist vollständig auf deine privaten Ersparnisse angewiesen. Auch die Krankenversicherung zahlt nur die medizinischen Kosten, nicht den entgangenen Lohn. Erst bei dauerhafter Arbeitsunfähigkeit (mindestens ein Jahr) hast du eventuell Anspruch auf eine IV-Rente. Ein Krankentaggeld mit 80% Lohnersatz und 30 Tagen Wartefrist kostet etwa CHF 1'200-1'800 jährlich und ist praktisch unverzichtbar.
 
-### Kann ich als Ausländer in der Schweiz selbständig werden?
+**Kann ich als Ausländer in der Schweiz selbständig werden?**
 
 EU/EFTA-Bürger können mit einer gültigen Aufenthalts- oder Arbeitsbewilligung selbständig werden. Die Bewilligung muss in der Regel verlängert oder angepasst werden. Drittstaatsangehörige benötigen meist eine Niederlassungsbewilligung C oder eine spezielle Bewilligung in Mangelbereichen. Die kantonalen Migrationsbehörden prüfen jeden Fall einzeln. In reglementierten Berufen (Gesundheitswesen, Rechtswesen) gelten zusätzliche Anforderungen. Lass dich frühzeitig bei der zuständigen Behörde beraten, da die Verfahren mehrere Monate dauern können.
 
-### Wann wird die MWST-Anmeldung obligatorisch?
+**Wann wird die MWST-Anmeldung obligatorisch?**
 
 Die MWST-Anmeldung wird ab CHF 100'000 Jahresumsatz innerhalb von 12 aufeinanderfolgenden Monaten obligatorisch. Du kannst dich aber auch freiwillig ab dem ersten Franken anmelden. Dies lohnt sich, wenn du hohe Geschäftsausgaben hast (Computer, Auto, Büroausstattung) und die Vorsteuer zurückfordern kannst. Die Abrechnung erfolgt meist quartalsweise. Kleine Unternehmen können oft den vereinfachten Saldosteuersatz nutzen, der die Buchhaltung erheblich vereinfacht.
 
-### Wie viel Steuern zahle ich als Selbständiger?
+**Wie viel Steuern zahle ich als Selbständiger?**
 
 Dein Erwerbseinkommen wird zusammen mit dem Privatvermögen und anderen Einkünften veranlagt. Bei CHF 60'000 Jahreseinkommen (ledig, ohne Vermögen) zahlst du je nach Kanton CHF 8'000-15'000 Steuern. Dazu kommen im zweiten Jahr provisorische Steuern auf das geschätzte Einkommen. Als Selbständiger kannst du aber alle Geschäftskosten abziehen: Bürokosten, Weiterbildung, Geschäftsessen, Fahrtkosten, Computer und sogar einen Teil der Wohnungskosten bei Heimarbeitsplatz. Eine gute Buchhaltung kann deine Steuerlast erheblich reduzieren.
 

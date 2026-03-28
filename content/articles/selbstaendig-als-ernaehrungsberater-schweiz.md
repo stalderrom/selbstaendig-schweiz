@@ -46,19 +46,19 @@ Für den Einstieg ohne Hochschulstudium: Wellness-Beratung mit ASCA-Anerkennung 
 
 ## Schritt für Schritt zur Selbständigkeit
 
-### 1. Ausbildung abschliessen und Anerkennung sichern
+**1. Ausbildung abschliessen und Anerkennung sichern**
 
 Wenn du noch nicht ausgebildet bist: Schau dir an, welche Ausbildungen ASCA oder EMR anerkannt werden. Diese Listen findest du auf den Websites von ASCA.ch und EMR.ch.
 
 Für die Kassenpflicht: Hochschulweg (FH oder HF) ist Pflicht.
 
-### 2. AHV-Anmeldung
+**2. AHV-Anmeldung**
 
 Sofort nach dem Start der Selbständigkeit bei der AHV-Ausgleichskasse anmelden.
 
 → [AHV für Selbständige](/artikel/ahv-selbstaendige-beitraege-schweiz)
 
-### 3. Praxis oder Online-Business?
+**3. Praxis oder Online-Business?**
 
 | Modell | Kosten | Vorteil |
 |---|---|---|
@@ -69,7 +69,7 @@ Sofort nach dem Start der Selbständigkeit bei der AHV-Ausgleichskasse anmelden.
 
 Online-Ernährungsberatung hat eine niedrige Einstiegshürde. Videoberatung per Zoom, digitale Ernährungspläne, WhatsApp-Support — all das funktioniert gut und spart Raumkosten.
 
-### 4. Versicherungen
+**4. Versicherungen**
 
 - **Berufshaftpflicht:** CHF 300–600/Jahr — wichtig, falls ein Kunde behauptet, dein Rat hat geschadet
 - **Krankentaggeld:** Damit du bei Krankheit nicht sofort ohne Einkommen bist

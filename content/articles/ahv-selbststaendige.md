@@ -234,19 +234,19 @@ Bei Wohnsitz im Ausland: freiwillige AHV möglich (wichtig für Schweizer im Aus
 
 ## Häufige Fehler
 
-### 1. Zu spät angemeldet
+**1. Zu spät angemeldet**
 Jeder Monat ohne Anmeldung = rückwirkende Nachzahlung + Zinsen. Anmeldung kostet nichts – sie ist Pflicht.
 
-### 2. Einkommen zu tief angegeben
+**2. Einkommen zu tief angegeben**
 Um kurzfristig weniger zu zahlen → führt zu hoher Nachzahlung in 2–3 Jahren. Lieber realistisch angeben.
 
-### 3. Keine Rückstellungen
+**3. Keine Rückstellungen**
 Die AHV-Schlussabrechnung kommt unerwartet. Lege monatlich 12–13% des Nettoeinkommens zurück.
 
-### 4. Scheinselbständigkeit übersehen
+**4. Scheinselbständigkeit übersehen**
 Nur ein Hauptkunde + faktisch weisungsgebunden = Risiko der Nachversteuerung als Angesteller.
 
-### 5. Beitragslücken ignoriert
+**5. Beitragslücken ignoriert**
 Lebenslänglich weniger Rente für jeden fehlenden Beitragsjahr. Lücken nachzahlen ist meist sinnvoll.
 
 ## Weiterführende Artikel
@@ -259,19 +259,19 @@ Lebenslänglich weniger Rente für jeden fehlenden Beitragsjahr. Lücken nachzah
 
 ## FAQ – Häufig gestellte Fragen
 
-### Zahle ich AHV auch auf Dividenden aus meiner GmbH?
+**Zahle ich AHV auch auf Dividenden aus meiner GmbH?**
 
 Nein – Dividenden aus einer GmbH oder AG sind nicht AHV-pflichtig. Nur der Lohn, den du dir als Geschäftsführer auszahlst, unterliegt der AHV. Das ist ein Steuervorteil der GmbH, der ab einem gewissen Einkommen relevant wird.
 
-### Was passiert mit der AHV wenn ich aufhöre?
+**Was passiert mit der AHV wenn ich aufhöre?**
 
 Wenn du die Selbständigkeit aufgibst und angestellt wirst, übernimmt dein neuer Arbeitgeber die AHV. Wenn du aufhörst zu arbeiten (Frühpension), musst du dich als Nichterwerbstätige/r bei der AHV anmelden und Mindestbeiträge zahlen – sonst entstehen Beitragslücken.
 
-### Kann ich als Selbständiger in die Pensionskasse einzahlen?
+**Kann ich als Selbständiger in die Pensionskasse einzahlen?**
 
 Freiwillig ja. Du kannst dich der BVG-Auffangeinrichtung anschliessen oder über einen Berufsverband einer Pensionskasse beitreten. Du zahlst dann beide Anteile (Arbeitgeber + Arbeitnehmer) – ca. 15–25% des versicherten Lohns. Steuerlich voll abzugsfähig.
 
-### Muss ich AHV auf ausländischen Einkünften zahlen?
+**Muss ich AHV auf ausländischen Einkünften zahlen?**
 
 Grundsätzlich ja, wenn du in der Schweiz wohnhaft und in der Schweiz tätig bist. Bei gemischter Tätigkeit (Schweiz + Ausland) gibt es Sonderregelungen. Lass dich bei der AHV-Kasse oder einem Treuhänder beraten.
 

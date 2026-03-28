@@ -57,7 +57,7 @@ Ohne Santésuisse-Zulassung musst du privat abrechnen — das ist möglich, schr
 
 ## Die ersten Schritte zur eigenen Praxis
 
-### 1. Standort wählen
+**1. Standort wählen**
 
 Drei Modelle für den Einstieg:
 
@@ -69,13 +69,13 @@ Drei Modelle für den Einstieg:
 
 Für den Einstieg: Untermiete ist ideal. Du bringst Patienten mit, die Infrastruktur ist schon da.
 
-### 2. AHV anmelden
+**2. AHV anmelden**
 
 Melde dich bei der kantonalen AHV-Ausgleichskasse oder einer Verbandskasse an. Als Selbständiger zahlst du ~10% AHV auf deinem Nettoeinkommen.
 
 → [AHV für Selbständige](/artikel/ahv-selbstaendige-beitraege-schweiz)
 
-### 3. Versicherungen
+**3. Versicherungen**
 
 Als Physiotherapeut mit Patientenkontakt brauchst du:
 - **Berufshaftpflicht:** CHF 500–1'500/Jahr (Pflicht für Kassenzulassung)

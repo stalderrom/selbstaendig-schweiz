@@ -168,31 +168,31 @@ Datenverlust durch Computercrash oder defekte Festplatten vernichtet jahrelange 
 
 ## FAQ – Häufig gestellte Fragen
 
-### Bin ich zur einfachen Buchhaltung verpflichtet?
+**Bin ich zur einfachen Buchhaltung verpflichtet?**
 
 Ja, in der Schweiz ist jeder Selbständige zur Buchführung verpflichtet gemäss Obligationenrecht Artikel 957. Die einfache Buchhaltung reicht für Einzelfirmen und Personengesellschaften mit weniger als CHF 500'000 Jahresumsatz völlig aus. Du musst alle Einnahmen, Ausgaben und dein Geschäftsvermögen systematisch dokumentieren. Die Form ist gesetzlich frei wählbar – eine Excel-Tabelle genügt, solange alle Geschäftsvorfälle nachvollziehbar erfasst sind. Die Aufbewahrungspflicht beträgt 10 Jahre für alle Belege und Aufzeichnungen.
 
-### Kann ich die Buchhaltung komplett selber machen?
+**Kann ich die Buchhaltung komplett selber machen?**
 
 Absolut, die einfache Buchhaltung ist für Laien durchaus machbar. Du brauchst nur Grundkenntnisse in Excel oder einer Buchhaltungssoftware plus systematisches Vorgehen. Wichtig ist, alle Belege zu sammeln, regelmässig zu erfassen und das Vermögensverzeichnis aktuell zu halten. Ein Treuhänder kann beim initialen Setup helfen (kostet CHF 200-500), danach schaffst du es problemlos selbst. Nur bei sehr komplexen Geschäftsmodellen oder ab CHF 500'000 Umsatz wird es schwieriger und professionelle Hilfe empfehlenswert.
 
-### Was passiert, wenn ich Fehler in der Buchhaltung mache?
+**Was passiert, wenn ich Fehler in der Buchhaltung mache?**
 
 Kleine Fehler sind völlig normal und jederzeit korrigierbar – die Steuerverwaltung zeigt sich bei ehrlichen Fehlern meist kulant. Problematisch wird es erst bei systematischen Fehlern oder wenn die Buchhaltung komplett unvollständig ist. Dann kann die Steuerverwaltung eigene Schätzungen vornehmen, die meist ungünstig für dich ausfallen. Strafen gibt es nur bei Vorsatz oder grober Fahrlässigkeit. Die beste Lösung: Regelmässig kontrollieren, bei Unsicherheiten einen Treuhänder konsultieren und ein sauberes System von Anfang an etablieren.
 
-### Brauche ich zwingend ein separates Geschäftskonto?
+**Brauche ich zwingend ein separates Geschäftskonto?**
 
 Rechtlich ist ein separates Geschäftskonto nicht zwingend vorgeschrieben, aber sehr empfehlenswert für eine saubere Buchhaltung. Mit einem Geschäftskonto sind alle Transaktionen automatisch geschäftlich, private Entnahmen und Einlagen werden klar getrennt. Die Kosten von CHF 10-30 pro Monat amortisieren sich durch gesparte Zeit bei der Buchhaltung schnell. Alternative: Ein privates Konto ausschliesslich für das Geschäft verwenden. Wichtig ist nur: Niemals private und geschäftliche Transaktionen im selben Konto mischen, das führt zu Chaos bei der Buchführung und Problemen mit der Steuerverwaltung.
 
-### Wie bereite ich meine Steuererklärung mit der einfachen Buchhaltung vor?
+**Wie bereite ich meine Steuererklärung mit der einfachen Buchhaltung vor?**
 
 Die einfache Buchhaltung ist die perfekte Vorbereitung für deine Steuererklärung. Du brauchst eine Gewinn-/Verlustrechnung (Einnahmen minus Ausgaben), ein aktuelles Vermögensverzeichnis und eine systematische Belegsammlung. Alle Geschäftsausgaben reduzieren deinen steuerbaren Gewinn. Wichtige Kategorien sind Büromaterial, Fahrtkosten, Weiterbildung, Versicherungen und Miete für Geschäftsräume. Tipp: Markiere bereits während des Jahres alle steuerrelevanten Ausgaben in deiner Software. Die meisten Buchhaltungsprogramme können automatisch Steuerberichte generieren, die du direkt in die Steuererklärung übernehmen kannst.
 
-### Wann muss ich von einfacher auf doppelte Buchhaltung wechseln?
+**Wann muss ich von einfacher auf doppelte Buchhaltung wechseln?**
 
 Der Wechsel zur doppelten Buchhaltung wird ab CHF 500'000 Jahresumsatz zwingend vorgeschrieben. Zusätzlich ist sie Pflicht bei Eintragung ins Handelsregister mit mehr als 10 Vollzeitstellen oder bei bestimmten Rechtsformen wie AG oder GmbH. Du kannst aber auch freiwillig früher wechseln, wenn dein Geschäft komplexer wird und du detailliertere Analysen brauchst. Der Wechsel sollte auf einen Jahresbeginn geplant werden. Viele Softwarelösungen wie Bexio ermöglichen den nahtlosen Übergang ohne Datenverlust. Ein Treuhänder kann beim Wechsel helfen und kostet einmalig CHF 500-1'500.
 
-### Was kostet es, wenn ich einen Fehler bei der MWST mache?
+**Was kostet es, wenn ich einen Fehler bei der MWST mache?**
 
 MWST-Fehler können teuer werden, da die Eidgenössische Steuerverwaltung streng kontrolliert. Bei verspäteter Abrechnung fallen 5% Jahreszins an, bei nicht oder falsch deklarierter MWST können Bussen von 200-500% der Steuerschuld verhängt werden. Häufige Fehler sind falsche Sätze (7.7% statt 2.5%), nicht geltend gemachte Vorsteuern oder fehlende Quartalsabrechnungen. Korrekturen sind möglich: Bis zu 3 Jahre rückwirkend kannst du zu viel bezahlte MWST zurückfordern. Präventiv hilft eine Software mit korrekter MWST-Funktion und im Zweifelsfall eine Beratung beim Treuhänder für CHF 150-250 pro Stunde.
 

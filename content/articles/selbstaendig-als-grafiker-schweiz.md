@@ -43,27 +43,27 @@ Als selbständiger Grafiker entwickelst du visuelle Kommunikationslösungen für
 
 ## Voraussetzungen
 
-### Fachliche Anforderungen
+**Fachliche Anforderungen**
 
 - Sichere Kenntnisse in Adobe Creative Suite (Illustrator, Photoshop, InDesign)
 - Kenntnisse in Figma oder Sketch für digitale/UI-nahe Projekte
 - Typografie, Farbenlehre und Bildkomposition
 - Portfolio mit mindestens 5–8 überzeugenden Projekten
 
-### Rechtliche Anforderungen
+**Rechtliche Anforderungen**
 
 - **AHV-Anmeldung:** Pflicht innerhalb 30 Tagen nach Tätigkeitsbeginn
 - **Handelsregister:** Ab CHF 100'000 Jahresumsatz obligatorisch
 - **MWST-Anmeldung:** Ab CHF 100'000 Jahresumsatz pflichtig
 
-### Finanzielle Voraussetzungen
+**Finanzielle Voraussetzungen**
 
 - Startkapital: CHF 8'000–15'000
 - Liquiditätsreserve: 3–6 Monate Lebenshaltungskosten
 
 ## Kosten als selbständiger Grafiker
 
-### Einmalige Kosten
+**Einmalige Kosten**
 
 | Position | Kosten (CHF) |
 |----------|-------------|
@@ -74,7 +74,7 @@ Als selbständiger Grafiker entwickelst du visuelle Kommunikationslösungen für
 | Büroeinrichtung | 1'000–2'500 |
 | **Total einmalig** | **4'700–11'300** |
 
-### Laufende Kosten (jährlich)
+**Laufende Kosten (jährlich)**
 
 | Position | Kosten (CHF/Jahr) |
 |----------|------------------|
@@ -89,7 +89,7 @@ Als selbständiger Grafiker entwickelst du visuelle Kommunikationslösungen für
 
 ## Stundensätze und Einkommen
 
-### Stundensätze nach Erfahrung
+**Stundensätze nach Erfahrung**
 
 | Erfahrung | Stundensatz (CHF) |
 |-----------|-------------------|
@@ -98,7 +98,7 @@ Als selbständiger Grafiker entwickelst du visuelle Kommunikationslösungen für
 | Senior / Spezialist (8+ Jahre) | 130–180 |
 | Branding-Experte / Art Director | 150–250 |
 
-### Realistische Jahresdurchschnittseinkommen
+**Realistische Jahresdurchschnittseinkommen**
 
 - **Start (Jahr 1–2):** CHF 40'000–65'000 brutto
 - **Etabliert (Jahr 3–6):** CHF 65'000–100'000 brutto
@@ -116,7 +116,7 @@ Beispiel: CHF 80'000 Ziel ÷ 1'000 fakturierbare Stunden = CHF 80/Stunde (Minimu
 
 ## Erste Kunden gewinnen
 
-### Sofortmassnahmen
+**Sofortmassnahmen**
 
 **Portfolio aufbauen:**
 - 5–8 starke Projekte zeigen (auch Eigenprojekte und Pro-bono-Arbeit)
@@ -128,7 +128,7 @@ Beispiel: CHF 80'000 Ziel ÷ 1'000 fakturierbare Stunden = CHF 80/Stunde (Minimu
 - Lokale Unternehmer-Netzwerke und Gewerbevereine
 - Design-Community: ADC Schweiz, Typographische Gesellschaft
 
-### Kundenkanäle im Vergleich
+**Kundenkanäle im Vergleich**
 
 | Kanal | Aufwand | Wirkung |
 |-------|---------|---------|
@@ -138,7 +138,7 @@ Beispiel: CHF 80'000 Ziel ÷ 1'000 fakturierbare Stunden = CHF 80/Stunde (Minimu
 | Online-Plattformen (Malt, Upwork) | Tief | Mittel (Preis tiefer) |
 | SEO / eigene Website | Hoch | Hoch (langfristig) |
 
-### Spezialisierung erhöht Preise
+**Spezialisierung erhöht Preise**
 
 - **Pharma/Medizin-Design:** Stark spezialisiert, CHF 150+/Stunde möglich
 - **Finanzbranche:** Hohes Budget, professionelle Anforderungen
@@ -201,17 +201,17 @@ Definiere im Angebot die Anzahl inklusive Korrekturrunden (Standard: 2). Jede we
 
 ## FAQ – Häufig gestellte Fragen
 
-### Brauche ich eine Ausbildung als Grafiker, um mich selbständig zu machen?
+**Brauche ich eine Ausbildung als Grafiker, um mich selbständig zu machen?**
 Nein. In der Schweiz gibt es keine Berufszulassungspflicht für Grafikdesign. Ein überzeugendes Portfolio und nachgewiesene Projekterfahrung zählen mehr als formale Abschlüsse. Viele erfolgreiche Freelance-Grafiker sind Quereinsteiger oder Autodidakten.
 
-### Was ist ein realistischer Stundensatz für einen selbständigen Grafiker in der Schweiz?
+**Was ist ein realistischer Stundensatz für einen selbständigen Grafiker in der Schweiz?**
 Erfahrene Grafiker berechnen CHF 90–130 pro Stunde. Einsteiger starten bei CHF 70–85. Spezialisten im Bereich Branding oder Corporate Design erzielen CHF 150–200+. Wichtig: Den Satz regelmässig überprüfen und bei steigender Nachfrage erhöhen.
 
-### Wie schütze ich meine Designs rechtlich?
+**Wie schütze ich meine Designs rechtlich?**
 Als Urheber bist du automatisch Inhaber der Urheberrechte an deinen Werken. Du kannst Nutzungsrechte befristet oder dauerhaft lizenzieren. Wichtig: Schriftliche Verträge, die klar regeln, welche Nutzungsrechte (exklusiv/nicht-exklusiv, zeitlich und räumlich) der Kunde erhält.
 
-### Wie finde ich meine ersten Kunden als Grafiker?
+**Wie finde ich meine ersten Kunden als Grafiker?**
 Starte mit deinem bestehenden Netzwerk, erstelle ein starkes Behance-Portfolio und wende dich direkt an lokale KMU. Online-Plattformen wie Malt eignen sich für den Einstieg, haben aber tendenziell niedrigere Preise. Langfristig lohnen sich eine eigene Website mit SEO und Empfehlungsmarketing.
 
-### Kann ich als Grafiker nebenberuflich selbständig starten?
+**Kann ich als Grafiker nebenberuflich selbständig starten?**
 Ja, das ist sogar empfehlenswert. Du baust Portfolio und Kundennetzwerk auf, während du weiterhin ein festes Einkommen hast. Informiere deinen Arbeitgeber und prüfe deinen Arbeitsvertrag auf Konkurrenzklauseln.

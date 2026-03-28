@@ -197,18 +197,18 @@ Bexio ist nicht das günstigste Tool, aber es ist das vollständigste für die S
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich meine Excel-Buchhaltung zu Bexio migrieren?
+**Kann ich meine Excel-Buchhaltung zu Bexio migrieren?**
 
 Ja. Bexio bietet einen CSV-Import für Kunden, Produkte und Buchungen. Die Migration ist nicht perfekt automatisch, aber machbar. Am besten startest du die Migration zum 1. Januar (Jahresbeginn).
 
-### Speichert Bexio meine Daten in der Schweiz?
+**Speichert Bexio meine Daten in der Schweiz?**
 
 Ja. Bexio ist ein Schweizer Unternehmen und speichert alle Daten in der Schweiz auf ISO-zertifizierten Servern. Das entspricht den Anforderungen des Schweizer Datenschutzgesetzes (DSG).
 
-### Kann ich Bexio auch für eine GmbH nutzen?
+**Kann ich Bexio auch für eine GmbH nutzen?**
 
 Ja. Bexio ist sowohl für Einzelfirmen als auch für GmbH und AG geeignet. Der Plus-Plan mit Lohnabrechnung ist für GmbH mit Mitarbeitern empfohlen.
 
-### Wie lange dauert es, Bexio zu lernen?
+**Wie lange dauert es, Bexio zu lernen?**
 
 Für die Grundfunktionen (Rechnungen, Buchhaltung) brauchst du 2-3 Stunden. Bexio bietet gute Video-Tutorials und einen deutschen Support. Die meisten Nutzer sind nach einer Woche selbständig damit.

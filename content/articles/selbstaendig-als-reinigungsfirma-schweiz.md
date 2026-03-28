@@ -97,7 +97,7 @@ Der **Gesamtarbeitsvertrag (GAV) Reinigungsgewerbe** ist für Betriebe mit Anges
 
 ## Preisgestaltung
 
-### Marktpreise 2026
+**Marktpreise 2026**
 
 | Leistung | Stundenpreis |
 |---|---|
@@ -224,15 +224,15 @@ Als kleine Reinigungsfirma reicht:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich als Ausländer eine Reinigungsfirma in der Schweiz gründen?
+**Kann ich als Ausländer eine Reinigungsfirma in der Schweiz gründen?**
 
 Ja – mit gültiger Aufenthaltsbewilligung (B oder C). Als EU/EFTA-Bürger mit B-Ausweis ist selbständige Tätigkeit möglich. Mit Aufenthaltsbewilligung aus Drittstaaten: Prüfe ob deine Bewilligung die Selbständigkeit erlaubt.
 
-### Brauche ich eine Ausbildung für die Reinigungsbranche?
+**Brauche ich eine Ausbildung für die Reinigungsbranche?**
 
 Keine ist gesetzlich vorgeschrieben. Aber: Fachkurse und Zertifikate (z.B. Reinigungsfachmann EFZ, Gebäudereiniger-Kurs) machen professionellen Eindruck und helfen bei Gewerbeaufträgen. Viele erfolgreiche Reinigungsfirmen-Inhaber haben keine formale Ausbildung im Bereich.
 
-### Wie unterscheide ich mich von der Konkurrenz?
+**Wie unterscheide ich mich von der Konkurrenz?**
 
 Zuverlässigkeit und Qualität sind die wichtigsten Differenzierungsmerkmale. Weitere Möglichkeiten: Spezialreinigung (Polster, Teppich, Fassade), Ökologische Reinigungsmittel, Express-Service, Sprachkenntnisse (für internationale Kunden), Online-Buchungssystem.
 

@@ -95,7 +95,7 @@ In der Schweiz wird zwischen **obligatorischen** und **freiwilligen** Versicheru
 
 ## Obligatorische Versicherungen
 
-### 1. Krankenversicherung (KVG) - Grundversicherung
+**1. Krankenversicherung (KVG) - Grundversicherung**
 
 **Status:** Absolut obligatorisch für alle Einwohner der Schweiz
 
@@ -117,7 +117,7 @@ In der Schweiz wird zwischen **obligatorischen** und **freiwilligen** Versicheru
 
 **Achtung:** Die Grundversicherung deckt **keine** Lohnausfälle bei Krankheit!
 
-### 2. AHV/IV/EO (1. Säule)
+**2. AHV/IV/EO (1. Säule)**
 
 **Status:** Obligatorisch für alle Erwerbstätigen
 
@@ -157,7 +157,7 @@ AHV-Beiträge (9.95%): CHF 11'940/Jahr = CHF 995/Monat
 
 → [AHV Rente berechnen Schweiz](/artikel/ahv-rente-berechnen-schweiz)
 
-### 3. Weitere obligatorische Versicherungen
+**3. Weitere obligatorische Versicherungen**
 
 **Motorfahrzeug-Haftpflicht:**
 - Wenn Sie ein Geschäftsfahrzeug besitzen
@@ -177,7 +177,7 @@ AHV-Beiträge (9.95%): CHF 11'940/Jahr = CHF 995/Monat
 
 Diese Versicherungen sind zwar nicht Pflicht, aber für Selbständige absolut essentiell:
 
-### 1. Krankentaggeld-Versicherung (KTG)
+**1. Krankentaggeld-Versicherung (KTG)**
 
 **Warum so wichtig?**
 Als Selbständiger haben Sie **keine Lohnfortzahlung** bei Krankheit. Ohne Krankentaggeld bedeutet jeder Ausfalltag null Einkommen.
@@ -216,7 +216,7 @@ Mit Versicherung: CHF 14'400 erhalten - CHF 1'440 Prämie = CHF 12'960 Nettogewi
 
 → [Versicherungen für Selbständige: Kompletter Guide](/artikel/versicherungen-selbststaendige)
 
-### 2. Unfallversicherung (UVG)
+**2. Unfallversicherung (UVG)**
 
 **Status:** Freiwillig, aber sehr empfohlen
 
@@ -237,7 +237,7 @@ Mit Versicherung: CHF 14'400 erhalten - CHF 1'440 Prämie = CHF 12'960 Nettogewi
 
 **Tipp:** UVG ist relativ günstig und deckt ein existenzielles Risiko ab. Empfehlenswert!
 
-### 3. Berufshaftpflichtversicherung
+**3. Berufshaftpflichtversicherung**
 
 **Was ist versichert?**
 Schäden, die Sie (oder Ihre Mitarbeiter) Dritten zufügen:
@@ -272,7 +272,7 @@ Schäden, die Sie (oder Ihre Mitarbeiter) Dritten zufügen:
 
 → [Berufshaftpflicht Schweiz: Alles was du wissen musst](/artikel/berufshaftpflicht-schweiz)
 
-### 4. Rechtsschutzversicherung
+**4. Rechtsschutzversicherung**
 
 **Was ist versichert?**
 Übernahme von Anwalts- und Gerichtskosten bei:
@@ -295,7 +295,7 @@ Ein einziger Rechtsstreit kann schnell CHF 20'000-50'000 kosten. Bei regelmässi
 - Vorsätzliche Handlungen
 - Bereits laufende Streitigkeiten (vor Versicherungsabschluss)
 
-### 5. Betriebsunterbrechungsversicherung
+**5. Betriebsunterbrechungsversicherung**
 
 **Was ist versichert?**
 Einkommensausfall bei:
@@ -313,7 +313,7 @@ Einkommensausfall bei:
 
 ## Freiwillige Vorsorge (sehr empfohlen)
 
-### 1. Pensionskasse (BVG) - 2. Säule
+**1. Pensionskasse (BVG) - 2. Säule**
 
 **Status:** Für Selbständige freiwillig
 
@@ -382,7 +382,7 @@ Viele Selbständige verzichten auf BVG und setzen auf:
 
 → [Freizügigkeitskonto Schweiz: Altersvorsorge für Selbständige](/artikel/freizuegigkeitskonto-schweiz)
 
-### 2. Säule 3a - Gebundene Vorsorge
+**2. Säule 3a - Gebundene Vorsorge**
 
 **Warum so wichtig?**
 - **Steuervorteil:** Bei 30% Grenzsteuersatz sparen Sie CHF 2'117 Steuern pro Jahr
@@ -505,41 +505,41 @@ Viele Selbständige verzichten auf BVG und setzen auf:
 
 ## Häufige Fehler vermeiden
 
-### 1. Kein Krankentaggeld abschliessen
+**1. Kein Krankentaggeld abschliessen**
 **Risiko:** Ein 3-monatiger Ausfall kostet CHF 15'000-25'000
 **Lösung:** Krankentaggeld ist Pflicht, nicht optional!
 
-### 2. Zu lange warten mit Versicherungen
+**2. Zu lange warten mit Versicherungen**
 **Risiko:** Gesundheitsprüfung wird schwieriger mit zunehmendem Alter/Vorerkrankungen
 **Lösung:** Krankentaggeld + UVG gleich zu Beginn abschliessen
 
-### 3. Altersvorsorge vernachlässigen
+**3. Altersvorsorge vernachlässigen**
 **Risiko:** Im Alter nur AHV-Rente (CHF 2'450/Monat) → Altersarmut
 **Lösung:** Mindestens Säule 3a jährlich maximal einzahlen
 
-### 4. Zu hohe Franchise bei KVG
+**4. Zu hohe Franchise bei KVG**
 **Risiko:** Bei chronischen Krankheiten sehr teuer
 **Lösung:** Franchise an Gesundheitszustand anpassen
 
-### 5. Keine Berufshaftpflicht trotz Risiko
+**5. Keine Berufshaftpflicht trotz Risiko**
 **Risiko:** Persönliche Haftung, kann Existenz bedrohen
 **Lösung:** Berufshaftpflicht bei jeglichem Kundenkontakt abschliessen
 
-### 6. Falsches versichertes Einkommen bei KTG
+**6. Falsches versichertes Einkommen bei KTG**
 **Risiko:** Unterversichert → Lücke bei Ausfall
 **Lösung:** Realistisches Einkommen versichern (80% des Netto-Einkommens)
 
-### 7. Versicherungen nicht jährlich prüfen
+**7. Versicherungen nicht jährlich prüfen**
 **Risiko:** Überteuerte Prämien, falsche Deckungen
 **Lösung:** Jährlicher Check (z.B. jeweils im Oktober vor Kündigungsfrist)
 
-### 8. Keine Rückstellungen für Nachzahlung AHV
+**8. Keine Rückstellungen für Nachzahlung AHV**
 **Risiko:** Provisorische AHV-Rechnung zu niedrig → hohe Nachzahlung
 **Lösung:** 10% des Einkommens monatlich für AHV zurücklegen
 
 ## Versicherungen optimieren
 
-### 1. Krankenversicherung optimieren
+**1. Krankenversicherung optimieren**
 
 **Jährlich vergleichen:**
 - comparis.ch, bonus.ch, moneyland.ch
@@ -551,25 +551,25 @@ Viele Selbständige verzichten auf BVG und setzen auf:
 - Telmed/HMO-Modell
 - Unfalldeckung ausschliessen wenn UVG vorhanden
 
-### 2. Versicherungsbündel nutzen
+**2. Versicherungsbündel nutzen**
 
 Viele Versicherer bieten Rabatte bei mehreren Policen:
 - KVG + UVG bei selber Kasse: 5-10% Rabatt
 - Berufshaftpflicht + Betriebsversicherung: 10-15% Rabatt
 
-### 3. Selbstbehalt erhöhen
+**3. Selbstbehalt erhöhen**
 
 Bei Berufshaftpflicht und anderen Versicherungen:
 - Höherer Selbstbehalt (z.B. CHF 5'000 statt CHF 1'000) → 20-30% tiefere Prämie
 - Nur sinnvoll wenn Sie den Selbstbehalt problemlos zahlen können
 
-### 4. Zahlungsweise optimieren
+**4. Zahlungsweise optimieren**
 
 **Jährliche Zahlung** statt monatlich:
 - Ersparnis: 2-5% der Jahresprämie
 - Beispiel: CHF 1'200 Jahresprämie → CHF 24-60 gespart
 
-### 5. Branchenverbände nutzen
+**5. Branchenverbände nutzen**
 
 Gewisse Branchenverbände bieten Gruppenversicherungen:
 - 10-20% günstiger als Einzelabschluss
@@ -636,25 +636,25 @@ Gewisse Branchenverbände bieten Gruppenversicherungen:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Welche Versicherungen brauche ich mindestens als Selbständiger?
+**Welche Versicherungen brauche ich mindestens als Selbständiger?**
 Obligatorisch sind nur Krankenversicherung (KVG) und AHV/IV/EO. Dringend empfohlen sind aber zusätzlich: Krankentaggeld (für Einkommensschutz bei Krankheit), Unfallversicherung (UVG) und Berufshaftpflicht. Ohne Krankentaggeld riskieren Sie bei einem 3-monatigen Ausfall einen Einkommensverlust von CHF 15'000-30'000. Diese drei Zusatzversicherungen kosten zusammen ca. CHF 2'000-3'000 pro Jahr und decken existenzielle Risiken ab.
 
-### Was kostet Krankentaggeld für Selbständige?
+**Was kostet Krankentaggeld für Selbständige?**
 Krankentaggeld kostet etwa CHF 100-150 pro Monat für ein versichertes Einkommen von CHF 5'000 monatlich. Die Kosten hängen ab von: Ihrem Alter, Gesundheitszustand, der Wartefrist (7-90 Tage) und der Leistungshöhe (60-80%). Bei 30 Tagen Wartefrist und 80% Deckung zahlen Sie ca. CHF 1'200-1'800 jährlich. Das mag viel erscheinen, aber ein einziger 3-monatiger Krankheitsausfall ohne Versicherung kostet Sie CHF 15'000-18'000 Einkommensverlust.
 
-### Brauche ich eine Pensionskasse als Selbständiger?
+**Brauche ich eine Pensionskasse als Selbständiger?**
 Eine Pensionskasse (BVG) ist für Selbständige nicht obligatorisch, aber sehr empfehlenswert. Die AHV-Rente allein beträgt maximal CHF 2'450 pro Monat – das reicht nicht für einen angemessenen Lebensstandard. Sie haben zwei Optionen: (1) Freiwilliger Anschluss an eine Pensionskasse (Kosten: CHF 12'000-20'000/Jahr, steuerlich abzugsfähig) oder (2) Private Vorsorge via Säule 3a (max. CHF 7'056/Jahr) plus Säule 3b. Die meisten Selbständigen nutzen die flexiblere Säule 3a-Lösung.
 
-### Wann sollte ich Versicherungen abschliessen?
+**Wann sollte ich Versicherungen abschliessen?**
 Krankentaggeld und Unfallversicherung sollten Sie so früh wie möglich abschliessen, idealerweise gleich bei der Gründung. Warum? Diese Versicherungen erfordern eine Gesundheitsprüfung. Je jünger und gesünder Sie sind, desto problemloser der Abschluss und desto günstiger die Prämien. Wenn Sie erst nach einem Gesundheitsproblem abschliessen wollen, werden Sie entweder abgelehnt oder erhalten Ausschlüsse. Berufshaftpflicht können Sie jederzeit abschliessen.
 
-### Wie viel sollte ich für Versicherungen budgetieren?
+**Wie viel sollte ich für Versicherungen budgetieren?**
 Rechnen Sie mit 20-25% Ihres Bruttoeinkommens für Versicherungen und Sozialabgaben. Bei CHF 100'000 Einkommen sind das CHF 20'000-25'000 pro Jahr, aufgeteilt auf: AHV (CHF 10'000), Krankenversicherung (CHF 4'000-5'000), Krankentaggeld (CHF 1'500), Unfallversicherung (CHF 600-1'000), Berufshaftpflicht (CHF 500), Optional Rechtsschutz (CHF 500). Mit Vollvorsorge (inkl. Säule 3a und BVG) eher 35-40%.
 
-### Kann ich Versicherungsprämien von den Steuern abziehen?
+**Kann ich Versicherungsprämien von den Steuern abziehen?**
 Ja, die meisten Versicherungen sind steuerlich abzugsfähig: Berufshaftpflicht und Betriebsversicherungen sind vollständig als Geschäftsaufwand abzugsfähig. Krankentaggeld, Unfallversicherung und Säule 3a sind als Sozialabzüge abzugsfähig. Die Grundversicherung (KVG) ist nur begrenzt abzugsfähig (je nach Kanton CHF 2'000-7'000). Rechtsschutz ist teilweise abzugsfähig (geschäftlicher Anteil). Bei 30% Grenzsteuersatz sparen Sie ca. CHF 2'000-3'000 Steuern durch Versicherungsprämien.
 
-### Was ist der Unterschied zwischen Krankentaggeld und Unfallversicherung?
+**Was ist der Unterschied zwischen Krankentaggeld und Unfallversicherung?**
 Krankentaggeld deckt Einkommensausfall bei **Krankheit** (Grippe, chronische Leiden, Rückenschmerzen, etc.). Unfallversicherung (UVG) deckt **Unfälle** (Sturz, Autounfall, Sportunfall, etc.). Beide zahlen ein Taggeld bei Arbeitsunfähigkeit, aber für unterschiedliche Ursachen. Sie brauchen BEIDE, da Krankheiten viel häufiger sind als Unfälle. Ohne Krankentaggeld sind Sie nur gegen Unfälle versichert – alle Krankheitsausfälle tragen Sie selbst. Die Kombination kostet ca. CHF 150-200/Monat.
 
 ## Fazit
@@ -680,6 +680,7 @@ Versicherungen vergleichen, Deckungen anpassen, Prämien sparen. 30 Minuten Aufw
 
 Mit der richtigen Absicherung können Sie ruhig schlafen und sich auf Ihr Geschäft konzentrieren. Unterschätzen Sie die Risiken nicht – aber lassen Sie sich davon auch nicht abschrecken. Die Schweiz bietet ein gutes System, nutzen Sie es!
 
+<!--
 ### Verlinkungsstrategie:
 Diese Pillar Page sollte von ALLEN Artikeln im Versicherungs-Silo verlinkt werden.
 
@@ -705,4 +706,5 @@ Diese Pillar Page sollte von ALLEN Artikeln im Versicherungs-Silo verlinkt werde
 - AHV-Beitragssätze bei Änderung anpassen
 - Versicherungsanbieter aktualisieren
 - Branchenspezifische Empfehlungen erweitern
+-->
 -->

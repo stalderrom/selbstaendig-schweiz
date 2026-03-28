@@ -337,19 +337,19 @@ Gewünschtes Einkommen
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wann soll ich mit der Altersvorsorge beginnen?
+**Wann soll ich mit der Altersvorsorge beginnen?**
 
 Sofort – auch wenn du gerade gegründet hast. Dank Zinseszins ist jedes Jahr früher massiv wertvoller. Wer mit 30 beginnt und CHF 500/Monat anlegt, hat mit 65 rund CHF 800'000 (bei 5% p.a.). Wer mit 40 beginnt, kommt auf CHF 400'000. 10 Jahre Verzögerung kostet CHF 400'000.
 
-### Kann ich als GmbH-Inhaber Säule 3a einzahlen?
+**Kann ich als GmbH-Inhaber Säule 3a einzahlen?**
 
 Als GmbH-Inhaber bist du angestellt. Du kannst privat Säule 3a einzahlen (CHF 7'258 ohne BVG, weniger mit BVG). Ausserdem kann deine GmbH eine Pensionskasse für dich einrichten und Beiträge als Geschäftsaufwand abziehen.
 
-### Was passiert mit meiner Säule 3a wenn ich die Schweiz verlasse?
+**Was passiert mit meiner Säule 3a wenn ich die Schweiz verlasse?**
 
 Du kannst die Säule 3a bei Auswanderung auflösen und beziehen. Das Kapital wird dann mit einer Quellensteuer belastet (Satz je nach Kanton und Betrag). In EU/EFTA-Staaten gibt es Abkommen, die die Besteuerung regeln.
 
-### Wie sicher ist die Säule 3a?
+**Wie sicher ist die Säule 3a?**
 
 3a-Sparkonten bei Banken sind durch die Einlagensicherung (esisuisse) bis CHF 100'000 pro Person und Bank geschützt. 3a-Wertschriften sind Sondervermögen – im Konkurs der Fondsgesellschaft geschützt. Bei Bankenkonkurs bis CHF 100'000 gesichert.
 

@@ -28,7 +28,7 @@ Die Schweiz kennt drei Haupttypen der Beratung:
 
 Rechtlich giltst du als selbständig erwerbstätig. Das bedeutet: eigenes unternehmerisches Risiko, mehrere Auftraggeber und wirtschaftliche Unabhängigkeit.
 
-### Schweizer Besonderheiten
+**Schweizer Besonderheiten**
 
 Der Schweizer Beratungsmarkt ist Premium-Segment mit hohen Qualitätsansprüchen. Kunden zahlen gerne mehr für erstklassige Leistung. Wichtige Branchen sind Finanzdienstleistungen, Pharma, Technologie und der öffentliche Sektor.
 
@@ -40,7 +40,7 @@ Drei Bereiche zeigen starkes Wachstum: Digitalisierungsberatung boomt durch KI u
 
 ## Voraussetzungen für selbständige Berater
 
-### Fachliche Anforderungen
+**Fachliche Anforderungen**
 
 Mindestens 3-5 Jahre Berufserfahrung in deinem Beratungsfeld sind Pflicht. Kunden erwarten nachweisbare Expertise und Referenzen. Ein starkes Branchennetzwerk hilft bei der Akquisition.
 
@@ -52,13 +52,13 @@ Erfolgreiche Berater denken unternehmerisch. Du musst Kunden akquirieren, präse
 
 Kommunikationsstärke unterscheidet gute von durchschnittlichen Beratern. Du musst komplexe Sachverhalte verständlich erklären und Workshops moderieren können.
 
-### Rechtliche Voraussetzungen
+**Rechtliche Voraussetzungen**
 
 Für allgemeine Unternehmensberatung brauchst du keine spezielle Bewilligung. Ausnahmen: Rechtsberatung erfordert eine Anwaltszulassung, Steuerberatung einen Treuhänderausweis, Finanzberatung eine FINMA-Bewilligung.
 
 Der Handelsregistereintrag ist erst ab CHF 100'000 Jahresumsatz obligatorisch. Viele Berater melden sich trotzdem früher an für ein professionelleres Image.
 
-### Finanzielle Voraussetzungen
+**Finanzielle Voraussetzungen**
 
 Plane 6-12 Monate Lebenshaltungskosten als Startkapital. Die ersten Monate bringen oft wenig Umsatz. Rechne zusätzlich CHF 5'000-15'000 für Infrastruktur und Marketing.
 
@@ -233,31 +233,31 @@ Nur Grundversicherungen ohne Berufshaftpflicht bergen existenzbedrohende Risiken
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wann muss ich mich ins Handelsregister eintragen?
+**Wann muss ich mich ins Handelsregister eintragen?**
 
 Als Einzelfirma ist der Handelsregistereintrag erst ab CHF 100'000 Jahresumsatz obligatorisch. Du kannst dich aber freiwillig früher eintragen lassen für etwa CHF 600. Vorteile sind ein professionelleres Image, Schutz des Firmennamens und einfachere Geschäftseröffnung bei Banken. Viele Berater melden sich bereits im ersten Jahr an.
 
-### Wie funktioniert die Sozialversicherung für selbständige Berater?
+**Wie funktioniert die Sozialversicherung für selbständige Berater?**
 
 Du zahlst AHV/IV/EO-Beiträge basierend auf deinem Einkommen, mindestens CHF 9'800 jährlich. Die Ausgleichskasse berechnet im ersten Jahr einen Akonto-Betrag, später erfolgt die definitive Abrechnung. Die berufliche Vorsorge (2. Säule) ist freiwillig – viele schliessen eine Säule 3a ab oder zahlen freiwillig in die Pensionskasse ein.
 
-### Ab welchem Umsatz bin ich MWST-pflichtig?
+**Ab welchem Umsatz bin ich MWST-pflichtig?**
 
 Die MWST-Pflicht greift ab CHF 100'000 Jahresumsatz. Du kannst dich aber freiwillig früher anmelden. Vorteile: Vorsteuerabzug auf Geschäftsausgaben, professionellere Rechnungen. Nachteile: 7.7% Aufschlag auf deine Preise, monatliche Abrechnungen. Viele Berater warten bis zur Pflichtgrenze.
 
-### Wie kalkuliere ich realistische Stundensätze?
+**Wie kalkuliere ich realistische Stundensätze?**
 
 Teile dein Zieljahreslohn durch 1'000-1'200 abrechenbare Stunden. Bei CHF 100'000 Zieleinkommen und 1'000 Stunden ergibt das CHF 100 pro Stunde. Addiere Kosten, Steuern und Gewinnmarge. Vergleiche mit Marktpreisen und passe entsprechend an.
 
-### Was ist Scheinselbständigkeit und wie vermeide ich sie?
+**Was ist Scheinselbständigkeit und wie vermeide ich sie?**
 
 Scheinselbständigkeit liegt vor wenn du wie ein Angestellter arbeitest aber als Selbständiger abgerechnet wirst. Risikofaktoren: nur ein Auftraggeber, feste Arbeitszeiten, vorgegebene Arbeitsplätze. Vermeide das durch mehrere Kunden, flexible Arbeitsgestaltung und echte unternehmerische Entscheidungen.
 
-### Brauche ich eine Berufshaftpflichtversicherung?
+**Brauche ich eine Berufshaftpflichtversicherung?**
 
 Eine Berufshaftpflicht ist nicht gesetzlich vorgeschrieben aber dringend empfohlen. Sie deckt Schäden durch fehlerhafte Beratung ab – das können Millionenbeträge sein. Kosten: CHF 800-2'000 jährlich für CHF 1-5 Millionen Deckung. Manche Grosskunden verlangen den Nachweis einer Haftpflichtversicherung.
 
-### Kann ich nebenberuflich als Berater starten?
+**Kann ich nebenberuflich als Berater starten?**
 
 Ja, das ist möglich und empfehlenswert für einen sanften Übergang. Beachte aber: AHV-Anmeldung ist trotzdem sofort nötig. Kläre mit deinem Arbeitgeber mögliche Interessenkonflikte ab. Plane genügend Zeit für Akquisition und Kundenbetreuung ein.
 

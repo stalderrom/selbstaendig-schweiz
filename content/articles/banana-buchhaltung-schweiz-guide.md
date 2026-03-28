@@ -222,22 +222,22 @@ Wenn du aber Einsteiger bist, oft unterwegs arbeitest oder Banking-Integration w
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich Banana Buchhaltung auf Mac und Windows nutzen?
+**Kann ich Banana Buchhaltung auf Mac und Windows nutzen?**
 
 Ja. Banana läuft auf Windows, Mac und Linux. Es gibt auch eine iPad-App, die aber für professionelle Buchhaltung nur begrenzt geeignet ist.
 
-### Kann mein Treuhänder auf meine Banana-Buchhaltung zugreifen?
+**Kann mein Treuhänder auf meine Banana-Buchhaltung zugreifen?**
 
 Nicht direkt — Banana ist keine Cloud-Lösung. Du exportierst die Datei (.ac2-Format) und schickst sie deinem Treuhänder. Die meisten Schweizer Treuhänder kennen Banana und können damit arbeiten.
 
-### Ist Banana Buchhaltung auf Deutsch verfügbar?
+**Ist Banana Buchhaltung auf Deutsch verfügbar?**
 
 Ja. Banana ist vollständig auf Deutsch, Französisch, Italienisch und Englisch verfügbar.
 
-### Wie lange dauert es, Banana zu lernen?
+**Wie lange dauert es, Banana zu lernen?**
 
 Mit Grundkenntnissen der doppelten Buchführung: 2-4 Stunden. Ohne Buchhaltungskenntnisse: deutlich länger. Es gibt gute Tutorials auf banana.ch und YouTube.
 
-### Funktioniert Banana auch für eine GmbH?
+**Funktioniert Banana auch für eine GmbH?**
 
 Ja. Banana kann auch für eine GmbH genutzt werden. Eine GmbH braucht zwingend die doppelte Buchführung — die beherrscht Banana vollständig. Für grössere GmbH mit Lohnabrechnung brauchst du aber eine Zusatzlösung.

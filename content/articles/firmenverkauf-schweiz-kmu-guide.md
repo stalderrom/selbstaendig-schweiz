@@ -176,31 +176,31 @@ Begleite die Übergangsphase je nach Vereinbarung als Berater oder Geschäftsfü
 
 ## FAQ – Häufige Fragen zum Firmenverkauf
 
-### Wie lange dauert ein Firmenverkauf in der Schweiz?
+**Wie lange dauert ein Firmenverkauf in der Schweiz?**
 
 Ein professionell durchgeführter Firmenverkauf dauert 12-18 Monate vom ersten Bewertungstermin bis zum finalen Closing. Die Vorbereitungsphase mit Bewertung und Unterlagenerstellung nimmt 3-6 Monate in Anspruch. Die aktive Käufersuche und erste Gespräche dauern weitere 2-4 Monate. Verhandlungen und Due Diligence benötigen zusätzlich 3-5 Monate. Bei komplexen Unternehmen oder schwierigen Marktbedingungen kann sich der Prozess auf 24 Monate verlängern. Zeitdruck führt immer zu schlechteren Ergebnissen und höheren Kosten.
 
-### Welche Steuern fallen beim Firmenverkauf an?
+**Welche Steuern fallen beim Firmenverkauf an?**
 
 Die steuerliche Behandlung hängt stark von der Rechtsform ab. Bei Einzelfirmen wird der Geschäftswert als Einkommen besteuert, was zu hohen Steuersätzen führen kann. Bei Kapitalgesellschaften (AG/GmbH) kann der Anteilsverkauf als steuerfreier Kapitalgewinn behandelt werden, wenn du die Anteile mindestens ein Jahr im Privatvermögen gehalten hast. Zusätzlich fallen kantonale Handänderungssteuern von 0.1-3% an. Eine frühzeitige Steuerplanung mit spezialisierten Experten ist essentiell, da Einsparungen von 20-40% des Verkaufserlöses möglich sind. Die Strukturierung sollte mindestens zwei Jahre vor dem geplanten Verkauf erfolgen.
 
-### Brauche ich einen M&A Berater für den Firmenverkauf?
+**Brauche ich einen M&A Berater für den Firmenverkauf?**
 
 Für Unternehmen ab CHF 1 Million Wert ist ein M&A Berater dringend empfehlenswert. Er verfügt über Käufernetzwerke, führt professionelle Verhandlungen und optimiert den gesamten Verkaufsprozess. Die Erfolgsgebühr von 3-8% des Verkaufspreises amortisiert sich meist durch deutlich höhere Erlöse und reduzierten Zeitaufwand. Berater können diskret potentielle Käufer ansprechen, ohne das operative Geschäft zu stören. Bei kleineren Unternehmen unter CHF 1 Million kann ein spezialisierter M&A Anwalt eine kostengünstige Alternative sein. Wähle Berater mit nachweisbarer Branchenerfahrung und erfolgreichen Transaktionen in vergleichbarer Grössenordnung.
 
-### Wie finde ich den richtigen Käufer für mein Unternehmen?
+**Wie finde ich den richtigen Käufer für mein Unternehmen?**
 
 Strategische Käufer aus deiner Branche zahlen oft 20-50% höhere Preise als Finanzinvestoren, da sie Synergien realisieren können. Dazu gehören Konkurrenten, Lieferanten oder Kunden. Wichtig ist neben dem Preis auch die kulturelle Passung und der Umgang mit bestehenden Mitarbeitern. M&A Berater haben etablierte Netzwerke und können diskret Interessenten ansprechen. Online-Plattformen wie die Nachfolgebörse oder Branchenkontakte sind weitere Kanäle. Management Buy-outs durch bestehende Führungskräfte bieten oft die beste Kontinuität. Eine breite Ansprache von 15-30 potentiellen Käufern ist normal, um 3-5 ernsthafte Interessenten zu identifizieren.
 
-### Was passiert mit meinen Mitarbeitern nach dem Verkauf?
+**Was passiert mit meinen Mitarbeitern nach dem Verkauf?**
 
 Alle bestehenden Arbeitsverträge gehen automatisch auf den neuen Inhaber über (Betriebsübergang nach OR 333). Die Anstellungsbedingungen bleiben zunächst unverändert. Ein befristeter Kündigungsschutz schützt Mitarbeiter vor sofortigen Entlassungen. Viele Käufer sind explizit an erfahrenen, eingespielten Teams interessiert, da diese den Geschäftserfolg sichern. Seriöse Käufer kommunizieren ihre Personalplanung transparent und binden Schlüsselmitarbeiter oft mit neuen Verträgen oder Incentives. Eine professionelle Mitarbeiterkommunikation durch den neuen Inhaber verhindert Kündigungen aus Unsicherheit. In der Regel bleiben 80-90% der Mitarbeiter nach einem erfolgreichen Unternehmensverkauf.
 
-### Kann ich nach dem Verkauf weiterhin im Unternehmen arbeiten?
+**Kann ich nach dem Verkauf weiterhin im Unternehmen arbeiten?**
 
 Ja, viele Verkäufer bleiben 1-3 Jahre als Geschäftsführer, Berater oder in einer Übergangsrolle im Unternehmen. Dies erleichtert die Übergabe erheblich und kann über Earn-out Klauseln zusätzlichen Erlös bringen. Wichtig ist die klare Regelung von Kompetenzen, Verantwortungen und Entscheidungsbefugnissen im Kaufvertrag. Häufige Modelle sind die Position als Chairman, Senior Advisor oder Teilzeit-Geschäftsführer. Die Vergütung kann über Fixgehalt, erfolgsabhängige Komponenten oder Earn-out geregelt werden. Eine strukturierte Übergabe mit definierten Meilensteinen schafft Klarheit für alle Beteiligten. Nach der Übergangsphase ist meist eine beratende Tätigkeit oder Verwaltungsratsmandat möglich.
 
-### Wie kann ich den Firmenwert vor dem Verkauf steigern?
+**Wie kann ich den Firmenwert vor dem Verkauf steigern?**
 
 Systematische Wertsteigerung beginnt 2-3 Jahre vor dem geplanten Verkauf. Reduziere die Inhaberabhängigkeit durch Aufbau von Führungsstrukturen und Delegation wichtiger Kundenkontakte. Optimiere die Profitabilität durch Kostensenkung und Preiserhöhungen. Diversifiziere die Kundenstruktur, um Abhängigkeiten zu reduzieren. Investiere in moderne IT-Systeme und Equipment, um den Investitionsbedarf für Käufer zu senken. Schaffe wiederkehrende Umsätze durch Wartungsverträge oder Abonnements. Bereinige die Bilanz von nicht-operativen Vermögenswerten. Eine professionelle Dokumentation aller Prozesse und Verträge beschleunigt die Due Diligence. Langfristige Kunden- und Lieferantenverträge schaffen Planungssicherheit. Diese Massnahmen können den Firmenwert um 30-50% steigern.
 

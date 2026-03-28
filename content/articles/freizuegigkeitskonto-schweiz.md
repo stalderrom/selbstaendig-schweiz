@@ -105,13 +105,13 @@ Bei einer Inflation von 1.5% jährlich verlieren konservative Strategien real an
 
 ## Schritt-für-Schritt Anleitung
 
-### 1. Vorbereitung vor dem Stellenwechsel
+**1. Vorbereitung vor dem Stellenwechsel**
 
 Informiere deine aktuelle Pensionskasse mindestens 4 Wochen vor dem Austritt über deine Pläne. Fordere den Freizügigkeitsausweis an – dieses Dokument zeigt dein verfügbares Guthaben und die möglichen Verwendungen.
 
 Beginne bereits jetzt mit dem Anbietervergleich. Nutze Online-Rechner und hole dir Offerten von 3-5 Anbietern ein. Berücksichtige dabei nicht nur die Kosten, sondern auch die Anlageoptionen und den Service.
 
-### 2. Anbieter auswählen und vergleichen
+**2. Anbieter auswählen und vergleichen**
 
 Führe eine detaillierte Kosten-Nutzen-Analyse durch. Rechne die Gesamtkosten über die geplante Laufzeit hoch. Ein Anbieter mit höheren Gebühren, aber besserer Rendite, kann langfristig günstiger sein.
 
@@ -122,7 +122,7 @@ Wichtige Vergleichskriterien:
 - Kundenservice und Beratungsqualität
 - Wechselmöglichkeiten zwischen Strategien
 
-### 3. Kontoeröffnung durchführen
+**3. Kontoeröffnung durchführen**
 
 Die meisten Anbieter bieten sowohl Online-Antrag als auch persönliche Beratungstermine an. Für komplexere Situationen empfiehlt sich das Beratungsgespräch.
 
@@ -134,19 +134,19 @@ Halte folgende Dokumente bereit:
 
 Die Legitimation erfolgt meist per Video-Call oder in einer Filiale. Manche Anbieter akzeptieren auch das PostIdent-Verfahren.
 
-### 4. Geldübertragung organisieren
+**4. Geldübertragung organisieren**
 
 Erteile deiner bisherigen Pensionskasse den Übertragungsauftrag. Gib dabei die genauen Kontodaten deines neuen Freizügigkeitskontos an. Die Pensionskasse hat 30 Tage Zeit für die Übertragung.
 
 **Wichtig:** Verfolge den Übertragungsprozess aktiv nach. Kontrolliere, ob das Geld korrekt angekommen ist und die Beträge stimmen.
 
-### 5. Anlagestrategie festlegen
+**5. Anlagestrategie festlegen**
 
 Definiere deine Risikobereitschaft ehrlich. Fragst du dich: Wie lange bleibt das Geld voraussichtlich auf dem Konto? Kannst du Schwankungen verkraften? Wie wichtig ist dir Sicherheit versus Rendite?
 
 Für Überbrückungen unter 2 Jahren wähle konservative Strategien. Bei längeren Zeiträumen können Wertschriftenlösungen sinnvoll sein. Diversifikation reduziert das Risiko: Verteile das Geld auf verschiedene Anlageklassen.
 
-### 6. Laufende Verwaltung
+**6. Laufende Verwaltung**
 
 Prüfe halbjährlich deine Kontoauszüge auf Korrektheit. Beobachte die Performance deiner gewählten Strategie. Viele Anbieter erlauben Strategiewechsel 1-2 Mal pro Jahr kostenfrei.
 
@@ -154,42 +154,42 @@ Plane rechtzeitig die Wiederübertragung zur neuen Pensionskasse. Informiere dic
 
 ## Häufige Fehler vermeiden
 
-### 1. 30-Tage-Frist verpasst
+**1. 30-Tage-Frist verpasst**
 **Problem:** Nach Ablauf der Frist bestimmt die Auffangeinrichtung BVG den Anbieter. Oft bedeutet das höhere Kosten und schlechtere Konditionen.
 
 **Lösung:** Setze dir bereits 6 Wochen vor Stellenende einen Reminder. Beginne die Anbietersuche frühzeitig und reiche die Unterlagen rechtzeitig ein.
 
-### 2. Nur auf tiefe Gebühren achten
+**2. Nur auf tiefe Gebühren achten**
 **Problem:** Der billigste Anbieter bietet oft nur Minimal-Zinsen. Die gesparten Gebühren werden durch entgangene Rendite überkompensiert.
 
 **Lösung:** Berechne die Gesamtrendite nach Abzug aller Kosten. Ein Anbieter mit 0.3% höherer Rendite rechtfertigt CHF 50 mehr Gebühren pro Jahr.
 
-### 3. Falsche Risikoeinstufung
+**3. Falsche Risikoeinstufung**
 **Problem:** Zu konservative Anlagen bei langen Laufzeiten führen zu Kaufkraftverlust. Zu riskante Anlagen bei kurzen Laufzeiten können zu Verlusten führen.
 
 **Lösung:** Wähle die Strategie nach deinem Anlagehorizont. Unter 3 Jahren: konservativ. Über 5 Jahre: ausgewogen bis wachstumsorientiert möglich.
 
-### 4. Steueroptimierung ignoriert
+**4. Steueroptimierung ignoriert**
 **Problem:** Möglichkeiten zur Steuerreduktion werden übersehen, besonders bei zwei parallelen Freizügigkeitskonten.
 
 **Lösung:** Informiere dich über gestaffelte Bezugsmöglichkeiten. Bei grösseren Beträgen kann sich eine Steuerberatung lohnen.
 
-### 5. Übertragung bei neuer Stelle verzögert
+**5. Übertragung bei neuer Stelle verzögert**
 **Problem:** Das Geld bleibt unnötig lange auf dem Freizügigkeitskonto, obwohl eine neue Pensionskasse verfügbar ist.
 
 **Lösung:** Leite die Übertragung zur neuen Pensionskasse innerhalb der ersten 30 Tage nach Stellenantritt ein.
 
-### 6. Vorzeitige Barauszahlung ohne Grund
+**6. Vorzeitige Barauszahlung ohne Grund**
 **Problem:** Bei unberechtigter Auszahlung fallen hohe Steuern an (bis 8% in einigen Kantonen). Zudem geht die Altersvorsorge verloren.
 
 **Lösung:** Prüfe genau, ob dein Grund für vorzeitigen Bezug gesetzlich anerkannt ist. Bei Zweifeln hole dir rechtliche Beratung.
 
-### 7. Anbieter nicht jährlich überprüft
+**7. Anbieter nicht jährlich überprüft**
 **Problem:** Andere Anbieter entwickeln bessere Konditionen, aber du verharrt beim alten Anbieter.
 
 **Lösung:** Führe jährlich einen Konditionscheck durch. Wechselkosten von CHF 100-200 amortisieren sich oft innerhalb eines Jahres.
 
-### 8. Dokumente unvollständig eingereicht
+**8. Dokumente unvollständig eingereicht**
 **Problem:** Verzögerungen bei der Übertragung führen zu Zinsverlust und Stress.
 
 **Lösung:** Nutze Checklisten der Anbieter. Reiche alle Dokumente gleichzeitig ein und verfolge den Status aktiv nach.
@@ -204,31 +204,31 @@ Plane rechtzeitig die Wiederübertragung zur neuen Pensionskasse. Informiere dic
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich mehrere Freizügigkeitskonten gleichzeitig haben?
+**Kann ich mehrere Freizügigkeitskonten gleichzeitig haben?**
 
 Ja, du kannst maximal zwei Freizügigkeitskonten pro Person führen. Diese Regelung ist im Freizügigkeitsgesetz festgelegt und dient der Steueroptimierung. Mit zwei Konten kannst du die Gelder gestaffelt beziehen und so die Steuerprogression brechen. Beispiel: Statt CHF 200'000 auf einmal zu beziehen und hohe Steuern zu zahlen, beziehst du in zwei Jahren je CHF 100'000. Auch verschiedene Anlagestrategien sind möglich – ein Konto konservativ, das andere wachstumsorientiert. Die Aufteilung kannst du frei wählen, solange beide Konten das jeweilige Minimum des Anbieters erreichen.
 
-### Wie lange kann das Geld auf dem Freizügigkeitskonto bleiben?
+**Wie lange kann das Geld auf dem Freizügigkeitskonto bleiben?**
 
 Das Geld kann maximal bis zum Erreichen des ordentlichen AHV-Alters (65 Jahre für Männer, 64 Jahre für Frauen) auf dem Konto verbleiben. Spätestens 5 Jahre nach dem ordentlichen Pensionsalter muss es bezogen werden. Wenn du jedoch eine neue Anstellung mit Pensionskassenanschluss findest, solltest du das Guthaben so schnell wie möglich übertragen. Grund: Die neue Pensionskasse bietet meist bessere Leistungen und höhere Renditen. Zudem ist das Geld bei der Pensionskasse besser gegen Invaliditäts- und Todesfallrisiken abgesichert. Eine Ausnahme bildet die Selbständigkeit – hier kann das Konto bis zur Pensionierung bestehen bleiben.
 
-### Kann ich vorzeitig über das Geld verfügen?
+**Kann ich vorzeitig über das Geld verfügen?**
 
 Ja, aber nur in gesetzlich definierten Ausnahmefällen. Der häufigste Grund ist die Wohneigentumsförderung – du kannst das Guthaben für den Kauf oder die Amortisation selbstbewohnten Wohneigentums verwenden. Bei Aufnahme einer selbständigen Erwerbstätigkeit ist ebenfalls ein Bezug möglich. Weitere Gründe: definitive Auswanderung aus der Schweiz, vollständige Erwerbsunfähigkeit oder wenn das Guthaben weniger als einen Jahresbeitrag ausmacht. Wichtig: Bei vorzeitigem Bezug zahlst du Steuern zu einem reduzierten Satz, der je nach Kanton 4-8% beträgt. Das Geld fehlt dann aber für die Altersvorsorge. Überlege dir den Schritt daher gut.
 
-### Was passiert bei einer Scheidung mit dem Freizügigkeitskonto?
+**Was passiert bei einer Scheidung mit dem Freizügigkeitskonto?**
 
 Bei einer Scheidung wird das Freizügigkeitsguthaben nach den Regeln des Vorsorgeausgleichs aufgeteilt. Das Gericht ermittelt die während der Ehe erworbenen Ansprüche beider Partner und teilt sie hälftig auf. Konkret bedeutet das: Wenn während der 10-jährigen Ehe CHF 100'000 in das Freizügigkeitskonto einflossen, erhält jeder Partner CHF 50'000. Die Aufteilung erfolgt durch Übertragung auf ein eigenes Freizügigkeitskonto oder die Pensionskasse des Ex-Partners. Guthaben aus der Zeit vor der Ehe bleiben unberührt. Der Vorsorgeausgleich ist obligatorisch und kann nicht durch Ehevertrag ausgeschlossen werden. Das Verfahren dauert meist 2-4 Monate nach dem Scheidungsurteil.
 
-### Sind Freizügigkeitskonten bei Konkurs geschützt?
+**Sind Freizügigkeitskonten bei Konkurs geschützt?**
 
 Ja, Freizügigkeitskonten geniessen vollständigen Schutz vor Gläubigerzugriff. Sie gelten als unpfändbare Vermögenswerte, da sie der Altersvorsorge dienen. Selbst bei einem Privatkonkurs können Gläubiger nicht auf das Guthaben zugreifen. Dieser Schutz gilt auch bei einer Betreibung – das Betreibungsamt darf das Freizügigkeitskonto nicht pfänden. Zusätzlich bist du auch bei einem Konkurs des Anbieters geschützt. Banken unterstehen der Einlagensicherung bis CHF 100'000 pro Kunde. Versicherungen haben separate Sicherungsfonds. Bei grösseren Beträgen lohnt sich eine Aufteilung auf mehrere Anbieter oder die Wahl eines besonders solventen Institutes wie einer Kantonalbank mit Staatsgarantie.
 
-### Kann ich das Freizügigkeitskonto ins Ausland mitnehmen?
+**Kann ich das Freizügigkeitskonto ins Ausland mitnehmen?**
 
 Das hängt vom Zielland ab. Bei einer Auswanderung in ein EU- oder EFTA-Land kann das Freizügigkeitskonto in der Schweiz bestehen bleiben. Du musst es nicht auflösen und kannst es bis zur Pensionierung halten. Anders sieht es bei der Auswanderung in Drittstaaten aus – hier ist meist eine Barauszahlung möglich. Wichtig sind die steuerlichen Konsequenzen: Bei der Auszahlung zahlst du Schweizer Quellensteuer. Das Zielland kann zusätzlich Steuern erheben, je nach Doppelbesteuerungsabkommen. Bei EU-Ländern ist oft eine Anrechnung möglich. Informiere dich vor der Auswanderung bei einem Steuerberater über die Gesamtsteuerbelastung und plane den optimalen Zeitpunkt für allfällige Bezüge.
 
-### Wie finde ich den besten Anbieter für meine Situation?
+**Wie finde ich den besten Anbieter für meine Situation?**
 
 Beginne mit Online-Vergleichsrechnern, die eine erste Orientierung bieten. Berücksichtige dabei deine spezifischen Bedürfnisse: Wie lange bleibt das Geld voraussichtlich auf dem Konto? Welche Renditeerwartungen hast du? Wie wichtig ist dir persönliche Beratung? Hole dir Offerten von mindestens 3 Anbietern ein – grosse Banken, Regionalbanken und spezialisierte Vorsorgeeinrichtungen. Vergleiche nicht nur die Kosten, sondern auch die Anlageoptionen und Services. Bei komplexeren Situationen (hohes Guthaben, steuerliche Besonderheiten) lohnt sich eine unabhängige Beratung. Viele Treuhänder und Finanzplaner bieten Spezialisierungen auf Vorsorgethemen an. Die Beratungskosten von CHF 300-800 können sich bei grösseren Beträgen schnell amortisieren.
 

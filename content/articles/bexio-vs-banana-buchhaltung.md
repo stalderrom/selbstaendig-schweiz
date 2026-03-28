@@ -143,27 +143,27 @@ Viele Schweizer Treuhänder arbeiten täglich mit Banana. Du kannst deine Dateie
 
 ## Direkte Gegenüberstellung: 6 entscheidende Kriterien
 
-### 1. Einsteigerfreundlichkeit
+**1. Einsteigerfreundlichkeit**
 
 **Bexio gewinnt.** Die Oberfläche ist modern und intuitiv. Onboarding-Assistenten führen durch die Einrichtung. Banana hat eine steilere Lernkurve – wer nicht mit doppelter Buchführung vertraut ist, muss einiges investieren.
 
-### 2. Preis-Leistungs-Verhältnis
+**2. Preis-Leistungs-Verhältnis**
 
 **Banana gewinnt** bei reiner Buchhaltung. Für CHF 60/Jahr bekommst du eine sehr leistungsfähige Software. Bexio ist teurer, liefert aber auch mehr (CRM, Bankabgleich, MWST-Automation).
 
-### 3. Rechnungsstellung
+**3. Rechnungsstellung**
 
 **Bexio gewinnt knapp.** Beide können QR-Rechnungen. Bexio integriert Rechnungen nahtlos in den Buchhaltungskreislauf und ermöglicht den automatischen Zahlungsabgleich.
 
-### 4. MWST-Abrechnung
+**4. MWST-Abrechnung**
 
 **Bexio gewinnt deutlich.** Die MWST-Abrechnung in Bexio ist weitgehend automatisiert. In Banana ist sie korrekt, aber erfordert mehr manuelle Arbeit.
 
-### 5. Datensicherheit
+**5. Datensicherheit**
 
 **Unentschieden.** Bexio: Cloud-Hosting auf Schweizer Servern, zertifiziert. Banana: Lokale Datenhaltung, kein Cloud-Risiko. Beide Ansätze sind sicher – es kommt auf deine Präferenz an.
 
-### 6. Skalierbarkeit
+**6. Skalierbarkeit**
 
 **Bexio gewinnt.** Wenn du wächst (mehr Mitarbeitende, mehr Kunden), skaliert Bexio mit dir – Lohnmodul, erweitertes CRM, Teams. Banana ist eher für Einzelpersonen und kleine Teams gedacht.
 

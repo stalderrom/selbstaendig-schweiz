@@ -144,7 +144,7 @@ Eine GmbH ist eine Kapitalgesellschaft mit eigener Rechtspersönlichkeit. Die Ge
 
 ## Voraussetzungen für GmbH-Gründung Schweiz
 
-### 1. Stammkapital: CHF 20'000
+**1. Stammkapital: CHF 20'000**
 
 **Was ist Stammkapital?**
 Das Geld, das die Gesellschafter der GmbH geben. Mindestens CHF 20'000.
@@ -173,7 +173,7 @@ Statt Geld können auch Sachwerte eingebracht werden (Auto, Equipment, Immobilie
 - Für Geschäftsbetrieb nutzbar
 - Bei Liquidation: Rest an Gesellschafter zurück
 
-### 2. Gesellschafter
+**2. Gesellschafter**
 
 **Mindestens 1 Gesellschafter:**
 - Natürliche Personen (Menschen)
@@ -191,7 +191,7 @@ Ja, möglich! Sie alleine können eine GmbH gründen.
 - Grundsätzlich erlaubt
 - ABER: Geschäftsführer muss in CH wohnhaft sein!
 
-### 3. Geschäftsführer
+**3. Geschäftsführer**
 
 **Wer kann Geschäftsführer sein?**
 - Mindestens 1 Person
@@ -215,7 +215,7 @@ Ja, möglich! Sie alleine können eine GmbH gründen.
 - Möglich
 - Einzeln oder kollektiv zu zweien (in Statuten festlegen)
 
-### 4. Sitz der GmbH
+**4. Sitz der GmbH**
 
 **Firmensitz:**
 - Muss in der Schweiz sein
@@ -233,7 +233,7 @@ Viele nutzen Anbieter wie:
 - Witzig The Office Company: CHF 600-1'200/Jahr
 - Clevere Coworking Spaces: CHF 300-600/Jahr
 
-### 5. Firmenname
+**5. Firmenname**
 
 **Regeln für GmbH-Namen:**
 - Muss "GmbH" oder "Sàrl" (französisch) oder "Sagl" (italienisch) enthalten
@@ -260,7 +260,7 @@ Viele nutzen Anbieter wie:
 
 → [Firmennamen finden: Generator & Tipps](/artikel/firmennamen-finden)
 
-### 6. Prüfungsorgan (Revisionsstelle)
+**6. Prüfungsorgan (Revisionsstelle)**
 
 **Wann brauchen Sie eine Revisionsstelle?**
 
@@ -857,42 +857,42 @@ So bleibt alles sauber, rechtssicher und transparent – egal ob Sie alleiniger 
 
 ## Häufige Fehler vermeiden
 
-### 1. Zu früh GmbH gründen
+**1. Zu früh GmbH gründen**
 **Fehler:** Sofort GmbH, ohne Markt zu testen
 **Folge:** CHF 25k weg, GmbH läuft nicht
 **Lösung:** Als Einzelfirma testen, nach 1 Jahr GmbH gründen
 
-### 2. Zu wenig Kapital
+**2. Zu wenig Kapital**
 **Fehler:** Nur CHF 20k, kein Reserve
 **Folge:** Sofort wieder weg, GmbH illiquide
 **Lösung:** CHF 30-50k Startkapital (CHF 20k + CHF 10-30k Betrieb)
 
-### 3. Kein Gesellschaftervertrag
+**3. Kein Gesellschaftervertrag**
 **Fehler:** Nur Statuten, keine internen Regeln
 **Folge:** Bei Konflikt keine Lösung
 **Lösung:** Gesellschaftervertrag vom Anwalt
 
-### 4. Sozialversicherungen vergessen
+**4. Sozialversicherungen vergessen**
 **Fehler:** Als Geschäftsführer nicht bei AHV/BVG angemeldet
 **Folge:** Persönliche Haftung!
 **Lösung:** Sofort nach Gründung anmelden
 
-### 5. Kein angemessener Lohn
+**5. Kein angemessener Lohn**
 **Fehler:** CHF 0 Lohn, alles als Dividende
 **Folge:** Steuerbehörde korrigiert (Nachzahlung + Busse)
 **Lösung:** Mind. CHF 60-80k Lohn bei Vollzeit
 
-### 6. Private und GmbH-Kosten mischen
+**6. Private und GmbH-Kosten mischen**
 **Fehler:** GmbH-Konto für Privates nutzen
 **Folge:** Durchgriffshaftung möglich
 **Lösung:** Strikte Trennung!
 
-### 7. Keine professionelle Buchhaltung
+**7. Keine professionelle Buchhaltung**
 **Fehler:** Selbst mit Excel
 **Folge:** Fehler, Revision scheitert
 **Lösung:** Treuhänder oder gute Software (Bexio, Klara)
 
-### 8. GV vergessen
+**8. GV vergessen**
 **Fehler:** Jahre keine GV
 **Folge:** Rechtlich problematisch
 **Lösung:** Jährlich GV, Protokoll führen
@@ -951,25 +951,25 @@ So bleibt alles sauber, rechtssicher und transparent – egal ob Sie alleiniger 
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wie viel kostet es, eine GmbH zu gründen?
+**Wie viel kostet es, eine GmbH zu gründen?**
 **Total:** CHF 24'000-38'000 (inkl. Stammkapital). **Aufgeteilt:** CHF 20'000 Stammkapital (gehört GmbH, für Geschäft nutzbar) + CHF 4'000-18'000 Gründungskosten (Notar CHF 800-2'000, Handelsregister CHF 600-900, SHAB CHF 150-250, Anwalt CHF 500-2'000, Logo/Website CHF 1'500-8'000, Diverses CHF 500-1'000). **Minimum:** CHF 22'000. Laufend: CHF 15'000-70'000/Jahr (Buchhaltung, Steuern, Versicherungen, Lohnnebenkosten).
 
-### Kann ich eine GmbH alleine gründen?
+**Kann ich eine GmbH alleine gründen?**
 **Ja!** Sie können einziger Gesellschafter UND Geschäftsführer sein. Minimum: 1 Person. Sie bringen CHF 20'000 Stammkapital, erhalten 100% der Anteile. Wichtig: Trotzdem Generalversammlung abhalten (Sie alleine beschliessen), Protokoll führen. Vorteil: Volle Kontrolle. Nachteil: Alle Verantwortung bei Ihnen. Häufig: Start alleine, später Partner dazu (Kapitalerhöhung oder Verkauf von Stammeinlagen).
 
-### Wie lange dauert es, eine GmbH zu gründen?
+**Wie lange dauert es, eine GmbH zu gründen?**
 **2-6 Wochen total.** Aufgeteilt: **Woche 1-2:** Vorbereitung (Statuten, Businessplan, Kapital). **Woche 2-3:** Notar-Termin, Kapitalkonto, Einzahlung. **Woche 3-6:** Handelsregister-Eintrag (5-15 Tage je nach Kanton). Schnellster Weg: 2 Wochen (wenn alles perfekt vorbereitet, Zürich/Zug schnell). Langsamster: 8 Wochen (wenn Unterlagen fehlen, Kantone langsam). Zum Vergleich: Einzelfirma dauert 1-3 Tage.
 
-### Was passiert mit den CHF 20'000 Stammkapital?
+**Was passiert mit den CHF 20'000 Stammkapital?**
 Das Geld **gehört der GmbH** (nicht Ihnen persönlich). **Vor HR-Eintrag:** Gesperrt auf Kapitalkonto. **Nach HR-Eintrag:** Freigegeben für Geschäftsbetrieb. Sie können es nutzen für: Büro-Miete, Equipment, Marketing, Löhne, Lieferanten. **NICHT:** Einfach wieder an sich privat auszahlen (= Veruntreuung!). **Bei Liquidation:** Was übrig bleibt, zurück an Gesellschafter (proportional zu Stammeinlagen). **Wichtig:** CHF 20k sind MINIMUM, besser CHF 30-50k Startkapital.
 
-### Hafte ich bei einer GmbH persönlich?
+**Hafte ich bei einer GmbH persönlich?**
 **Grundsätzlich NEIN.** Sie haften nur bis CHF 20'000 (Stammkapital). Ihr Privatvermögen (Haus, Auto, Ersparnis) ist geschützt. **ABER Ausnahmen:** (1) Konkursverschleppung (weitergemacht trotz Insolvenz), (2) Sozialversicherungen nicht bezahlt (AHV, BVG), (3) Vermischung GmbH/Privat (kein getrenntes Vermögen), (4) Betrug/Vorsatz. **Schutz:** Saubere Buchhaltung, Sozialversicherungen zahlen, bei Krise rechtzeitig Konkurs, Geschäftsführer-Haftpflicht (D&O).
 
-### Muss ich als Geschäftsführer einer GmbH Lohn beziehen?
+**Muss ich als Geschäftsführer einer GmbH Lohn beziehen?**
 **Nicht zwingend, aber dringend empfohlen!** Rechtlich: Sie können CHF 0 Lohn nehmen, nur Dividenden. **ABER:** (1) **Steuern:** Bei CHF 0 Lohn korrigiert Steuerbehörde oft (="verdeckte Gewinnausschüttung"), verlangt Nachzahlung. (2) **AHV:** Bei CHF 0 Lohn keine AHV-Beiträge = Rentenlücke. (3) **BVG:** Nur auf Lohn (ab CHF 22k), nicht auf Dividende. (4) **Hypothek:** Bank will Lohn sehen. **Empfehlung:** Mind. CHF 60-80k Lohn bei Vollzeit, Rest Dividende (steueroptimiert).
 
-### Wann lohnt sich eine GmbH gegenüber Einzelfirma?
+**Wann lohnt sich eine GmbH gegenüber Einzelfirma?**
 **GmbH lohnt sich bei:** (1) **Haftungsrisiko:** Produktion, Handel, Gastronomie, Immobilien (Privatvermögen schützen!). (2) **Hoher Gewinn:** Ab ca. CHF 150'000 (Steueroptimierung durch Lohn/Dividende-Split). (3) **Partner/Investoren:** GmbH = klare Struktur. (4) **Image:** B2B-Kunden bevorzugen oft GmbH. (5) **Familie absichern:** GmbH läuft weiter bei Tod. **Einzelfirma besser bei:** Niedriges Risiko (Beratung, IT), Umsatz < CHF 80k (GmbH zu teuer), Solo (keine Partner), schneller Start.
 
 ## Fazit

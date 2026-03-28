@@ -189,20 +189,20 @@ Die Prämien variieren stark je nach:
 
 ## Der Abschluss: Schritt für Schritt
 
-### 1. Bedarf klären
+**1. Bedarf klären**
 
 - Wie viel Einkommen musst du absichern?
 - Welche Wartefrist kannst du überbrücken?
 - Welche Laufzeit brauchst du (bis Pensionierung)?
 
-### 2. Offerten einholen
+**2. Offerten einholen**
 
 Hole mindestens 3–5 Offerten ein:
 - Direkt bei Versicherern (Online-Rechner)
 - Über einen unabhängigen Broker (kostenlos, vergleicht mehrere Anbieter)
 - Über Plattformen wie Comparis, Moneyland oder Gryps
 
-### 3. Gesundheitsfragebogen ausfüllen
+**3. Gesundheitsfragebogen ausfüllen**
 
 Du musst ehrlich antworten. Falsche Angaben können zur Leistungsverweigerung führen. Was du angeben musst:
 - Chronische Erkrankungen
@@ -210,7 +210,7 @@ Du musst ehrlich antworten. Falsche Angaben können zur Leistungsverweigerung f�
 - Aktuelle Medikamente
 - Bisherige Krankheitstage (oft letzte 3–5 Jahre)
 
-### 4. Police prüfen
+**4. Police prüfen**
 
 Vor Unterschrift kontrollieren:
 - Versichertes Einkommen korrekt?
@@ -218,7 +218,7 @@ Vor Unterschrift kontrollieren:
 - Ausschlüsse akzeptierbar?
 - Prämie und Zahlungsrhythmus?
 
-### 5. Abschliessen – so früh wie möglich
+**5. Abschliessen – so früh wie möglich**
 
 **Wichtig:** Schliesse Krankentaggeld ab, solange du **gesund** bist. Mit zunehmendem Alter und Vorerkrankungen wird es schwieriger und teurer.
 
@@ -291,19 +291,19 @@ Effektive Monatskosten: CHF 140
 
 ## Häufige Fehler
 
-### 1. Zu spät abgeschlossen
+**1. Zu spät abgeschlossen**
 Die häufigste Schwachstelle: Man wartet bis nach einer Erkrankung. Dann gibt es Ausschlüsse oder Ablehnung.
 
-### 2. Zu kurze Wartefrist gewählt
+**2. Zu kurze Wartefrist gewählt**
 Wer sich nicht leisten kann, 30 Tage ohne Einkommen zu überbrücken, hat keine Rücklage. Lösung: Erst Liquiditätsreserve aufbauen (2–3 Monatsgehälter), dann längere Wartefrist wählen.
 
-### 3. Zu tiefes versichertes Einkommen
+**3. Zu tiefes versichertes Einkommen**
 Wenn das Nettoeinkommen steigt, Versicherungsdeckung anpassen. Sonst bist du unterversichert.
 
-### 4. Nur auf den Preis geschaut
+**4. Nur auf den Preis geschaut**
 Günstigste Prämie ist nicht immer die beste Police. Achte auf Leistungsumfang, Ausschlüsse und Vertragsbedingungen.
 
-### 5. Keine Anpassung bei Einkommensveränderung
+**5. Keine Anpassung bei Einkommensveränderung**
 Jährlich prüfen: Passt das versicherte Einkommen noch zum tatsächlichen Verdienst?
 
 ## Weiterführende Artikel
@@ -316,23 +316,23 @@ Jährlich prüfen: Passt das versicherte Einkommen noch zum tatsächlichen Verdi
 
 ## FAQ – Häufig gestellte Fragen
 
-### Gilt Krankentaggeld auch bei Burnout und psychischen Erkrankungen?
+**Gilt Krankentaggeld auch bei Burnout und psychischen Erkrankungen?**
 
 Grundsätzlich ja – Burnout, Depression und andere psychische Erkrankungen sind Krankheiten und damit versichert. Manche Versicherer haben Wartefristen oder Einschränkungen bei psychischen Erkrankungen. Prüfe die Police genau. Beim Abschluss musst du psychische Vorerkrankungen angeben.
 
-### Was passiert wenn ich die Prämie nicht bezahlen kann?
+**Was passiert wenn ich die Prämie nicht bezahlen kann?**
 
 Die Versicherung mahnt und setzt eine Nachfrist. Zahlung nach Ablauf führt zum Verlust der Deckung. Bei finanziellen Engpässen: Kontaktiere den Versicherer proaktiv – oft sind Zahlungsaufschübe möglich.
 
-### Kann ich Krankentaggeld als Einzelfirma und als GmbH-Geschäftsführer abschliessen?
+**Kann ich Krankentaggeld als Einzelfirma und als GmbH-Geschäftsführer abschliessen?**
 
 Als Einzelfirma-Inhaber: Ja, KTG als Selbständiger. Als GmbH-Geschäftsführer/in mit Lohn: Du bist formal Angestellter/e deiner GmbH. Die GmbH könnte dir Krankentaggeld über eine kollektive KTG-Police bieten. Oder du schliesst privat ab. Das sollte mit dem Treuhänder besprochen werden.
 
-### Gilt das Krankentaggeld auch im Ausland?
+**Gilt das Krankentaggeld auch im Ausland?**
 
 Je nach Police. Viele decken auch Krankheit im Ausland ab. Prüfe die genauen Bedingungen deiner Police, besonders wenn du regelmässig im Ausland arbeitest oder reist.
 
-### Wie lange dauert es bis zur ersten Auszahlung?
+**Wie lange dauert es bis zur ersten Auszahlung?**
 
 Nach der Wartefrist und Einreichung der Dokumente: meist 1–4 Wochen bis zur ersten Auszahlung. Danach monatlich oder wöchentlich je nach Vertrag. Plane das bei deiner Liquidität ein.
 

@@ -88,7 +88,7 @@ Als **Dienstleister** wendest du in den meisten Fällen den Normalsatz von **8.1
 
 Du hast die Wahl zwischen zwei Methoden:
 
-### 1. Effektive Methode
+**1. Effektive Methode**
 
 Du rechnest alle Umsätze und alle Vorsteuern effektiv ab. Das bedeutet mehr Arbeit, kann aber günstiger sein.
 
@@ -114,7 +114,7 @@ An ESTV zu zahlen: CHF 8'100 – CHF 1'155 = CHF 6'945
 - Aufwändiger (alle Belege erfassen)
 - Fehleranfälliger
 
-### 2. Saldosteuersatzmethode (SSS)
+**2. Saldosteuersatzmethode (SSS)**
 
 Statt alle Vorsteuern einzeln abzuziehen, wendest du einen pauschalen Satz auf deinen Umsatz an. Einfacher, aber nicht immer günstiger.
 
@@ -159,13 +159,13 @@ Statt effektiv CHF 6'945 → Ersparnis CHF 567
 
 ## Anmeldung bei der ESTV: Schritt für Schritt
 
-### 1. Voraussetzungen prüfen
+**1. Voraussetzungen prüfen**
 
 Stelle fest, ob du steuerpflichtig bist:
 - Voraussichtlicher Jahresumsatz über CHF 100'000?
 - Oder freiwillige Anmeldung sinnvoll?
 
-### 2. Online anmelden
+**2. Online anmelden**
 
 Melde dich über das **ESTV SuisseTax Portal** an:
 1. Konto auf [estv.admin.ch](https://www.estv.admin.ch) erstellen
@@ -173,14 +173,14 @@ Melde dich über das **ESTV SuisseTax Portal** an:
 3. Abrechnungsmethode wählen (effektiv oder SSS)
 4. Gewünschtes Abrechnungsperiode angeben
 
-### 3. MWST-Nummer erhalten
+**3. MWST-Nummer erhalten**
 
 Nach der Anmeldung erhältst du deine **MWST-Nummer** im Format:
 `CHE-123.456.789 MWST`
 
 Diese Nummer muss auf allen Rechnungen erscheinen.
 
-### 4. Buchhaltung einrichten
+**4. Buchhaltung einrichten**
 
 Stelle deine [Buchhaltung](/artikel/buchhaltung-selbststaendige) auf MWST-gerechte Erfassung um:
 - Software mit MWST-Funktion nutzen (Bexio, Klara, Banana)
@@ -268,27 +268,27 @@ Wer ein bestehendes Unternehmen kauft, übernimmt unter Umständen auch laufende
 
 ## Häufige Fehler vermeiden
 
-### 1. Zu spät angemeldet
+**1. Zu spät angemeldet**
 **Problem:** Umsatz überschreitet CHF 100'000, aber keine Anmeldung → rückwirkende Nachzahlung + Bussen
 **Lösung:** Umsatz laufend überwachen. Ab CHF 80'000 Anmeldung vorbereiten.
 
-### 2. Falscher Steuersatz
+**2. Falscher Steuersatz**
 **Problem:** Normalsatz statt reduzierten Satz (oder umgekehrt) angewandt
 **Lösung:** Satzliste der ESTV für deine Branche konsultieren. Bei Unsicherheit Treuhänder fragen.
 
-### 3. Vorsteuer nicht geltend gemacht
+**3. Vorsteuer nicht geltend gemacht**
 **Problem:** Belege nicht erfasst, Vorsteuer verfällt
 **Lösung:** Buchhaltungssoftware mit OCR-Belegscan nutzen. Belege sofort digitalisieren.
 
-### 4. Abrechnung zu spät eingereicht
+**4. Abrechnung zu spät eingereicht**
 **Problem:** Verzugszinsen + Mahngebühren
 **Lösung:** Quartalsende im Kalender markieren. Abrechnung sofort nach Fristende machen.
 
-### 5. Private und geschäftliche Ausgaben vermischt
+**5. Private und geschäftliche Ausgaben vermischt**
 **Problem:** Vorsteuer auf privaten Ausgaben ungültig
 **Lösung:** Separates Geschäftskonto führen, klare Trennung.
 
-### 6. Saldosteuersatz nicht optimal
+**6. Saldosteuersatz nicht optimal**
 **Problem:** SSS-Methode gewählt, obwohl effektiv günstiger wäre
 **Lösung:** Beide Methoden berechnen oder Treuhänder konsultieren.
 
@@ -340,23 +340,23 @@ Die Software erstellt die MWST-Abrechnung automatisch und übermittelt sie an di
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wie melde ich mich für die MWST an?
+**Wie melde ich mich für die MWST an?**
 
 Die Anmeldung erfolgt online über das ESTV SuisseTax Portal auf estv.admin.ch. Du benötigst deine Personendaten, Angaben zur Geschäftstätigkeit und eine Schätzung des Jahresumsatzes. Die MWST-Nummer erhältst du in der Regel innerhalb weniger Tage.
 
-### Kann ich die MWST-Methode wechseln?
+**Kann ich die MWST-Methode wechseln?**
 
 Ja, aber nur auf Beginn einer neuen Steuerperiode (1. Januar). Du musst den Wechsel bis Ende November des laufenden Jahres bei der ESTV beantragen. Eine Rückkehr zur alten Methode ist frühestens nach 3 Jahren möglich.
 
-### Was passiert wenn mein Umsatz wieder unter CHF 100'000 fällt?
+**Was passiert wenn mein Umsatz wieder unter CHF 100'000 fällt?**
 
 Du kannst die freiwillige Löschung aus dem MWST-Register beantragen. Mindestens 3 Jahre musst du jedoch steuerpflichtig bleiben. Danach ist eine Abmeldung möglich, wenn der Umsatz dauerhaft unter CHF 100'000 liegt.
 
-### Muss ich auf Spesen MWST abrechnen?
+**Muss ich auf Spesen MWST abrechnen?**
 
 Spesen, die du 1:1 an Kunden weiterverrechnest (sogenannte Auslagen), sind MWST-pflichtig, wenn du MWST-pflichtig bist. Interne Spesen (z.B. eigene Reisekosten als Betriebsausgabe) müssen nicht separat abgerechnet werden, aber die darin enthaltene Vorsteuer kannst du geltend machen.
 
-### Wann lohnt sich die freiwillige MWST-Anmeldung?
+**Wann lohnt sich die freiwillige MWST-Anmeldung?**
 
 Die freiwillige Anmeldung lohnt sich, wenn deine Vorsteuer-Abzüge (Einkäufe mit MWST) höher sind als der administrative Aufwand der MWST-Abrechnung. Typische Kandidaten: Unternehmen mit B2B-Kunden, Unternehmen mit hohen Investitionen in Equipment oder Büro, Start-ups in der Aufbauphase mit hohen Ausgaben.
 

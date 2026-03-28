@@ -147,38 +147,38 @@ Der häufigste Liquiditätsfehler: AHV-Schlussabrechnungen und Steuerbescheide �
 
 ## 7 Massnahmen gegen Zahlungsengpässe
 
-### 1. Anzahlungen durchsetzen
+**1. Anzahlungen durchsetzen**
 
 Bei Projekten über CHF 5'000 immer eine Anzahlung verlangen:
 - **Standard:** 30–50% bei Auftragsbestätigung
 - **Grossprojekte:** 30% bei Start, 30% nach Meilenstein, 40% bei Abschluss
 
-### 2. Zahlungsfristen verkürzen
+**2. Zahlungsfristen verkürzen**
 
 - Standard 30 Tage ist lang – setze **10–15 Tage Netto**
 - Frühzahler-Rabatt: "2% Skonto bei Zahlung innert 10 Tagen"
 - Klare Angabe auf der Rechnung: "Zahlbar bis [Datum]"
 
-### 3. Mahnwesen automatisieren
+**3. Mahnwesen automatisieren**
 
 - Tag 1 nach Fälligkeit: Freundliche Erinnerung (automatisch per Bexio)
 - Tag 15: Erste Mahnung mit CHF 20–30 Mahngebühr
 - Tag 30: Zweite Mahnung, CHF 50 Mahngebühr
 - Tag 45: Betreibung einleiten (SchKG)
 
-### 4. Retainer-Modelle einführen
+**4. Retainer-Modelle einführen**
 
 Ein monatlicher Retainer (Festbetrag für definierten Service) stabilisiert den Cashflow dramatisch. Auch für Wissensberufe (Berater, IT, Designer) möglich.
 
-### 5. Kontokorrentlimit als Puffer
+**5. Kontokorrentlimit als Puffer**
 
 Vereinbare mit deiner Bank ein **Kontokorrentlimit** (CHF 10'000–30'000). Das ist kein Dauerkredit – sondern ein Sicherheitsnetz für kurzfristige Lücken.
 
-### 6. Jahresplanung mit saisonalen Schwankungen
+**6. Jahresplanung mit saisonalen Schwankungen**
 
 Wenn dein Business saisonal ist (Buchhaltung: Q1 stark, Sommer schwach; Tourismus: Sommer stark, Winter schwach), baue in starken Monaten höhere Reserven auf.
 
-### 7. Mehrere Einnahmequellen entwickeln
+**7. Mehrere Einnahmequellen entwickeln**
 
 Abhängigkeit von 1–2 Kunden ist das grösste Liquiditätsrisiko. Diversifiziere:
 - Retainer-Kunden

@@ -119,7 +119,7 @@ Die Kosten variieren stark je nach Komplexität deines Unternehmens. Eine einfac
 
 ## Schritt-für-Schritt Anleitung
 
-### 1. Vorbereitung und Datensammlung
+**1. Vorbereitung und Datensammlung**
 
 Sammle alle relevanten Unterlagen für das abzuschliessende Geschäftsjahr. Dazu gehören sämtliche Eingangs- und Ausgangsrechnungen, Bankauszüge, Kassabelege und Lohnabrechnungen.
 
@@ -131,7 +131,7 @@ Sammle alle relevanten Unterlagen für das abzuschliessende Geschäftsjahr. Dazu
 - Versicherungspolicen und -zahlungen
 - Miet- und Leasingverträge
 
-### 2. Kontenplan einrichten
+**2. Kontenplan einrichten**
 
 Verwende einen standardisierten Schweizer Kontenplan. Die meisten Buchhaltungssoftware-Anbieter stellen branchenspezifische Kontenpläne zur Verfügung.
 
@@ -143,7 +143,7 @@ Verwende einen standardisierten Schweizer Kontenplan. Die meisten Buchhaltungsso
 - **7000-7999**: Finanzaufwand und -ertrag
 - **8000-8999**: Ausserordentlicher Aufwand/Ertrag
 
-### 3. Periodenabgrenzung durchführen
+**3. Periodenabgrenzung durchführen**
 
 Berücksichtige alle Geschäftsfälle, die wirtschaftlich ins abgelaufene Geschäftsjahr gehören, auch wenn die Zahlung erst im neuen Jahr erfolgt.
 
@@ -153,7 +153,7 @@ Berücksichtige alle Geschäftsfälle, die wirtschaftlich ins abgelaufene Gesch�
 - Noch nicht fakturierte Leistungen (Passive Rechnungsabgrenzung)
 - Ferienguthaben der Mitarbeitenden
 
-### 4. Erfolgsrechnung erstellen
+**4. Erfolgsrechnung erstellen**
 
 Verwende das Mindestschema nach Schweizer OR oder eine detailliertere Gliederung je nach Bedürfnis:
 
@@ -167,14 +167,14 @@ Verwende das Mindestschema nach Schweizer OR oder eine detailliertere Gliederung
 7. **Finanzaufwand/-ertrag** (+/-)
 8. **= Jahresgewinn/-verlust**
 
-### 5. Kontrolle und Plausibilisierung
+**5. Kontrolle und Plausibilisierung**
 
 Führe eine kritische Prüfung deiner Zahlen durch:
 - Stimmen die Summen mit deinen Erwartungen überein?
 - Sind grössere Abweichungen zum Vorjahr plausibel erklärbar?
 - Stimmt die Erfolgsrechnung mit der Bilanz überein?
 
-### 6. Finalisierung und Archivierung
+**6. Finalisierung und Archivierung**
 
 Drucke die finale Version aus, versehe sie mit Unterschrift und Datum. Erstelle Sicherheitskopien auf verschiedenen Medien und sorge für eine revisionssichere Archivierung über 10 Jahre.
 
@@ -222,31 +222,31 @@ Drucke die finale Version aus, versehe sie mit Unterschrift und Datum. Erstelle 
 
 ## FAQ – Häufig gestellte Fragen
 
-### Was ist der Unterschied zwischen Erfolgsrechnung und Gewinn- und Verlustrechnung?
+**Was ist der Unterschied zwischen Erfolgsrechnung und Gewinn- und Verlustrechnung?**
 
 Inhaltlich sind Erfolgsrechnung und Gewinn- und Verlustrechnung (GuV) identisch. Der Begriff "Erfolgsrechnung" wird im Schweizer Rechnungslegungsrecht verwendet, während "GuV" die internationale und deutsche Bezeichnung ist. Beide zeigen die Erträge und Aufwände einer Periode. Der formelle Aufbau folgt in der Schweiz jedoch dem Obligationenrecht, was zu leicht anderen Gliederungen führen kann als nach internationalen Standards.
 
-### Ab welchem Umsatz muss ich eine Erfolgsrechnung erstellen?
+**Ab welchem Umsatz muss ich eine Erfolgsrechnung erstellen?**
 
 Das hängt von deiner Rechtsform ab. Einzelfirmen müssen erst ab CHF 500'000 Jahresumsatz eine ordentliche Buchführung mit Erfolgsrechnung erstellen. Darunter reicht eine vereinfachte Einnahmen-Ausgaben-Rechnung. Kapitalgesellschaften (GmbH, AG) sind unabhängig vom Umsatz zur vollständigen Erfolgsrechnung verpflichtet. Personengesellschaften folgen den gleichen Regeln wie Einzelfirmen, müssen aber die Gewinnverteilung separat dokumentieren.
 
-### Kann ich die Erfolgsrechnung selbst erstellen oder brauche ich einen Treuhänder?
+**Kann ich die Erfolgsrechnung selbst erstellen oder brauche ich einen Treuhänder?**
 
 Rechtlich darfst du die Erfolgsrechnung selbst erstellen, sofern du die nötigen Kenntnisse mitbringst. Bei einfachen Geschäftsmodellen bis etwa CHF 200'000 Umsatz ist das mit moderner Software durchaus machbar. Darüber wird es komplex, weil Periodenabgrenzungen, Rückstellungen und steuerliche Optimierungen Fachwissen erfordern. Ein Treuhänder kostet zwar mehr, verhindert aber teure Fehler und kennt aktuelle Änderungen in Gesetzen und Steuerpraktiken.
 
-### Wie oft muss die Erfolgsrechnung erstellt werden?
+**Wie oft muss die Erfolgsrechnung erstellt werden?**
 
 Gesetzlich ist die Erfolgsrechnung einmal jährlich für den Jahresabschluss Pflicht. Für die Steuererklärung musst du sie bis zum 31. März einreichen (verlängerbar bis 30. September mit Treuhänder). Für dein eigenes Controlling empfiehlt sich eine monatliche oder quartalsweise Zwischenerfolgsrechnung. So erkennst du früh, ob du deine Ziele erreichst und kannst rechtzeitig gegensteuern.
 
-### Was passiert bei Fehlern in der Erfolgsrechnung?
+**Was passiert bei Fehlern in der Erfolgsrechnung?**
 
 Fehler in der Erfolgsrechnung können zu Steuernachzahlungen, Bussen und Verzugszinsen führen. Die Steuerbehörden prüfen meist stichprobenartig oder bei auffälligen Werten. Kleinere Fehler kannst du über die Steuererklärung des Folgejahres korrigieren. Bei grösseren Fehlern musst du eine Berichtigung einreichen. Die Verjährungsfrist beträgt meist 5 Jahre, bei Steuerhinterziehung 15 Jahre. Deshalb lohnt sich professionelle Hilfe bei komplexeren Fällen.
 
-### Wie interpretiere ich die Kennzahlen meiner Erfolgsrechnung?
+**Wie interpretiere ich die Kennzahlen meiner Erfolgsrechnung?**
 
 Die wichtigsten Kennzahlen sind die Umsatzrendite (Gewinn geteilt durch Umsatz), das EBITDA (Gewinn vor Zinsen, Steuern und Abschreibungen) und die Personalaufwandsquote. Eine gesunde Umsatzrendite liegt je nach Branche zwischen 3% und 15%. Vergleiche deine Zahlen mit Vorjahren und Branchendurchschnitten. Achte auf Trends: Steigen die Kosten schneller als der Umsatz? Entwickeln sich einzelne Positionen auffällig? Eine monatliche Auswertung hilft dir, rechtzeitig zu reagieren.
 
-### Muss ich die Erfolgsrechnung revidieren lassen?
+**Muss ich die Erfolgsrechnung revidieren lassen?**
 
 Eine Revisionspflicht besteht erst ab bestimmten Grössen: CHF 20 Mio. Jahresumsatz, CHF 40 Mio. Bilanzsumme oder 250 Vollzeitstellen im Jahresdurchschnitt. Kleinere Unternehmen können auf die Revision verzichten, wenn alle Gesellschafter einverstanden sind. Eine freiwillige Revision kann trotzdem sinnvoll sein für Kreditverhandlungen oder wenn externe Investoren involviert sind. Die Kosten liegen zwischen CHF 5'000 und CHF 25'000 je nach Unternehmensgrösse.
 

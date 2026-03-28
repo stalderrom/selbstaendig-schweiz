@@ -66,7 +66,7 @@ Die Wahl der Rechtsform ist eine der ersten und wichtigsten Entscheidungen bei d
 
 ## Einzelfirma im Detail
 
-### Vorteile
+**Vorteile**
 
 **1. Sofortiger Start**
 Eine Einzelfirma entsteht faktisch mit dem ersten Auftrag – ohne Notar, ohne Stammkapital. HR-Eintrag ist erst ab CHF 100'000 Jahresumsatz Pflicht.
@@ -80,7 +80,7 @@ Treuhänder für Steuererklärung: CHF 600–2'000/Jahr. GmbH kostet das Doppelt
 **4. Einfacher Zugang**
 Alle Entscheidungen triffst du allein, sofort. Keine Mitgesellschafter, keine Genehmigungen.
 
-### Nachteile
+**Nachteile**
 
 **1. Unbeschränkte Haftung**
 Das grösste Risiko: Du haftest mit deinem gesamten Privatvermögen. Schulden der Einzelfirma sind deine persönlichen Schulden.
@@ -98,7 +98,7 @@ Mitarbeitende können nicht als Gesellschafter aufgenommen werden.
 
 ## GmbH im Detail
 
-### Vorteile
+**Vorteile**
 
 **1. Haftungsbeschränkung**
 Der grösste Vorteil: Die GmbH haftet nur mit ihrem Gesellschaftsvermögen (CHF 20'000+). Dein Privatvermögen ist grundsätzlich geschützt.
@@ -116,7 +116,7 @@ Ab CHF 80'000–120'000 Jahresgewinn: Lohn + Dividenden-Optimierung möglich.
 **4. Mitarbeiterbeteiligung**
 Mitgründer und Mitarbeitende können als Gesellschafter aufgenommen werden (Stammanteile).
 
-### Nachteile
+**Nachteile**
 
 **1. Hohe Gründungskosten**
 CHF 22'000–27'000 Mindest-Startkapital und Gründungskosten – davon CHF 20'000 Stammkapital (verbleibt in der GmbH).

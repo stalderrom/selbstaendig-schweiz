@@ -56,14 +56,14 @@ Der erste Angestellte ist ein grosser Schritt – von der Einzelperson zum Arbei
 
 ## Checkliste: 15 Schritte zum ersten Angestellten
 
-### 1. Stellenprofil definieren
+**1. Stellenprofil definieren**
 
 - Funktion, Aufgaben und Kompetenzen klar beschreiben
 - Pensum festlegen (Vollzeit = 42h/Woche in CH, variiert je nach GAV)
 - Lohnband bestimmen: Was ist marktüblich für diese Funktion?
 - Befristet oder unbefristet?
 
-### 2. Arbeitsvertrag erstellen
+**2. Arbeitsvertrag erstellen**
 
 Ein schriftlicher Arbeitsvertrag nach OR 319 ff. sollte enthalten:
 
@@ -80,7 +80,7 @@ Ein schriftlicher Arbeitsvertrag nach OR 319 ff. sollte enthalten:
 
 **Tipp:** Branchenspezifische GAV (Gesamtarbeitsverträge) beachten – diese können Mindestlöhne, Ferienansprüche und weitere Bedingungen festlegen.
 
-### 3. AHV-Anschluss als Arbeitgeber
+**3. AHV-Anschluss als Arbeitgeber**
 
 Sobald du jemanden anstellst, brauchst du ein **Beitragskonto als Arbeitgeber** bei der AHV-Ausgleichskasse:
 
@@ -97,7 +97,7 @@ Sobald du jemanden anstellst, brauchst du ein **Beitragskonto als Arbeitgeber** 
 | ALV (bis CHF 148'200) | 1.1% | 1.1% |
 | **Total** | **7.35%** | **7.35%** |
 
-### 4. BVG-Anschluss (Pensionskasse)
+**4. BVG-Anschluss (Pensionskasse)**
 
 Die **berufliche Vorsorge (BVG)** ist für Angestellte ab CHF 22'050 Jahreslohn (2026) obligatorisch.
 
@@ -107,7 +107,7 @@ Die **berufliche Vorsorge (BVG)** ist für Angestellte ab CHF 22'050 Jahreslohn 
 
 Günstige Sammelstiftungen: PKG Pensionskasse, ASGA, AXA Swiss Life
 
-### 5. UVG – Unfallversicherung
+**5. UVG – Unfallversicherung**
 
 Alle Angestellten in der Schweiz müssen gegen **Berufsunfall** (SUVA oder private Versicherung) versichert sein – obligatorisch.
 
@@ -117,7 +117,7 @@ Alle Angestellten in der Schweiz müssen gegen **Berufsunfall** (SUVA oder priva
 
 **Prämien:** ca. 0.1–5% des Lohns (je nach Risikokategorie/Branche)
 
-### 6. Krankentaggeld (KTG) – Lohnfortzahlung
+**6. Krankentaggeld (KTG) – Lohnfortzahlung**
 
 Das OR sieht eine begrenzte Lohnfortzahlungspflicht bei Krankheit vor (Berner Skala: 3 Wochen im 1. Jahr, bis 2 Monate nach 5 Jahren). Ein **Krankentaggeld-Kollektivvertrag** deckt darüber hinaus:
 
@@ -125,7 +125,7 @@ Das OR sieht eine begrenzte Lohnfortzahlungspflicht bei Krankheit vor (Berner Sk
 - [ ] Wartefrist (oft 30 oder 60 Tage), dann 80% Lohnersatz bis 720 Tage
 - [ ] Prämien: ca. 1–3% des Lohns, oft 50/50 geteilt
 
-### 7. Lohnabrechnung einrichten
+**7. Lohnabrechnung einrichten**
 
 Für die monatliche Lohnabrechnung benötigst du:
 
@@ -139,14 +139,14 @@ Für die monatliche Lohnabrechnung benötigst du:
 - Abzüge: AHV/IV/EO, ALV, BVG (AN-Anteil), KTG (AN-Anteil), Quellensteuer
 - Nettolohn (Auszahlung)
 
-### 8. Quellensteuer (für Ausländer mit B/L-Ausweis)
+**8. Quellensteuer (für Ausländer mit B/L-Ausweis)**
 
 - [ ] Prüfen ob Angestellter B-, L- oder C-Ausweis hat
 - [ ] Bei B/L: Quellensteuer einbehalten und monatlich abführen
 - [ ] Zuständige kantonale Steuerbehörde informieren
 - [ ] Software-Tabellen mit aktuellen Quellensteuertarifen nutzen
 
-### 9. Arbeitsgesetz-Konformität
+**9. Arbeitsgesetz-Konformität**
 
 Das **Schweizer Arbeitsgesetz (ArG)** schreibt vor:
 
@@ -156,7 +156,7 @@ Das **Schweizer Arbeitsgesetz (ArG)** schreibt vor:
 - [ ] Pausen: ab 5.5h Arbeit 15 Min., ab 7h 30 Min., ab 9h 1h
 - [ ] Zeiterfassung: Pflicht für alle Angestellten (ArG Art. 46)
 
-### 10. Weitere Versicherungen prüfen
+**10. Weitere Versicherungen prüfen**
 
 - [ ] Berufshaftpflicht: Deckt Schäden, die Angestellte bei Kunden verursachen
 - [ ] Inventarversicherung: Schutz für Arbeitsmittel der Angestellten

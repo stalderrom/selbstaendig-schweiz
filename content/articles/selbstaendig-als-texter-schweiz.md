@@ -43,7 +43,7 @@ Generalist-Texter sind austauschbar. Spezialisierte Texter sind gefragt und kön
 
 ## Schritt für Schritt zur Texter-Selbständigkeit
 
-### 1. Portfolio aufbauen
+**1. Portfolio aufbauen**
 
 Ohne Portfolio keine Kunden. Das Henne-Ei-Problem löst du so:
 - Schreib 3–5 Beispielartikel zu deinen Wunschthemen
@@ -52,13 +52,13 @@ Ohne Portfolio keine Kunden. Das Henne-Ei-Problem löst du so:
 
 **Wichtig:** Zeig Vielfalt — kurze Texte, lange Artikel, unterschiedliche Tonalitäten.
 
-### 2. AHV anmelden
+**2. AHV anmelden**
 
 Ab erstem Einkommen als Selbständiger.
 
 → [AHV für Selbständige](/artikel/ahv-selbstaendige-beitraege-schweiz)
 
-### 3. Tarife festlegen
+**3. Tarife festlegen**
 
 **Nach Wörtern:**
 - Günstig (Einstieg): CHF 0.05–0.08/Wort
@@ -76,7 +76,7 @@ Ab erstem Einkommen als Selbständiger.
 
 **Starte nicht zu günstig.** CHF 0.05/Wort bedeutet: 10 Stunden Arbeit für einen 2'000-Wörter-Artikel = CHF 100. Das ist nicht nachhaltig.
 
-### 4. Website erstellen
+**4. Website erstellen**
 
 Eine eigene Website ist für Texter fast Pflicht. Sie zeigt:
 - Wer du bist und was du machst

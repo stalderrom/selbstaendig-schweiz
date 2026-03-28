@@ -44,7 +44,7 @@ Als Selbständiger bist du Projektleiter, Einkäufer, Verkäufer und Krisenmanag
 
 ## Schritt für Schritt zur eigenen Event-Agentur
 
-### 1. Spezialisierung wählen
+**1. Spezialisierung wählen**
 
 Generalisten im Eventbereich haben es schwer. Wähle eine klare Nische:
 
@@ -58,13 +58,13 @@ Generalisten im Eventbereich haben es schwer. Wähle eine klare Nische:
 
 Hochzeiten und Firmen-Events sind für Einsteiger die zugänglichsten Segmente.
 
-### 2. AHV anmelden
+**2. AHV anmelden**
 
 Ab dem ersten Auftrag.
 
 → [AHV für Selbständige](/artikel/ahv-selbstaendige-beitraege-schweiz)
 
-### 3. Lieferantennetzwerk aufbauen
+**3. Lieferantennetzwerk aufbauen**
 
 Dein Netzwerk ist dein wichtigstes Kapital als Eventmanager. Du brauchst verlässliche Partner:
 - Caterer (2–3 auf verschiedenem Preisniveau)
@@ -76,7 +76,7 @@ Dein Netzwerk ist dein wichtigstes Kapital als Eventmanager. Du brauchst verläs
 
 Gehe zu Branchenanlässen, trete in Netzwerkgruppen bei, sammle Visitenkarten.
 
-### 4. Versicherungen abschliessen
+**4. Versicherungen abschliessen**
 
 Als Eventmanager haftest du für viel:
 
@@ -86,7 +86,7 @@ Als Eventmanager haftest du für viel:
 
 → [Versicherungen Selbständige](/artikel/versicherungen-selbstaendige-schweiz)
 
-### 5. Portfolio und Website
+**5. Portfolio und Website**
 
 Ohne Referenzen keine Aufträge. So baust du Portfolio auf:
 - Hilf freiwillig bei Events im Bekanntenkreis

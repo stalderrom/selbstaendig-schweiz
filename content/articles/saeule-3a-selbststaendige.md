@@ -224,19 +224,19 @@ Das eingezahlte Geld ist bis zum Bezugsalter gesperrt. Ausnahmen:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich als Selbständiger in die Säule 3a einzahlen wenn ich Verlust gemacht habe?
+**Kann ich als Selbständiger in die Säule 3a einzahlen wenn ich Verlust gemacht habe?**
 
 Nein – du kannst nur einzahlen wenn du ein Nettoeinkommen aus selbständiger Tätigkeit hast. Bei Verlust (negatives Einkommen) ist keine 3a-Einzahlung möglich. Bei sehr tiefem Einkommen unter CHF 5'000 empfiehlt sich zu prüfen ob ein Mindestbeitrag sinnvoll ist.
 
-### Darf ich in mehrere 3a-Konten gleichzeitig einzahlen?
+**Darf ich in mehrere 3a-Konten gleichzeitig einzahlen?**
 
 Nein – du darfst zwar mehrere 3a-Konten haben, aber nur den Maximalbetrag insgesamt einzahlen (auf ein Konto pro Jahr oder aufgeteilt auf mehrere). Du kannst jedes Jahr entscheiden, auf welches Konto du einzahlst.
 
-### Was passiert mit der Säule 3a bei Tod?
+**Was passiert mit der Säule 3a bei Tod?**
 
 Das Guthaben geht an die Begünstigten (Ehepartner/eingetragene Partner, Kinder, dann Erben). Begünstigte können im Voraus bestimmt werden. Das 3a-Guthaben ist im Erbgang privilegiert besteuert (getrennte Erbschaftssteuer, nicht zusammen mit übrigem Vermögen).
 
-### Ist die Säule 3a sicher bei Bankkonkurs?
+**Ist die Säule 3a sicher bei Bankkonkurs?**
 
 3a-Guthaben bei einer Bank: Einlagensicherung bis CHF 100'000 (esisuisse). Bei Wertschriften-3a (VIAC, Finpension): Die Wertschriften gehören dir direkt, sie sind im Fall einer Insolvenz des Anbieters geschützt (Sondervermögen).
 

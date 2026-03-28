@@ -288,19 +288,19 @@ Effektive Nettokosten: CHF 2'100/Jahr = CHF 175/Monat
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ein Treuhänder auch meine Rechtsform beraten?
+**Kann ein Treuhänder auch meine Rechtsform beraten?**
 
 Ja, das gehört zum Standardangebot eines guten Treuhänders: Beratung ob Einzelfirma, GmbH oder AG sinnvoll ist, steuerliche Vergleichsrechnung, Gründungsbegleitung. Bei sehr komplexen Vertragsstrukturen oder gesellschaftsrechtlichen Fragen ist zusätzlich ein Anwalt empfehlenswert.
 
-### Wie oft muss ich mit dem Treuhänder kommunizieren?
+**Wie oft muss ich mit dem Treuhänder kommunizieren?**
 
 Das hängt von der Vereinbarung ab. Bei Pauschalmandat: oft 1–4 Treffen/Jahr plus laufende digitale Kommunikation. Bei Stundensatz-Abrechnung: nur bei Bedarf. Minimum: Jahresabschluss-Besprechung + Steuererklärung.
 
-### Kann ich für Steuern und Buchhaltung verschiedene Treuhänder haben?
+**Kann ich für Steuern und Buchhaltung verschiedene Treuhänder haben?**
 
 Theoretisch ja, aber in der Praxis nicht sinnvoll: Buchhaltung und Steuern hängen eng zusammen. Ein Treuhänder der beide Bereiche kennt, arbeitet effizienter und erkennt steuerliche Optimierungsmöglichkeiten direkt aus der Buchhaltung.
 
-### Was tun wenn ich mit dem Treuhänder unzufrieden bin?
+**Was tun wenn ich mit dem Treuhänder unzufrieden bin?**
 
 Zuerst das Gespräch suchen – oft liegen Missverständnisse oder mangelnde Kommunikation vor. Wenn das nicht hilft: Kündigung gemäss Vertrag (meist 1–3 Monate Frist). Anschliessend neuen Treuhänder suchen. Bei Schaden durch Fehler des Treuhänders: Berufshaftpflichtversicherung des Treuhänders deckt das.
 

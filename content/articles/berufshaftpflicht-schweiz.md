@@ -130,50 +130,50 @@ Die Deckungssumme sollte mindestens dem doppelten Jahresumsatz entsprechen:
 
 ## Schritt-für-Schritt Anleitung zum Abschluss
 
-### 1. Prüfung der gesetzlichen Pflicht
+**1. Prüfung der gesetzlichen Pflicht**
 Informiere dich bei deinem Berufsverband oder der zuständigen Behörde, ob für deinen Beruf eine Versicherungspflicht besteht. Die Kantone haben oft unterschiedliche Regelungen.
 
-### 2. Risikoanalyse durchführen
+**2. Risikoanalyse durchführen**
 Analysiere deine beruflichen Tätigkeiten:
 - Welche Schäden können entstehen?
 - Wie hoch ist das größte denkbare Schadenrisiko?
 - Arbeitest du mit sensiblen Daten oder kritischen Systemen?
 - Hast du internationale Kunden?
 
-### 3. Deckungssumme festlegen
+**3. Deckungssumme festlegen**
 Orientiere dich an diesen Faktoren:
 - Jahresumsatz (mindestens das Doppelte)
 - Branchenübliche Schäden
 - Größe deiner Projekte
 - Finanzielle Tragbarkeit der Prämien
 
-### 4. Angebote einholen
+**4. Angebote einholen**
 Hole mindestens drei Vergleichsangebote ein:
 - Direktversicherer (Zurich, AXA, Allianz)
 - Spezialisierte Anbieter für deine Branche
 - Makler für umfassende Beratung
 
-### 5. Bedingungsvergleich
+**5. Bedingungsvergleich**
 Vergleiche nicht nur Prämien, sondern auch:
 - Deckungsumfang und Ausschlüsse
 - Selbstbehalt und Zahlungsmodalitäten
 - Nachversicherungsdauer
 - Schadensabwicklung und Service
 
-### 6. Antrag stellen
+**6. Antrag stellen**
 Fülle den Antrag vollständig und wahrheitsgemäß aus:
 - Genaue Tätigkeitsbeschreibung
 - Umsatzangaben der letzten drei Jahre
 - Mitarbeiteranzahl und Qualifikationen
 - Bisherige Schadenhistorie
 
-### 7. Police prüfen und einreichen
+**7. Police prüfen und einreichen**
 Nach Erhalt der Police:
 - Alle Angaben auf Richtigkeit prüfen
 - Bei Pflichtversicherung beim Berufsverband/Behörde einreichen
 - Kopie bei Geschäftsunterlagen aufbewahren
 
-### 8. Jährliche Überprüfung
+**8. Jährliche Überprüfung**
 Passe die Versicherung regelmäßig an:
 - Bei Umsatzsteigerungen Deckung erhöhen
 - Neue Tätigkeitsfelder melden
@@ -182,35 +182,35 @@ Passe die Versicherung regelmäßig an:
 
 ## Häufige Fehler vermeiden
 
-### 1. Zu niedrige Deckungssumme wählen
+**1. Zu niedrige Deckungssumme wählen**
 **Fehler:** CHF 500'000 Deckung bei CHF 800'000 Jahresumsatz
 **Lösung:** Mindestens das Doppelte des Jahresumsatzes absichern, besser noch mehr bei risikoreichen Tätigkeiten
 
-### 2. Nur auf den Preis schauen
+**2. Nur auf den Preis schauen**
 **Fehler:** Günstigste Prämie ohne Blick auf Leistungen wählen
 **Lösung:** Deckungsumfang, Ausschlüsse und Schadensabwicklung vergleichen
 
-### 3. Nebentätigkeiten verschweigen
+**3. Nebentätigkeiten verschweigen**
 **Fehler:** Nur Haupttätigkeit angeben, Beratung oder Schulungen verschweigen
 **Lösung:** Alle beruflichen Tätigkeiten vollständig deklarieren
 
-### 4. Retroaktivität vergessen
+**4. Retroaktivität vergessen**
 **Fehler:** Keine Deckung für vergangene Arbeiten vereinbaren
 **Lösung:** Retroaktive Deckung ab Beginn der Selbständigkeit einschließen
 
-### 5. Auslandsschutz übersehen
+**5. Auslandsschutz übersehen**
 **Fehler:** Nur Schweizer Deckung bei internationalen Kunden
 **Lösung:** Weltweiten Schutz oder zumindest Europa-Deckung wählen
 
-### 6. Verspätete Schadenmeldung
+**6. Verspätete Schadenmeldung**
 **Fehler:** Schäden erst melden, wenn Ansprüche gestellt werden
 **Lösung:** Potentielle Schäden sofort der Versicherung melden
 
-### 7. Police nicht aktualisieren
+**7. Police nicht aktualisieren**
 **Fehler:** Versicherung bei Geschäftserweiterung nicht anpassen
 **Lösung:** Bei allen Änderungen sofort den Versicherer informieren
 
-### 8. Ausschlüsse ignorieren
+**8. Ausschlüsse ignorieren**
 **Fehler:** Vertrag unterschreiben ohne genaue Kenntnis der Ausschlüsse
 **Lösung:** Alle Bedingungen vor Abschluss gründlich prüfen lassen
 
@@ -263,25 +263,25 @@ Passe die Versicherung regelmäßig an:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Ist die Berufshaftpflicht steuerlich absetzbar?
+**Ist die Berufshaftpflicht steuerlich absetzbar?**
 Ja, die Berufshaftpflichtversicherung ist vollständig als Betriebsausgabe steuerlich absetzbar. Bei Einzelfirmen reduziert sie das steuerbare Einkommen, bei Kapitalgesellschaften den Gewinn. Wichtig ist die klare Trennung von privater und beruflicher Haftpflicht in der Buchhaltung.
 
-### Greift die Versicherung auch bei grober Fahrlässigkeit?
+**Greift die Versicherung auch bei grober Fahrlässigkeit?**
 Die meisten Berufshaftpflichtversicherungen decken auch grobe Fahrlässigkeit ab – das ist ein wichtiger Vorteil gegenüber anderen Versicherungsarten. Ausgeschlossen sind jedoch vorsätzliche Schäden, bewusste Pflichtverletzungen und kriminelle Handlungen. Prüfe die Bedingungen genau, da manche Anbieter bei grober Fahrlässigkeit Kürzungen vornehmen.
 
-### Was passiert bei Geschäftsaufgabe mit der Versicherung?
+**Was passiert bei Geschäftsaufgabe mit der Versicherung?**
 Bei Geschäftsaufgabe ist die Nachversicherung entscheidend. Sie schützt dich vor Ansprüchen aus vergangenen Arbeiten, die oft Jahre später geltend gemacht werden. Standard sind 1-3 Jahre Nachversicherung, bei risikoreichen Berufen empfehlen sich 5-10 Jahre. Die Nachversicherung läuft meist automatisch und ohne zusätzliche Prämie.
 
-### Brauche ich als GmbH-Geschäftsführer eine Berufshaftpflicht?
+**Brauche ich als GmbH-Geschäftsführer eine Berufshaftpflicht?**
 Ja, denn als Geschäftsführer haftest du persönlich für Schäden aus Pflichtverletzungen – die GmbH-Haftungsbeschränkung schützt nicht vor persönlichen Fehlern. Zusätzlich zur Berufshaftpflicht solltest du eine D&O-Versicherung (Directors & Officers) prüfen, die speziell Organschäden abdeckt. Die normale Berufshaftpflicht deckt meist nur fachliche Fehler ab.
 
-### Wie lange dauert eine Schadensregulierung normalerweise?
+**Wie lange dauert eine Schadensregulierung normalerweise?**
 Einfache Schadenfälle werden meist innerhalb von 2-4 Monaten reguliert. Komplexe Fälle mit Gutachten oder Rechtsstreitigkeiten können 6-24 Monate dauern. Wichtig: Führe keine eigenen Verhandlungen und leiste keine Zahlungen. Die Versicherung übernimmt die komplette Abwicklung einschließlich Rechtsverteidigung.
 
-### Kann ich die Berufshaftpflicht jährlich wechseln?
+**Kann ich die Berufshaftpflicht jährlich wechseln?**
 Ja, die meisten Verträge haben eine Laufzeit von einem Jahr und können mit einer Frist von drei Monaten zum Jahresende gekündigt werden. Achte aber auf lückenlose Deckung beim Wechsel: Die neue Police muss am Tag nach Ablauf der alten beginnen. Prüfe auch die Retroaktivität – manchmal ist ein Wechsel weniger günstig als gedacht.
 
-### Sind Rechtschutzkosten automatisch mitversichert?
+**Sind Rechtschutzkosten automatisch mitversichert?**
 Nein, Rechtschutzkosten sind nur bei entsprechendem Einschluss mitversichert. Viele Berufshaftpflichtversicherungen enthalten zwar die Abwehr unberechtigter Ansprüche, aber nicht die Durchsetzung eigener Ansprüche. Für umfassenden Rechtsschutz brauchst du eine separate Rechtsschutzversicherung oder einen speziellen Baustein in der Berufshaftpflicht.
 
 ## Fazit und nächste Schritte

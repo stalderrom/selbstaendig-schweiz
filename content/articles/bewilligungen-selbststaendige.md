@@ -53,7 +53,7 @@ Diese Tätigkeiten sind in der Schweiz **ohne spezielle Bewilligung** möglich:
 
 ## Bewilligungspflichtige Bereiche
 
-### 1. Gesundheitsberufe
+**1. Gesundheitsberufe**
 
 Alle Berufe die direkt mit Patienten arbeiten, sind **kantonal reguliert**:
 
@@ -71,7 +71,7 @@ Alle Berufe die direkt mit Patienten arbeiten, sind **kantonal reguliert**:
 
 **Zeitaufwand:** 4–12 Wochen je nach Kanton.
 
-### 2. Finanzdienstleistungen
+**2. Finanzdienstleistungen**
 
 Stark reguliert durch die FINMA (Eidgenössische Finanzmarktaufsicht):
 
@@ -86,7 +86,7 @@ Stark reguliert durch die FINMA (Eidgenössische Finanzmarktaufsicht):
 
 **Wichtig:** Die FINMA-Regulierung wurde mit dem FIDLEG (Finanzdienstleistungsgesetz) und FINIG (Finanzinstitutsgesetz) 2020 stark ausgebaut. Lass dich von einem spezialisierten Anwalt beraten.
 
-### 3. Gastgewerbe
+**3. Gastgewerbe**
 
 Für Restaurants, Cafés, Bars, Imbissstände und Catering ist eine **Gastgewerbebewilligung** nötig:
 
@@ -103,7 +103,7 @@ Für Restaurants, Cafés, Bars, Imbissstände und Catering ist eine **Gastgewerb
 
 **Wo beantragen:** Gemeindeverwaltung und kantonales Gastgewerbeamt.
 
-### 4. Transportgewerbe
+**4. Transportgewerbe**
 
 | Tätigkeit | Bewilligung | Behörde |
 |---|---|---|
@@ -114,7 +114,7 @@ Für Restaurants, Cafés, Bars, Imbissstände und Catering ist eine **Gastgewerb
 
 **Taxibetrieb:** Viele Gemeinden haben eigene Regelungen. Uber-ähnliche Modelle sind je nach Kanton anders bewertet – prüfe die aktuelle Rechtslage.
 
-### 5. Sicherheitsbranche
+**5. Sicherheitsbranche**
 
 | Tätigkeit | Bewilligung | Anforderungen |
 |---|---|---|
@@ -122,7 +122,7 @@ Für Restaurants, Cafés, Bars, Imbissstände und Catering ist eine **Gastgewerb
 | Detektei | Kantonal unterschiedlich | Teilweise Bewilligung nötig |
 | Schlüsseldienst | Weitgehend frei | – |
 
-### 6. Baugewerbe und Handwerk
+**6. Baugewerbe und Handwerk**
 
 Meist kein Befähigungsnachweis gesetzlich vorgeschrieben, aber:
 
@@ -136,7 +136,7 @@ Meist kein Befähigungsnachweis gesetzlich vorgeschrieben, aber:
 
 **Beachte:** Fachverbände (Suissetec, etc.) empfehlen anerkannte Diplome für Glaubwürdigkeit und Haftung.
 
-### 7. Immobilien und Treuhand
+**7. Immobilien und Treuhand**
 
 | Tätigkeit | Bewilligung | Anforderungen |
 |---|---|---|
@@ -146,7 +146,7 @@ Meist kein Befähigungsnachweis gesetzlich vorgeschrieben, aber:
 | Steuerberater | Frei (ohne MWST-spezifisch) | – |
 | Revisor | Für "zugelassene Revisoren": RAB-Zulassung | Ausbildung + Praxis |
 
-### 8. Lebensmittelhandel
+**8. Lebensmittelhandel**
 
 Wer Lebensmittel herstellt oder verkauft, untersteht dem Lebensmittelgesetz:
 
@@ -156,7 +156,7 @@ Wer Lebensmittel herstellt oder verkauft, untersteht dem Lebensmittelgesetz:
 
 **Online-Lebensmittelhandel:** Gelten die gleichen Anforderungen wie für stationären Handel.
 
-### 9. Weitere bewilligungspflichtige Bereiche
+**9. Weitere bewilligungspflichtige Bereiche**
 
 - **Waffen- und Sprengstoffhandel:** Bundesbewilligung EJPD
 - **Betäubungsmittel/Apotheke:** Kantonal, SWISSMEDIC
@@ -231,19 +231,19 @@ Typisch benötigte Dokumente:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Was passiert wenn ich ohne Bewilligung arbeite?
+**Was passiert wenn ich ohne Bewilligung arbeite?**
 
 In bewilligungspflichtigen Berufen drohen: Betriebsschliessung, Bussen (CHF 1'000–100'000+), Strafanzeige in schweren Fällen, zivilrechtliche Haftung wenn Kunden Schaden erleiden. Die Behörden prüfen regelmässig, Konkurrenten melden manchmal auch.
 
-### Muss ich die Bewilligung auch nach einem Kantonswechsel neu beantragen?
+**Muss ich die Bewilligung auch nach einem Kantonswechsel neu beantragen?**
 
 In den meisten regulierten Berufen ja – Bewilligungen sind kantonal. Bei einem Umzug in einen anderen Kanton musst du dort eine neue Bewilligung beantragen. Für EU/EFTA-Bürger gilt in vielen Bereichen die Freizügigkeit mit vereinfachter Anerkennung.
 
-### Kann ich mehrere Tätigkeiten mit einer Bewilligung abdecken?
+**Kann ich mehrere Tätigkeiten mit einer Bewilligung abdecken?**
 
 Das kommt drauf an. Oft sind Bewilligungen tätigkeitsspezifisch. Wenn du z.B. als Physiotherapeut und Ernährungsberater arbeitest, brauchst du separate Bewilligungen. Lass es vorab klären.
 
-### Gibt es eine zentrale Stelle für alle Bewilligungen?
+**Gibt es eine zentrale Stelle für alle Bewilligungen?**
 
 Leider nein – das föderale System bedeutet, dass verschiedene kantonale Ämter und Bundesbehörden zuständig sind. Als erste Anlaufstelle eignet sich das kantonale Wirtschaftsamt oder die lokale Handelskammer.
 

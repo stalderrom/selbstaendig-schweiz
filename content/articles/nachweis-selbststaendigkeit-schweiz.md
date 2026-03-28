@@ -48,7 +48,7 @@ Wer keine Gehaltsabrechnung eines Arbeitgebers vorweisen kann, muss auf andere W
 
 ## Die wichtigsten Nachweis-Dokumente
 
-### 1. AHV-Bestätigung der Ausgleichskasse
+**1. AHV-Bestätigung der Ausgleichskasse**
 
 Das **wichtigste und meistakzeptierte** Dokument zum Nachweis der Selbständigkeit.
 
@@ -62,7 +62,7 @@ Das **wichtigste und meistakzeptierte** Dokument zum Nachweis der Selbständigke
 
 **Inhalt des Dokuments:** Name, Adresse, Beginn der Selbständigkeit, Beitragsstatus, Ausstellungsdatum.
 
-### 2. Handelsregisterauszug
+**2. Handelsregisterauszug**
 
 Für **im Handelsregister eingetragene** Einzelfirmen, GmbHs und AGs.
 
@@ -75,7 +75,7 @@ Für **im Handelsregister eingetragene** Einzelfirmen, GmbHs und AGs.
 
 Mehr zum [Handelsregistereintrag](/artikel/handelsregister-eintrag-schweiz).
 
-### 3. Steuerbescheinigung / Steuernachweis
+**3. Steuerbescheinigung / Steuernachweis**
 
 Bescheinigung des kantonalen Steueramts über das steuerbare Einkommen.
 
@@ -86,7 +86,7 @@ Bescheinigung des kantonalen Steueramts über das steuerbare Einkommen.
 
 **Inhalt:** Bestätigung des steuerbaren Einkommens aus dem letzten Veranlagungsjahr. Nicht zu verwechseln mit dem Steuerausweis (für Lohnbescheinigung bei Angestellten).
 
-### 4. Aktuelle Steuererklärung mit Hilfsrechnung
+**4. Aktuelle Steuererklärung mit Hilfsrechnung**
 
 Für Banken bei Kreditanfragen oder Hypotheken.
 
@@ -97,7 +97,7 @@ Für Banken bei Kreditanfragen oder Hypotheken.
 
 **Warum 3 Jahre?** Banken wollen ein konsistentes Einkommensmuster sehen. Ein einziges gutes Jahr reicht nicht als Nachweis einer stabilen Selbständigkeit.
 
-### 5. AHV-Lohnausweis für Selbständige (Auszug AHV-Konto)
+**5. AHV-Lohnausweis für Selbständige (Auszug AHV-Konto)**
 
 Der AHV-Lohnausweis ist bei Angestellten üblich. Selbständige können einen **Auszug aus dem individuellen AHV-Konto** beantragen:
 - Zeigt alle eingezahlten Beiträge nach Jahr

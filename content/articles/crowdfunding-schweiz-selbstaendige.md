@@ -261,18 +261,18 @@ Wenn Crowdfunding nicht passt:
 
 ## FAQ — Häufig gestellte Fragen
 
-### Kann ich eine Crowdfunding-Kampagne starten wenn ich nicht in der Schweiz wohne?
+**Kann ich eine Crowdfunding-Kampagne starten wenn ich nicht in der Schweiz wohne?**
 
 Auf Wemakeit und Crowdify kannst du als Ausländer Projekte starten — solange das Projekt einen Bezug zur Schweiz, Österreich oder Deutschland hat. Für internationale Projekte ohne CH-Bezug: Kickstarter oder Indiegogo.
 
-### Was passiert wenn ich mein Crowdfunding-Ziel nicht erreiche?
+**Was passiert wenn ich mein Crowdfunding-Ziel nicht erreiche?**
 
 Bei "Alles oder nichts"-Plattformen (Wemakeit, Kickstarter) bekommst du gar nichts — Unterstützer werden zurückbezahlt. Bei "Flexibel"-Modellen (Indiegogo, Crowdify mit Flex-Option) bekommst du auch Teilbeträge, minus Gebühren. Überlege gut welches Modell du wählst.
 
-### Wie lange dauert es bis das Geld auf meinem Konto ist?
+**Wie lange dauert es bis das Geld auf meinem Konto ist?**
 
 Nach Ende einer erfolgreichen Kampagne dauert es 2–4 Wochen bis das Geld ausgezahlt wird. Plattformen prüfen zuerst die Zahlung der Unterstützer.
 
-### Muss ich die Rewards immer liefern?
+**Muss ich die Rewards immer liefern?**
 
 Ja — rechtlich und moralisch. Wenn du Rewards versprichst und sie nicht lieferst, riskierst du rechtliche Konsequenzen und zerstörst deinen Ruf. Plane Rewards immer so, dass du sie auch wirklich erfüllen kannst — auch wenn du das Doppelte sammelst.

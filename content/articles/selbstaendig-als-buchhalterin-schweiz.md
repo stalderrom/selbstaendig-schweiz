@@ -118,26 +118,26 @@ Als selbständige Buchhalterin kannst du verschiedene Services anbieten:
 
 ## Kundenakquise: So gewinnst du Buchhaltungs-Kunden
 
-### 1. Partnerschaft mit Treuhändbüros
+**1. Partnerschaft mit Treuhändbüros**
 
 Viele Treuhändbüros suchen verlässliche Freelancer für einfache Buchführung. Kontaktiere 10–20 lokale Büros und biete dich als Unterauftragnehmer an.
 
 **Vorteil:** Feste Kundenbeziehung ohne eigene Akquise
 **Nachteil:** Geringerer Stundensatz (CHF 50–70/h als Subkontraktor)
 
-### 2. Direkte KMU-Akquise
+**2. Direkte KMU-Akquise**
 
 - **Google My Business:** "Buchhaltung Zürich", "Buchhalter Bern" – lokale Sichtbarkeit
 - **treuhand.ch:** Offizielles Verzeichnis von Treuhand Suisse
 - **local.ch / search.ch:** Einträge für lokale Suchen
 
-### 3. Netzwerk-Events
+**3. Netzwerk-Events**
 
 - **KMU-Netzwerke** (Handelskammern, IHK, Wirtschaftsverbände)
 - **BNI Schweiz** (Business Netzwerke, monatliche Meetings)
 - **XING / LinkedIn:** Profil als Buchhalter/Buchhalterin optimieren
 
-### 4. Bestehende Kunden: Empfehlungen
+**4. Bestehende Kunden: Empfehlungen**
 
 Der beste Wachstumskanal: Zufriedene Kunden empfehlen weiter. Bitte aktiv um Weiterempfehlung nach 3–6 Monaten guter Zusammenarbeit.
 

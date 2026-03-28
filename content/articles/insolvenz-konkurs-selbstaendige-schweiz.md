@@ -219,18 +219,18 @@ Nach einem Konkurs oder Verlustschein:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich als Selbständiger in die Privatinsolvenz?
+**Kann ich als Selbständiger in die Privatinsolvenz?**
 
 Die Schweiz kennt keine "Privatinsolvenz" wie Deutschland. In der Schweiz läuft alles über das Betreibungsrecht: Betreibung auf Pfändung für Privatpersonen, Konkurs für eingetragene Firmen. Eine vollständige Schuldenbefreiung (wie in Deutschland nach 6 Jahren) gibt es nicht. Verlustscheine laufen 20 Jahre.
 
-### Was passiert mit meiner Krankenkasse wenn ich zahlungsunfähig bin?
+**Was passiert mit meiner Krankenkasse wenn ich zahlungsunfähig bin?**
 
 Die Krankenkasse ist Pflicht und darf nicht einfach aufgekündigt werden. Wenn du die Prämie nicht zahlen kannst: Prämienverbilligung beantragen (kantonal), Ratenzahlung verhandeln, oder Franchise erhöhen um Prämie zu senken. Auch bei Betreibung: Krankenkasse läuft weiter.
 
-### Muss ich einen Konkurs öffentlich bekannt machen?
+**Muss ich einen Konkurs öffentlich bekannt machen?**
 
 Bei einer GmbH/AG ja: Der Konkurs wird im Schweizerischen Handelsamtsblatt (SHAB) publiziert. Das ist öffentlich einsehbar. Bei einer Einzelfirma (Betreibung auf Pfändung) gibt es keine öffentliche Bekanntmachung, aber der Betreibungsregisterauszug kann auf Anfrage eingesehen werden.
 
-### Wie lange bleibt ein Betreibungseintrag im Register?
+**Wie lange bleibt ein Betreibungseintrag im Register?**
 
 Ein Betreibungsbegehren bleibt 5 Jahre im Betreibungsregister. Ein Verlustschein bleibt 20 Jahre. Wer einen Betreibungsregisterauszug von dir anfordert (z.B. Vermieter, Bank), sieht diese Einträge.

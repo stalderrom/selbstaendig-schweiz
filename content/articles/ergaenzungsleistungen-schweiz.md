@@ -237,42 +237,42 @@ Der ermittelte Jahresbetrag wird in zwölf Monatsraten ausbezahlt.
 
 ## Häufige Fehler und wie du sie vermeidest
 
-### 1. Zu späte Antragstellung
+**1. Zu späte Antragstellung**
 **Fehler:** Viele warten bis zur akuten finanziellen Not oder hoffen auf bessere Zeiten.
 
 **Lösung:** Stelle den Antrag sofort, wenn deine Rente nicht für die Lebenshaltung reicht. EL werden nur ab Antragsmonat gewährt, nie rückwirkend. Jeder Monat Verzögerung kostet Geld.
 
-### 2. Vermögen verschweigen oder falsch deklarieren
+**2. Vermögen verschweigen oder falsch deklarieren**
 **Fehler:** Hoffnung auf höhere EL durch Verschweigen von Konten oder Versicherungen.
 
 **Lösung:** Gib alle Vermögenswerte vollständig an. Die Behörden führen systematische Kontrollen durch und haben Zugriff auf Bankdaten. Falsche Angaben führen zu Rückforderungen und Strafverfahren.
 
-### 3. Unvollständige Krankheitskosten
+**3. Unvollständige Krankheitskosten**
 **Fehler:** Nur grosse Arztrechnungen angeben, kleine Beträge vergessen.
 
 **Lösung:** Sammle systematisch alle Gesundheitskosten: Franchise, Selbstbehalt, Zahnbehandlungen, Brillen, Medikamente, Fahrtkosten. Auch CHF 20 für Medikamente summieren sich über das Jahr.
 
-### 4. Mietzinsmaximum ignorieren
+**4. Mietzinsmaximum ignorieren**
 **Fehler:** Teure Wohnung mieten ohne Kenntnis der EL-Limits.
 
 **Lösung:** Informiere dich vor einem Umzug über die kantonalen Mietzinsmaxima. Höhere Mieten werden nicht vollständig vergütet. In teuren Kantonen sind die Limite oft zu tief angesetzt.
 
-### 5. Schenkungen kurz vor Antrag
+**5. Schenkungen kurz vor Antrag**
 **Fehler:** Vermögen an Kinder übertragen, um höhere EL zu erhalten.
 
 **Lösung:** Schenkungen der letzten 10 Jahre werden vollständig angerechnet. Ehrliche Vermögensangaben sind besser als spätere Rückforderungen. Bei geplanten Schenkungen zuerst beraten lassen.
 
-### 6. Erwerbstätigkeit verschweigen
+**6. Erwerbstätigkeit verschweigen**
 **Fehler:** Nebeneinkommen aus Angst vor EL-Kürzung nicht melden.
 
 **Lösung:** Melde alle Einkünfte korrekt. Es gibt Erwerbsfreibeträge, und oft bleibt trotz Nebenverdienst ein EL-Anspruch bestehen. Verschweigen führt zu Problemen.
 
-### 7. Falsche Ausgleichskasse kontaktieren
+**7. Falsche Ausgleichskasse kontaktieren**
 **Fehler:** Antrag bei der ehemaligen Arbeitgeber-Ausgleichskasse einreichen.
 
 **Lösung:** Zuständig ist immer die Ausgleichskasse deines Wohnorts, nicht die deines ehemaligen Arbeitgebers. Bei Umzug wechselt auch die Zuständigkeit.
 
-### 8. Unterlagen unvollständig einreichen
+**8. Unterlagen unvollständig einreichen**
 **Fehler:** Antrag mit fehlenden Beilagen einreichen und dann lange auf Nachforderungen warten.
 
 **Lösung:** Verwende die Checkliste der Ausgleichskasse. Reiche alle Dokumente vollständig ein. Das beschleunigt die Bearbeitung erheblich.
@@ -288,25 +288,25 @@ Der ermittelte Jahresbetrag wird in zwölf Monatsraten ausbezahlt.
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich EL beantragen, wenn ich noch arbeite?
+**Kann ich EL beantragen, wenn ich noch arbeite?**
 Ja, auch bei Erwerbstätigkeit sind EL möglich, sofern du bereits eine AHV- oder IV-Rente beziehst. Das Erwerbseinkommen wird angerechnet, aber es gibt Freibeträge: CHF 1'000 jährlich bei Alleinstehenden und CHF 1'500 bei Ehepaaren. Der übersteigende Betrag reduziert die EL. Viele Teilrentner haben trotz Nebenverdienst Anspruch auf EL, da die Gesamteinkommen oft nicht für die Lebenshaltung reichen.
 
-### Wie lange dauert die Bearbeitung meines EL-Antrags?
+**Wie lange dauert die Bearbeitung meines EL-Antrags?**
 Die normale Bearbeitungszeit beträgt 2-4 Monate. Bei unvollständigen Unterlagen kann es länger dauern. In dringenden Fällen können die Behörden vorläufige Verfügungen erlassen, die sofort wirksam werden. Die EL werden rückwirkend ab dem Antragsmonat ausbezahlt – daher entstehen dir keine finanziellen Nachteile durch die Bearbeitungszeit. Reiche alle Unterlagen vollständig ein, um Verzögerungen zu vermeiden.
 
-### Muss ich EL zurückzahlen, wenn sich meine Situation verbessert?
+**Muss ich EL zurückzahlen, wenn sich meine Situation verbessert?**
 Nein, rechtmässig bezogene EL müssen nicht zurückgezahlt werden. Du bist aber verpflichtet, Änderungen deiner Einkommens- oder Vermögenssituation sofort zu melden. Die EL werden dann entsprechend angepasst oder bei Wegfall der Bedürftigkeit eingestellt. Nur bei falschen oder unvollständigen Angaben erfolgt eine Rückforderung. Diese kann bei grösseren Beträgen auch strafrechtliche Konsequenzen haben.
 
-### Werden meine Erben zur Rückzahlung der EL verpflichtet?
+**Werden meine Erben zur Rückzahlung der EL verpflichtet?**
 Grundsätzlich nein – EL müssen nach dem Tod nicht zurückgezahlt werden. Es gibt jedoch eine Ausnahme: Wenn du in den letzten 10 Jahren vor deinem Tod Vermögen verschenkt oder unter Wert verkauft hast, können die Erben bis zur Höhe dieser Vermögensverschiebungen zur Rückerstattung verpflichtet werden. Diese Regelung verhindert, dass Vermögen vor dem EL-Bezug weggeschenkt wird. Der Rückgriff erfolgt nur aus dem vorhandenen Nachlass.
 
-### Kann ich EL beantragen, wenn ich im Ausland lebe?
+**Kann ich EL beantragen, wenn ich im Ausland lebe?**
 Nein, EL sind grundsätzlich an den Wohnsitz in der Schweiz gebunden. Bei einem definitiven Wegzug ins Ausland fallen die EL weg, auch wenn du weiterhin eine Schweizer AHV-Rente beziehst. Eine sehr begrenzte Ausnahme gibt es für Schweizer Bürger in EU-Ländern, aber nur unter strengen Voraussetzungen und nicht in voller Höhe. Informiere dich vor einem geplanten Auslandaufenthalt bei deiner Ausgleichskasse über die Auswirkungen.
 
-### Welche Krankheitskosten werden bei den EL anerkannt?
+**Welche Krankheitskosten werden bei den EL anerkannt?**
 Alle Gesundheitskosten, die nicht von der obligatorischen Krankenversicherung gedeckt sind: Franchise, Selbstbehalt von 10%, Zahnbehandlungen, Brillen, Hörgeräte, nicht kassenpflichtige Medikamente, Physiotherapie und andere Hilfsmittel. Auch Fahrtkosten zu Behandlungen werden vergütet. Wichtig ist die lückenlose Dokumentation aller Belege. Sammle systematisch alle Rechnungen und reiche sie jährlich bei der Neubeurteilung ein. Selbst kleine Beträge summieren sich schnell auf mehrere hundert oder tausend Franken pro Jahr.
 
-### Wie wirkt sich selbstbewohntes Wohneigentum auf die EL aus?
+**Wie wirkt sich selbstbewohntes Wohneigentum auf die EL aus?**
 Selbstbewohntes Wohneigentum wird privilegiert behandelt. Der Mietwert wird maximal mit dem EL-Mietzinsmaximum angerechnet, auch wenn der tatsächliche Wert höher liegt. Beim Vermögen gilt ein reduzierter Ansatz: Nur 1/15 statt der üblichen 1/10 des Verkehrswerts über dem Freibetrag wird als Einkommen angerechnet. Hypothekarzinsen können als Ausgaben geltend gemacht werden. Ein Hausverkauf ist für EL-Bezug also nicht nötig – oft ist das Gegenteil der Fall.
 
 ## Fazit und nächste Schritte

@@ -33,13 +33,13 @@ Du benötigst solide Kenntnisse in HTML, CSS und JavaScript – von Grundlagen b
 
 Design-Software wie Figma, Adobe Creative Suite oder Sketch sind unverzichtbar. Grundlagen in Webentwicklung und responsive Design musst du beherrschen, da mobile Optimierung Standard ist.
 
-### Rechtliche Anforderungen
+**Rechtliche Anforderungen**
 
 Die Anmeldung als Einzelfirma beim Handelsregister ist erst ab CHF 100'000 Jahresumsatz Pflicht, davor freiwillig möglich. Die Gewerbeanmeldung bei der Gemeinde kostet meist nichts und ist schnell erledigt.
 
 Die MWST-Registrierung wird ab CHF 100'000 Jahresumsatz obligatorisch – davor kannst du freiwillig registrieren. Deine eigene Website braucht ein korrektes Impressum und eine Datenschutzerklärung nach Schweizer Recht.
 
-### Finanzielle Voraussetzungen
+**Finanzielle Voraussetzungen**
 
 Plane CHF 5'000-15'000 Startkapital ein. Die Equipment-Investition für Computer, Software und Office-Einrichtung bildet den Grundstein. Zusätzlich brauchst du eine Liquiditätsreserve für die ersten 6 Monate, da Aufträge am Anfang unregelmäßig kommen.
 
@@ -55,7 +55,7 @@ Kundenkommunikation und Projektmanagement entscheiden über deinen Erfolg. Grund
 
 ## Kosten im Überblick
 
-### Einmalige Startkosten
+**Einmalige Startkosten**
 
 | Kostenart | Betrag (CHF) | Beschreibung |
 |-----------|--------------|--------------|
@@ -66,7 +66,7 @@ Kundenkommunikation und Projektmanagement entscheiden über deinen Erfolg. Grund
 | Office-Einrichtung | 1'000-3'000 | Ergonomischer Arbeitsplatz |
 | **Total Startkosten** | **5'000-13'200** | |
 
-### Laufende monatliche Kosten
+**Laufende monatliche Kosten**
 
 | Kostenart | Betrag (CHF) | Beschreibung |
 |-----------|--------------|--------------|
@@ -84,7 +84,7 @@ Weiterbildungen kosten CHF 2'000-8'000 jährlich, sind aber essentiell in der sc
 
 ## Einkommen und realistische Beispielrechnungen
 
-### Stundensätze nach Erfahrung
+**Stundensätze nach Erfahrung**
 
 Die Stundensätze variieren stark je nach Erfahrung und Spezialisierung:
 
@@ -168,35 +168,35 @@ Automatisiere Routineaufgaben mit Tools. Investiere kontinuierlich in Weiterbild
 
 ## Häufige Fehler vermeiden
 
-### 1. Preise zu tief ansetzen
+**1. Preise zu tief ansetzen**
 **Problem:** Unterbietung des Marktes führt zu nicht-kostendeckender Arbeit und schadet dem Image.
 **Lösung:** Recherchiere Marktpreise gründlich, verwende Kalkulationstools und kommuniziere deinen Wert klar. Lieber weniger Kunden zu fairen Preisen.
 
-### 2. Unklare Projektdefinition  
+**2. Unklare Projektdefinition  **
 **Problem:** Scope Creep, endlose Änderungswünsche und unrentable Projekte zerstören die Marge.
 **Lösung:** Führe detaillierte Briefings durch, dokumentiere alles schriftlich und etabliere einen Change-Request-Prozess mit Zusatzkosten.
 
-### 3. Versicherungen vernachlässigen
+**3. Versicherungen vernachlässigen**
 **Problem:** Existenzbedrohende Haftungsrisiken oder Ausfallzeiten bei Krankheit.
 **Lösung:** Berufshaftpflicht ab Tag 1, Krankentaggeld für Ausfälle, Rechtsschutz für Streitigkeiten.
 
-### 4. Buchhaltung aufschieben
+**4. Buchhaltung aufschieben**
 **Problem:** Chaos bei der Steuererklärung, verpasste Fristen und Bußgelder.
 **Lösung:** Monatliche Buchhaltung mit professioneller Software oder Treuhänder ab dem ersten Auftrag.
 
-### 5. Zu wenig Marketing
+**5. Zu wenig Marketing**
 **Problem:** Abhängigkeit von wenigen Kunden und schwankende Auslastung.
 **Lösung:** Plane mindestens 20% deiner Zeit für Marketing ein und nutze mehrere Akquisekanäle parallel.
 
-### 6. Keine Verträge oder AGB
+**6. Keine Verträge oder AGB**
 **Problem:** Rechtliche Unsicherheit, Zahlungsausfälle und vermeidbare Streitigkeiten.
 **Lösung:** Lass Standardverträge vom Anwalt prüfen und definiere klare Zahlungsbedingungen.
 
-### 7. Technologie-Stillstand
+**7. Technologie-Stillstand**
 **Problem:** Veraltete Skills führen zum Verlust der Wettbewerbsfähigkeit.
 **Lösung:** Budgetiere jährlich für Weiterbildung, monitore Trends aktiv und experimentiere mit neuen Tools.
 
-### 8. Work-Life-Balance ignorieren
+**8. Work-Life-Balance ignorieren**
 **Problem:** Burnout, Qualitätsverlust und gesundheitliche Probleme.
 **Lösung:** Definiere feste Arbeitszeiten, plane bewusst Urlaub und lerne "Nein" zu schlechten Aufträgen zu sagen.
 
@@ -211,25 +211,25 @@ Automatisiere Routineaufgaben mit Tools. Investiere kontinuierlich in Weiterbild
 
 ## FAQ – Häufig gestellte Fragen
 
-### Brauche ich eine spezielle Ausbildung als Webdesigner?
+**Brauche ich eine spezielle Ausbildung als Webdesigner?**
 Nein, in der Schweiz gibt es keine formalen Ausbildungsanforderungen für Webdesigner. Entscheidend sind nachweisbare Fähigkeiten und ein überzeugendes Portfolio. Viele erfolgreiche Webdesigner sind Quereinsteiger oder Autodidakten. Zertifikate von Google, Adobe oder anderen Anbietern können jedoch das Kundenvertrauen stärken und helfen, höhere Preise durchzusetzen.
 
-### Ab wann muss ich mich ins Handelsregister eintragen?
+**Ab wann muss ich mich ins Handelsregister eintragen?**
 Als Einzelfirma besteht Handelsregister-Pflicht ab CHF 100'000 Jahresumsatz. Darunter ist die Eintragung freiwillig, aber empfehlenswert für die Seriosität gegenüber größeren Kunden. Die Kosten betragen etwa CHF 600. Gleichzeitig wird auch die MWST-Registrierung zur Pflicht. Bis dahin reichen die kostenlose Anmeldung bei der Gemeinde und der AHV-Ausgleichskasse.
 
-### Wie finde ich als Einsteiger meine ersten Kunden?
+**Wie finde ich als Einsteiger meine ersten Kunden?**
 Starte im persönlichen Umfeld: Familie, Freunde, ehemalige Kollegen und deren Netzwerke. Biete die ersten 1-2 Projekte kostengünstig an, um Referenzen zu sammeln. Nutze lokale Networking-Events, Gewerbevereine und Social Media aktiv. Kontaktiere kleine lokale Unternehmen mit veralteten Websites direkt per E-Mail oder Telefon. Freelancer-Plattformen können helfen, sind aber preislich stark umkämpft.
 
-### Welche Versicherungen sind wirklich nötig?
+**Welche Versicherungen sind wirklich nötig?**
 Obligatorisch sind AHV/IV/EO-Beiträge als Selbständiger (mindestens CHF 503/Jahr). Dringend empfohlen ist eine Berufshaftpflichtversicherung ab CHF 600 jährlich für Schäden durch Fehler in deiner Arbeit. Krankentaggeldversicherung ist kritisch, da du bei Krankheit kein Einkommen hast. Rechtsschutzversicherung hilft bei Vertragsstreitigkeiten. Eine Cyberversicherung wird immer wichtiger für Datenschutz-Vorfälle.
 
-### Lohnt sich ein Treuhänder oder kann ich die Buchhaltung selbst machen?
+**Lohnt sich ein Treuhänder oder kann ich die Buchhaltung selbst machen?**
 Als Einzelfirma mit wenigen Kunden kannst du die Buchhaltung mit Software wie Bexio oder Banana selbst erledigen (Kosten: CHF 200-500/Jahr). Ab komplexeren Strukturen oder MWST-Pflicht ist ein Treuhänder sinnvoll (CHF 2'000-6'000/Jahr). Er hilft auch bei Steueroptimierung und rechtlichen Fragen. Viele Webdesigner wechseln nach 1-2 Jahren erfolgreich zum Treuhänder.
 
-### Wie hoch sollte ich meine Stundensätze ansetzen?
+**Wie hoch sollte ich meine Stundensätze ansetzen?**
 Als Einsteiger starte bei CHF 70-90/Stunde, je nach Region und Zielgruppe. Kalkuliere alle Kosten plus gewünschten Gewinn und teile durch verfügbare Arbeitsstunden (nicht 40h/Woche – rechne mit 25-30h produktiver Arbeit). Teste die Marktreaktion und erhöhe schrittweise. Erfahrene Freelancer verlangen CHF 120-180/Stunde. Spezialisierung auf E-Commerce oder Apps ermöglicht CHF 150-250/Stunde.
 
-### Welche rechtlichen Aspekte muss ich bei Kundenprojekten beachten?
+**Welche rechtlichen Aspekte muss ich bei Kundenprojekten beachten?**
 Verwende immer schriftliche Verträge mit klaren Leistungsbeschreibungen, Fristen und Zahlungsbedingungen. Definiere Urheberrechte eindeutig – meist gehören diese nach Vollzahlung dem Kunden. Stelle sicher, dass alle verwendeten Bilder, Fonts und Code-Komponenten lizenziert sind. Websites müssen DSGVO-konform sein mit korrekten Datenschutzerklärungen. Bei öffentlichen Auftraggebern gelten zusätzliche Barrierefreiheits-Anforderungen.
 
 ## Fazit

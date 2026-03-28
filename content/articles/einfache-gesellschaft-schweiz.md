@@ -401,27 +401,27 @@ Der Umsatz überschreitet CHF 100'000.–, aber die MWST-Anmeldung erfolgt zu sp
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich eine einfache Gesellschaft alleine gründen?
+**Kann ich eine einfache Gesellschaft alleine gründen?**
 
 Nein, für eine einfache Gesellschaft braucht es mindestens zwei Gesellschafter. Der Name sagt es schon: Es ist eine Gesellschaft. Also ein Zusammenschluss mehrerer Personen. Wenn du alleine selbständig werden möchtest, gründest du eine Einzelfirma. Diese ist noch einfacher zu verwalten, da du alle Entscheidungen alleine triffst. Und dich nicht mit Partnern abstimmen musst. Die einfache Gesellschaft entsteht erst, wenn zwei oder mehr Personen gemeinsam einen Zweck verfolgen.
 
-### Muss ich eine einfache Gesellschaft ins Handelsregister eintragen lassen?
+**Muss ich eine einfache Gesellschaft ins Handelsregister eintragen lassen?**
 
 Grundsätzlich nein, eine einfache Gesellschaft wird nicht ins Handelsregister eingetragen. Das ist einer ihrer grossen Vorteile. Keine Gebühren, keine Publizitätspflicht, maximale Flexibilität. Ausnahme: Wenn eure Gesellschaft ein Gewerbe nach kaufmännischer Art betreibt und der Jahresumsatz CHF 100'000 übersteigt, kann eine Eintragungspflicht bestehen. In diesem Fall wird sie automatisch zur Kollektivgesellschaft mit erweiterten Pflichten. Die meisten einfachen Gesellschaften bleiben aber unter dieser Schwelle.
 
-### Wie funktioniert die Haftung bei der einfachen Gesellschaft?
+**Wie funktioniert die Haftung bei der einfachen Gesellschaft?**
 
 Alle Gesellschafter haften solidarisch und unbeschränkt mit ihrem gesamten Privatvermögen. Für die Schulden der Gesellschaft. Das bedeutet: Gläubiger können jeden beliebigen Gesellschafter für die komplette Schuldsumme belangen. Auch wenn nur ein anderer Partner den Schaden verursacht hat. Erst nachträglich können interne Ausgleichsansprüche geltend gemacht werden. Deshalb ist eine Berufshaftpflichtversicherung mit ausreichender Deckung essentiell. Bei hohen Haftungsrisiken solltet ihr eine GmbH mit beschränkter Haftung vorziehen.
 
-### Können Ehepartner eine einfache Gesellschaft gründen?
+**Können Ehepartner eine einfache Gesellschaft gründen?**
 
 Ja, Ehepartner können problemlos eine einfache Gesellschaft bilden. Wenn sie gemeinsam erwerbstätig sind. Rechtlich gelten sie als separate Gesellschafter. Beide müssen sich separat bei der AHV als Selbständige anmelden. Und eigene AHV-Nummern erhalten. Steuerlich werden ihre Einkommen aber zusammengerechnet. Da Ehepartner in der Schweiz gemeinsam veranlagt werden. Wichtig: Auch zwischen Ehepartnern sollte ein schriftlicher Gesellschaftsvertrag bestehen. Ein Vertrag der Arbeitsaufteilung und Gewinnverteilung regelt. Das vermeidet spätere Konflikte.
 
-### Wie löse ich eine einfache Gesellschaft wieder auf?
+**Wie löse ich eine einfache Gesellschaft wieder auf?**
 
 Eine einfache Gesellschaft kann jederzeit durch Kündigung eines Gesellschafters aufgelöst werden. Ausser ihr habt eine Kündigungsfrist oder Laufzeit vereinbart. Bei der Auflösung müssen alle Schulden beglichen werden. Und das Gesellschaftsvermögen verteilt und laufende Verträge abgewickelt werden. Meldet euch bei AHV, MWST und anderen Behörden ab. Kunden müssen über die Auflösung informiert werden. Wichtig: Auch nach Auflösung haften alle Ex-Gesellschafter noch für alte Schulden. Deshalb solltet ihr eine saubere Schlussabrechnung machen und alle Verbindlichkeiten definitiv regeln.
 
-### Wann sollte ich von der einfachen Gesellschaft zur GmbH wechseln?
+**Wann sollte ich von der einfachen Gesellschaft zur GmbH wechseln?**
 
 Ein Wechsel zur GmbH macht Sinn bei steigendem Haftungsrisiko. Bei grösseren Investitionen oder Wachstumsplänen.
 
@@ -433,7 +433,7 @@ Ein Wechsel zur GmbH macht Sinn bei steigendem Haftungsrisiko. Bei grösseren In
 
 Die GmbH bietet beschränkte Haftung, mehr Seriosität gegenüber Kunden und bessere Finanzierungsmöglichkeiten. Dafür steigen die Kosten auf CHF 3'000.– bis 8'000.– jährlich. Und die administrativen Pflichten nehmen zu. Der Wechsel ist relativ einfach: GmbH gründen, Vermögen übertragen, einfache Gesellschaft auflösen.
 
-### Kann eine einfache Gesellschaft Angestellte beschäftigen?
+**Kann eine einfache Gesellschaft Angestellte beschäftigen?**
 
 Ja, aber es ist kompliziert und selten sinnvoll. Als Arbeitgeber müsst ihr euch bei der Ausgleichskasse anmelden. Lohnbuchhaltung führen, Sozialversicherungen abrechnen und Unfallversicherungen abschliessen. Alle Gesellschafter haften solidarisch für Löhne und Sozialversicherungsbeiträge. Das administrative Aufwand ist beträchtlich. Bei Bedarf nach Angestellten solltet ihr den Wechsel zur GmbH prüfen. Dort sind die Strukturen für Arbeitgeber-Pflichten besser geeignet. Freelancer oder Subunternehmer zu engagieren ist oft die praktischere Alternative zur Festanstellung.
 

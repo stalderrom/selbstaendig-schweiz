@@ -42,23 +42,23 @@ Was eine spezielle Bewilligung braucht:
 
 ## Schritt für Schritt zur eigenen Gartenfirma
 
-### 1. Einzelfirma anmelden
+**1. Einzelfirma anmelden**
 
 Du meldest deine Einzelfirma — das geht beim Handelsregister wenn du über CHF 100'000 Umsatz erwartest, oder einfach bei der AHV-Ausgleichskasse.
 
 → [Einzelfirma gründen Schweiz](/artikel/einzelfirma-gruenden)
 
-### 2. AHV anmelden
+**2. AHV anmelden**
 
 Pflicht ab erstem Franken Einkommen.
 
 → [AHV für Selbständige](/artikel/ahv-selbstaendige-beitraege-schweiz)
 
-### 3. Pflanzenschutz-Sachkundenachweis (falls nötig)
+**3. Pflanzenschutz-Sachkundenachweis (falls nötig)**
 
 Wenn du Pflanzenschutzmittel einsetzen willst: Kurs beim kantonalen Landwirtschaftsamt oder bei Plantahof (GR) machen.
 
-### 4. Ausrüstung beschaffen
+**4. Ausrüstung beschaffen**
 
 Startpaket für Gartenpflege:
 
@@ -72,7 +72,7 @@ Startpaket für Gartenpflege:
 
 **Tipp:** Kaufe am Anfang gebraucht. Viele Gärtner verkaufen beim Geschäftsaufgabe gut erhaltenes Material.
 
-### 5. Versicherungen
+**5. Versicherungen**
 
 - **Berufshaftpflicht:** Pflicht — du kannst Schäden an Gärten, Gebäuden, Fahrzeugen verursachen. CHF 300–800/Jahr
 - **Motorfahrzeughaftpflicht:** Pflicht für Fahrzeug

@@ -46,7 +46,7 @@ Viele Gründer sehen den Businessplan als lästige Pflichtaufgabe. Dabei ist er 
 
 ## Aufbau: Die 9 Kapitel eines guten Businessplans
 
-### 1. Executive Summary (1–2 Seiten)
+**1. Executive Summary (1–2 Seiten)**
 
 Die Zusammenfassung – wird zuerst gelesen, sollte zuletzt geschrieben werden.
 
@@ -62,7 +62,7 @@ Die Zusammenfassung – wird zuerst gelesen, sollte zuletzt geschrieben werden.
 
 **Tipp:** Schreibe die Summary zuletzt – dann weisst du, was wirklich wichtig ist.
 
-### 2. Unternehmen und Produkt/Dienstleistung
+**2. Unternehmen und Produkt/Dienstleistung**
 
 **Was gehört rein:**
 - Genaue Beschreibung was du anbietest
@@ -82,7 +82,7 @@ USP: [Warum wir und nicht die Konkurrenz?]
 Preis: [CHF X für Y]
 ```
 
-### 3. Marktanalyse
+**3. Marktanalyse**
 
 Zeige, dass du deinen Markt kennst.
 
@@ -111,7 +111,7 @@ Zeige, dass du deinen Markt kennst.
 | Konkurrent B | … | … | … |
 | Indirekte Alternative | … | … | … |
 
-### 4. Geschäftsmodell und Marketing
+**4. Geschäftsmodell und Marketing**
 
 **Geschäftsmodell:**
 - Wie verdienst du Geld? (Einmalzahlung, Abo, Provision?)
@@ -132,7 +132,7 @@ Zeige, dass du deinen Markt kennst.
 
 → [Kunden gewinnen in der Schweiz: Strategien](/artikel/kunden-gewinnen-schweiz)
 
-### 5. Management und Team
+**5. Management und Team**
 
 **Was Banken und Investoren sehen wollen:**
 - Wer macht was?
@@ -150,7 +150,7 @@ Zeige, dass du deinen Markt kennst.
 - Key Hires (wenn nötig)
 - Beirat / Advisory Board (wertvoll für Glaubwürdigkeit)
 
-### 6. Rechtsform und Organisation
+**6. Rechtsform und Organisation**
 
 **Welche Rechtsform und warum:**
 - [Einzelfirma](/artikel/einzelfirma-gruenden): Einfach, günstig, volle Haftung
@@ -163,7 +163,7 @@ Zeige, dass du deinen Markt kennst.
 - Wichtige Lieferanten und Partner
 - IT-Infrastruktur
 
-### 7. Finanzplan (das wichtigste Kapitel)
+**7. Finanzplan (das wichtigste Kapitel)**
 
 Der Finanzplan ist für Banken das A und O. Er muss realistisch, vollständig und nachvollziehbar sein.
 
@@ -238,7 +238,7 @@ Deckungsbeitrag: 80%
 Break-even: CHF 5'000 ÷ 80% = CHF 6'250 Umsatz/Monat
 ```
 
-### 8. Risiken und Chancen
+**8. Risiken und Chancen**
 
 **SWOT-Analyse:**
 
@@ -253,7 +253,7 @@ Break-even: CHF 5'000 ÷ 80% = CHF 6'250 Umsatz/Monat
 
 **Risikomanagement:** Zeige für jedes Hauptrisiko, wie du es mitigierst.
 
-### 9. Massnahmenplan (Meilensteine)
+**9. Massnahmenplan (Meilensteine)**
 
 ```
 Quartal 1:
@@ -291,27 +291,27 @@ Jahr 1 gesamt:
 
 ## Häufige Fehler beim Businessplan
 
-### 1. Unrealistische Prognosen
+**1. Unrealistische Prognosen**
 **Problem:** Umsatz verdoppelt sich jedes Quartal ohne Begründung
 **Lösung:** Jede Annahme mit Daten belegen. Konservative Basisannahmen, optimistische als Best Case.
 
-### 2. Wettbewerb ignoriert
+**2. Wettbewerb ignoriert**
 **Problem:** "Wir haben keine Konkurrenz"
 **Lösung:** Es gibt immer Wettbewerb (direkt oder indirekt). Zeige, dass du ihn kennst und wie du dich differenzierst.
 
-### 3. Kein klarer USP
+**3. Kein klarer USP**
 **Problem:** "Wir bieten guten Service und gute Qualität"
 **Lösung:** Was machst du konkret anders? Schneller, günstiger, spezialisierter, lokaler?
 
-### 4. Finanzplan fehlt oder ist unvollständig
+**4. Finanzplan fehlt oder ist unvollständig**
 **Problem:** Keine Liquiditätsplanung, keine Break-even-Rechnung
 **Lösung:** Finanzplan ist das Herzstück – mindestens Cashflow für 12 Monate, 3-Jahres-Umsatzplan.
 
-### 5. Zu lang und zu unübersichtlich
+**5. Zu lang und zu unübersichtlich**
 **Problem:** 60 Seiten Fliesstext ohne Struktur
 **Lösung:** Executive Summary voranstellen, Kapitelstruktur, Tabellen und Grafiken nutzen.
 
-### 6. Keine klare Zielgruppe
+**6. Keine klare Zielgruppe**
 **Problem:** "Für alle Unternehmen in der Schweiz"
 **Lösung:** Je spezifischer die Zielgruppe, desto überzeugender der Plan.
 
@@ -376,19 +376,19 @@ Kantonale Wirtschaftsförderungen bieten kostenlose Businessplan-Beratung. Nutze
 
 ## FAQ – Häufig gestellte Fragen
 
-### Muss ein Businessplan auf Deutsch sein?
+**Muss ein Businessplan auf Deutsch sein?**
 
 In der Deutschschweiz ja – Banken und Förderinstitutionen erwarten den Plan in der Landessprache. Für internationale Investoren ist Englisch oft akzeptabel oder sogar bevorzugt. Übersetze wenn nötig beide Versionen.
 
-### Wie aktuell muss ein Businessplan sein?
+**Wie aktuell muss ein Businessplan sein?**
 
 Für Bankkredite: Nicht älter als 6–12 Monate. Für die eigene Planung: Halbjährlich überprüfen und aktualisieren. Zahlen und Annahmen die älter als 1–2 Jahre sind, verlieren an Glaubwürdigkeit.
 
-### Kann ich einen Businessplan selbst erstellen oder brauche ich einen Berater?
+**Kann ich einen Businessplan selbst erstellen oder brauche ich einen Berater?**
 
 Ja, du kannst ihn selbst erstellen – und das ist sogar empfohlen, weil du dabei am besten lernst. Für den Finanzplan lohnt sich die Beratung durch einen Treuhänder (CHF 300–800). Für grosse Kredite oder Investoren kann professionelle Unterstützung den Unterschied machen.
 
-### Wie detailliert muss der Finanzplan sein?
+**Wie detailliert muss der Finanzplan sein?**
 
 Für die Bank: Monatlicher Cashflow für Jahr 1, Jahresplanung für Jahr 2–3, Break-even-Analyse, Startkapitalbedarf. Für den eigenen Gebrauch: Je mehr Detail, desto besser. Erstelle auf jeden Fall drei Szenarien (konservativ, realistisch, optimistisch).
 

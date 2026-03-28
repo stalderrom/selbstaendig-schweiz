@@ -39,7 +39,7 @@ Der Schweizer Fotografenmarkt umfasst verschiedene Spezialisierungen:
 
 ## Voraussetzungen und Anforderungen
 
-### Rechtliche Anforderungen
+**Rechtliche Anforderungen**
 
 **Anmeldepflichten:**
 - AHV-Ausgleichskasse: Pflicht innerhalb 30 Tagen
@@ -51,7 +51,7 @@ Der Schweizer Fotografenmarkt umfasst verschiedene Spezialisierungen:
 - Drittstaatler: Aufenthaltsbewilligung mit Erwerbstätigkeit nötig
 - Bewilligung für selbständige Erwerbstätigkeit beantragen
 
-### Finanzielle Voraussetzungen
+**Finanzielle Voraussetzungen**
 
 **Startkapital-Bedarf:**
 - Grundausrüstung: CHF 10'000 – 20'000
@@ -81,7 +81,7 @@ Der Schweizer Fotografenmarkt umfasst verschiedene Spezialisierungen:
 
 ## Kosten im Überblick
 
-### Einmalige Startkosten
+**Einmalige Startkosten**
 
 | Kostenart | Betrag (CHF) | Beschreibung |
 |-----------|--------------|--------------|
@@ -92,7 +92,7 @@ Der Schweizer Fotografenmarkt umfasst verschiedene Spezialisierungen:
 | Versicherungen | 800 – 1'500 | Haftpflicht, Equipment-Versicherung |
 | **Total Startkosten** | **15'800 – 44'500** | **Je nach Spezialisierung** |
 
-### Laufende monatliche Kosten
+**Laufende monatliche Kosten**
 
 | Kostenart | Betrag (CHF) | Pflicht/Optional |
 |-----------|--------------|------------------|
@@ -231,35 +231,35 @@ Der Schweizer Fotografenmarkt umfasst verschiedene Spezialisierungen:
 
 ## Häufige Fehler vermeiden
 
-### 1. Preise zu niedrig ansetzen
+**1. Preise zu niedrig ansetzen**
 **Problem:** Viele Einsteiger verkaufen sich unter Wert.
 **Lösung:** Vollkostenrechnung machen. Bei CHF 3'000 monatlichen Kosten und 15 Arbeitstagen brauchst du mindestens CHF 200 pro Tag allein für die Kostendeckung.
 
-### 2. Keine schriftlichen Verträge
+**2. Keine schriftlichen Verträge**
 **Problem:** Mündliche Abmachungen führen zu Streit über Bildrechte und Leistungsumfang.
 **Lösung:** Immer schriftliche Verträge mit klaren AGB. Nutzungsrechte explizit regeln.
 
-### 3. Unzureichende Versicherung
+**3. Unzureichende Versicherung**
 **Problem:** Ein defektes Equipment oder Haftpflichtfall kann existenzbedrohend werden.
 **Lösung:** Equipment vollständig versichern, Berufshaftpflicht mit mindestens CHF 1 Million Deckung.
 
-### 4. Buchhaltung vernachlässigen
+**4. Buchhaltung vernachlässigen**
 **Problem:** Chaos bei Steuererklärung, verpasste Abzüge.
 **Lösung:** Von Tag 1 an systematisch alle Belege sammeln und monatlich erfassen.
 
-### 5. Keine Rücklagen bilden
+**5. Keine Rücklagen bilden**
 **Problem:** Steuernachzahlung oder längere Auftragsflaute bringen finanzielle Probleme.
 **Lösung:** 30% des Gewinns für Steuern und Notfälle zurücklegen.
 
-### 6. Zu wenig Marketing investieren
+**6. Zu wenig Marketing investieren**
 **Problem:** Zu wenige Kunden, abhängig von Zufallsaufträgen.
 **Lösung:** 10-15% des Umsatzes kontinuierlich in Marketing investieren.
 
-### 7. Fehlende Spezialisierung
+**7. Fehlende Spezialisierung**
 **Problem:** "Alles für alle" führt zu durchschnittlichen Preisen.
 **Lösung:** Nische finden und Experte werden (z.B. nur Hochzeiten oder nur Businessportraits).
 
-### 8. Burnout durch Selbstausbeutung
+**8. Burnout durch Selbstausbeutung**
 **Problem:** Rund um die Uhr erreichbar, keine Grenzen.
 **Lösung:** Feste Arbeitszeiten definieren, Urlaub einplanen, Notfall-Fotografen-Netzwerk aufbauen.
 
@@ -274,31 +274,31 @@ Der Schweizer Fotografenmarkt umfasst verschiedene Spezialisierungen:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Brauche ich als Fotograf eine Gewerbebewilligung in der Schweiz?
+**Brauche ich als Fotograf eine Gewerbebewilligung in der Schweiz?**
 
 Nein, Fotografie ist in der Schweiz grundsätzlich bewilligungsfrei. Du kannst direkt starten ohne spezielle Gewerbeanmeldung. Lediglich die Anmeldung bei der AHV-Ausgleichskasse ist innerhalb von 30 Tagen nach Aufnahme der Tätigkeit Pflicht. Einige wenige Kantone haben Besonderheiten, aber diese betreffen meist nur gewerbliche Grossbetriebe. Als Einzelfotograf bist du davon nicht betroffen.
 
-### Wie viel Startkapital brauche ich realistisch als selbständiger Fotograf?
+**Wie viel Startkapital brauche ich realistisch als selbständiger Fotograf?**
 
 Rechne mit mindestens CHF 25'000 bis CHF 35'000 für einen professionellen Start. Das umfasst Equipment (CHF 15'000), Liquiditätsreserve für 6 Monate Lebenshaltung (CHF 15'000) und Anmeldekosten (CHF 2'000). Du kannst auch günstiger starten, aber dann musst du sehr schnell erste Aufträge akquirieren. Gebrauchtes Equipment reduziert die Kosten um 30-40%. Ein schrittweiser Aufbau ist möglich, wenn du nebenberuflich beginnst.
 
-### Wann muss ich mich für die MWST anmelden als Fotograf?
+**Wann muss ich mich für die MWST anmelden als Fotograf?**
 
 Die MWST-Anmeldung ist ab CHF 100'000 Jahresumsatz Pflicht. Du kannst dich aber freiwillig schon früher anmelden, wenn du Vorteile bei den Vorsteuern hast – zum Beispiel wenn du viel teures Equipment kaufst. Die Anmeldung lohnt sich meist ab CHF 60'000 Umsatz. Beachte: Als MWST-pflichtiger Fotograf musst du 7.7% auf alle Rechnungen aufschlagen, kannst aber Vorsteuern auf Geschäftsausgaben zurückfordern.
 
-### Welche Versicherungen sind für Fotografen in der Schweiz wichtig?
+**Welche Versicherungen sind für Fotografen in der Schweiz wichtig?**
 
 Vier Versicherungen sind essentiell: Berufshaftpflicht (CHF 1-5 Millionen Deckung) für Schäden an fremdem Eigentum, Equipment-Versicherung gegen Diebstahl und Beschädigung, Krankentaggeld als Ersatz für den Lohnfortzahlung und Rechtsschutz für Vertragsstreitigkeiten. Die Gesamtkosten liegen bei CHF 200-500 monatlich. Ohne diese Versicherungen riskierst du bei einem Schadenfall den Konkurs. Viele Auftraggeber verlangen eine Haftpflichtversicherung als Voraussetzung.
 
-### Kann ich als Ausländer in der Schweiz als Fotograf selbständig arbeiten?
+**Kann ich als Ausländer in der Schweiz als Fotograf selbständig arbeiten?**
 
 EU/EFTA-Bürger haben Niederlassungsfreiheit und können ohne zusätzliche Bewilligungen selbständig arbeiten. Drittstaatler brauchen eine Aufenthaltsbewilligung und müssen zusätzlich eine Bewilligung für selbständige Erwerbstätigkeit beantragen. Diese wird nur erteilt, wenn du bereits legal in der Schweiz lebst und arbeitest. Als Tourist oder mit Besuchervisa ist keine Selbständigkeit möglich. Der Antrag dauert 2-4 Monate und kostet CHF 100-300 je nach Kanton.
 
-### Wie rechne ich meine Preise als Fotograf richtig?
+**Wie rechne ich meine Preise als Fotograf richtig?**
 
 Berechne zuerst deine Vollkosten: Alle monatlichen Ausgaben (CHF 3'000-5'000) plus 30% für Steuern und Gewinn, geteilt durch geplante Arbeitstage. Bei CHF 4'000 Kosten und 15 Arbeitstagen brauchst du CHF 347 pro Tag nur für die Kostendeckung. Dazu kommt dein gewünschter Gewinn. Hochzeitsfotografen rechnen meist pauschal ab (CHF 2'500-5'000), Business-Fotografen stundenweise (CHF 120-200). Verkaufe nie unter deinen Vollkosten – das führt in die Insolvenz.
 
-### Muss ich als Fotograf ins Handelsregister?
+**Muss ich als Fotograf ins Handelsregister?**
 
 Nur bei einem Jahresumsatz über CHF 100'000 ist der Handelsregistereintrag Pflicht. Darunter ist er freiwillig und kostet CHF 600-800. Bei einer GmbH ist er immer nötig. Als Einzelfirma unter CHF 100'000 reicht die Anmeldung bei der AHV-Ausgleichskasse. Der Handelsregistereintrag bringt mehr Seriosität gegenüber Geschäftskunden, ist aber rechtlich nicht zwingend. Viele erfolgreiche Fotografen arbeiten jahrelang ohne Eintrag.
 

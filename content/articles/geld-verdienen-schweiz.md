@@ -73,7 +73,7 @@ faq:
 
 ## Die 8 Haupt-Geschäftsmodelle
 
-### 1. Zeit gegen Geld (Dienstleistung)
+**1. Zeit gegen Geld (Dienstleistung)**
 
 **Was ist das?**
 Sie verkaufen Ihre Arbeitszeit: Stundensatz × Stunden = Einkommen.
@@ -106,7 +106,7 @@ Sie verkaufen Ihre Arbeitszeit: Stundensatz × Stunden = Einkommen.
 
 → [Stundensatz berechnen: So geht's richtig](/artikel/offerte-erstellen-schweiz)
 
-### 2. Projekt-basiert (Festpreis)
+**2. Projekt-basiert (Festpreis)**
 
 **Was ist das?**
 Sie verkaufen Ergebnisse, nicht Zeit: Festpreis pro Projekt.
@@ -151,7 +151,7 @@ Basis-Preis: CHF 4'800
 
 → [Projektpreise richtig kalkulieren](/artikel/offerte-erstellen-schweiz)
 
-### 3. Retainer / Abonnement (Wiederkehrend)
+**3. Retainer / Abonnement (Wiederkehrend)**
 
 **Was ist das?**
 Kunde zahlt monatliche Pauschale für laufende Betreuung.
@@ -206,7 +206,7 @@ Enterprise: CHF 5'000/Monat
 
 → [Retainer-Modelle: Planbare Einnahmen](/artikel/offerte-erstellen-schweiz)
 
-### 4. Digitale Produkte (Skalierbar)
+**4. Digitale Produkte (Skalierbar)**
 
 **Was ist das?**
 Einmal erstellen, unendlich oft verkaufen – ohne zusätzlichen Aufwand.
@@ -259,7 +259,7 @@ Verkäufe Jahr 3: 100
 → [Online-Kurs erstellen: Komplette Anleitung](/artikel/geld-verdienen-schweiz)
 → [Digitale Produkte verkaufen](/artikel/geld-verdienen-schweiz)
 
-### 5. Affiliate / Provision (Performance-basiert)
+**5. Affiliate / Provision (Performance-basiert)**
 
 **Was ist das?**
 Sie empfehlen Produkte/Services anderer, bekommen Provision bei Verkauf.
@@ -308,7 +308,7 @@ Nach 12 Monaten: 10 solche Artikel
 
 → [Affiliate-Marketing: Geld verdienen mit Empfehlungen](/artikel/geld-verdienen-schweiz)
 
-### 6. Lizenzierung / White Label
+**6. Lizenzierung / White Label**
 
 **Was ist das?**
 Sie erstellen etwas einmal, andere nutzen es gegen Gebühr.
@@ -355,7 +355,7 @@ Verdienst: CHF 1 pro Download
 
 → [Stock-Fotografie: Passives Einkommen](/artikel/selbstaendig-als-fotograf-schweiz)
 
-### 7. Vermittlung / Plattform
+**7. Vermittlung / Plattform**
 
 **Was ist das?**
 Sie bringen Anbieter und Nachfragende zusammen, verdienen Provision.
@@ -392,7 +392,7 @@ Freelancer-Plattform für Schweizer Designer:
 
 → [Lead-Generation aufbauen](/artikel/kunden-gewinnen-schweiz)
 
-### 8. Coaching / Consulting (High-Ticket)
+**8. Coaching / Consulting (High-Ticket)**
 
 **Was ist das?**
 Hochpreisige 1:1-Betreuung, Transformation, Expertise.
@@ -537,36 +537,36 @@ Total: CHF 120'000
 
 ## Nebenverdienst-Ideen für Selbständige
 
-### 1. Freelancing auf Plattformen
+**1. Freelancing auf Plattformen**
 - Fiverr, Upwork, Freelance.ch
 - Verdienst: CHF 500-3'000/Monat (nebenbei)
 
-### 2. Umfragen & Microtasks
+**2. Umfragen & Microtasks**
 - Clickworker, Toluna, Swagbucks
 - Verdienst: CHF 100-300/Monat (sehr niedrig!)
 
-### 3. Vermieten
+**3. Vermieten**
 - Equipment (Kamera, Tools): CHF 50-200/Tag
 - Parkplatz: CHF 100-300/Monat
 - Büro/Coworking-Platz: CHF 300-800/Monat
 
-### 4. Lehren / Workshops
+**4. Lehren / Workshops**
 - VHS, Klubschule: CHF 50-100/Stunde
 - Corporate Workshops: CHF 1'500-3'000/Tag
 - Online-Webinare: CHF 500-2'000/Webinar
 
-### 5. Beratung / Office Hours
+**5. Beratung / Office Hours**
 - 1h Beratungs-Calls: CHF 150-300
 - "Ask me anything"-Sessions: CHF 100-200/h
 
-### 6. Produktrezensionen / Testberichte
+**6. Produktrezensionen / Testberichte**
 - YouTube, Blog: CHF 200-2'000 pro Review (gesponsert)
 
-### 7. Ghostwriting
+**7. Ghostwriting**
 - LinkedIn-Posts für Executives: CHF 500-1'500/Monat
 - Blog-Artikel: CHF 300-800/Artikel
 
-### 8. Community Management
+**8. Community Management**
 - Facebook-Gruppen moderieren: CHF 300-800/Monat
 - Discord-Server: CHF 200-500/Monat
 
@@ -716,42 +716,42 @@ Zeitaufwand: 120 Stunden (à CHF 100)
 
 ## Häufige Fehler beim Geld verdienen
 
-### 1. Zu viele Dinge gleichzeitig
+**1. Zu viele Dinge gleichzeitig**
 **Fehler:** 10 Einnahmequellen aufbauen wollen
 **Folge:** Nichts wird richtig gut
 **Lösung:** 1-2 Hauptquellen perfektionieren, dann erweitern
 
-### 2. Zu schnell aufgeben
+**2. Zu schnell aufgeben**
 **Fehler:** Nach 2 Monaten "funktioniert nicht"
 **Folge:** Nie passive Einnahmen aufbauen
 **Lösung:** Mind. 12 Monate durchziehen
 
-### 3. Falsches Pricing
+**3. Falsches Pricing**
 **Fehler:** Stunden-basiert statt wert-basiert
 **Folge:** Unterbezahlt, nicht skalierbar
 **Lösung:** Wert für Kunde berechnen, davon % nehmen
 
-### 4. Kein Marketing
+**4. Kein Marketing**
 **Fehler:** "Produkt verkauft sich selbst"
 **Folge:** Null Verkäufe
 **Lösung:** 50% Zeit für Erstellung, 50% für Marketing
 
-### 5. Keine Diversifikation
+**5. Keine Diversifikation**
 **Fehler:** 100% Einkommen aus einer Quelle
 **Folge:** Quelle bricht weg = Totalausfall
 **Lösung:** Minimum 3 Einkommensquellen
 
-### 6. Qualität vernachlässigen
+**6. Qualität vernachlässigen**
 **Fehler:** Masse statt Klasse (100 schlechte Templates vs. 10 gute)
 **Folge:** Schlechte Reviews, keine Verkäufe
 **Lösung:** Lieber weniger, dafür exzellent
 
-### 7. Audience ignorieren
+**7. Audience ignorieren**
 **Fehler:** Produkt erstellen ohne Nachfrage zu prüfen
 **Folge:** Niemand kauft
 **Lösung:** Vorab validieren (Pre-Sales, Umfragen)
 
-### 8. Keine Systeme
+**8. Keine Systeme**
 **Fehler:** Alles manuell, jedes Mal neu
 **Folge:** Nicht skalierbar, Burnout
 **Lösung:** Prozesse, Templates, Automatisierung
@@ -823,25 +823,25 @@ Zeitaufwand: 120 Stunden (à CHF 100)
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wie viele Einkommensquellen sollte ich haben?
+**Wie viele Einkommensquellen sollte ich haben?**
 Minimum 3, ideal 4-5. Aber: Nicht alle gleichzeitig starten! Aufbau-Strategie: Jahr 1: Haupttätigkeit (100%). Jahr 2: Haupttätigkeit (70%) + Retainer (30%). Jahr 3: Haupttätigkeit (50%) + Retainer (30%) + Digitales Produkt (20%). Jahr 4: Diversifiziert (40/25/20/15). Mehr als 7 Quellen wird chaotisch. Fokus > Masse.
 
-### Kann ich wirklich passives Einkommen aufbauen?
+**Kann ich wirklich passives Einkommen aufbauen?**
 Ja, aber nicht "passiv" im Sinne von "nichts tun". Realität: Hoher Vorab-Aufwand (50-200 Stunden Produkterstellung) + laufendes Marketing (5-10h/Monat) + Support/Updates (2-5h/Monat). "Semi-passiv" ist realistischer. Nach 12-24 Monaten: CHF 1'000-5'000/Monat möglich bei 10-15h/Monat Aufwand. Voll-passiv (0 Stunden) gibt es nicht.
 
-### Wie lange dauert es, bis digitale Produkte Geld bringen?
+**Wie lange dauert es, bis digitale Produkte Geld bringen?**
 Realistische Timeline: Monate 1-3: Produkterstellung (50-150h). Monate 4-6: Launch + Marketing, erste Verkäufe (CHF 500-2'000). Monate 7-12: Optimierung, mehr Marketing (CHF 1'000-5'000/Monat). Jahr 2: Mund-zu-Mund, skaliert (CHF 2'000-10'000/Monat). Wichtig: 50% Zeit für Marketing einplanen! Beste Produkt verkauft sich nicht selbst.
 
-### Sollte ich Zeit gegen Geld komplett aufgeben?
+**Sollte ich Zeit gegen Geld komplett aufgeben?**
 Nein! Zeit-gegen-Geld ist wichtig für: (1) Sofortiges Einkommen (Cash-Flow), (2) Kundenbeziehungen (Lead zu passiven Produkten), (3) Markt-Feedback (was brauchen Kunden?). Empfehlung: 50-70% Zeit-gegen-Geld (Stabilität) + 30-50% skalierbare Modelle (Wachstum). Nur sehr erfolgreiche digitale Entrepreneurs können 100% auf passive Produkte setzen (< 5%).
 
-### Wie finde ich heraus, welches Geschäftsmodell zu mir passt?
+**Wie finde ich heraus, welches Geschäftsmodell zu mir passt?**
 5-Faktoren-Check: (1) **Skills:** Was kann ich gut? (Dienstleistung vs. Content vs. Lehren). (2) **Zeit:** Sofort Geld nötig? → Zeit-gegen-Geld. Langfristig? → Digitale Produkte. (3) **Risikobereitschaft:** Niedrig → Dienstleistung. Hoch → Digitale Produkte. (4) **Skalierungswunsch:** Wichtig? → Digitale Produkte, Retainer. Egal? → Projekte. (5) **Persönlichkeit:** Introvertiert → Produkte. Extrovertiert → Coaching. Test: Start mit dem einfachsten (meist Dienstleistung), dann erweitern.
 
-### Muss ich für digitale Produkte eine grosse Audience haben?
+**Muss ich für digitale Produkte eine grosse Audience haben?**
 Nein! Beispiele: **1'000 E-Mail-Abonnenten:** Conversion 5% = 50 Käufer × CHF 99 = CHF 4'950. **500 Instagram-Follower (engagiert):** 10% Kaufen = 50 × CHF 149 = CHF 7'450. **100 LinkedIn-Connections (Zielgruppe):** 20% kaufen = 20 × CHF 499 = CHF 9'980. Wichtig: Qualität > Quantität. 500 echte Fans (Zielgruppe!) > 10'000 Random Follower. Micro-Audience reicht für CHF 5'000-15'000 Launch.
 
-### Wie schütze ich digitale Produkte vor Piraterie?
+**Wie schütze ich digitale Produkte vor Piraterie?**
 Vollständiger Schutz unmöglich, aber Hürden: (1) **Plattformen:** Gumroad, Teachable haben DRM. (2) **Personalisierung:** Name/E-Mail im PDF eingebrannt. (3) **Login:** Online-Kurse hinter Login. (4) **Wasserzeichen:** Bei Bildern/Videos. (5) **Community-Zugang:** Kurs + Zugang zu privater Gruppe (schwer zu kopieren). ABER: 95% der Leute zahlen. Nicht übertreiben – Usability wichtiger als 100% Schutz.
 
 ## Fazit

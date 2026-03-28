@@ -54,7 +54,7 @@ Seit 2022 sind in der Schweiz nur noch QR-Rechnungen (Swiss QR Bill) zulässig �
 
 ## Die 8 besten Rechnungsprogramme Schweiz im Vergleich
 
-### 1. Bexio – Best-in-Class für KMU und Selbständige
+**1. Bexio – Best-in-Class für KMU und Selbständige**
 
 [Bexio](/go/bexio) ist das meistgenutzte KMU-Software in der Schweiz. Es kombiniert Rechnungsstellung, Buchhaltung, CRM und MWST-Abrechnung in einem Tool.
 
@@ -82,7 +82,7 @@ Seit 2022 sind in der Schweiz nur noch QR-Rechnungen (Swiss QR Bill) zulässig �
 
 ---
 
-### 2. Banana Buchhaltung – Ideal für Buchhaltung + Rechnungen
+**2. Banana Buchhaltung – Ideal für Buchhaltung + Rechnungen**
 
 [Banana Buchhaltung](/go/banana) ist eine bewährte Schweizer Buchhaltungssoftware mit integrierter Rechnungsstellung. Sie läuft als Desktop-Software (Windows, Mac, Linux) mit optionaler Cloud-Synchronisation.
 
@@ -103,7 +103,7 @@ Seit 2022 sind in der Schweiz nur noch QR-Rechnungen (Swiss QR Bill) zulässig �
 
 ---
 
-### 3. Debitoor – Einfache Rechnungen für Einsteiger
+**3. Debitoor – Einfache Rechnungen für Einsteiger**
 
 Debitoor ist ein benutzerfreundliches Online-Rechnungstool für Selbständige und Freelancer ohne Buchhaltungs-Ambitionen.
 
@@ -120,7 +120,7 @@ Debitoor ist ein benutzerfreundliches Online-Rechnungstool für Selbständige un
 
 ---
 
-### 4. Klara – Einfach und kostenlos einsteigen
+**4. Klara – Einfach und kostenlos einsteigen**
 
 Klara von Swisscom ist eine einfache Rechnungs- und Buchhaltungslösung speziell für Schweizer Kleinunternehmen.
 
@@ -137,7 +137,7 @@ Klara von Swisscom ist eine einfache Rechnungs- und Buchhaltungslösung speziell
 
 ---
 
-### 5. Abacus – Enterprise-Lösung für grössere KMU
+**5. Abacus – Enterprise-Lösung für grössere KMU**
 
 Abacus ist die führende ERP-Lösung für mittlere und grosse Schweizer Unternehmen. Für Selbständige meist überdimensioniert.
 
@@ -155,7 +155,7 @@ Abacus ist die führende ERP-Lösung für mittlere und grosse Schweizer Unterneh
 
 ---
 
-### 6. Fastbill – Für internationale Freelancer
+**6. Fastbill – Für internationale Freelancer**
 
 Fastbill ist ein deutsches Tool, das auch in der Schweiz funktioniert und vor allem für international tätige Freelancer geeignet ist.
 
@@ -173,7 +173,7 @@ Fastbill ist ein deutsches Tool, das auch in der Schweiz funktioniert und vor al
 
 ---
 
-### 7. Zoho Invoice – Kostenlose Option für Einsteiger
+**7. Zoho Invoice – Kostenlose Option für Einsteiger**
 
 Zoho Invoice ist für kleine Rechnungsvolumen gratis und bietet solide Grundfunktionen.
 
@@ -191,7 +191,7 @@ Zoho Invoice ist für kleine Rechnungsvolumen gratis und bietet solide Grundfunk
 
 ---
 
-### 8. Word/Excel-Vorlage mit QR-Code-Generator
+**8. Word/Excel-Vorlage mit QR-Code-Generator**
 
 Keine Software, aber für sehr wenige Rechnungen/Jahr eine valide Option.
 

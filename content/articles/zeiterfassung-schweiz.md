@@ -79,7 +79,7 @@ Für die meisten Kleinunternehmen und Selbständigen ist das nicht relevant.
 
 ## Die besten Zeiterfassungs-Tools für die Schweiz
 
-### 1. Toggl Track – Kostenloser Freelancer-Klassiker
+**1. Toggl Track – Kostenloser Freelancer-Klassiker**
 
 **Toggl Track** ist der weltweite Standard für Freelancer und Selbständige. Einfach, kostenlos, browserbasiert.
 
@@ -99,7 +99,7 @@ Für die meisten Kleinunternehmen und Selbständigen ist das nicht relevant.
 
 ---
 
-### 2. Clockify – Kostenlose Zeiterfassung mit Teams
+**2. Clockify – Kostenlose Zeiterfassung mit Teams**
 
 **Clockify** ist eine vollständig kostenlose Alternative zu Toggl – besonders stark für kleine Teams.
 
@@ -117,7 +117,7 @@ Für die meisten Kleinunternehmen und Selbständigen ist das nicht relevant.
 
 ---
 
-### 3. Bexio – Zeiterfassung integriert mit Buchhaltung
+**3. Bexio – Zeiterfassung integriert mit Buchhaltung**
 
 [Bexio](/go/bexio) ist die stärkste Schweizer Gesamtlösung: Zeiterfassung, Projektmanagement, Rechnungsstellung und Buchhaltung in einem.
 
@@ -138,7 +138,7 @@ Für die meisten Kleinunternehmen und Selbständigen ist das nicht relevant.
 
 ---
 
-### 4. Harvest – Zeiterfassung mit Rechnungsstellung
+**4. Harvest – Zeiterfassung mit Rechnungsstellung**
 
 Harvest kombiniert Zeiterfassung mit integrierter Rechnungsstellung – eine beliebte Wahl für Agenturen.
 
@@ -157,7 +157,7 @@ Harvest kombiniert Zeiterfassung mit integrierter Rechnungsstellung – eine bel
 
 ---
 
-### 5. Absento – Schweizer Lösung für Absenzen und Zeiten
+**5. Absento – Schweizer Lösung für Absenzen und Zeiten**
 
 Absento ist eine Schweizer HR-Software mit Zeiterfassung, Ferienplanung und Absenzverwaltung – primär für KMU mit Angestellten.
 
@@ -175,7 +175,7 @@ Absento ist eine Schweizer HR-Software mit Zeiterfassung, Ferienplanung und Abse
 
 ---
 
-### 6. Excel/Google Sheets – Für wenige Projekte
+**6. Excel/Google Sheets – Für wenige Projekte**
 
 Für Selbständige mit 2–3 Kunden und überschaubaren Stundenvolumen ist eine simple Tabelle oft ausreichend.
 

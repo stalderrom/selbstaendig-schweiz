@@ -41,7 +41,7 @@ Säule 3b bietet mehr Flexibilität: Du kannst jederzeit auf dein Geld zugreifen
 
 ## Voraussetzungen und Anforderungen
 
-### Rechtliche Voraussetzungen
+**Rechtliche Voraussetzungen**
 
 - **Mindestalter:** 18 Jahre bei allen Anbietern
 - **Wohnsitz Schweiz:** Zwingend für Säule 3a, empfohlen für 3b
@@ -54,7 +54,7 @@ Ab einer Versicherungssumme von CHF 200'000 bis CHF 500'000 (je nach Anbieter) m
 
 Rauchen erhöht deine Prämien um 50-100%. Gefährliche Hobbys wie Bergsteigen oder Motorradfahren führen zu Zuschlägen oder Ausschlüssen. Bei Vorerkrankungen wie Diabetes oder Herzproblemen sind individuelle Risikoprüfungen nötig.
 
-### Finanzielle Voraussetzungen
+**Finanzielle Voraussetzungen**
 
 Du musst ein "versicherbares Interesse" nachweisen. Das heisst: Die Versicherungssumme muss in einem vernünftigen Verhältnis zu deinem Einkommen und deinen finanziellen Verpflichtungen stehen. Als Faustregel gilt das 5- bis 10-fache deines Jahreseinkommens.
 
@@ -84,7 +84,7 @@ Risikofaktoren wie Rauchen verdoppeln oft die Prämie. Gefährliche Hobbys oder 
 
 *Beispiel: Versicherungssumme CHF 500'000, Laufzeit 20 Jahre*
 
-### Zusätzliche Kosten
+**Zusätzliche Kosten**
 
 Abschlusskosten von 2-5% der ersten Jahresprämie sind meist in den ersten Jahren versteckt enthalten. Verwaltungsgebühren betragen 0.5-1.5% des Guthabens pro Jahr bei gemischten Versicherungen.
 
@@ -243,31 +243,31 @@ Der billigste Anbieter ist nicht immer der beste. Schlechter Service, komplizier
 
 ## FAQ: Häufig gestellte Fragen zur Lebensversicherung
 
-### Brauche ich als Selbständiger eine Lebensversicherung?
+**Brauche ich als Selbständiger eine Lebensversicherung?**
 
 Als Selbständiger hast du meist keine 2. Säule und damit eine grössere Vorsorgelücke als Angestellte. Eine Lebensversicherung kann diese Lücke schliessen und deine Familie absichern. Besonders wichtig ist sie, wenn du Unterhaltspflichten hast oder ein Geschäft führst, das ohne dich nicht weiterläuft. Die AHV-Hinterlassenenrente beträgt maximal CHF 2'390 pro Monat für Witwen und CHF 956 für Waisen – das reicht selten für den gewohnten Lebensstandard. Mit den steuerlichen Vorteilen der Säule 3a (bis CHF 35'280 absetzbar) wird eine Lebensversicherung noch attraktiver.
 
-### Säule 3a oder 3b – was ist besser?
+**Säule 3a oder 3b – was ist besser?**
 
 Säule 3a bietet höhere Steuervorteile (bis CHF 35'280 Abzug für Selbständige), ist aber weniger flexibel. Du kannst das Geld nur bei Pensionierung, Wohneigentumskauf, Auswanderung oder Aufnahme einer selbständigen Tätigkeit beziehen. Säule 3b ist flexibler – du kommst jederzeit an dein Geld –, aber ohne Steuerabzug bei den Einzahlungen. Als Selbständiger solltest du zuerst die Säule 3a maximieren, da die Steuerersparnis oft 25-40% der eingezahlten Summe ausmacht. Zusätzlichen Schutz kannst du dann über Säule 3b oder eine reine Risikoversicherung aufbauen.
 
-### Wie viel Lebensversicherung brauche ich?
+**Wie viel Lebensversicherung brauche ich?**
 
 Eine Faustregel besagt: 5-10 Jahreseinkommen als Todesfallsumme. Bei CHF 100'000 Jahreseinkommen also CHF 500'000 bis CHF 1'000'000. Wichtiger ist aber die individuelle Bedarfsanalyse: Welche Kosten entstehen (Hypothek, Kinderbetreuung, Lebenshaltung) und welche Einkommen fallen weg? Berücksichtige auch bestehende Ersparnisse und AHV-Hinterlassenenrenten. Eine Familie mit CHF 80'000 jährlichen Lebenskosten braucht für 20 Jahre CHF 1'600'000 – minus AHV-Renten und vorhandenes Vermögen. Die Versicherungssumme sollte diese Lücke decken.
 
-### Kann ich die Lebensversicherung von der Steuer abziehen?
+**Kann ich die Lebensversicherung von der Steuer abziehen?**
 
 Nur bei Säule 3a: Selbständige ohne 2. Säule können 2026 maximal CHF 35'280 vollständig von der Steuer abziehen. Bei einem Grenzsteuersatz von 30% sparst du CHF 10'584 pro Jahr. Angestellte mit BVG können nur CHF 7'056 abziehen. Bei Säule 3b sind die Prämien nicht abziehbar, dafür sind die Kapitalerträge nach fünf Jahren steuerfrei. Die Steuerersparnis bei Säule 3a ist meist deutlich höher als die geringfügigen Mehrkosten gegenüber einer reinen Risikoversicherung. In teuren Kantonen wie Zürich oder Genf ist der Steuervorteil besonders gross.
 
-### Was passiert bei Erwerbsunfähigkeit?
+**Was passiert bei Erwerbsunfähigkeit?**
 
 Reine Lebensversicherungen zahlen nur bei Tod. Für Erwerbsunfähigkeit brauchst du eine separate Erwerbsunfähigkeitsversicherung oder eine Lebensversicherung mit entsprechendem Zusatzbaustein. Als Selbständiger ist das besonders wichtig, da du keine Taggeldleistungen vom Arbeitgeber hast und die IV erst nach einem Jahr und nur bei mindestens 40% Invalidität zahlt. Eine Erwerbsunfähigkeitsversicherung kostet zusätzlich CHF 100-400 pro Monat, je nach Alter, Beruf und gewünschter Rente. Viele Anbieter bieten auch Kombinationen an: Lebensversicherung mit integriertem Erwerbsunfähigkeitsschutz.
 
-### Kann ich die Versicherung später ändern?
+**Kann ich die Versicherung später ändern?**
 
 Ja, aber mit Einschränkungen. Du kannst meist die Versicherungssumme erhöhen – allerdings nur mit neuer Gesundheitsprüfung. Eine Reduktion ist problemlos möglich. Begünstigte lassen sich jederzeit kostenlos ändern. Ein Wechsel zu einem anderen Anbieter ist möglich, aber oft mit Nachteilen verbunden: neue Wartezeiten, höhere Prämien wegen gestiegenem Alter, erneute Gesundheitsprüfung. Bei Säule 3a ist ein Anbieterwechsel einfacher – das Guthaben kann übertragen werden. Vertragsänderungen kosten meist CHF 50-100 Bearbeitungsgebühr. Plane deshalb von Anfang an vorausschauend und wähle flexible Vertragsformen.
 
-### Lohnt sich eine Lebensversicherung auch bei kleinem Einkommen?
+**Lohnt sich eine Lebensversicherung auch bei kleinem Einkommen?**
 
 Gerade bei kleinem Einkommen ist eine Lebensversicherung oft besonders wichtig, da weniger Ersparnisse vorhanden sind. Die Steuervorteile der Säule 3a funktionieren auch bei tieferen Einkommen: Bei CHF 60'000 Jahreseinkommen und 20% Grenzsteuersatz sparst du immer noch mehrere tausend Franken Steuern. Eine Risikolebensversicherung über CHF 300'000 kostet einen 35-jährigen Nichtraucher nur CHF 20-30 pro Monat. Das ist weniger als ein Zeitungsabonnement, schützt aber die Familie vor dem finanziellen Ruin. Wichtig: Wähle eine reine Risikoversicherung statt teure gemischte Produkte.
 

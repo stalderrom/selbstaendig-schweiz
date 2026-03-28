@@ -55,7 +55,7 @@ Für die gewerbliche Nutzung einer Wix-Website in der Schweiz benötigst du kein
 - Preisangaben inklusive MWST (7.7%)
 - Lieferbedingungen und Zahlungsmodalitäten
 
-### Technische Voraussetzungen
+**Technische Voraussetzungen**
 
 Die technischen Hürden sind minimal. Du benötigst lediglich:
 - Stabile Internetverbindung (mindestens 5 Mbit/s)
@@ -98,7 +98,7 @@ Bevor du mit der Website-Erstellung startest, sammle alle Inhalte:
 | Business Unlimited | CHF 32 | 2.9% + CHF 0.30 | Abonnements, Mitgliedschaften |
 | Business VIP | CHF 54 | 2.9% + CHF 0.30 | Loyalty Program, Reports |
 
-### Zusätzliche Kosten
+**Zusätzliche Kosten**
 
 | Position | Kosten | Häufigkeit | Notwendig |
 |----------|--------|------------|-----------|
@@ -264,49 +264,49 @@ MWST-Nummer: [Falls MWST-pflichtig]
 
 ## Häufige Fehler vermeiden
 
-### 1. Template-Overload: Weniger ist mehr
+**1. Template-Overload: Weniger ist mehr**
 
 **Das Problem:** Viele Wix-Einsteiger wählen überladene Templates mit zu vielen Animationen und Elementen. Das wirkt unprofessionell und verlängert Ladezeiten.
 
 **Die Lösung:** Entscheide dich für minimalistische Designs. Ein sauberes, strukturiertes Layout wirkt vertrauensvoller als bunte Animationen. Nutze maximal 2-3 Farben und beschränke dich auf wesentliche Informationen.
 
-### 2. Mobile-Optimierung vernachlässigen
+**2. Mobile-Optimierung vernachlässigen**
 
 **Das Problem:** 68% der Schweizer surfen primär mit dem Smartphone. Websites, die mobil schlecht funktionieren, verlieren sofort Besucher.
 
 **Die Lösung:** Teste deine Website regelmäßig auf verschiedenen Mobilgeräten. Nutze Wix's Mobile Editor für spezifische Anpassungen. Achte auf große, fingerfreundliche Buttons und kurze Texte.
 
-### 3. Rechtliche Pflichten ignorieren
+**3. Rechtliche Pflichten ignorieren**
 
 **Das Problem:** Fehlendes Impressum oder unvollständige Datenschutzerklärungen führen zu kostspieligen Abmahnungen.
 
 **Die Lösung:** Konsultiere einen Schweizer Anwalt für E-Commerce-Recht. Die einmaligen Kosten von CHF 800-1'200 sparen dir teure Rechtsstreitigkeiten. Nutze Muster-Vorlagen nur als Grundlage, nicht als finale Lösung.
 
-### 4. SEO komplett vernachlässigen
+**4. SEO komplett vernachlässigen**
 
 **Das Problem:** Ohne SEO-Optimierung findet niemand deine Website bei Google. Viele Wix-Nutzer vergessen Meta-Titel und Alt-Tags komplett.
 
 **Die Lösung:** Investiere 2-3 Stunden in Basis-SEO. Recherchiere 5-10 Keywords für deine Branche mit Tools wie Ubersuggest oder Answer The Public. Optimiere jede Seite für ein Haupt-Keyword.
 
-### 5. Ladezeiten ignorieren
+**5. Ladezeiten ignorieren**
 
 **Das Problem:** Websites mit Ladezeiten über 3 Sekunden verlieren 40% ihrer Besucher. Große, unkomprimierte Bilder sind der Hauptverursacher.
 
 **Die Lösung:** Komprimiere alle Bilder vor dem Upload auf unter 500 KB. Nutze moderne Formate wie WebP. Installiere nur notwendige Wix-Apps, da jede App die Ladezeit erhöht.
 
-### 6. Fehlende Backup-Strategie
+**6. Fehlende Backup-Strategie**
 
 **Das Problem:** Wix erstellt automatisch Backups, aber bei versehentlichen Löschungen oder Account-Problemen können Daten verloren gehen.
 
 **Die Lösung:** Exportiere regelmäßig deine Inhalte. Screenshots aller Seiten helfen beim Wiederherstellen. Sichere besonders wichtige Texte und Bilder lokal auf deinem Computer.
 
-### 7. Kontaktmöglichkeiten verstecken
+**7. Kontaktmöglichkeiten verstecken**
 
 **Das Problem:** Besucher finden keine einfache Möglichkeit zur Kontaktaufnahme. Versteckte Telefonnummern oder komplizierte Kontaktformulare schrecken Kunden ab.
 
 **Die Lösung:** Platziere deine Telefonnummer und E-Mail-Adresse im Header. Ein Click-to-Call-Button für mobile Nutzer erhöht Konversionen um 30%. Antworte auf Kontaktformular-Anfragen innerhalb von 24 Stunden.
 
-### 8. Social Media Integration vergessen
+**8. Social Media Integration vergessen**
 
 **Das Problem:** Fehlende Social Media Buttons und Share-Funktionen reduzieren die Reichweite deiner Website.
 
@@ -323,31 +323,31 @@ MWST-Nummer: [Falls MWST-pflichtig]
 
 ## FAQ – Häufig gestellte Fragen
 
-### Ist Wix DSGVO-konform für Schweizer Unternehmen?
+**Ist Wix DSGVO-konform für Schweizer Unternehmen?**
 
 Wix erfüllt grundsätzlich DSGVO-Standards, da die Server in der EU stehen. Für Schweizer Unternehmen musst du jedoch zusätzlich das neue Datenschutzgesetz (nDSG) beachten. Das bedeutet: Du brauchst eine angepasste Datenschutzerklärung, die explizit auf Schweizer Recht eingeht. Cookie-Banner müssen konfiguriert werden, und bei der Nutzung von Google Analytics oder Facebook Pixel sind zusätzliche Einverständniserklärungen nötig. Die Grundausstattung von Wix reicht nicht aus – du musst aktiv nachbessern.
 
-### Kann ich meine bestehende .ch-Domain mit Wix verwenden?
+**Kann ich meine bestehende .ch-Domain mit Wix verwenden?**
 
 Ja, externe .ch-Domains lassen sich problemlos mit Wix verbinden. Du behältst deine Domain bei deinem Schweizer Registrar (günstiger) und änderst nur die DNS-Einstellungen. Bei Premium-Plänen ab CHF 16/Monat entstehen keine Zusatzkosten für die Domain-Verbindung. Der Prozess dauert 24-48 Stunden, und deine E-Mail-Adressen bleiben davon unberührt. Vorteil: Du bleibst unabhängig von Wix und kannst jederzeit zu einem anderen Anbieter wechseln, ohne die Domain zu verlieren.
 
-### Welche Schweizer Zahlungsmethoden funktionieren mit Wix?
+**Welche Schweizer Zahlungsmethoden funktionieren mit Wix?**
 
 Standardmäßig unterstützt Wix PayPal, Stripe (für alle gängigen Kreditkarten) und Square. TWINT lässt sich über Stripe integrieren, erfordert aber zusätzliche Einrichtungsschritte und höhere Transaktionsgebühren. PostFinance bietet keine direkte Integration – hier musst du auf Drittanbieter-Lösungen zurückgreifen oder Rechnungen manuell versenden. Für die meisten Schweizer Online-Shops reichen PayPal und Kreditkarten aus, da diese 85% aller Online-Zahlungen abdecken. Bei B2B-Geschäften ist Kauf auf Rechnung oft wichtiger als spezielle CH-Payment-Methoden.
 
-### Wie viel kostet Wix wirklich für Schweizer Unternehmen?
+**Wie viel kostet Wix wirklich für Schweizer Unternehmen?**
 
 Für professionelle KMU-Websites ist der Pro-Plan zu CHF 27/Monat die beste Wahl. Dazu kommen jährlich CHF 15-25 für eine externe .ch-Domain und CHF 5/Monat für professionelle E-Mail-Adressen. Realistische Gesamtkosten: CHF 404 pro Jahr. E-Commerce-Websites benötigen Business-Pläne ab CHF 27/Monat plus 2.9% Transaktionsgebühren. Versteckte Kosten entstehen durch Premium-Apps (CHF 10-30/Monat) und professionelle Stock-Fotos (CHF 50-200 einmalig). Verglichen mit traditionellen Webdesign-Kosten von CHF 8'000-15'000 sparst du trotzdem über 90%.
 
-### Ist der Wix-Support auf Deutsch verfügbar?
+**Ist der Wix-Support auf Deutsch verfügbar?**
 
 Ja, Wix bietet deutschen Support per Live-Chat, E-Mail und Telefon. Die Supportzeiten sind allerdings auf europäische Geschäftszeiten beschränkt. Das komplette Hilfe-Center ist auf Deutsch verfügbar, und es gibt eine aktive deutschsprachige Community. Für französisch- und italienischsprachige Schweizer gibt es nur englischen Support. Bei technischen Problemen reagiert der Support meist innerhalb von 2-4 Stunden. VIP-Plan-Kunden erhalten Priority Support mit garantierten Antwortzeiten unter 1 Stunde.
 
-### Kann ich später von Wix zu einem anderen Anbieter wechseln?
+**Kann ich später von Wix zu einem anderen Anbieter wechseln?**
 
 Ein Wechsel ist grundsätzlich möglich, aber mit Aufwand verbunden. Deine Inhalte (Texte, Bilder) lassen sich exportieren, das Design muss jedoch komplett neu aufgebaut werden. Wenn du eine externe .ch-Domain verwendest, bleibt diese beim Wechsel erhalten – ein großer Vorteil für SEO und Kunden-Wiedererkennung. Blog-Artikel können über XML-Export übertragen werden. Plane für einen Wechsel zu WordPress oder anderen Systemen 20-40 Stunden Arbeitszeit ein. Viele Unternehmen bleiben deshalb langfristig bei Wix, besonders wenn die Website gut funktioniert.
 
-### Wie gut funktioniert Wix für mehrsprachige Schweizer Websites?
+**Wie gut funktioniert Wix für mehrsprachige Schweizer Websites?**
 
 Wix unterstützt mehrsprachige Websites über die Wix Multilingual App. Du kannst separate Versionen für Deutsch, Französisch und Italienisch erstellen. Jede Sprache benötigt jedoch manuelle Übersetzung und individuelle SEO-Optimierung. Automatische Übersetzungen sind verfügbar, aber qualitativ unzureichend für professionelle Auftritte. Für echten Erfolg im mehrsprachigen CH-Markt musst du jede Sprachversion wie eine eigenständige Website behandeln. Das bedeutet: Separate Keyword-Recherche, lokalisierte Inhalte und kulturelle Anpassungen. Der Aufwand ist hoch, aber für national tätige Schweizer Unternehmen unumgänglich.
 

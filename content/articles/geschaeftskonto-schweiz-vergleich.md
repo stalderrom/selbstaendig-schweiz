@@ -45,7 +45,7 @@ Ein separates Geschäftskonto ist für Selbständige und KMU in der Schweiz esse
 
 ## Die 8 besten Geschäftskonten Schweiz im Überblick
 
-### 1. Neon Business – Bestes Preis-Leistungs-Verhältnis für Einsteiger
+**1. Neon Business – Bestes Preis-Leistungs-Verhältnis für Einsteiger**
 
 **Neon** ist eine Schweizer Neobank (vollständig digital) mit einem kostenlosen Geschäftskonto für Einzelpersonen und Einzelfirmen.
 
@@ -69,7 +69,7 @@ Ein separates Geschäftskonto ist für Selbständige und KMU in der Schweiz esse
 
 ---
 
-### 2. Revolut Business – Beste Option für internationale Tätigkeiten
+**2. Revolut Business – Beste Option für internationale Tätigkeiten**
 
 **Revolut Business** bietet Multiwährungs-Konten und günstige internationale Zahlungen.
 
@@ -92,7 +92,7 @@ Ein separates Geschäftskonto ist für Selbständige und KMU in der Schweiz esse
 
 ---
 
-### 3. PostFinance – Klassik für Schweizer KMU
+**3. PostFinance – Klassik für Schweizer KMU**
 
 **PostFinance** ist die Banksparte der Schweizer Post und sehr verbreitet bei KMU.
 
@@ -114,7 +114,7 @@ Ein separates Geschäftskonto ist für Selbständige und KMU in der Schweiz esse
 
 ---
 
-### 4. Zürcher Kantonalbank (ZKB) – Beste Kantonalbank
+**4. Zürcher Kantonalbank (ZKB) – Beste Kantonalbank**
 
 **ZKB** ist die grösste Schweizer Kantonalbank und bietet starke KMU-Dienstleistungen.
 
@@ -135,7 +135,7 @@ Ein separates Geschäftskonto ist für Selbständige und KMU in der Schweiz esse
 
 ---
 
-### 5. Raiffeisen – Beste Genossenschaftsbank
+**5. Raiffeisen – Beste Genossenschaftsbank**
 
 **Raiffeisen** hat das dichteste Filialnetz der Schweiz und ist stark im regionalen Markt verankert.
 
@@ -155,7 +155,7 @@ Ein separates Geschäftskonto ist für Selbständige und KMU in der Schweiz esse
 
 ---
 
-### 6. UBS – Premium für grössere KMU
+**6. UBS – Premium für grössere KMU**
 
 **UBS** bietet umfassende Banking-Dienstleistungen für KMU und Grossunternehmen.
 
@@ -176,7 +176,7 @@ Ein separates Geschäftskonto ist für Selbständige und KMU in der Schweiz esse
 
 ---
 
-### 7. Cler (ehemals Bank Coop) – Günstige Alternative
+**7. Cler (ehemals Bank Coop) – Günstige Alternative**
 
 **Cler** ist eine kleinere Schweizer Bank mit soliden KMU-Produkten und moderatem Preis.
 
@@ -189,7 +189,7 @@ Ein separates Geschäftskonto ist für Selbständige und KMU in der Schweiz esse
 
 ---
 
-### 8. WISE Business (ehemals TransferWise) – Für internationale Selbständige
+**8. WISE Business (ehemals TransferWise) – Für internationale Selbständige**
 
 **WISE Business** ist eine britische Plattform mit lokalem Schweizer IBAN.
 

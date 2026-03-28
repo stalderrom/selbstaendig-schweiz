@@ -89,26 +89,26 @@ Professionelle Offerten steigern deine Abschlussrate um 25-40% gegenüber improv
 
 ## Schritt-für-Schritt Anleitung
 
-### 1. Kundenbedürfnisse analysieren
+**1. Kundenbedürfnisse analysieren**
 Führe ein strukturiertes Beratungsgespräch. Dokumentiere alle Anforderungen schriftlich. Kläre Budget und Zeitrahmen bereits vor der Offertenerstellung. So vermeidest du unnötige Arbeit bei unrealistischen Kundenvorstellungen.
 
-### 2. Präzise Kalkulation erstellen
+**2. Präzise Kalkulation erstellen**
 Berechne Materialkosten mit 5-10% Aufschlag für Verschnitt. Schätze Arbeitszeit realistisch und füge 15-20% Puffer hinzu. Kalkuliere Gemeinkosten (Büromiete, Versicherungen, Weiterbildung) mit 25-35% auf den Nettolohn. Plane eine Gewinnmarge von mindestens 20%.
 
-### 3. Professionelle Struktur aufbauen
+**3. Professionelle Struktur aufbauen**
 - **Header:** Firmenname, Logo, Kontaktdaten, UID-Nummer
 - **Kundenadresse:** Vollständig mit Ansprechperson
 - **Referenz:** Projektnummer, Betreff, Datum
 - **Leistungsbeschreibung:** Detailliert aber verständlich
 - **Preisaufstellung:** Transparent gegliedert mit Einzelpositionen
 
-### 4. Rechtliche Aspekte integrieren
+**4. Rechtliche Aspekte integrieren**
 Definiere eine realistische Gültigkeitsdauer (14-30 Tage). Lege Zahlungskonditionen fest (z.B. 30 Tage netto, Skonto bei Vorauskasse). Verweise auf deine AGB oder füge sie bei. Bei Konsumentengeschäften erwähne Widerrufsrechte.
 
-### 5. Qualitätskontrolle durchführen
+**5. Qualitätskontrolle durchführen**
 Prüfe Rechtschreibung mit professioneller Software (nicht nur Word). Kontrolliere alle Zahlen und Kalkulationen doppelt. Stelle sicher, dass alle Pflichtangaben vorhanden sind. Lasse wichtige Offerten von einer zweiten Person gegenlesen.
 
-### 6. Professioneller Versand und Nachfassung
+**6. Professioneller Versand und Nachfassung**
 Versende Offerten als PDF per E-Mail mit aussagekräftigem Betreff. Bestätige telefonisch den Erhalt innerhalb von 2-3 Tagen. Plane Nachfassung nach der Hälfte der Gültigkeitsdauer. Bitte um konkretes Feedback bei Absagen.
 
 ## Häufige Fehler vermeiden
@@ -139,25 +139,25 @@ Versende Offerten als PDF per E-Mail mit aussagekräftigem Betreff. Bestätige t
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wie lange ist eine Offerte in der Schweiz rechtlich gültig?
+**Wie lange ist eine Offerte in der Schweiz rechtlich gültig?**
 Das Obligationenrecht schreibt eine "angemessene Frist" vor, ohne diese genau zu definieren. In der Praxis gelten 30 Tage als Standard bei einfachen Dienstleistungen. Bei komplexen Projekten mit aufwendiger Planung sind auch 60-90 Tage üblich. Wichtig ist, dass du die Gültigkeitsdauer explizit in der Offerte angibst. Ohne Befristung könnten Kunden theoretisch noch nach Monaten auf den alten Preis bestehen.
 
-### Muss ich als Kleinunternehmer MWST in der Offerte ausweisen?
+**Muss ich als Kleinunternehmer MWST in der Offerte ausweisen?**
 Unter CHF 100'000 Jahresumsatz bist du nicht MWST-pflichtig und darfst keine Mehrwertsteuer ausweisen. Du kannst dich aber freiwillig registrieren lassen, was bei B2B-Kunden oft vorteilhaft ist. Bei MWST-Pflicht muss die Steuer immer klar getrennt ausgewiesen werden – sowohl Nettobetrag als auch Steuerbetrag müssen erkennbar sein. Deine UID-Nummer gehört gut sichtbar auf jede Offerte.
 
-### Kann ein Kunde eine bereits angenommene Offerte noch widerrufen?
+**Kann ein Kunde eine bereits angenommene Offerte noch widerrufen?**
 Bei Geschäften zwischen Unternehmen (B2B) gibt es grundsätzlich kein gesetzliches Widerrufsrecht. Anders bei Konsumentengeschäften (B2C): Hier kann ein 14-tägiges Widerrufsrecht bestehen, besonders bei Fernabsatzgeschäften oder Haustürgeschäften. Dieses Recht musst du in der Offerte erwähnen. Bei Verträgen über CHF 100 im Konsumentenbereich solltest du einen Anwalt konsultieren, um rechtliche Risiken zu minimieren.
 
-### Wie detailliert muss eine Offerte formuliert sein?
+**Wie detailliert muss eine Offerte formuliert sein?**
 Die Offerte sollte so präzise wie möglich sein, um spätere Streitigkeiten zu vermeiden. Leistungsumfang, Qualitätsstandards, Liefertermine und Preise gehören zwingend dazu. Statt "Malerarbeiten" schreibst du besser "Streichen der Wohnzimmerwände (24 m²) mit 2-fachem Anstrich, Farbe weiss matt, inkl. Abkleben und Schutzfolien". Pauschale Angaben wie "diverse Nebenarbeiten" führen oft zu Konflikten und sollten vermieden werden.
 
-### Was passiert wenn ich meine eigene Offerte nicht einhalten kann?
+**Was passiert wenn ich meine eigene Offerte nicht einhalten kann?**
 Eine angenommene Offerte ist rechtlich bindend – du befindest dich bei Nichterfüllung automatisch im Verzug. Der Kunde kann Schadenersatz verlangen, eine Ersatzvornahme beauftragen oder bei wesentlichen Mängeln sogar vom Vertrag zurücktreten. Deshalb ist realistische Kalkulation so wichtig. Bei unvorhersehbaren Ereignissen (höhere Gewalt, drastische Materialpreisanstiege) solltest du sofort mit dem Kunden kommunizieren und gemeinsam nach Lösungen suchen.
 
-### Brauche ich zwingend eine spezielle Software für Offerten?
+**Brauche ich zwingend eine spezielle Software für Offerten?**
 Grundsätzlich nein – auch mit Word oder Excel lassen sich rechtskonforme Offerten erstellen. Spezialsoftware bietet jedoch deutliche Vorteile: automatische MWST-Berechnungen, Kundenverwaltung, rechtssichere Templates und nahtlose Übernahme in die Rechnungsstellung. Ab etwa 15-20 Offerten pro Jahr amortisiert sich eine professionelle Lösung meist durch Zeitersparnis. Beliebte Schweizer Anbieter sind Bexio, sevDesk oder Klara mit Preisen ab CHF 25 pro Monat.
 
-### Muss ich bei Preisänderungen nach Material- oder Lohnkostensteigerungen eine neue Offerte erstellen?
+**Muss ich bei Preisänderungen nach Material- oder Lohnkostensteigerungen eine neue Offerte erstellen?**
 Ja, nach Abgabe der Offerte sind Preisänderungen nur mit expliziter Kundenzustimmung möglich. Du kannst jedoch Vorbehalte in die Offerte einbauen, beispielsweise "Preise gelten bei Auftragserteilung bis 31.03.2026, danach Anpassung vorbehalten" oder "Bei Materialpreissteigerungen über 5% erfolgt anteilsmässige Preisanpassung". Solche Klauseln müssen jedoch klar formuliert und für den Kunden verständlich sein. Bei wesentlichen Änderungen ist eine neue Offerte sauberer und transparenter.
 
 ## Fazit

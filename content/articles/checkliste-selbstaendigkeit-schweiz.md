@@ -57,21 +57,21 @@ Der Schritt in die Selbständigkeit in der Schweiz ist aufregend – und komplex
 
 ## Phase 1: Vorbereitung und Entscheid (4–8 Wochen vor Start)
 
-### 1. Geschäftsidee validieren
+**1. Geschäftsidee validieren**
 
 - [ ] **Zielgruppe definiert?** Wer kauft dein Produkt/deine Dienstleistung – und warum?
 - [ ] **Zahlungsbereitschaft geprüft?** Mindestens 5 Gespräche mit potenziellen Kunden geführt
 - [ ] **Konkurrenz analysiert?** Preisstruktur und Positionierung der Mitbewerber bekannt
 - [ ] **Alleinstellungsmerkmal (USP) formuliert?** Was machst du besser oder anders?
 
-### 2. Finanzplanung
+**2. Finanzplanung**
 
 - [ ] **Liquiditätspuffer vorhanden?** Faustregel: 6–12 Monate Lebenshaltungskosten in Reserve (CHF 30'000–80'000 je nach Kanton und Lebensstil)
 - [ ] **Break-even berechnet?** Ab welchem monatlichen Umsatz decke ich alle Kosten?
 - [ ] **Anschubfinanzierung geklärt?** Eigenkapital, Bankkredit, Fördergelder (z.B. [Startkapital für Selbständige in der Schweiz](/artikel/bankkredit-selbststaendige-schweiz))?
 - [ ] **Privatausgaben-Budget erstellt?** Was brauchst du monatlich zum Leben?
 
-### 3. Rechtsform gewählt
+**3. Rechtsform gewählt**
 
 Die Wahl der Rechtsform ist eine der wichtigsten Entscheidungen:
 
@@ -89,7 +89,7 @@ Die Wahl der Rechtsform ist eine der wichtigsten Entscheidungen:
 
 ## Phase 2: Rechtliche Grundlagen vor dem Start
 
-### 4. AHV-Anmeldung (Pflicht – innert 30 Tagen!)
+**4. AHV-Anmeldung (Pflicht – innert 30 Tagen!)**
 
 Die AHV-Anmeldung ist die wichtigste Pflicht beim Start der Selbständigkeit.
 
@@ -100,14 +100,14 @@ Die AHV-Anmeldung ist die wichtigste Pflicht beim Start der Selbständigkeit.
 
 Was du wissen musst: Als Selbständiger zahlst du [AHV/IV/EO-Beiträge](/artikel/ahv-selbststaendige) von **10.6% auf dein Nettoeinkommen** (Gewinn minus Betriebsausgaben). Der Mindestbeitrag beträgt CHF 514/Jahr – auch bei Verlust.
 
-### 5. Handelsregistereintrag (wenn nötig)
+**5. Handelsregistereintrag (wenn nötig)**
 
 - [ ] **Pflicht geprüft:** Einzelfirma ab CHF 100'000 Jahresumsatz muss ins HR. GmbH/AG: immer.
 - [ ] **Freiwillig prüfen:** Auch unter CHF 100'000 kann ein HR-Eintrag sinnvoll sein (Kreditwürdigkeit, Professionalität)
 - [ ] **Unterlagen zusammengestellt:** Personalausweis/Pass, Firmenname, Zweck, Domizil
 - [ ] **HR-Amt des Kantons kontaktiert** ([zefix.ch/de/search](https://www.zefix.ch/de/search))
 
-### 6. MWST-Registrierung prüfen
+**6. MWST-Registrierung prüfen**
 
 - [ ] **Umsatzschwelle eingeschätzt:** Obligatorisch ab CHF 100'000 steuerbarem Jahresumsatz (Art. 10 MWSTG)
 - [ ] **Freiwillige Registrierung geprüft:** Sinnvoll, wenn du viele Vorsteuerabzüge hast (Investitionen, Materialkosten)
@@ -116,7 +116,7 @@ Was du wissen musst: Als Selbständiger zahlst du [AHV/IV/EO-Beiträge](/artikel
 
 Mehr dazu: [MWST für Selbständige Schweiz](/artikel/mwst-selbststaendige)
 
-### 7. Berufliche Bewilligungen und Lizenzen
+**7. Berufliche Bewilligungen und Lizenzen**
 
 - [ ] **Branche geprüft:** Benötigst du eine kantonale Betriebsbewilligung?
 - [ ] **Relevant für:** Gesundheitsberufe (Arzt, Physio, Ernährungsberater), Handwerk, Gastronomie, Transport, Finanzberatung
@@ -129,21 +129,21 @@ Detailinfos: [Bewilligungen für Selbständige Schweiz](/artikel/bewilligungen-s
 
 ## Phase 3: Finanzen und Banking einrichten (erste Woche nach Gründung)
 
-### 8. Geschäftskonto eröffnen
+**8. Geschäftskonto eröffnen**
 
 - [ ] **Bank ausgewählt:** Vergleich von Konditionen für KMU/Selbständige gemacht (UBS, Raiffeisen, Zürcher Kantonalbank, Neon Business, Revolut Business)
 - [ ] **Geschäftskonto eröffnet** – Privatvermögen strikt vom Geschäftsvermögen trennen
 - [ ] **IBAN für Rechnungen bereit** – inkl. QR-Code-fähige Zahlungsoptionen
 - [ ] **Kreditkarte/Debitkarte** für Geschäftsausgaben beantragt
 
-### 9. Buchhaltung aufgesetzt
+**9. Buchhaltung aufgesetzt**
 
 - [ ] **Buchhaltungssoftware gewählt:** [Bexio](/go/bexio), [Banana Buchhaltung](/go/banana), oder ähnliche (Vergleich: [Buchhaltungssoftware Schweiz](/artikel/buchhaltungssoftware-vergleich))
 - [ ] **Kontenplan angelegt** (Schweizer KMU-Kontenplan nach OR 958)
 - [ ] **Belegablage organisiert:** Digital (Scanner-App) oder physisch – alle Belege 10 Jahre aufbewahren (OR 958f)
 - [ ] **Jahresabschluss-Termin im Kalender:** 31. Dezember für die meisten Selbständigen
 
-### 10. Rechnungsvorlage erstellen
+**10. Rechnungsvorlage erstellen**
 
 Eine rechtskonforme Schweizer Rechnung (Art. 26 MWSTG) braucht:
 
@@ -158,13 +158,13 @@ Eine rechtskonforme Schweizer Rechnung (Art. 26 MWSTG) braucht:
 
 ## Phase 4: Versicherungen abschliessen
 
-### 11. Obligatorische Versicherungen
+**11. Obligatorische Versicherungen**
 
 - [ ] **Krankenversicherung (KVG):** Persönlich weitergeführt – Modell und Franchise überprüfen. Als Selbständiger trägst du die Prämie allein
 - [ ] **AHV:** Bereits in Phase 2 angemeldet ✓
 - [ ] **Unfallversicherung (UVG):** Für Selbständige *freiwillig*, aber dringend empfohlen – insbesondere für handwerkliche Berufe
 
-### 12. Empfohlene Zusatzversicherungen
+**12. Empfohlene Zusatzversicherungen**
 
 | Versicherung | Warum wichtig | Monatliche Kosten |
 |---|---|---|
@@ -175,7 +175,7 @@ Eine rechtskonforme Schweizer Rechnung (Art. 26 MWSTG) braucht:
 
 Überblick: [Versicherungen Selbständige Schweiz](/artikel/versicherungen-selbststaendige)
 
-### 13. Altersvorsorge planen
+**13. Altersvorsorge planen**
 
 - [ ] **Säule 3a eröffnet?** Steuerabzug bis CHF 7'258/Jahr (2026, keine Pensionskasse) oder CHF 36'288 (mit BVG-Anschluss). Anbieter: VIAC, frankly, Kantonalbanken
 - [ ] **BVG geprüft:** Freiwilliger Anschluss an BVG-Sammelstiftung möglich – lohnt sich ab CHF 60'000 Jahresgewinn
@@ -185,21 +185,21 @@ Eine rechtskonforme Schweizer Rechnung (Art. 26 MWSTG) braucht:
 
 ## Phase 5: Operativer Start
 
-### 14. Digitale Infrastruktur
+**14. Digitale Infrastruktur**
 
 - [ ] **Domain registriert** (.ch via [Switch.ch](https://www.nic.ch) oder Hostingpartner)
 - [ ] **Website/Landing Page live** – Impressum mit allen Pflichtangaben (Name, Adresse, MWST-Nummer)
 - [ ] **E-Mail-Adresse mit eigener Domain** (nicht @gmail.com für Geschäftskontakt)
 - [ ] **Google Business Profile erstellt** (für lokale Auffindbarkeit)
 
-### 15. Erste Kundengewinnung
+**15. Erste Kundengewinnung**
 
 - [ ] **LinkedIn-Profil aktualisiert** – Selbständigkeit, Angebote, USP kommuniziert
 - [ ] **Netzwerk informiert:** Erste 50 Kontakte per E-Mail/Nachricht über die Selbständigkeit informieren
 - [ ] **Angebotsdokument erstellt:** Was bietest du zu welchem Preis – klare Preisliste oder Angebotspaket
 - [ ] **Offertvorlage** nach Schweizer Standard bereit ([Offerte erstellen Schweiz](/artikel/offerte-erstellen-schweiz))
 
-### 16. Steuern vorbereiten
+**16. Steuern vorbereiten**
 
 - [ ] **Steuerliche Eintragung:** Kantonsfinanzamt über Selbständigkeit informieren (in den meisten Kantonen via Steuererklärung)
 - [ ] **AHV-Akontobeiträge einkalkuliert:** Legt Rücklagen von ca. 15–20% des Einkommens für AHV + Steuern an

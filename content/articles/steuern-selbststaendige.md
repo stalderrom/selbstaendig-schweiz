@@ -64,7 +64,7 @@ faq:
 
 Als Selbständiger in der Schweiz sind Sie mit mehreren Steuerarten konfrontiert. Das Schweizer Steuersystem basiert auf drei Ebenen: Bund, Kanton und Gemeinde.
 
-### 1. Einkommenssteuern (Bund, Kanton, Gemeinde)
+**1. Einkommenssteuern (Bund, Kanton, Gemeinde)**
 
 **Grundprinzip:**
 Als Selbständiger versteuern Sie Ihr Geschäftseinkommen als Erwerbseinkommen. Dies gilt für Einzelfirmen und Personengesellschaften. Bei Kapitalgesellschaften (GmbH/AG) funktioniert es anders.
@@ -87,7 +87,7 @@ Als Selbständiger versteuern Sie Ihr Geschäftseinkommen als Erwerbseinkommen. 
 
 **Wichtig:** Die Progression bedeutet, dass höhere Einkommen überproportional besteuert werden. Bei CHF 150'000 liegt die Belastung schon bei ~25-30%.
 
-### 2. Vermögenssteuern
+**2. Vermögenssteuern**
 
 **Geschäftsvermögen:**
 Ihr gesamtes Geschäftsvermögen (Anlagen, Lager, Bankguthaben, Forderungen minus Schulden) wird zusätzlich zum Privatvermögen besteuert.
@@ -103,7 +103,7 @@ Ihr gesamtes Geschäftsvermögen (Anlagen, Lager, Bankguthaben, Forderungen minu
 
 **Tipp:** In gewissen Kantonen sind kleinere Vermögen steuerfrei oder haben hohe Freibeträge.
 
-### 3. Mehrwertsteuer (MWST)
+**3. Mehrwertsteuer (MWST)**
 
 **Grundsatz:**
 Die MWST ist eine Konsumsteuer, die Sie als Selbständiger für den Staat einziehen und abliefern.
@@ -140,7 +140,7 @@ Sie können die MWST auf Ihren Geschäftsausgaben zurückfordern (Vorsteuern). D
 
 → [Steuern für Selbständige: Kompletter Guide](/artikel/steuern-selbststaendige)
 
-### 4. Sozialversicherungsbeiträge (AHV/IV/EO)
+**4. Sozialversicherungsbeiträge (AHV/IV/EO)**
 
 Streng genommen keine Steuern, aber obligatorische Abgaben die wie Steuern wirken.
 
@@ -172,7 +172,7 @@ Bei nebenberuflicher Selbständigkeit zusätzlich zur Anstellung:
 
 Einer der grössten Vorteile der Selbständigkeit: Sie können zahlreiche Ausgaben von den Steuern abziehen. Hier die wichtigsten Kategorien:
 
-### 1. Betriebsausgaben (geschäftsbezogene Kosten)
+**1. Betriebsausgaben (geschäftsbezogene Kosten)**
 
 **Vollständig abzugsfähig:**
 
@@ -244,7 +244,7 @@ Total Abzüge: CHF 30'000
 Geschäftseinkommen: CHF 90'000
 ```
 
-### 2. Sozialabzüge (persönliche Abzüge)
+**2. Sozialabzüge (persönliche Abzüge)**
 
 Diese gelten zusätzlich zu den Betriebsausgaben:
 
@@ -274,7 +274,7 @@ Diese gelten zusätzlich zu den Betriebsausgaben:
 - Politische Spenden (begrenzt)
 - Gewerkschaftsbeiträge, Berufsverbände
 
-### 3. Abschreibungen
+**3. Abschreibungen**
 
 Grössere Anschaffungen können über mehrere Jahre abgeschrieben werden:
 
@@ -376,7 +376,7 @@ Müssen nicht eingereicht werden, aber 10 Jahre aufbewahren!
 
 ## Steueroptimierung: Legal Steuern sparen
 
-### 1. Säule 3a maximal ausschöpfen
+**1. Säule 3a maximal ausschöpfen**
 
 **Ohne Pensionskasse:**
 - Maximalbetrag: CHF 7'056 (2026)
@@ -388,7 +388,7 @@ Müssen nicht eingereicht werden, aber 10 Jahre aufbewahren!
 - Mehrere 3a-Konten eröffnen (gestaffelte Bezüge im Alter)
 - Bei hohem Einkommen ev. gestaffelt über mehrere Kantone beziehen
 
-### 2. Geschäftsausgaben konsequent abziehen
+**2. Geschäftsausgaben konsequent abziehen**
 
 **Oft vergessene Abzüge:**
 - Anteilige Miete Homeoffice
@@ -404,7 +404,7 @@ Müssen nicht eingereicht werden, aber 10 Jahre aufbewahren!
 - Fahrtenbuch akribisch führen
 - Software nutzen (Bexio, etc.)
 
-### 3. Zeitpunkt von Einnahmen/Ausgaben steuern
+**3. Zeitpunkt von Einnahmen/Ausgaben steuern**
 
 **Ende Jahr:**
 - Grosse Investitionen auf Dezember vorziehen → Abzug im laufenden Jahr
@@ -413,7 +413,7 @@ Müssen nicht eingereicht werden, aber 10 Jahre aufbewahren!
 
 **Achtung:** Bei MWST ist Vorsicht geboten – hier zählt das Rechnungsdatum
 
-### 4. Wahl des Wohnortes
+**4. Wahl des Wohnortes**
 
 Die Steuerunterschiede zwischen Kantonen sind enorm:
 
@@ -427,14 +427,14 @@ Die Steuerunterschiede zwischen Kantonen sind enorm:
 
 **Aber:** Lebenshaltungskosten und andere Faktoren beachten (Miete in Zug ist teuer!)
 
-### 5. Pensionierung vorziehen (ab 58)
+**5. Pensionierung vorziehen (ab 58)**
 
 Bei vorzeitiger Pensionierung:
 - Steuerprivilegierte Kapitalauszahlung (Kapitalsteuer tiefer als Einkommensteuer)
 - AHV-Rente ab 64/65 (kann auch vorgezogen werden mit Abschlag)
 - Bezug Säule 3a ab 59 möglich
 
-### 6. GmbH vs. Einzelfirma
+**6. GmbH vs. Einzelfirma**
 
 Ab einem gewissen Einkommen kann eine GmbH steuerlich günstiger sein:
 
@@ -453,35 +453,35 @@ Ab einem gewissen Einkommen kann eine GmbH steuerlich günstiger sein:
 
 ## Häufige Steuerfehler vermeiden
 
-### 1. Private und geschäftliche Ausgaben vermischen
+**1. Private und geschäftliche Ausgaben vermischen**
 **Fehler:** Privates Smartphone zu 100% abziehen
 **Lösung:** Nur geschäftlichen Anteil abziehen (z.B. 60%), dokumentieren
 
-### 2. Belege nicht aufbewahren
+**2. Belege nicht aufbewahren**
 **Fehler:** Belege wegwerfen nach Steuererklärung
 **Lösung:** 10 Jahre aufbewahren (digital möglich mit Belegscanner)
 
-### 3. Pauschalabzüge schätzen statt rechnen
+**3. Pauschalabzüge schätzen statt rechnen**
 **Fehler:** "Ich ziehe einfach CHF 20'000 Spesen ab"
 **Lösung:** Effektive Kosten zusammenrechnen mit Belegen
 
-### 4. AHV-Beiträge vergessen einzuplanen
+**4. AHV-Beiträge vergessen einzuplanen**
 **Fehler:** Überraschung bei Nachzahlung
 **Lösung:** 10% des Einkommens monatlich auf die Seite legen
 
-### 5. MWST zu spät anmelden
+**5. MWST zu spät anmelden**
 **Fehler:** Umsatz überschreitet CHF 100'000, keine Anmeldung
 **Lösung:** Laufend Umsatz überwachen, bei CHF 80'000 schon anmelden
 
-### 6. Keine Rückstellungen für Steuern
+**6. Keine Rückstellungen für Steuern**
 **Fehler:** Gesamtes Einkommen ausgeben
 **Lösung:** 30-40% für Steuern + Sozialabgaben zurücklegen
 
-### 7. Säule 3a vergessen
+**7. Säule 3a vergessen**
 **Fehler:** Kein Einzahlung, dadurch Steuern verschenkt
 **Lösung:** Automatischen Dauerauftrag einrichten (Dezember)
 
-### 8. Fahrtenbuch nicht führen
+**8. Fahrtenbuch nicht führen**
 **Fehler:** Pauschale Abzüge ohne Nachweis
 **Lösung:** App nutzen (MileIQ, Kilomat) für automatisches Fahrtenbuch
 
@@ -624,25 +624,25 @@ Bei gewerbsmässigem Wertschriftenhandel werden Gewinne steuerpflichtig (hohe H�
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wie viel Steuern zahle ich als Selbständiger?
+**Wie viel Steuern zahle ich als Selbständiger?**
 Die Steuerbelastung hängt stark von Ihrem Einkommen und Wohnort ab. Als Faustregel: Bei CHF 80'000 Einkommen zahlen Sie etwa 20-30% Gesamtsteuerbelastung (Bund, Kanton, Gemeinde plus AHV). In Zürich wären das ca. CHF 16'000-24'000. In Zug nur CHF 12'000-16'000. Dazu kommen noch 9.95% AHV-Beiträge. Rechnen Sie insgesamt mit 30-40% Ihres Einkommens für Steuern und Sozialabgaben.
 
-### Muss ich quartalsweise Steuern zahlen?
+**Muss ich quartalsweise Steuern zahlen?**
 Nein, die Einkommensteuern werden jährlich veranlagt und dann in 2-4 Raten bezahlt (je nach Kanton). Sie erhalten provisorische Rechnungen basierend auf dem geschätzten Einkommen. Die definitive Abrechnung erfolgt nach Einreichung der Steuererklärung, meist 1-2 Jahre später. Planen Sie aber monatlich Rückstellungen ein, damit Sie nicht in Zahlungsschwierigkeiten kommen. Die MWST hingegen muss quartalsweise abgerechnet werden.
 
-### Kann ich mein Homeoffice von den Steuern abziehen?
+**Kann ich mein Homeoffice von den Steuern abziehen?**
 Ja, aber nur anteilig. Wenn Sie einen dedizierten Raum ausschliesslich geschäftlich nutzen, können Sie den entsprechenden Anteil der Miete und Nebenkosten abziehen. Beispiel: 20m² Büro bei 100m² Wohnung = 20% der Miete. Sie müssen nachweisen, dass der Raum hauptsächlich beruflich genutzt wird. Die Abzugsfähigkeit des Arbeitszimmers wird kantonal unterschiedlich gehandhabt – in gewissen Fällen wird nur eine Pauschale akzeptiert.
 
-### Was ist besser: MWST-pflichtig oder nicht?
+**Was ist besser: MWST-pflichtig oder nicht?**
 Das kommt darauf an. Als MWST-Pflichtiger können Sie Vorsteuern auf Einkäufe zurückfordern, was die effektive Belastung reduziert. Bei hohen Betriebsausgaben mit MWST (Büro, Equipment, etc.) lohnt sich die freiwillige Anmeldung oft schon unter CHF 100'000 Umsatz. Nachteil: Administrativer Aufwand und quartalsweise Abrechnung. Bei reinen Dienstleistungen mit wenig Ausgaben kann es sich lohnen, unter CHF 100'000 zu bleiben und keine MWST abzurechnen.
 
-### Wie spare ich am meisten Steuern?
+**Wie spare ich am meisten Steuern?**
 Die effektivsten Methoden: (1) Säule 3a jährlich maximal einzahlen (CHF 7'056 = ca. CHF 2'000 Steuerersparnis), (2) Alle geschäftlichen Ausgaben konsequent abziehen mit lückenloser Dokumentation, (3) Bei hohem Einkommen GmbH statt Einzelfirma prüfen, (4) Zeitpunkt von Investitionen optimieren (Ende Jahr), (5) In steuergünstigen Kanton ziehen (kann mehrere Tausend sparen). Legal und sauber dokumentiert ist das völlig legitim.
 
-### Wann brauche ich einen Treuhänder?
+**Wann brauche ich einen Treuhänder?**
 Ein Treuhänder wird sinnvoll ab ca. CHF 100'000-150'000 Umsatz oder wenn Sie MWST-pflichtig werden. Auch bei komplexeren Geschäftsmodellen, mehreren Einkommensquellen oder wenn Sie wenig Zeit für Administration haben, lohnt sich professionelle Unterstützung. Kosten: CHF 1'500-4'000 pro Jahr für Buchhaltung und Steuererklärung. Das spart Zeit, vermeidet Fehler und optimiert oft die Steuern mehr, als der Treuhänder kostet.
 
-### Was passiert wenn ich die Steuererklärung zu spät einreiche?
+**Was passiert wenn ich die Steuererklärung zu spät einreiche?**
 Sie erhalten zunächst eine Mahnung mit neuer Frist (meist 30 Tage). Bei weiterer Verspätung wird nach pflichtgemässem Ermessen veranlagt – das Steueramt schätzt Ihr Einkommen und setzt oft höhere Beträge an als tatsächlich. Zusätzlich werden Mahngebühren (CHF 50-200) und ev. Verzugszinsen fällig. In gravierenden Fällen droht eine Busse. Tipp: Fristverlängerung beantragen ist fast immer problemlos möglich, besonders mit Treuhänder.
 
 ## Fazit
@@ -666,6 +666,7 @@ Mit der richtigen Strategie (Zeitpunkt Investitionen, Wahl Rechtsform, Wohnort) 
 
 Die Schweiz bietet Selbständigen ein faires und berechenbares Steuersystem. Wer sich auskennt und professionell aufgestellt ist, zahlt nicht mehr als nötig und kann sich voll auf sein Geschäft konzentrieren.
 
+<!--
 ### Verlinkungsstrategie:
 Diese Pillar Page sollte von ALLEN Artikeln im Steuer-Silo verlinkt werden.
 
@@ -690,4 +691,5 @@ Diese Pillar Page sollte von ALLEN Artikeln im Steuer-Silo verlinkt werden.
 - Bei Gesetzesänderungen sofort anpassen
 - Säule 3a-Maximalbetrag jährlich updaten
 - MWST-Sätze bei Änderungen anpassen
+-->
 -->

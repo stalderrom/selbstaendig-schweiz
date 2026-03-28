@@ -344,19 +344,19 @@ ROI: 150–400%
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich auch rückwirkend Abzüge geltend machen?
+**Kann ich auch rückwirkend Abzüge geltend machen?**
 
 Für das laufende Steuerjahr ja – bis zur Einreichung der Steuererklärung. Für abgeschlossene Steuerjahre nur über eine Einsprache (innert 30 Tagen nach Veranlagung) oder Revision (bei neuen Tatsachen). Nach Ablauf dieser Fristen ist eine Korrektur schwierig.
 
-### Wie sicher ist die Steueroptimierung – werde ich geprüft?
+**Wie sicher ist die Steueroptimierung – werde ich geprüft?**
 
 Steuerbehörden prüfen stichprobenartig. Bei grossen oder ungewöhnlichen Abzügen erhöht sich das Risiko einer Prüfung. Mit vollständigen Belegen und einer sauberen Buchhaltung bist du auf der sicheren Seite. Ein Treuhänder gibt dir rechtliche Sicherheit.
 
-### Kann ich Kurse und Weiterbildung abziehen, auch wenn sie für einen Quereinstieg sind?
+**Kann ich Kurse und Weiterbildung abziehen, auch wenn sie für einen Quereinstieg sind?**
 
 Nur wenn die Weiterbildung den **bestehenden Beruf** verbessert oder ergänzt. Ein Sprachkurs für berufliche Kommunikation: ja. Ein Kochkurs ohne Berufsbezug: nein. Ein Kurs für eine völlig neue Tätigkeit (Quereinstieg): meist nicht oder nur teilweise.
 
-### Wann sollte ich meinen Treuhänder kontaktieren?
+**Wann sollte ich meinen Treuhänder kontaktieren?**
 
 Spätestens im Oktober/November jedes Jahres – dann ist noch Zeit für Massnahmen wie Säule 3a, Investitionen oder Pensionskassen-Einkäufe. Nicht erst nach dem Jahresende, wenn nichts mehr zu optimieren ist.
 

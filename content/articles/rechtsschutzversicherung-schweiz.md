@@ -32,7 +32,7 @@ Die Rechtsschutzversicherung übernimmt folgende Kosten bis zur vereinbarten Ver
 
 Zusätzlich erhältst du präventive Rechtsberatung per Telefon. Diese Hotline kannst du für Vertragsgestaltung, arbeitsrechtliche Fragen oder andere Rechtsprobleme nutzen – ohne zusätzliche Kosten.
 
-### Schweizer Besonderheiten
+**Schweizer Besonderheiten**
 
 Das schweizerische Rechtssystem unterscheidet sich wesentlich von anderen Ländern. Rechtsschutzversicherungen sind hier auf das Obligationenrecht (OR), das Zivilgesetzbuch (ZGB) und kantonale Besonderheiten ausgerichtet. Die Gerichtsgebühren variieren stark zwischen den Kantonen – was in Zürich CHF 2'000 kostet, kann in Appenzell nur CHF 800 betragen.
 
@@ -40,7 +40,7 @@ Für Selbständige besonders wichtig: Die Versicherung unterscheidet zwischen pr
 
 ## Voraussetzungen und Anforderungen
 
-### Rechtliche Voraussetzungen
+**Rechtliche Voraussetzungen**
 
 Für eine Rechtsschutzversicherung benötigst du:
 - **Wohnsitz in der Schweiz** (bei den meisten Versicherern)
@@ -206,7 +206,7 @@ Prüfe jährlich, ob deine Deckung noch ausreicht. Bei Geschäftswachstum, neuen
 
 ## Häufige Fehler und wie du sie vermeidest
 
-### 1. **Zu späte Meldung bei Rechtsstreitigkeiten**
+**1. **Zu späte Meldung bei Rechtsstreitigkeiten****
 
 **Das Problem**: Viele Selbständige melden Rechtsstreitigkeiten zu spät. Die Versicherung zahlt aber nur, wenn sie **vor Beginn des Streits** informiert wird.
 
@@ -214,7 +214,7 @@ Prüfe jährlich, ob deine Deckung noch ausreicht. Bei Geschäftswachstum, neuen
 
 **Praxistipp**: Lieber einmal zu früh anrufen als zu spät. Die Beratungshotline ist kostenlos und hilft oft, Streitigkeiten ganz zu vermeiden.
 
-### 2. **Unvollständige Risikoangaben beim Abschluss**
+**2. **Unvollständige Risikoangaben beim Abschluss****
 
 **Das Problem**: Wer beim Vertragsabschluss Risiken verschweigt oder unvollständige Angaben macht, riskiert den kompletten Versicherungsschutz.
 
@@ -222,7 +222,7 @@ Prüfe jährlich, ob deine Deckung noch ausreicht. Bei Geschäftswachstum, neuen
 
 **Beispiel**: Ein Unternehmensberater verschweigt, dass er auch Software entwickelt. Bei einem späteren Software-Streit verweigert die Versicherung die Leistung komplett.
 
-### 3. **Falschen Deckungsumfang gewählt**
+**3. **Falschen Deckungsumfang gewählt****
 
 **Das Problem**: Viele Selbständige wählen nur Privat-Rechtsschutz, obwohl sie Berufs-Rechtsschutz bräuchten. Oder sie vergessen wichtige Zusatzbausteine wie Steuerrechtsschutz.
 
@@ -230,7 +230,7 @@ Prüfe jährlich, ob deine Deckung noch ausreicht. Bei Geschäftswachstum, neuen
 
 **Faustregel**: Als Selbständiger brauchst du mindestens Berufs- und Verkehrs-Rechtsschutz. Steuerrechtsschutz ist meist sinnvoll.
 
-### 4. **Zu hohen Selbstbehalt gewählt**
+**4. **Zu hohen Selbstbehalt gewählt****
 
 **Das Problem**: Ein hoher Selbstbehalt reduziert zwar die Prämie, macht die Versicherung aber bei kleineren Streitigkeiten wertlos.
 
@@ -238,7 +238,7 @@ Prüfe jährlich, ob deine Deckung noch ausreicht. Bei Geschäftswachstum, neuen
 
 **Beispiel**: Bei CHF 100'000 Jahresumsatz ist ein Selbstbehalt von CHF 1'000 angemessen, CHF 2'000 bereits zu hoch.
 
-### 5. **Wartezeiten nicht beachtet**
+**5. **Wartezeiten nicht beachtet****
 
 **Das Problem**: Rechtsschutzversicherungen haben meist 3-6 Monate Wartezeit. Streitigkeiten in dieser Zeit sind nicht versichert.
 
@@ -246,7 +246,7 @@ Prüfe jährlich, ob deine Deckung noch ausreicht. Bei Geschäftswachstum, neuen
 
 **Ausnahme**: Verkehrs- und Straf-Rechtsschutz haben meist keine Wartezeit.
 
-### 6. **Anwalt ohne Rücksprache beauftragt**
+**6. **Anwalt ohne Rücksprache beauftragt****
 
 **Das Problem**: Wer eigenmächtig einen Anwalt beauftragt, bleibt oft auf den Kosten sitzen. Die Versicherung muss vorher zustimmen.
 
@@ -254,7 +254,7 @@ Prüfe jährlich, ob deine Deckung noch ausreicht. Bei Geschäftswachstum, neuen
 
 **Notfall-Regelung**: Bei Eilfällen (Arrest, einstweilige Verfügung) kannst du sofort handeln, musst aber binnen 48 Stunden melden.
 
-### 7. **Präventive Beratung nicht genutzt**
+**7. **Präventive Beratung nicht genutzt****
 
 **Das Problem**: Die wenigsten Selbständigen nutzen die kostenlose Rechtsberatungs-Hotline ihrer Versicherung für präventive Beratung.
 
@@ -262,7 +262,7 @@ Prüfe jährlich, ob deine Deckung noch ausreicht. Bei Geschäftswachstum, neuen
 
 **Beispiel**: Eine kurze Beratung zur korrekten Kündigungsformulierung kann einen teuren Arbeitsrechtsstreit verhindern.
 
-### 8. **Keine regelmäßige Überprüfung**
+**8. **Keine regelmäßige Überprüfung****
 
 **Das Problem**: Geschäft und Versicherungsschutz entwickeln sich auseinander. Die Deckung passt nicht mehr zu den aktuellen Risiken.
 
@@ -280,31 +280,31 @@ Prüfe jährlich, ob deine Deckung noch ausreicht. Bei Geschäftswachstum, neuen
 
 ## FAQ – Häufig gestellte Fragen
 
-### Lohnt sich eine Rechtsschutzversicherung für kleine Selbständige?
+**Lohnt sich eine Rechtsschutzversicherung für kleine Selbständige?**
 
 Ja, besonders für kleine Selbständige ist Rechtsschutz wichtig. Eine einzige Rechtsstreitigkeit kann CHF 10'000-20'000 kosten – das entspricht oft mehreren Monatsgewinnen. Die Versicherung kostet dagegen nur CHF 400-800 jährlich. Zudem erhältst du Zugang zu professioneller Rechtsberatung, die dir sonst zu teuer wäre. Die kostenlose Beratungshotline hilft bei Vertragsverhandlungen, arbeitsrechtlichen Fragen oder Steuerstreitigkeiten. Ohne Rechtsschutz musst du oft auf dein Recht verzichten, weil du die Prozesskosten nicht tragen kannst.
 
-### Was passiert, wenn ich einen Rechtsstreit verliere?
+**Was passiert, wenn ich einen Rechtsstreit verliere?**
 
 Auch bei einer verlorenen Klage übernimmt die Rechtsschutzversicherung deine eigenen Anwalts- und Verfahrenskosten bis zur Versicherungssumme. Die Kosten der Gegenseite (deren Anwalt und weitere Verfahrenskosten) sind jedoch nicht gedeckt – diese musst du selbst zahlen. In der Schweiz trägt meist jede Partei ihre eigenen Kosten, außer bei offensichtlich aussichtslosen Klagen. Deshalb solltest du vor Prozessbeginn die Erfolgsaussichten realistisch einschätzen. Die Versicherung hat ein Interesse an erfolgreichen Verfahren und wird dich ehrlich beraten.
 
-### Kann ich meinen Anwalt frei wählen?
+**Kann ich meinen Anwalt frei wählen?**
 
 Das hängt vom Streitwert und deinem Tarif ab. Bei kleineren Streitigkeiten (unter CHF 5'000) bestimmt oft die Versicherung den Anwalt aus ihrem Netzwerk. Ab CHF 5'000 Streitwert hast du meist freie Anwaltswahl, sofern der Anwalt in der Schweiz zugelassen ist. Die Versicherung kann nur dann einen anderen Anwalt vorschlagen, wenn der gewählte überdurchschnittlich hohe Honorare verlangt. Wichtig: Du musst den Anwalt immer erst der Versicherung melden und die Deckungszusage abwarten, bevor du ihn beauftragst. Sonst bleibst du auf den Kosten sitzen.
 
-### Sind internationale Rechtsstreitigkeiten versichert?
+**Sind internationale Rechtsstreitigkeiten versichert?**
 
 Das hängt von deinem Tarif ab. Basis-Tarife decken meist nur Streitigkeiten in der Schweiz ab. Für internationale Deckung zahlst du einen Aufschlag von 20-50%. Dabei unterscheidet man zwischen Europa-Deckung und weltweiter Deckung. Europa-Deckung umfasst EU-Länder plus Norwegen und Island, weltweite Deckung gilt überall. Wichtig: Auch bei internationaler Deckung gelten oft Limits. Streitigkeiten außerhalb Europas sind häufig nur bis CHF 100'000 versichert. Wenn du regelmäßig international tätig bist, solltest du unbedingt erweiterte Deckung wählen.
 
-### Wie schnell zahlt die Rechtsschutzversicherung?
+**Wie schnell zahlt die Rechtsschutzversicherung?**
 
 Die Bearbeitung dauert meist 2-4 Wochen. Zuerst prüft die Versicherung, ob der Fall versichert ist und ob Erfolgsaussichten bestehen. Bei klaren Fällen geht es schneller, bei komplexen Sachverhalten kann es länger dauern. In Eilfällen (einstweilige Verfügungen, Arreste) entscheidet die Versicherung binnen 48 Stunden. Wenn die Deckung bestätigt ist, zahlt die Versicherung die Anwaltsrechnungen meist direkt. Du musst also nicht in Vorleistung gehen. Bei Gerichtskosten wird oft eine Vorauszahlung geleistet und später abgerechnet.
 
-### Was ist der Unterschied zwischen Rechtsschutz und Haftpflichtversicherung?
+**Was ist der Unterschied zwischen Rechtsschutz und Haftpflichtversicherung?**
 
 Das sind zwei völlig verschiedene Versicherungen. Die Haftpflichtversicherung zahlt Schadenersatz, wenn du anderen einen Schaden zufügst. Die Rechtsschutzversicherung zahlt deine Anwalts- und Gerichtskosten, wenn du dein Recht durchsetzen oder dich verteidigen musst. Beispiel: Du hast einen Wasserschaden beim Nachbarn verursacht. Die Haftpflicht zahlt den Schaden. Wenn der Nachbar mehr fordert als berechtigt, zahlt der Rechtsschutz deinen Anwalt für die Verteidigung. Als Selbständiger brauchst du beide Versicherungen – sie ergänzen sich, ersetzen sich aber nicht.
 
-### Gilt die Rechtsschutzversicherung auch für meine Familie?
+**Gilt die Rechtsschutzversicherung auch für meine Familie?**
 
 Das hängt vom gewählten Tarif ab. Familien-Rechtsschutz deckt meist Ehepartner und minderjährige Kinder mit ab. Wichtig: Das gilt nur für private Rechtsstreitigkeiten, nicht für geschäftliche. Wenn dein Ehepartner ebenfalls selbständig ist, braucht er eine eigene Berufs-Rechtsschutzversicherung. Volljährige Kinder sind nur mitversichert, solange sie in Ausbildung sind oder noch zu Hause wohnen. Unverheiratete Partner sind normalerweise nicht mitversichert, außer du meldest sie explizit an. Die Familiendeckung kostet meist CHF 100-200 Aufschlag, lohnt sich aber fast immer.
 

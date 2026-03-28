@@ -194,7 +194,7 @@ Eine Einzelfirma (auch Einzelunternehmen genannt) ist ein Unternehmen, das einer
 
 ## Voraussetzungen für Einzelfirma-Gründung
 
-### 1. Persönliche Voraussetzungen
+**1. Persönliche Voraussetzungen**
 
 **Volljährigkeit:**
 - Mindestens 18 Jahre alt
@@ -210,7 +210,7 @@ Eine Einzelfirma (auch Einzelunternehmen genannt) ist ein Unternehmen, das einer
 - **Drittstaaten:** Niederlassungsbewilligung (C) zwingend
 - **Ausnahme:** Bestimmte Branchen (z.B. Gastronomie) haben zusätzliche Anforderungen
 
-### 2. Fachliche Voraussetzungen
+**2. Fachliche Voraussetzungen**
 
 **Ohne Bewilligung möglich:**
 - Beratung (Business, Marketing, IT)
@@ -242,7 +242,7 @@ Eine Einzelfirma (auch Einzelunternehmen genannt) ist ein Unternehmen, das einer
 
 → [Bewilligungen für Selbständige: Übersicht](/artikel/selbstaendig-werden-schweiz)
 
-### 3. Firmenname
+**3. Firmenname**
 
 **Regeln für Firmenname:**
 - Muss Ihren Nachnamen enthalten (z.B. "Müller Beratung", "Anna Müller Design")
@@ -697,7 +697,7 @@ Möglich:
 **Standard:** CHF 2'500-5'000
 **Professionell:** CHF 5'000-12'000
 
-### Laufende Kosten (jährlich)
+**Laufende Kosten (jährlich)**
 
 | Position | Kosten/Jahr |
 |----------|-------------|
@@ -934,42 +934,42 @@ Steuern (grob):
 
 ## Häufige Fehler vermeiden
 
-### 1. Keine Trennung Privat/Geschäftlich
+**1. Keine Trennung Privat/Geschäftlich**
 **Fehler:** Alles auf Privatkonto
 **Folge:** Buchhaltungs-Chaos, Steuerprobleme
 **Lösung:** Geschäftskonto eröffnen (CHF 0-20/Monat)
 
-### 2. Zu spät bei AHV anmelden
+**2. Zu spät bei AHV anmelden**
 **Fehler:** Anmeldung erst nach 1 Jahr
 **Folge:** Nachzahlung + Busse
 **Lösung:** Innert 14 Tagen nach Start anmelden!
 
-### 3. Keine Rückstellungen für Steuern
+**3. Keine Rückstellungen für Steuern**
 **Fehler:** Gesamten Gewinn ausgegeben
 **Folge:** Steuerschock (kann nicht bezahlen)
 **Lösung:** 30-40% des Gewinns zurücklegen!
 
-### 4. Zu wenig Versicherungen
+**4. Zu wenig Versicherungen**
 **Fehler:** "Wird schon gut gehen"
 **Folge:** Bei Krankheit/Unfall kein Einkommen
 **Lösung:** Mind. KTG + Unfall + Berufshaftpflicht
 
-### 5. Kein Notfall-Polster
+**5. Kein Notfall-Polster**
 **Fehler:** Von Monat zu Monat leben
 **Folge:** Bei Auftragsflaute Panik
 **Lösung:** 6 Monate Lebenshaltungskosten als Reserve
 
-### 6. Preise zu niedrig
+**6. Preise zu niedrig**
 **Fehler:** Konkurrenz unterbieten
 **Folge:** Nicht profitabel, Burnout
 **Lösung:** Stundensatz richtig berechnen (inkl. aller Kosten!)
 
-### 7. Keine Verträge
+**7. Keine Verträge**
 **Fehler:** Mündliche Abmachungen
 **Folge:** Streitigkeiten, nicht bezahlt
 **Lösung:** Schriftliche Verträge (mindestens Auftragsbestätigung)
 
-### 8. Isolation
+**8. Isolation**
 **Fehler:** Einzelkämpfer-Mentalität
 **Folge:** Stagnation, Überlastung, Einsamkeit
 **Lösung:** Networking, Coworking, Peer-Gruppen
@@ -1025,40 +1025,40 @@ Steuern (grob):
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wie viel kostet es, eine Einzelfirma zu gründen?
+**Wie viel kostet es, eine Einzelfirma zu gründen?**
 **Minimum:** CHF 500-1'500 (ohne HR-Eintrag, DIY-Website). **Standard:** CHF 2'500-5'000 (mit HR-Eintrag, einfache Website, Basics). **Professionell:** CHF 5'000-12'000 (Logo, Website, Beratung). Plus: 6-12 Monate Lebenshaltungskosten als Reserve (CHF 25'000-60'000). Laufende Kosten: CHF 15'000-40'000/Jahr (Versicherungen, AHV, Software, Marketing). Aber: Kein Mindestkapital wie bei GmbH (CHF 20'000).
 
-### Brauche ich ein Handelsregister für eine Einzelfirma?
+**Brauche ich ein Handelsregister für eine Einzelfirma?**
 **Pflicht:** Ab CHF 100'000 Jahresumsatz. **Freiwillig darunter:** Vorteile: Firmenname geschützt, professioneller, Geschäftskonto einfacher. Nachteile: Kosten CHF 200-600 einmalig + jährliche Mutation bei Änderungen. Empfehlung: Wenn Sie seriös auftreten wollen → eintragen. Wenn Sie nebenbei testen → warten bis CHF 100k. Kosten: CHF 200-600 je nach Kanton + CHF 50-100 Notar.
 
-### Wie lange dauert es, eine Einzelfirma zu gründen?
+**Wie lange dauert es, eine Einzelfirma zu gründen?**
 **Ohne Handelsregister:** 1 Tag (AHV-Anmeldung, loslegen). **Mit Handelsregister:** 3-7 Tage (Unterschrift beglaubigen, HR-Eintrag wartet 3-5 Tage). **Mit Bewilligungen:** 2-8 Wochen (je nach Bewilligung). Schnellster Weg: Heute entscheiden, morgen AHV anmelden, übermorgen erste Rechnung schreiben. Zum Vergleich: GmbH dauert 2-6 Wochen.
 
-### Was ist der Unterschied zwischen Einzelfirma und Einzelunternehmen?
+**Was ist der Unterschied zwischen Einzelfirma und Einzelunternehmen?**
 **Keine!** Gleiche Rechtsform, verschiedene Bezeichnungen. "Einzelfirma" ist gebräuchlicher in der Deutschschweiz. "Einzelunternehmen" eher offizieller Begriff. Rechtlich identisch: Eine Person, unbeschränkte Haftung, kein Mindestkapital. Auch genannt: "Inhaber", "Selbständigerwerbende", "Einzelkämpfer". Im Gesetz: OR Art. 934 ff.
 
-### Kann ich eine Einzelfirma nebenberuflich gründen?
+**Kann ich eine Einzelfirma nebenberuflich gründen?**
 **Ja!** Sehr verbreitet und empfohlen. **Wichtig:** (1) Arbeitgeber informieren (Arbeitsvertrag prüfen – meist Erlaubnis nötig bei Konkurrenz). (2) AHV: Bei Haupterwerb (Angestellter) zahlt AG, bei Nebenerwerb Sie (10.1%). (3) Arbeitszeit: Max. 45-50h/Woche total (Gesundheitsschutz). (4) Steuern: Beide Einkommen addiert. Vorteil: Risiko minimiert, Kunden aufbauen, testen. Nach 1-2 Jahren: Entscheidung Vollzeit ja/nein.
 
-### Hafte ich mit meinem Privatvermögen bei einer Einzelfirma?
+**Hafte ich mit meinem Privatvermögen bei einer Einzelfirma?**
 **Ja, vollumfänglich!** Geschäftsschulden = Privatschulden. Ihr Haus, Auto, Ersparnis können gepfändet werden. Beispiel: Kunde verklagt Sie auf CHF 50'000 Schadenersatz, Sie verlieren → Privatvermögen haftet. Schutz: (1) Berufshaftpflicht-Versicherung (dringend!). (2) Niedriges Risiko-Geschäft wählen. (3) Bei hohem Risiko → GmbH gründen (Haftung beschränkt auf CHF 20'000 Kapital). Häufigste Fehler: Handwerker ohne Haftpflicht, dann Schaden.
 
-### Muss ich als Einzelfirma MWST abrechnen?
+**Muss ich als Einzelfirma MWST abrechnen?**
 **Pflicht ab:** CHF 100'000 Jahresumsatz (weltweit). **Freiwillig ab:** CHF 10'000 (macht Sinn bei hohen Geschäftsausgaben mit MWST). **Ablauf:** Anmeldung ESTV → MWST-Nummer → Quartalsweise Abrechnung (7.7% kassieren, Vorsteuer abziehen). **Vorteil:** Vorsteuer zurück (auf Laptop, Büro, etc.). **Nachteil:** Admin-Aufwand, höhere Preise für B2C. Unter CHF 100k: Meist nicht lohnenswert (ausser hohe Investitionen). → [MWST-Guide](/artikel/steuern-selbststaendige)
 
-### Kann ein Ausländer in der Schweiz eine Einzelfirma gründen?
+**Kann ein Ausländer in der Schweiz eine Einzelfirma gründen?**
 **Ja** – mit den richtigen Bewilligungen. EU/EFTA-Bürger mit Aufenthaltsbewilligung B (mit Erwerbstätigkeit) oder C können sofort gründen. Drittstaaten-Angehörige benötigen die Niederlassungsbewilligung C. Grenzgänger (G-Ausweis) können keine Einzelfirma mit Sitz in der Schweiz führen. Benötigte Dokumente: Pass/ID + Aufenthaltsbewilligung + Anmeldeformular (kantonales Handelsregisteramt). Dauer: identisch zu Schweizern, 1–7 Tage.
 
-### Wie melde ich mich nach der Einzelfirma-Gründung bei der AHV an?
+**Wie melde ich mich nach der Einzelfirma-Gründung bei der AHV an?**
 1. Ausgleichskasse wählen (kantonal oder Verband). 2. Formular "Anmeldung selbständige Erwerbstätigkeit" ausfüllen (ahv.ch oder direkt bei Kasse). 3. Tätigkeitsbeschreibung beilegen. 4. Einreichen – per Post, persönlich oder online. **Frist: innert 14 Tagen** nach Aufnahme der Tätigkeit (AHVG Art. 11). Beitrag: 10.1% vom Nettoeinkommen (mind. CHF 503/Jahr, 2026). Bei zu später Anmeldung: Nachzahlung + Lücken in der Altersvorsorge.
 
-### Welche Schweizer Banken akzeptieren eine Einzelfirma ohne Mindesteinlage?
+**Welche Schweizer Banken akzeptieren eine Einzelfirma ohne Mindesteinlage?**
 Ohne Mindesteinlage: **Neon Business** (CHF 0/Monat, kostenlos), **Revolut Business** (ab CHF 0), **Wise Business** (CHF 0). Postfinance: CHF 5/Monat, keine Mindesteinlage. Klassische Banken (UBS, ZKB, Raiffeisen) verlangen oft CHF 500–5'000 Mindestguthaben oder erheben Gebühren. Empfehlung für Freelancer unter CHF 100k Umsatz: Neon Business – komplett kostenlos, Schweizer IBAN, sofort online eröffnen.
 
-### Ab wann muss eine Einzelfirma ins Handelsregister?
+**Ab wann muss eine Einzelfirma ins Handelsregister?**
 **Pflicht ab CHF 100'000 Jahresumsatz** (OR Art. 934 Abs. 2). Was sich ändert: Firmenname wird schweizweit geschützt, HR-Nummer muss auf Rechnungen erscheinen, Buchführungspflicht nach OR Art. 957, öffentliche Einsehbarkeit (zefix.ch). Kosten: CHF 180–400 je nach Kanton (ZH: 200, BE: 300, GE: 400). Freiwilliger Eintrag ist immer möglich – sinnvoll für seriösen Auftritt und Namensschutz.
 
-### Lohnt sich die GmbH für Freelancer unter CHF 100k Umsatz?
+**Lohnt sich die GmbH für Freelancer unter CHF 100k Umsatz?**
 **Fast nie.** Vergleich bei CHF 80'000 Umsatz in Zürich: Einzelfirma – Gesamtlast Steuern+AHV ~CHF 15'500, Gründungskosten CHF 0–600. GmbH – Gesamtlast ähnlich (~CHF 14'600), aber Gründungskosten CHF 2'000–5'000 + CHF 1'500–3'000/Jahr mehr Admin. Effektiver Nachteil GmbH: CHF 3'000–7'000/Jahr mehr Gesamtkosten. Erst ab ca. CHF 150'000 Reingewinn wird die GmbH steuerlich interessant.
 
 ## Fazit

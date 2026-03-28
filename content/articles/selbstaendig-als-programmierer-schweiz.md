@@ -67,7 +67,7 @@ Der Digitalisierungsschub hat sich nach Corona stabilisiert. Remote Work ist Sta
 
 ## Kosten für selbständige Programmierer (detaillierte Tabelle)
 
-### Einmalige Kosten
+**Einmalige Kosten**
 | Position | Kosten (CHF) | Bemerkung |
 |----------|-------------|-----------|
 | Einzelfirma-Anmeldung | 100-200 | Je nach Gemeinde |
@@ -77,7 +77,7 @@ Der Digitalisierungsschub hat sich nach Corona stabilisiert. Remote Work ist Sta
 | Büroeinrichtung | 1'000-3'000 | Schreibtisch, Stuhl, Beleuchtung |
 | **Total einmalig** | **5'600-16'200** | |
 
-### Laufende Kosten (jährlich)
+**Laufende Kosten (jährlich)**
 | Position | Kosten (CHF) | Bemerkung |
 |----------|-------------|-----------|
 | AHV/IV/EO | 10.1% vom Einkommen | Mindestbeitrag CHF 514 |

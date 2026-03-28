@@ -145,21 +145,21 @@ Für die **Abrechnung mit der Grundversicherung (KVG)** brauchst du eine **ZSR-N
 
 ## Arbeitsmodelle für freiberufliche Hebammen
 
-### 1. Wochenbettbetreuung und Vorsorge
+**1. Wochenbettbetreuung und Vorsorge**
 
 Häufigste Tätigkeit freiberuflicher Hebammen: Hausbesuche nach der Geburt.
 
 - Vorteil: Planbare Tagesstruktur
 - Nachteil: Niedrigere Einnahmen als Geburtsbegleitung
 
-### 2. Geburtsbegleitung (Haus- und Geburtshaus)
+**2. Geburtsbegleitung (Haus- und Geburtshaus)**
 
 Intensivere Tätigkeit, hohe Verantwortung, besser bezahlt.
 
 - Vorteil: Pro Geburt CHF 1'400–2'200
 - Nachteil: Unregelmässige Arbeitszeiten (Nacht, Wochenende)
 
-### 3. Kurse und Elternbildung
+**3. Kurse und Elternbildung**
 
 Geburtsvorbereitungskurse, Babymassage-Kurse, Stillgruppen.
 

@@ -52,7 +52,7 @@ Je mehr du dich spezialisierst, desto mehr kannst du verlangen.
 
 ## Schritt für Schritt zum VA-Business
 
-### 1. Leistungsangebot definieren
+**1. Leistungsangebot definieren**
 
 Überleg dir: Was kannst du gut? Was macht dir Spass? Mit welchen Tools kennst du dich aus?
 
@@ -61,13 +61,13 @@ Gute Startpunkte:
 - Social Media (gut für Instagram-erfahrene)
 - Buchhaltungsunterstützung (MWST-Abrechnungen, Belege)
 
-### 2. AHV anmelden
+**2. AHV anmelden**
 
 Ab dem ersten Franken Einkommen als Selbständige musst du dich bei der AHV-Ausgleichskasse anmelden.
 
 → [AHV für Selbständige](/artikel/ahv-selbstaendige-beitraege-schweiz)
 
-### 3. Stundensatz festlegen
+**3. Stundensatz festlegen**
 
 | Niveau | Stundensatz | Wofür |
 |---|---|---|
@@ -77,7 +77,7 @@ Ab dem ersten Franken Einkommen als Selbständige musst du dich bei der AHV-Ausg
 
 **Tipp:** Starte nicht zu günstig. CHF 25/Stunde klingt niedrig, aber wenn du 5 Stunden pro Woche pro Kunde arbeitest, bist du schnell ausgebucht. Lieber weniger Kunden zu besserem Preis.
 
-### 4. Vertragsvorlage
+**4. Vertragsvorlage**
 
 Du brauchst einen einfachen Dienstleistungsvertrag. Wichtige Punkte:
 - Stundensatz oder Pauschalpreis
@@ -86,7 +86,7 @@ Du brauchst einen einfachen Dienstleistungsvertrag. Wichtige Punkte:
 - Datenschutz (wer Zugriff auf E-Mails/Accounts hat)
 - Kündigungsfrist
 
-### 5. Tools einrichten
+**5. Tools einrichten**
 
 Als VA brauchst du gute digitale Werkzeuge:
 - **Kommunikation:** Slack, Teams, Zoom

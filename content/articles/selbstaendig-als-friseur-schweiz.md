@@ -40,7 +40,7 @@ Beim Kantonsgesundheitsamt oder kantonalen Gewerbeamt anmelden. Anforderungen va
 
 ## Drei Wege zur Selbständigkeit
 
-### 1. Stuhlmiete — der günstigste Einstieg
+**1. Stuhlmiete — der günstigste Einstieg**
 
 Du mietest einen Arbeitsplatz in einem bestehenden Salon.
 
@@ -51,7 +51,7 @@ Du mietest einen Arbeitsplatz in einem bestehenden Salon.
 
 **Das ist der ideale erste Schritt.** Du baust Kunden auf, ohne das finanzielle Risiko eines eigenen Salons.
 
-### 2. Eigener Salon
+**2. Eigener Salon**
 
 Du mietest ein Ladenlokal und richtest deinen eigenen Salon ein.
 
@@ -72,7 +72,7 @@ Du mietest ein Ladenlokal und richtest deinen eigenen Salon ein.
 - Reinigung, Wasser: CHF 200–400
 - Versicherungen: CHF 300–500
 
-### 3. Mobiler Friseur
+**3. Mobiler Friseur**
 
 Du gehst zum Kunden — ideal für ältere Menschen, Hochzeiten, Corporate-Events.
 

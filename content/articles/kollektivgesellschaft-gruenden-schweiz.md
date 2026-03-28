@@ -70,7 +70,7 @@ Das Wichtigste ist absolutes Vertrauen zwischen allen Gesellschaftern. Da jeder 
 | Beglaubigungen/Auszüge | 50-100 | Handelsregisterauszüge |
 | **Total Gründung** | **1'450-3'200** | **Je nach Aufwand** |
 
-### Laufende Jahreskosten
+**Laufende Jahreskosten**
 
 | Kostenpunkt | Betrag (CHF) | Bemerkung |
 |-------------|--------------|-----------|
@@ -173,25 +173,25 @@ Ohne klare Ausstiegsregelungen wird die Auflösung bei Unstimmigkeiten schwierig
 
 ## FAQ - Häufige Fragen zur Kollektivgesellschaft
 
-### Kann ich eine Kollektivgesellschaft auch alleine führen?
+**Kann ich eine Kollektivgesellschaft auch alleine führen?**
 Nein, eine Kollektivgesellschaft benötigt mindestens zwei Gesellschafter. Falls ein Gesellschafter ausscheidet und nur noch einer übrig bleibt, muss die Gesellschaft innerhalb von 12 Monaten aufgelöst oder in eine andere Rechtsform umgewandelt werden. Die häufigste Alternative ist die Umwandlung in eine Einzelfirma, falls nur ein Gesellschafter übrig bleibt. Der Handelsregistereintrag muss entsprechend geändert werden.
 
-### Hafte ich für Schulden meines Geschäftspartners?
+**Hafte ich für Schulden meines Geschäftspartners?**
 Ja, das ist das Hauptrisiko einer Kollektivgesellschaft. Alle Gesellschafter haften solidarisch und unbeschränkt für sämtliche Geschäftsschulden - auch mit ihrem Privatvermögen. Kann ein Gesellschafter nicht zahlen, müssen die anderen die gesamte Schuld übernehmen. Gläubiger können jeden Gesellschafter für die komplette Forderung belangen. Deshalb ist absolutes Vertrauen zwischen den Partnern essentiell und eine umfassende Haftpflichtversicherung unerlässlich.
 
-### Wann muss ich mich ins Handelsregister eintragen?
+**Wann muss ich mich ins Handelsregister eintragen?**
 Ein Handelsregistereintrag ist bei kaufmännisch geführten Kollektivgesellschaften obligatorisch. Das ist der Fall, wenn der Jahresumsatz CHF 20'000 übersteigt oder die Tätigkeit eindeutig kaufmännisch ist (Handel, Dienstleistungen, Beratung). Der Eintrag kostet CHF 600 und muss innerhalb von drei Monaten nach Geschäftsaufnahme erfolgen. Ohne Eintrag drohen Bußgelder und rechtliche Probleme bei Verträgen.
 
-### Wie wird der Gewinn versteuert?
+**Wie wird der Gewinn versteuert?**
 Die Kollektivgesellschaft selbst zahlt keine Gewinnsteuer. Der Gewinn wird auf die Gesellschafter aufgeteilt und bei ihnen als Erwerbseinkommen versteuert. Zusätzlich fallen AHV/IV/EO-Beiträge von 10,1% auf den Gewinnanteil an. Ab CHF 100'000 Jahresumsatz ist die Gesellschaft MWST-pflichtig und muss vierteljährlich abrechnen. Die Einkommenssteuersätze variieren je nach Wohnort und Einkommen der Gesellschafter.
 
-### Kann ich einen stillen Gesellschafter aufnehmen?
+**Kann ich einen stillen Gesellschafter aufnehmen?**
 Nein, bei einer Kollektivgesellschaft gibt es keine stillen Gesellschafter. Alle Gesellschafter sind im Handelsregister eingetragen und haften vollumfänglich. Für stille Beteiligungen eignet sich eine GmbH oder AG besser. Alternativ könnte eine Kommanditgesellschaft interessant sein, wo es Komplementäre (voll haftende Gesellschafter) und Kommanditäre (beschränkt haftende Gesellschafter) gibt. Diese Rechtsform ist in der Schweiz jedoch noch seltener als die Kollektivgesellschaft.
 
-### Was passiert bei Streitigkeiten zwischen Gesellschaftern?
+**Was passiert bei Streitigkeiten zwischen Gesellschaftern?**
 Streitigkeiten können die Kollektivgesellschaft handlungsunfähig machen, da wichtige Entscheide meist Einstimmigkeit erfordern. Bei unlösbaren Konflikten bleibt oft nur die Auflösung der Gesellschaft. Deshalb sollte der Gesellschaftsvertrag Konfliktlösungsmechanismen enthalten: Mediationsverfahren, Mehrheitsentscheide bei bestimmten Themen oder Ausstiegsklauseln. Ein detaillierter Vertrag kann viele Probleme von vornherein vermeiden und teure Rechtsstreitigkeiten verhindern.
 
-### Können Gesellschafter Lohn beziehen?
+**Können Gesellschafter Lohn beziehen?**
 Nein, Gesellschafter einer Kollektivgesellschaft können keinen Lohn beziehen. Sie erhalten nur ihren Anteil am Gewinn der Gesellschaft. Eine Ausnahme ist möglich, wenn ein Gesellschafter zusätzlich zur Gesellschafterstellung eine echte Angestelltentätigkeit ausübt. Dies muss jedoch klar abgegrenzt und angemessen entlöhnt werden. AHV-Beiträge fallen in jedem Fall auf den Gewinnanteil an, da Gesellschafter als Selbständigerwerbende gelten.
 
 ## Fazit

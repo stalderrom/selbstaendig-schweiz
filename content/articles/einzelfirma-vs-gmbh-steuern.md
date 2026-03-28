@@ -245,19 +245,19 @@ Trotz steuerlicher Nachteile bei hohem Einkommen kann die Einzelfirma besser sei
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich als GmbH-Geschäftsführer trotzdem Säule 3a einzahlen?
+**Kann ich als GmbH-Geschäftsführer trotzdem Säule 3a einzahlen?**
 
 Ja. Als angestellter Geschäftsführer deiner GmbH kannst du privat Säule 3a einzahlen (CHF 7'258 ohne BVG oder weniger mit BVG-Anschluss). Zusätzlich kann die GmbH eine Pensionskasse für dich einrichten.
 
-### Muss ich bei der GmbH zwingend einen Treuhänder haben?
+**Muss ich bei der GmbH zwingend einen Treuhänder haben?**
 
 Nicht gesetzlich, aber praktisch ja. Eine GmbH erfordert einen Jahresabschluss nach Obligationenrecht, MWST-Abrechnungen, Lohnbuchhaltung und Generalversammlung. Ohne Buchhaltungskenntnisse ist das kaum selbst machbar. Budget: CHF 3'000–6'000/Jahr für Treuhänder.
 
-### Wie lange dauert die Umwandlung von Einzelfirma zu GmbH?
+**Wie lange dauert die Umwandlung von Einzelfirma zu GmbH?**
 
 In der Regel 4–8 Wochen: Notar-Termin vorbereiten (1–2 Wochen Vorlauf), Eintragung ins Handelsregister (3–5 Arbeitstage), AHV-Ummeldung (sofort). Der gesamte Prozess inkl. Vorbereitung dauert oft 6–10 Wochen.
 
-### Ist die steuerliche Optimierung bei der GmbH legal?
+**Ist die steuerliche Optimierung bei der GmbH legal?**
 
 Ja, vollständig legal. Der Lohn-Dividenden-Mix, Pensionskassen-Einkäufe und Gewinnthesaurierung sind anerkannte Steueroptimierungsmethoden. Wichtig ist, dass der Lohn marktüblich ist und du keine missbräuchlichen Konstruktionen verwendest. Mit einem erfahrenen Treuhänder bist du auf der sicheren Seite.
 

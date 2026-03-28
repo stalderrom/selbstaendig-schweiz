@@ -30,7 +30,7 @@ Die QR-Rechnung ist nicht nur ein technisches Update – sie revolutioniert den 
 
 ## Voraussetzungen für QR-Rechnungen in der Schweiz
 
-### Rechtliche Anforderungen
+**Rechtliche Anforderungen**
 
 Für die Erstellung von QR-Rechnungen benötigst du folgende Grundlagen:
 
@@ -40,7 +40,7 @@ Für die Erstellung von QR-Rechnungen benötigst du folgende Grundlagen:
 
 **MWST-Nummer:** Falls du MWST-pflichtig bist (Umsatz über CHF 100'000), muss die MWST-Nummer auf jeder Rechnung stehen.
 
-### Technische Voraussetzungen
+**Technische Voraussetzungen**
 
 **Software:** Du benötigst einen QR-Code Generator oder eine Buchhaltungssoftware mit QR-Funktionalität. Viele Online-Tools sind kostenlos verfügbar.
 
@@ -184,35 +184,35 @@ Erstelle eine Standardvorlage mit diesen Elementen:
 
 ## Häufige Fehler bei QR-Rechnungen vermeiden
 
-### 1. Falsche IBAN-Art verwenden
+**1. Falsche IBAN-Art verwenden**
 **Problem:** Viele verwechseln QR-IBAN und normale IBAN bei der Referenznummer-Verwendung.
 **Lösung:** QR-IBAN nur nutzen, wenn du strukturierte Referenznummern brauchst. Für einfache Rechnungen reicht die normale IBAN.
 
-### 2. Referenznummer vergessen oder falsch
+**2. Referenznummer vergessen oder falsch**
 **Problem:** Bei QR-IBAN ist eine strukturierte Referenznummer Pflicht – ohne wird die Zahlung abgelehnt.
 **Lösung:** Verwende automatische Referenznummern-Generierung oder prüfe jede Nummer auf 27 Stellen.
 
-### 3. Betragsformatierung ignorieren
+**3. Betragsformatierung ignorieren**
 **Problem:** Falsche Dezimalstellen oder Währungsangaben führen zu Fehlern.
 **Lösung:** Beträge immer als CHF mit zwei Dezimalstellen eingeben (z.B. CHF 1'250.00).
 
-### 4. Unvollständige Adressdaten
+**4. Unvollständige Adressdaten**
 **Problem:** Fehlende Postleitzahlen oder Ortsnamen bei Absender oder Empfänger.
 **Lösung:** Vollständige Schweizer Adressen mit PLZ und Ort sind Pflicht. Bei ausländischen Kunden auch das Land angeben.
 
-### 5. QR-Code zu klein drucken
+**5. QR-Code zu klein drucken**
 **Problem:** Zu kleine QR-Codes können nicht gelesen werden.
 **Lösung:** Mindestgrösse 46×46 mm einhalten, besser 50×50 mm für sichere Lesbarkeit.
 
-### 6. MWST-Angaben vergessen
+**6. MWST-Angaben vergessen**
 **Problem:** MWST-pflichtige Unternehmen vergessen die Steuerausweise auf QR-Rechnungen.
 **Lösung:** MWST-Nummer, Steuersätze und Steuerbeträge gehören auch bei QR-Rechnungen dazu.
 
-### 7. Veraltete Software nutzen
+**7. Veraltete Software nutzen**
 **Problem:** Alte QR-Code-Generatoren entsprechen nicht mehr dem aktuellen Standard.
 **Lösung:** Software regelmässig updaten oder auf aktuelle Online-Tools wechseln.
 
-### 8. Zahlungsfrist nicht angeben
+**8. Zahlungsfrist nicht angeben**
 **Problem:** Fehlende Zahlungskonditionen verwirren Kunden.
 **Lösung:** Immer eine klare Zahlungsfrist angeben (z.B. "Zahlbar innert 30 Tagen").
 
@@ -227,31 +227,31 @@ Erstelle eine Standardvorlage mit diesen Elementen:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich als Einzelfirma QR-Rechnungen erstellen?
+**Kann ich als Einzelfirma QR-Rechnungen erstellen?**
 
 Ja, definitiv. Als Einzelfirma kannst du problemlos QR-Rechnungen erstellen. Du brauchst lediglich ein Schweizer Bankkonto und eine gültige Geschäftsadresse. Die Einzelfirma ist sogar die einfachste Rechtsform für QR-Rechnungen, da weniger rechtliche Komplexität besteht. Viele kostenlose Tools sind speziell für Einzelunternehmer entwickelt worden. Wichtig ist nur, dass du bei MWST-Pflicht (Umsatz über CHF 100'000) deine MWST-Nummer korrekt angibst.
 
-### Was kostet eine QR-IBAN bei meiner Bank?
+**Was kostet eine QR-IBAN bei meiner Bank?**
 
 Die meisten Schweizer Banken stellen QR-IBANs kostenlos zur Verfügung. PostFinance, UBS, Credit Suisse und Raiffeisen erheben normalerweise keine zusätzlichen Gebühren für QR-IBANs. Du zahlst nur die normalen Kontoführungsgebühren. Einige kleinere Banken verlangen einmalig CHF 20-50 für die QR-IBAN-Einrichtung. Am besten fragst du direkt bei deiner Bank nach, da sich Gebührenstrukturen ändern können. Eine normale IBAN funktioniert übrigens auch für QR-Rechnungen – QR-IBANs brauchst du nur für strukturierte Referenznummern.
 
-### Muss ich eine strukturierte Referenznummer verwenden?
+**Muss ich eine strukturierte Referenznummer verwenden?**
 
 Nein, strukturierte Referenznummern sind optional. Du hast drei Möglichkeiten: Ohne Referenz (einfachste Variante), mit unstrukturierter Referenz (freier Text wie "Rechnung 2026-001") oder mit strukturierter Referenz (27-stellige Nummer für automatische Zuordnung). Strukturierte Referenzen lohnen sich ab etwa 20 Rechnungen monatlich, da sie die Buchhaltung automatisieren. Für wenige Rechnungen reicht die einfache Variante ohne Referenz völlig aus. Bei strukturierten Referenzen brauchst du jedoch zwingend eine QR-IBAN.
 
-### Kann ich QR-Rechnungen auch handschriftlich ausfüllen?
+**Kann ich QR-Rechnungen auch handschriftlich ausfüllen?**
 
 Nein, QR-Rechnungen können nicht handschriftlich erstellt werden. Der QR-Code muss digital generiert werden, da er verschlüsselte Zahlungsinformationen nach ISO 20022 Standard enthält. Du kannst aber QR-Rechnung-Blankoformulare verwenden und die restlichen Rechnungsdaten (Kunde, Positionen, etc.) handschriftlich ergänzen. Der QR-Code selbst muss jedoch immer gedruckt sein. Viele Banken bieten einfache Online-Tools, wo du nur den Betrag und die Kundenadresse eingibst und den QR-Code dann ausdruckst.
 
-### Was passiert, wenn der QR-Code nicht lesbar ist?
+**Was passiert, wenn der QR-Code nicht lesbar ist?**
 
 Ist der QR-Code beschädigt oder unlesbar, können Kunden trotzdem zahlen. Unter dem QR-Code stehen alle Zahlungsinformationen auch als Text (IBAN, Betrag, Referenz). Kunden können diese Daten manuell in ihr E-Banking eingeben. Allerdings verlierst du damit den Hauptvorteil der QR-Rechnung – die einfache, fehlerfreie Zahlung. Häufige Ursachen für unlesbare QR-Codes sind zu kleine Druckgrösse (unter 46mm), schlechte Druckqualität, Knicke im Papier oder zu wenig Kontrast. Teste deine QR-Codes immer mit verschiedenen Banking-Apps.
 
-### Wie integriere ich QR-Rechnungen in meine bestehende Buchhaltung?
+**Wie integriere ich QR-Rechnungen in meine bestehende Buchhaltung?**
 
 Die meisten modernen Buchhaltungsprogramme unterstützen QR-Rechnungen bereits. In Bexio, sevDesk oder AbaNinja aktivierst du einfach die QR-Funktion und hinterlegst deine IBAN. Für Excel-basierte Buchhaltung gibt es QR-Code-Add-ins oder Online-Generatoren mit CSV-Export. Wichtig ist die Abstimmung mit deinem E-Banking: Viele Banken können QR-Zahlungseingänge automatisch kategorisieren und exportieren. Falls du einen Treuhänder hast, frag ihn nach QR-Integration – die meisten Treuhänder bieten das bereits als Standard-Service an.
 
-### Können ausländische Kunden QR-Rechnungen bezahlen?
+**Können ausländische Kunden QR-Rechnungen bezahlen?**
 
 Ja, aber mit Einschränkungen. EU-Kunden können QR-Rechnungen über SEPA-Überweisungen bezahlen, müssen aber die Zahlungsdaten manuell eingeben, da ihre Banking-Apps den Swiss QR Code nicht lesen können. Kunden aus Deutschland, Österreich oder Frankreich sehen unter dem QR-Code alle nötigen Informationen (IBAN, Betrag, Referenz) im Klartext. Ausserhalb der EU sind internationale Überweisungen möglich, aber teurer. Für viele ausländische Kunden ist es einfacher, wenn du zusätzlich andere Zahlungsoptionen anbietest (PayPal, Kreditkarte, internationale Überweisungsdienstleister).
 

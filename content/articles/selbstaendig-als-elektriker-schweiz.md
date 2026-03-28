@@ -25,7 +25,7 @@ Der Markt für selbständige Elektriker ist ausgezeichnet. Die Energiewende scha
 
 ## Voraussetzungen und Anforderungen
 
-### Rechtliche Anforderungen
+**Rechtliche Anforderungen**
 
 **Eidgenössischer Fachausweis:** Du benötigst mindestens das EFZ als Elektroinstallateur. Der Meisterbrief ist nicht zwingend, aber hilfreich für die Glaubwürdigkeit.
 
@@ -35,7 +35,7 @@ Der Markt für selbständige Elektriker ist ausgezeichnet. Die Energiewende scha
 
 **MWST-Registrierung:** Pflicht ab CHF 100'000 Jahresumsatz. Viele Elektriker überschreiten diese Grenze schnell.
 
-### Finanzielle Voraussetzungen
+**Finanzielle Voraussetzungen**
 
 Das Startkapital solltest du nicht unterschätzen:
 
@@ -77,7 +77,7 @@ Du solltest mindestens 2–3 Jahre als angestellter Elektriker gearbeitet haben.
 
 ## Einkommen und Verdienstmöglichkeiten
 
-### Typische Stundensätze 2026
+**Typische Stundensätze 2026**
 
 **Standard-Elektroarbeiten:** CHF 85–120 pro Stunde je nach Region. In Zürich und Genf sind CHF 120–140 möglich.
 
@@ -108,7 +108,7 @@ Diese Rechnung zeigt: Der Brutto-Stundensatz täuscht. Verwaltung, Akquise und F
 
 ## Schritt-für-Schritt Anleitung
 
-### 1. Vorbereitung (3–6 Monate)
+**1. Vorbereitung (3–6 Monate)**
 
 **Finanzplanung erstellen:** Berechne dein benötigtes Startkapital inklusive 12 Monate Fixkosten. Kläre die Finanzierung über Eigenkapital oder Bankkredit.
 
@@ -116,7 +116,7 @@ Diese Rechnung zeigt: Der Brutto-Stundensatz täuscht. Verwaltung, Akquise und F
 
 **Geschäftsmodell entwickeln:** Entscheide über deine Ausrichtung. Willst du Generalunternehmer sein oder dich spezialisieren? Planst du Angestellte?
 
-### 2. Rechtliche Schritte
+**2. Rechtliche Schritte**
 
 **NIV-Konzession beantragen:** Kontaktiere das kantonale Elektrizitätswerk. Die Bearbeitungszeit beträgt 4–8 Wochen. Du musst eine Prüfung ablegen und die Kaution hinterlegen.
 
@@ -124,7 +124,7 @@ Diese Rechnung zeigt: Der Brutto-Stundensatz täuscht. Verwaltung, Akquise und F
 
 **MWST-Registrierung:** Melde dich freiwillig an, auch unter CHF 100'000 Umsatz. Das wirkt professioneller gegenüber Geschäftskunden.
 
-### 3. Versicherungen und Finanzen
+**3. Versicherungen und Finanzen**
 
 **Berufshaftpflicht abschliessen:** Ohne diese Versicherung erhältst du keine NIV-Konzession. Vergleiche verschiedene Anbieter – die Prämien variieren stark.
 
@@ -132,7 +132,7 @@ Diese Rechnung zeigt: Der Brutto-Stundensatz täuscht. Verwaltung, Akquise und F
 
 **Buchhaltung einrichten:** Investiere in professionelle Software wie Bexio oder Abacus. Saubere Buchhaltung spart später Zeit und Geld.
 
-### 4. Ausrüstung und Marketing
+**4. Ausrüstung und Marketing**
 
 **Fahrzeug ausrüsten:** Ein professionell beschrifteter Transporter ist mobile Werbung. Investiere in eine durchdachte Werkzeugorganisation.
 
@@ -140,7 +140,7 @@ Diese Rechnung zeigt: Der Brutto-Stundensatz täuscht. Verwaltung, Akquise und F
 
 **Netzwerk aktivieren:** Informiere ehemalige Kollegen über deine Selbständigkeit. Kontaktiere Architekten, Planer und Bauunternehmen.
 
-### 5. Erste Aufträge akquirieren
+**5. Erste Aufträge akquirieren**
 
 **Kleinaufträge annehmen:** Auch kleine Reparaturen bringen Referenzen und Mundpropaganda. Sei in der Anfangszeit nicht zu wählerisch.
 
@@ -150,31 +150,31 @@ Diese Rechnung zeigt: Der Brutto-Stundensatz täuscht. Verwaltung, Akquise und F
 
 ## Häufige Fehler vermeiden
 
-### 1. Arbeit ohne NIV-Konzession
+**1. Arbeit ohne NIV-Konzession**
 **Fehler:** Manche starten schon während der Beantragung mit ersten Aufträgen.
 **Lösung:** Warte die Bewilligung ab. Schwarzarbeit kann zur Sperre führen.
 
-### 2. Zu tiefe Preiskalkulation
+**2. Zu tiefe Preiskalkulation**
 **Fehler:** Nur die reine Arbeitszeit wird kalkuliert, Nebenkosten vergessen.
 **Lösung:** Berechne alle Kosten ein: AHV, Versicherungen, Fahrzeug, Verwaltung, Ferien.
 
-### 3. Ungenügende Liquiditätsplanung
+**3. Ungenügende Liquiditätsplanung**
 **Fehler:** Nach 3 Monaten ist das Geld aus, weil Kunden spät zahlen.
 **Lösung:** Plane 6–12 Monate Fixkosten als Reserve. Vereinbare Anzahlungen.
 
-### 4. Vernachlässigte Buchhaltung
+**4. Vernachlässigte Buchhaltung**
 **Fehler:** Belege werden in Schuhkartons gesammelt, Rechnungen vergessen.
 **Lösung:** Führe die Buchhaltung wöchentlich. Nutze Apps für Belegerfassung.
 
-### 5. Fehlende Spezialisierung
+**5. Fehlende Spezialisierung**
 **Fehler:** "Ich mache alles" funktioniert in gesättigten Märkten nicht.
 **Lösung:** Wähle 1–2 Spezialgebiete und werde zum Experten.
 
-### 6. Überschätzte Arbeitskapazität
+**6. Überschätzte Arbeitskapazität**
 **Fehler:** 2'000+ produktive Stunden jährlich eingeplant.
 **Lösung:** Rechne realistisch mit 1'400–1'600 Stunden. Der Rest ist Verwaltung.
 
-### 7. Ungenügendes Marketing
+**7. Ungenügendes Marketing**
 **Fehler:** "Gute Arbeit spricht für sich" – das dauert zu lange.
 **Lösung:** Investiere von Anfang an in sichtbares Marketing und Networking.
 
@@ -189,31 +189,31 @@ Diese Rechnung zeigt: Der Brutto-Stundensatz täuscht. Verwaltung, Akquise und F
 
 ## FAQ – Häufig gestellte Fragen
 
-### Brauche ich zwingend eine NIV-Konzession für alle Elektroarbeiten?
+**Brauche ich zwingend eine NIV-Konzession für alle Elektroarbeiten?**
 
 Ja, ohne NIV-Konzession darfst du in der Schweiz keine Elektroinstallationen ausführen. Diese Bewilligung ist kantonal geregelt und kostet je nach Region CHF 20'000–50'000 Kaution plus Prüfungsgebühren von CHF 2'000–5'000. Auch einfache Reparaturen oder das Anschliessen von Lampen erfordern die Konzession. Wer ohne Bewilligung arbeitet, macht sich strafbar und riskiert hohe Bussen.
 
-### Wie viel kann ich als selbständiger Elektriker realistisch verdienen?
+**Wie viel kann ich als selbständiger Elektriker realistisch verdienen?**
 
 Bei 1'600 produktiven Stunden jährlich und einem Stundensatz von CHF 100 erreichst du CHF 160'000 Bruttoumsatz. Nach Abzug aller Kosten (Versicherungen, Fahrzeug, Material, Steuern) bleiben CHF 80'000–120'000 netto übrig. Mit Spezialisierung auf PV-Anlagen oder Smart Home sind CHF 150'000+ möglich. Wichtig: Kalkuliere realistisch – viele überschätzen ihre produktiven Stunden massiv.
 
-### Welche Versicherungen sind für selbständige Elektriker Pflicht?
+**Welche Versicherungen sind für selbständige Elektriker Pflicht?**
 
 Berufshaftpflichtversicherung ist zwingend für die NIV-Konzession vorgeschrieben. Sie kostet CHF 2'000–4'000 jährlich und deckt Schäden bis CHF 1 Million ab. Krankentaggeldversicherung ist nicht Pflicht, aber existenziell wichtig – bei Krankheit erhältst du sonst keine Einnahmen. Betriebshaftpflicht und Fahrzeugversicherung sind ebenfalls empfohlen. Rechne mit CHF 6'000–8'000 jährlichen Versicherungskosten.
 
-### Kann ich als Ein-Mann-Betrieb ohne Angestellte genug verdienen?
+**Kann ich als Ein-Mann-Betrieb ohne Angestellte genug verdienen?**
 
 Absolut ja. Viele Elektriker führen erfolgreich Ein-Mann-Betriebe mit CHF 80'000–150'000 Nettoeinkommen. Du hast weniger Verwaltungsaufwand und keine Personalverantwortung. Wichtig ist eine effiziente Organisation und realistische Preiskalkulation. Spezialisiere dich auf lukrative Bereiche wie PV-Anlagen oder Smart Home. Mitarbeiter bringen zwar mehr Umsatz, aber auch deutlich mehr Komplexität.
 
-### Welche Spezialisierungen haben in der Schweiz die beste Zukunft?
+**Welche Spezialisierungen haben in der Schweiz die beste Zukunft?**
 
 Photovoltaik-Anlagen sind durch die Energiestrategie 2050 sehr gefragt. E-Mobility-Ladestationen boomen ebenfalls – bis 2035 sollen 80% aller Neuwagen elektrisch sein. Smart Home-Systeme und Gebäudeautomation bieten hohe Margen bei technikaffinen Kunden. LED-Umrüstungen in Betrieben sind ein weiteres Wachstumsfeld. Meide übersättigte Bereiche wie Standard-Hausinstallationen ohne Spezialisierung.
 
-### Wie finde ich meine ersten Kunden als selbständiger Elektriker?
+**Wie finde ich meine ersten Kunden als selbständiger Elektriker?**
 
 Starte mit deinem bestehenden Netzwerk – ehemalige Kollegen, Kunden deines Ex-Arbeitgebers. Baue Beziehungen zu Architekten, Planern und Bauunternehmen auf – sie vergeben regelmässig Aufträge. Erstelle eine professionelle Website und registriere dich bei Google My Business. Handwerker-Plattformen wie local.ch oder renovero.ch bringen schnell erste Anfragen. Mundpropaganda ist langfristig am wertvollsten – perfekte Arbeit bei den ersten Aufträgen zahlt sich aus.
 
-### Was passiert, wenn ich einen Fehler in der Installation mache?
+**Was passiert, wenn ich einen Fehler in der Installation mache?**
 
 Als Elektriker haftest du für deine Arbeit – bei schweren Fehlern können Millionenschäden entstehen. Deshalb ist die Berufshaftpflichtversicherung obligatorisch. Sie deckt Sach- und Personenschäden bis CHF 1 Million ab. Dokumentiere alle Arbeiten sauber und halte dich an die Normen. Bei der jährlichen ESTI-Kontrolle werden Installationen stichprobenartig geprüft. Fehler können zum Entzug der NIV-Konzession führen.
 

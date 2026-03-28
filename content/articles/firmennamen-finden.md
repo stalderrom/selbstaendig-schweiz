@@ -251,19 +251,19 @@ Ja, aber mit Aufwand:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Darf ich den gleichen Namen wie eine Firma in Deutschland verwenden?
+**Darf ich den gleichen Namen wie eine Firma in Deutschland verwenden?**
 
 Im Handelsregister Schweiz ist ein identischer Name aus Deutschland kein direktes Hindernis. Aber: Wenn die deutsche Firma eine internationale Marke hat oder in der Schweiz tätig ist, kann es Konflikte geben. Bei bekannten Namen immer rechtlich prüfen lassen.
 
-### Kann ich meinen Firmennamen auf Englisch haben?
+**Kann ich meinen Firmennamen auf Englisch haben?**
 
 Ja. Es gibt keine Sprach-Vorschrift. Englische Namen sind besonders bei Start-ups und international orientierten Unternehmen üblich. Das Handelsregister akzeptiert auch englische Namen, solange sie sonst den Anforderungen entsprechen.
 
-### Was wenn jemand meinen Namen nach meiner Anmeldung kopiert?
+**Was wenn jemand meinen Namen nach meiner Anmeldung kopiert?**
 
 Als Markeninhaber kannst du gegen Nachahmer vorgehen: Abmahnung, Klage auf Unterlassung und Schadenersatz. Als nicht angemeldeter Name nur begrenzter Schutz über das Lauterkeitsrecht (UWG) – und das ist schwieriger durchzusetzen.
 
-### Muss der Firmenname auf dem Briefpapier stehen?
+**Muss der Firmenname auf dem Briefpapier stehen?**
 
 Ja – auf Rechnungen, Briefen und Websites muss der vollständige Firmenname (gemäss Handelsregistereintrag), die Rechtsform und bei GmbH/AG auch die Handelsregisternummer erscheinen.
 

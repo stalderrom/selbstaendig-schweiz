@@ -46,7 +46,7 @@ Ein **Geschäftskonto** ist die Basis deiner unternehmerischen Finanzen. Ob kost
 
 **Für wen:** Freelancer, Einzelfirmen, sehr kleine GmbH
 
-### Was du bekommst
+**Was du bekommst**
 - Kostenloses Konto (CHF 0/Monat)
 - Schweizer IBAN (CH)
 - Visa Debitkarte
@@ -55,7 +55,7 @@ Ein **Geschäftskonto** ist die Basis deiner unternehmerischen Finanzen. Ob kost
 - Ausgabenkategorisierung
 - Banking-Integration mit Buchhaltungssoftware
 
-### Kosten
+**Kosten**
 
 | Position | Kosten |
 |---|---|
@@ -67,7 +67,7 @@ Ein **Geschäftskonto** ist die Basis deiner unternehmerischen Finanzen. Ob kost
 | Bargeldbezug CH | CHF 2/Bezug |
 | Bargeldbezug Ausland | CHF 5/Bezug |
 
-### Einschränkungen
+**Einschränkungen**
 - Kein physisches Bankschalter
 - Bargeldeinzahlungen: nicht direkt möglich (via TWINT oder Überweisung)
 - Kein Kreditrahmen / Kontokorrentlimit
@@ -85,7 +85,7 @@ Ein **Geschäftskonto** ist die Basis deiner unternehmerischen Finanzen. Ob kost
 
 **Für wen:** International tätige Selbständige, Importeure/Exporteure, digitale Nomaden
 
-### Was du bekommst
+**Was du bekommst**
 - Multi-Währungs-Konto (CHF, EUR, USD, GBP, 30+ Währungen)
 - Günstige Auslandswechselkurse (Interbankenkurs)
 - Virtuelle und physische Karten
@@ -93,7 +93,7 @@ Ein **Geschäftskonto** ist die Basis deiner unternehmerischen Finanzen. Ob kost
 - API-Integrationen
 - Rechnungsstellung
 
-### Kosten
+**Kosten**
 
 | Plan | Preis/Monat | Inkl. |
 |---|---|---|
@@ -101,14 +101,14 @@ Ein **Geschäftskonto** ist die Basis deiner unternehmerischen Finanzen. Ob kost
 | Grow | CHF 25 | 100 Überweisungen, CHF 10'000 Wechselkurs |
 | Scale | CHF 100 | Unlimitiert, Priority-Support |
 
-### Vorteile
+**Vorteile**
 - Beste Wechselkurse am Markt (Interbankenkurs)
 - Sehr gut für internationale Zahlungen
 - Ausgaben-Analyse
 - Unterkonten für verschiedene Projekte
 - Integration mit Buchhaltungssoftware
 
-### Nachteile
+**Nachteile**
 - Kein Schweizer Bankschalter
 - Kundenservice manchmal langsam
 - IBAN ist technisch belgisch (kann vereinzelt Probleme geben)
@@ -125,19 +125,19 @@ Ein **Geschäftskonto** ist die Basis deiner unternehmerischen Finanzen. Ob kost
 
 **Für wen:** Internationales Business, Freelancer mit EU-Kunden
 
-### Was du bekommst
+**Was du bekommst**
 - "Echter" lokaler IBAN in verschiedenen Ländern (DE, GB, US, EU)
 - Günstigste internationale Überweisungen weltweit
 - Multi-Währungs-Debitkarte
 - Batch-Zahlungen (viele Überweisungen auf einmal)
 
-### Kosten
+**Kosten**
 - Einmalgebühr Kontoerstellung: CHF 31
 - Monatliche Gebühr: CHF 0
 - Überweisungen: Sehr günstig (meist 0.4–0.8% je nach Währung)
 - Kartengebühr: CHF 9 einmalig
 
-### Einschränkungen
+**Einschränkungen**
 - Kein CHF-IBAN (hat EU-IBAN, was für CH-Kunden suboptimal)
 - Besser als Ergänzung zu einem Schweizer Konto
 
@@ -152,7 +152,7 @@ Ein **Geschäftskonto** ist die Basis deiner unternehmerischen Finanzen. Ob kost
 
 **Für wen:** KMU, GmbH, wer physischen Support schätzt
 
-### Was du bekommst
+**Was du bekommst**
 - Vollständiges Schweizer Firmenkonto
 - Onlinebanking und App
 - Debit- und Kreditkarte
@@ -161,7 +161,7 @@ Ein **Geschäftskonto** ist die Basis deiner unternehmerischen Finanzen. Ob kost
 - Lohnzahlungen
 - Kontokorrent (Kreditlinie)
 
-### Kosten
+**Kosten**
 
 | Plan | Preis/Monat | Inkl. |
 |---|---|---|
@@ -169,14 +169,14 @@ Ein **Geschäftskonto** ist die Basis deiner unternehmerischen Finanzen. Ob kost
 | Business | CHF 15 | Unlimitierte Überweisungen |
 | Business Plus | CHF 25 | + Kreditkarte, Mehrbenutzer |
 
-### Vorteile
+**Vorteile**
 - Bekannte, stabile Schweizer Institution
 - Breites Filialnetz (Bargeldein-/auszahlungen)
 - TWINT Business gut integriert
 - Kontokorrentrahmen möglich
 - Lohnzahlungen einfach abwickelbar
 
-### Nachteile
+**Nachteile**
 - Höhere Grundgebühr als Neobanken
 - Keine internationalen Währungskonten
 - Interface nicht ganz so modern
@@ -302,19 +302,19 @@ Das reduziert Wechselkursgebühren erheblich bei internationalem Business.
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich mein Privatkonto als Geschäftskonto nutzen?
+**Kann ich mein Privatkonto als Geschäftskonto nutzen?**
 
 Bei der Einzelfirma ist es nicht verboten, aber sehr unpraktisch. Steuerlich musst du private und geschäftliche Ausgaben sauber trennen – was mit einem Mischkonto extrem aufwändig ist. Buchhaltungssoftware funktioniert besser mit getrennten Konten. Aus Professionalisierungsgründen: Immer separates Konto.
 
-### Was passiert mit dem Geschäftskonto wenn ich aufhöre?
+**Was passiert mit dem Geschäftskonto wenn ich aufhöre?**
 
 Einzelfirma: Konto kündigen und Guthaben auf Privatkonto übertragen. GmbH: Im Rahmen der Liquidation wird das Konto aufgelöst, nach Begleichung aller Schulden das Guthaben unter Gesellschaftern aufgeteilt.
 
-### Wie lange dauert die Kontoeröffnung?
+**Wie lange dauert die Kontoeröffnung?**
 
 Neobanken (Neon, Revolut): 10–30 Minuten online. Traditionelle Banken: 1–5 Werktage nach Einreichung aller Dokumente (bei GmbH manchmal länger durch Prüfung).
 
-### Gibt es staatliche Garantien für Geschäftskonten?
+**Gibt es staatliche Garantien für Geschäftskonten?**
 
 Ja – die Einlagensicherung (esisuisse) schützt Bankguthaben bis CHF 100'000 pro Person und Bank. Neobanken mit Schweizer Banklizenz (PostFinance, Neon via Hypothekarbank Lenzburg) sind ebenfalls geschützt.
 

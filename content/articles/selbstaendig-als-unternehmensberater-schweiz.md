@@ -44,7 +44,7 @@ Als Unternehmensberater analysierst du Unternehmen, identifizierst Verbesserungs
 
 ## Voraussetzungen
 
-### Fachliche Anforderungen
+**Fachliche Anforderungen**
 
 - Mindestens 8–12 Jahre Führungs- oder Beratungserfahrung
 - Nachgewiesene Erfolge in Strategie, Operations oder Transformation
@@ -57,14 +57,14 @@ Als Unternehmensberater analysierst du Unternehmen, identifizierst Verbesserungs
 - MBA oder Executive Education
 - Zertifizierungen: CMC (Certified Management Consultant), Six Sigma, PRINCE2
 
-### Rechtliche Anforderungen
+**Rechtliche Anforderungen**
 
 - **AHV-Anmeldung:** Pflicht innerhalb 30 Tagen nach Tätigkeitsbeginn
 - **Handelsregister:** Ab CHF 100'000 Jahresumsatz obligatorisch
 - **MWST:** Ab CHF 100'000 Jahresumsatz pflichtig
 - Vertraulichkeitsvereinbarungen (NDAs) sind Standard bei Mandaten
 
-### Finanzielle Voraussetzungen
+**Finanzielle Voraussetzungen**
 
 - Startkapital: CHF 15'000–30'000
 - Liquiditätsreserve: 6–12 Monate (Mandate starten oft verzögert)
@@ -72,7 +72,7 @@ Als Unternehmensberater analysierst du Unternehmen, identifizierst Verbesserungs
 
 ## Kosten als selbständiger Unternehmensberater
 
-### Einmalige Kosten
+**Einmalige Kosten**
 
 | Position | Kosten (CHF) |
 |----------|-------------|
@@ -84,7 +84,7 @@ Als Unternehmensberater analysierst du Unternehmen, identifizierst Verbesserungs
 | Büroeinrichtung | 1'000–3'000 |
 | **Total einmalig** | **9'500–26'500** |
 
-### Laufende Kosten (jährlich)
+**Laufende Kosten (jährlich)**
 
 | Position | Kosten (CHF/Jahr) |
 |----------|------------------|
@@ -109,7 +109,7 @@ Als Unternehmensberater analysierst du Unternehmen, identifizierst Verbesserungs
 | Senior / Nischenexperte | 2'400–3'200 | 300–400 |
 | Interim Management / CXO-Level | 2'500–4'000+ | 300–500+ |
 
-### Realistische Jahresdurchschnittseinkommen
+**Realistische Jahresdurchschnittseinkommen**
 
 - **Aufbauphase (Jahr 1–2):** CHF 80'000–150'000 brutto
 - **Etabliert (Jahr 3–5):** CHF 150'000–250'000 brutto
@@ -219,17 +219,17 @@ Als Unternehmensberater mit hohem Einkommen ist die fehlende Pensionskasse ein e
 
 ## FAQ – Häufig gestellte Fragen
 
-### Was unterscheidet den Unternehmensberater vom allgemeinen Berater?
+**Was unterscheidet den Unternehmensberater vom allgemeinen Berater?**
 Der Unternehmensberater fokussiert sich auf strategische, operative und strukturelle Fragen auf Unternehmensebene – typischerweise für KMU und Grossunternehmen, auf Geschäftsleitungs- oder VR-Ebene. Der allgemeine «Berater» deckt oft spezifischere Fachgebiete (HR, Marketing, Finanzen) oder kleinere Unternehmen ab.
 
-### Brauche ich einen MBA für die Selbständigkeit als Unternehmensberater?
+**Brauche ich einen MBA für die Selbständigkeit als Unternehmensberater?**
 Nein, aber er hilft. Entscheidender sind nachgewiesene Ergebnisse und ein starkes Netzwerk. Viele erfolgreiche selbständige Unternehmensberater haben Wirtschaftsstudium + langjährige Führungserfahrung, aber keinen MBA. Referenzprojekte und Empfehlungen zählen mehr als Titel.
 
-### Wie hoch ist der typische Tagessatz?
+**Wie hoch ist der typische Tagessatz?**
 Je nach Erfahrung und Spezialisierung: CHF 1'200–3'500+ pro Tag. Der Marktdurchschnitt für erfahrene Unternehmensberater liegt bei CHF 1'600–2'400 pro Tag. Nischenexperten (Sanierung, M&A, regulierter Bereich) erzielen CHF 3'000+.
 
-### Einzelfirma oder GmbH als Unternehmensberater?
+**Einzelfirma oder GmbH als Unternehmensberater?**
 Beim Start empfiehlt sich die Einzelfirma (einfach, günstig). Ab CHF 150'000–200'000 Jahresgewinn lohnt sich die GmbH für steuerliche Optimierung (Lohn/Dividenden-Split). Viele Grosskonzerne und Banken vergeben Mandate lieber an GmbHs.
 
-### Wie viele Kunden brauche ich gleichzeitig?
+**Wie viele Kunden brauche ich gleichzeitig?**
 Idealerweise 2–3 aktive Mandate gleichzeitig – das sichert Einkommensstabilität und schützt vor Scheinselbständigkeit. Grosse Transformationsprojekte (3–12 Monate) können aber auch als Einzelmandat sinnvoll sein.

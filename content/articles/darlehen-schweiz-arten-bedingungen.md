@@ -23,7 +23,7 @@ Ein Darlehen ist nach Schweizer Obligationenrecht (Art. 312 OR) die Überlassung
 
 **Darlehen vs. Hypothek**: Hypotheken sind spezielle Darlehen für Immobilien mit Grundpfandrecht als Sicherheit.
 
-### Schweizer Besonderheiten
+**Schweizer Besonderheiten**
 
 Bei Hypotheken brauchst du mindestens 20% Eigenkapital. Die Tragbarkeitsberechnung erfolgt mit einem kalkulatorischen Zinssatz von 5%, auch wenn die aktuellen Zinsen niedriger sind. Dies schützt dich vor späteren Zinserhöhungen.
 
@@ -47,7 +47,7 @@ Die FINMA überwacht alle Kreditinstitute. Zusätzlich gibt es strenge Selbstreg
 
 **Bonität**: Eine saubere ZEK-Auskunft (Zentralstelle für Kreditinformation) ist entscheidend. Negative Einträge erschweren oder verhindern die Kreditvergabe.
 
-### Finanzielle Voraussetzungen
+**Finanzielle Voraussetzungen**
 
 **Eigenkapital**: Bei Hypotheken sind mindestens 20% des Kaufpreises nötig, wobei maximal die Hälfte aus der Pensionskasse stammen darf. Für andere Darlehen variiert die Eigenkapitalanforderung.
 
@@ -78,7 +78,7 @@ Die FINMA überwacht alle Kreditinstitute. Zusätzlich gibt es strenge Selbstreg
 | **Notar-/Anwaltskosten** | CHF 1'000-3'000 | - | CHF 1'500-5'000 |
 | **Jahresgebühren** | CHF 0-300 | - | CHF 200-1'000 |
 
-### Zusätzliche Kosten
+**Zusätzliche Kosten**
 
 **Risikoversicherung**: Zwischen 0.1% und 0.5% der Darlehenssumme pro Jahr. Diese Versicherung übernimmt bei Tod oder Invalidität die Rückzahlung.
 
@@ -215,25 +215,25 @@ Zusätzlich kommen Bearbeitungsgebühren von CHF 1'500 und eventuell Kosten für
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wie hoch sind die aktuellen Hypothekarzinsen 2026?
+**Wie hoch sind die aktuellen Hypothekarzinsen 2026?**
 Die Hypothekarzinsen liegen 2026 zwischen 1.5% und 3.5%, abhängig von der Laufzeit und deiner Bank. Feste Hypotheken kosten meist 0.2-0.5% mehr als variable, bieten aber Planungssicherheit. Deine Bonität und die Eigenkapitalquote beeinflussen den Zinssatz erheblich. Mit 25% statt 20% Eigenkapital bekommst du oft 0.1-0.2% bessere Zinsen. Kantonalbanken sind häufig günstiger als Grossbanken.
 
-### Können Selbständige in der Schweiz ein Darlehen erhalten?
+**Können Selbständige in der Schweiz ein Darlehen erhalten?**
 Ja, aber die Hürden sind höher. Du brauchst mindestens drei Jahre erfolgreiche Geschäftstätigkeit mit positiven Steuererklärungen. Die Zinsen liegen 0.5-1% höher als bei Angestellten. Deine Eigenkapitalquote sollte mindestens 25% betragen. Eine saubere Buchhaltung mit Treuhänderbestätigung ist meist Pflicht. Branchenstabilität und Zukunftsaussichten spielen eine grosse Rolle bei der Bewertung.
 
-### Was passiert bei einer negativen ZEK-Auskunft?
+**Was passiert bei einer negativen ZEK-Auskunft?**
 Negative ZEK-Einträge machen Kreditgenehmigungen sehr schwierig oder unmöglich. Du kannst aber falsche Einträge korrigieren lassen - wende dich direkt an die ZEK. Mit Bürgschaften von kreditwürdigen Personen oder höherem Eigenkapital kannst du deine Chancen verbessern. Kleinere Regional- und Kantonalbanken sind manchmal flexibler als Grossbanken. Nach Bereinigung alter Schulden verschwinden negative Einträge nach fünf Jahren automatisch.
 
-### Welche Sicherheiten akzeptieren Schweizer Banken?
+**Welche Sicherheiten akzeptieren Schweizer Banken?**
 Banken akzeptieren verschiedene Sicherheiten: Immobilien als Grundpfand sind am beliebtesten, Wertschriften können verpfändet werden, Lebensversicherungen mit Rückkaufswert dienen als Sicherheit. Bürgschaften von solventen Personen werden oft akzeptiert. Bei Geschäftskrediten können auch Warenlager, Maschinen oder Forderungen verpfändet werden. Je besser die Sicherheit, desto günstiger wird der Zinssatz. Banken bewerten Sicherheiten meist konservativ mit Abschlägen von 20-30%.
 
-### Kann ich mehrere Darlehen gleichzeitig haben?
+**Kann ich mehrere Darlehen gleichzeitig haben?**
 Grundsätzlich ja, aber die Gesamttragbarkeit muss stimmen. Banken prüfen deine komplette Verschuldungssituation und das verfügbare Einkommen. Du musst alle bestehenden Verpflichtungen offenlegen - Verschweigen führt zur sofortigen Kündigung. Die 33%-Regel gilt für alle Schulden zusammen, nicht pro Kredit. Bei mehreren Hypotheken wird es schwieriger, da die Tragbarkeitsrechnung komplexer wird. Transparenz ist entscheidend für eine erfolgreiche Kreditprüfung.
 
-### Wie lange dauert die Bewilligung eines Darlehens?
+**Wie lange dauert die Bewilligung eines Darlehens?**
 Die Bearbeitungszeit variiert stark: Privatkredite brauchen 1-3 Wochen, Hypotheken 3-6 Wochen, komplexe Geschäftskredite bis zu 8 Wochen. Mit vollständigen Unterlagen und guter Bonität geht es schneller. Online-Kredite können innerhalb weniger Tage bewilligt werden. Schätzungen bei Immobilien verlängern das Verfahren um 1-2 Wochen. In der Ferienzeit (Juli/August, Weihnachten) dauert alles länger. Plane genügend Zeit ein und reiche die Unterlagen frühzeitig ein.
 
-### Muss ich Privatdarlehen versteuern?
+**Muss ich Privatdarlehen versteuern?**
 Zinserträge aus verliehenen Privatdarlehen musst du als Einkommen versteuern. Als Schuldner kannst du Schuldzinsen unter bestimmten Bedingungen vom steuerbaren Einkommen abziehen. Zinslose Darlehen zwischen Familienangehörigen sind meist unproblematisch. Bei höheren Beträgen oder geschäftsnahen Beziehungen prüft die Steuerverwaltung genauer. Dokumentiere alle Darlehen schriftlich mit klaren Rückzahlungsmodalitäten. Bei Unsicherheiten hole dir steuerlichen Rat beim Treuhänder.
 
 ## Fazit und nächste Schritte

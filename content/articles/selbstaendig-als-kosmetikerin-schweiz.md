@@ -49,7 +49,7 @@ Permanent Make-up ist ein profitables Spezialsegment — lohnt sich als Zusatzqu
 
 ## Drei Modelle zur Selbständigkeit
 
-### 1. Eigenes Studio
+**1. Eigenes Studio**
 
 Am professionellsten, aber höchste Kosten.
 
@@ -64,7 +64,7 @@ Am professionellsten, aber höchste Kosten.
 - Produkte/Verbrauchsmaterial: CHF 500–1'500
 - Versicherungen: CHF 200–400
 
-### 2. Stuhlmiete/Raummiete
+**2. Stuhlmiete/Raummiete**
 
 Du mietest einen Raum oder Platz in einem Coiffeur-Salon, Wellness-Center oder Ärztehaus.
 
@@ -72,7 +72,7 @@ Du mietest einen Raum oder Platz in einem Coiffeur-Salon, Wellness-Center oder �
 - Minimale Anfangsinvestition
 - Ideal zum Einstieg und Aufbau von Stammkunden
 
-### 3. Mobile Kosmetik
+**3. Mobile Kosmetik**
 
 Du gehst zum Kunden nach Hause.
 

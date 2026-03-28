@@ -61,7 +61,7 @@ Als Selbständiger bist du meistens mit 8.1% dabei. Ausnahmen gelten für spezif
 
 Nicht alle Umsätze fallen unter die MWST-Pflicht. Es gibt zwei wichtige Kategorien:
 
-### 1. Von der MWST ausgenommen (Art. 21 MWSTG)
+**1. Von der MWST ausgenommen (Art. 21 MWSTG)**
 
 Diese Tätigkeiten sind komplett ausgenommen — du schuldest keine MWST, kannst aber auch keine Vorsteuer zurückholen:
 
@@ -73,7 +73,7 @@ Diese Tätigkeiten sind komplett ausgenommen — du schuldest keine MWST, kannst
 
 **Beispiel:** Ein Arzt mit CHF 200'000 Praxisumsatz schuldet keine MWST — und muss sich auch nicht anmelden.
 
-### 2. Von der Steuerpflicht befreit (unter CHF 100'000)
+**2. Von der Steuerpflicht befreit (unter CHF 100'000)**
 
 Wenn du unter der Grenze bleibst, bist du von der MWST-Pflicht befreit. Du kannst trotzdem freiwillig eintreten.
 
@@ -205,18 +205,18 @@ Wenn du merkst, dass du die CHF 100'000-Grenze erreichst:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Gilt die CHF 100'000-Grenze für Brutto- oder Nettoeinnahmen?
+**Gilt die CHF 100'000-Grenze für Brutto- oder Nettoeinnahmen?**
 
 Die Grenze gilt für den Bruttoumsatz — also inklusive MWST. Wenn du CHF 100'810 in Rechnung stellst (CHF 100'000 + 8.1% MWST = CHF 8'100 MWST), dann ist dein massgeblicher Umsatz CHF 100'000 netto. Die CHF 100'000-Grenze bezieht sich auf das Entgelt ohne MWST.
 
-### Kann ich mich nach der MWST-Anmeldung auch wieder abmelden?
+**Kann ich mich nach der MWST-Anmeldung auch wieder abmelden?**
 
 Ja. Wenn du dauerhaft unter CHF 100'000 Umsatz bist, kannst du dich wieder abmelden. Du musst mindestens 3 Jahre eingetragen gewesen sein, bevor du wieder austreten kannst.
 
-### Was ist wenn mein Umsatz stark schwankt und ich manchmal über, manchmal unter CHF 100'000 bin?
+**Was ist wenn mein Umsatz stark schwankt und ich manchmal über, manchmal unter CHF 100'000 bin?**
 
 Die Umsatzgrenze wird auf 12 Monate gerechnet. Wenn du in 12 Monaten CHF 100'000 überschreitest, bist du pflichtig — auch wenn du in einzelnen Jahren darunter bist. Wichtig: Sobald du weisst, dass du die Grenze überschreitest, musst du dich anmelden.
 
-### Wie behandle ich ausländische Kunden bei der MWST?
+**Wie behandle ich ausländische Kunden bei der MWST?**
 
 Das hängt von der Art der Leistung ab. Bei Dienstleistungen an ausländische Unternehmen (B2B) gilt oft das Empfängerortprinzip — der Kunde bezahlt die MWST in seinem Land, du rechnest ohne MWST (Nullsatz). Bei Privatpersonen im Ausland ist es komplizierter. Im Zweifel Treuhänder fragen.

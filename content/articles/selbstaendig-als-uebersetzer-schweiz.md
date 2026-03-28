@@ -44,7 +44,7 @@ Für den Start: Kombination aus beidem. Agenturen für Grundlast, Direktkunden f
 
 ## Schritt für Schritt zur Selbständigkeit
 
-### 1. Sprachkombinationen und Spezialisierung
+**1. Sprachkombinationen und Spezialisierung**
 
 Was übersetzt du? In welche Richtung?
 
@@ -58,13 +58,13 @@ Was übersetzt du? In welche Richtung?
 
 Spezialisierung macht dich wertvoller und filtert unpassende Kunden raus.
 
-### 2. AHV anmelden
+**2. AHV anmelden**
 
 Melde dich bei der AHV-Ausgleichskasse an, sobald du erste Einnahmen erzielst.
 
 → [AHV für Selbständige](/artikel/ahv-selbstaendige-beitraege-schweiz)
 
-### 3. Tools einrichten
+**3. Tools einrichten**
 
 Als professioneller Übersetzer brauchst du:
 
@@ -74,7 +74,7 @@ Als professioneller Übersetzer brauchst du:
 
 SDL Trados kostet ~CHF 900 einmalig — eine nötige Investition für Agentur-Aufträge.
 
-### 4. Profil auf ProZ.com erstellen
+**4. Profil auf ProZ.com erstellen**
 
 ProZ.com ist die grösste globale Plattform für Übersetzer. Ein vollständiges Profil dort bringt regelmässig Anfragen.
 

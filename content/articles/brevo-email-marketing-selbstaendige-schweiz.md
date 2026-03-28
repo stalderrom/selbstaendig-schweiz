@@ -25,13 +25,13 @@ Ein weiterer Pluspunkt ist die rechtliche Sicherheit. Brevo bietet standardmäss
 
 ## Voraussetzungen für Brevo in der Schweiz
 
-### Rechtliche Anforderungen
+**Rechtliche Anforderungen**
 
 Das Schweizer Datenschutzgesetz verlangt explizite Zustimmung für E-Mail-Marketing. Du musst das Double-Opt-In-Verfahren verwenden: Nach der Anmeldung erhält der Kunde eine Bestätigungs-E-Mail und muss seinen Wunsch nochmals bestätigen.
 
 Deine Datenschutzerklärung muss in der jeweiligen Landessprache verfügbar sein. Für deutschsprachige Kunden auf Deutsch, für Romands auf Französisch, für Tessiner auf Italienisch. Jede E-Mail benötigt ein vollständiges Impressum mit deiner Geschäftsadresse und einfachen Abmelde-Link.
 
-### Technische Voraussetzungen
+**Technische Voraussetzungen**
 
 Du benötigst eine eigene Domain – Gmail oder Bluewin-Adressen wirken unprofessionell und landen oft im Spam-Ordner. Deine Website sollte ein Anmeldeformular für den Newsletter enthalten.
 
@@ -172,31 +172,31 @@ Deutsche oder englische Standard-Datenschutzerklärungen erfüllen nicht die Sch
 
 ## FAQ – Häufig gestellte Fragen
 
-### Ist Brevo DSGVO-konform für Schweizer Unternehmen?
+**Ist Brevo DSGVO-konform für Schweizer Unternehmen?**
 
 Ja, Brevo erfüllt alle DSGVO-Standards und ist damit auch für das neue Schweizer Datenschutzgesetz konform. Alle Server stehen in Europa, konkret in Deutschland und Frankreich. Deine Kundendaten werden niemals in Drittländer übertragen. Brevo bietet standardmässig alle erforderlichen Funktionen: Double-Opt-In, automatische Abmelde-Links, Einverständnis-Dokumentation und Datenexport auf Anfrage. Der Anbieter ist bei den französischen Datenschutzbehörden registriert und wird regelmässig auditiert.
 
-### Kann ich Brevo in Schweizerfranken bezahlen und abrechnen?
+**Kann ich Brevo in Schweizerfranken bezahlen und abrechnen?**
 
 Brevo rechnet grundsätzlich in Euro ab. Die Zahlung erfolgt über Kreditkarte oder SEPA-Lastschrift, wobei deine Bank automatisch in Schweizer Franken umrechnet. Dabei fallen Währungsumrechnungsgebühren von 1-2% an. Du zahlst als Schweizer Kunde keine EU-Mehrwertsteuer, sondern nur den Nettopreis. Für deine Buchhaltung musst du die Euro-Beträge zum Tageskurs in CHF umrechnen. Eine Vorsteuer-Rückforderung ist nicht möglich, da es sich um eine Dienstleistung aus dem EU-Ausland handelt.
 
-### Welche Integrationen gibt es für typische Schweizer Business-Tools?
+**Welche Integrationen gibt es für typische Schweizer Business-Tools?**
 
 Brevo integriert sich problemlos mit allen gängigen Schweizer Website-Buildern wie WordPress, Wix oder Jimdo. Über Zapier sind Verbindungen zu Schweizer CRM-Systemen und Buchhaltungssoftware wie BexiO, Banana oder AbaNinja möglich. Auch E-Commerce-Plattformen mit Schweizer Payment-Providern (PostFinance, Twint) lassen sich anbinden. Für spezielle Schweizer Tools bietet Brevo eine REST-API, mit der Entwickler individuelle Schnittstellen programmieren können. Die meisten Schweizer Web-Agenturen kennen diese Integrationen bereits.
 
-### Muss ich als Selbständiger MWST auf Brevo-Leistungen zahlen?
+**Muss ich als Selbständiger MWST auf Brevo-Leistungen zahlen?**
 
 Nein, als Schweizer Kunde zahlst du keine französische oder EU-Mehrwertsteuer an Brevo. Du erhältst eine Netto-Rechnung ohne MWST-Ausweis. In deiner Schweizer MWST-Abrechnung musst du diese Dienstleistung nicht als Bezug aus dem Ausland deklarieren, da es sich um B2B-Dienstleistungen unter der Freigrenze handelt. Eingangsteuer kannst du nicht geltend machen. Führe die Brevo-Kosten einfach als normalen Betriebsaufwand in deiner Buchhaltung. Bei Unsicherheiten frage deinen Treuhänder oder das kantonale Steueramt.
 
-### Wie erstelle und verwalte ich mehrsprachige Newsletter optimal?
+**Wie erstelle und verwalte ich mehrsprachige Newsletter optimal?**
 
 Erstelle separate Kontaktlisten für deutschsprachige, französischsprachige und italienischsprachige Abonnenten. Bei der Anmeldung fragst du die bevorzugte Sprache ab und weist Kontakte automatisch der richtigen Liste zu. Brevo unterstützt Personalisierung basierend auf Kontakt-Eigenschaften, sodass du sogar automatisch die richtige Sprachversion versenden kannst. Nutze unterschiedliche Versandzeiten: Deutschschweizer lesen E-Mails eher morgens, Romands bevorzugen den späteren Vormittag. Auch die Inhalte sollten kulturell angepasst werden – Tessiner interessieren sich für andere Themen als Bündner.
 
-### Was passiert mit meinen Daten, wenn ich Brevo kündige?
+**Was passiert mit meinen Daten, wenn ich Brevo kündige?**
 
 Du behältst vollständige Kontrolle über deine Daten. Vor der Kündigung kannst du alle Kontakte als CSV-Datei exportieren, inklusive aller gespeicherten Eigenschaften und Anmeldedaten. Auch deine E-Mail-Templates lassen sich als HTML-Code herunterladen. Kampagnen-Statistiken solltest du als PDF exportieren und für deine Buchhaltung archivieren. Nach der Kündigung löscht Brevo deine Daten innerhalb von 30 Tagen vollständig und unwiderruflich. Du erhältst eine schriftliche Bestätigung der Datenlöschung. Plane daher den Export rechtzeitig vor dem Kündigungstermin.
 
-### Wie funktioniert der technische Support für Schweizer Kunden?
+**Wie funktioniert der technische Support für Schweizer Kunden?**
 
 Brevo bietet E-Mail-Support auf Deutsch für alle Tarife ab "Starter" (CHF 25/Monat). Die Antwortzeiten betragen 24-48 Stunden. Telefon-Support kostet zusätzlich CHF 65 pro Monat und ist nur auf Englisch und Französisch verfügbar. Für die meisten Schweizer Selbständigen reicht der E-Mail-Support völlig aus. Die Online-Hilfe ist teilweise auf Deutsch verfügbar, bei technischen Problemen hilft auch die sehr aktive Facebook-Gruppe "Brevo DACH". Für komplexere Integrationen empfiehlt sich ein Schweizer Marketing-Dienstleister mit Brevo-Erfahrung.
 

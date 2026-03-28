@@ -91,7 +91,7 @@ Für eine professionelle Personaladministration benötigst du:
 
 Die Kosten für Personaladministration variieren stark je nach gewählter Lösung und Unternehmensgrösse.
 
-### Einmalige Kosten
+**Einmalige Kosten**
 
 | Position | Interne Lösung | Externe Lösung | Bemerkungen |
 |----------|----------------|----------------|-------------|
@@ -310,31 +310,31 @@ Die Kosten für Personaladministration variieren stark je nach gewählter Lösun
 
 ## FAQ – Häufig gestellte Fragen
 
-### Ab wann brauche ich professionelle Personaladministration?
+**Ab wann brauche ich professionelle Personaladministration?**
 
 Ab dem ersten Mitarbeitenden bist du gesetzlich verpflichtet, alle Sozialversicherungen korrekt abzurechnen. Eine systematische Lösung lohnt sich spätestens ab 3-5 Mitarbeitenden, da der administrative Aufwand exponentiell steigt. Bei komplexeren Lohnstrukturen, ausländischen Mitarbeitenden oder branchenspezifischen Regelungen solltest du bereits früher professionelle Hilfe beiziehen. Der Zeitaufwand für korrekte Personaladministration wird oft unterschätzt – rechne mit 2-4 Stunden pro Mitarbeitendem und Monat.
 
-### Kann ich als KMU die Personaladministration selbst übernehmen?
+**Kann ich als KMU die Personaladministration selbst übernehmen?**
 
 Grundsätzlich ja, aber du brauchst fundierte Kenntnisse des Schweizer Arbeitsrechts und Sozialversicherungssystems. Der Aufwand steigt überproportional zur Mitarbeiterzahl. Bei 1-3 Mitarbeitenden ist es noch machbar, ab 5-8 Personen wird es sehr zeitaufwändig. Wichtig: Fehler können teuer werden. Eine falsche AHV-Abrechnung kostet schnell CHF 2'000-5'000 Nachzahlungen. Bei Unsicherheiten ist externe Beratung oft günstiger als die Folgekosten von Fehlern. Viele Unternehmer unterschätzen auch die laufenden Gesetzesänderungen.
 
-### Was kostet externer Personaladministrations-Service?
+**Was kostet externer Personaladministrations-Service?**
 
 Die Kosten variieren stark je nach Leistungsumfang und Anbieter. Reine Lohnabrechnung ohne Beratung kostet CHF 25-45 pro Mitarbeitendem monatlich. Full-Service mit Arbeitsverträgen, Zeugnissen, Beratung und Rechtsupdate kostet CHF 65-120 monatlich pro Person. Einmalige Setup-Gebühren betragen meist CHF 300-800. Bei kleineren Unternehmen (unter 10 Mitarbeitende) ist die externe Lösung oft kostengünstiger, da keine Fixkosten für Software und Weiterbildung anfallen. Grosse Treuhänder sind teurer, bieten aber mehr Rechtssicherheit.
 
-### Welche Software eignet sich für Schweizer Personaladministration?
+**Welche Software eignet sich für Schweizer Personaladministration?**
 
 Für kleine Unternehmen (1-10 Mitarbeitende) sind cloudbasierte Lösungen wie Klara (ab CHF 29/Monat), Bexio (ab CHF 59/Monat) oder Run my Accounts ideal. Sie bieten Schnittstellen zu Schweizer Banken und Sozialversicherungen. Mittelgrosse Betriebe (10-50 Mitarbeitende) nutzen oft Abacus, Sage 200 oder Crésus (CHF 200-800 monatlich). Wichtig sind integrierte Module für Zeiterfassung, automatische Sozialversicherungs-Meldungen und Lohnausweis-Erstellung. Cloud-Lösungen haben den Vorteil automatischer Updates bei Gesetzesänderungen. Teste immer eine Demoversion mit deinen realen Daten.
 
-### Wie lange müssen Personalunterlagen aufbewahrt werden?
+**Wie lange müssen Personalunterlagen aufbewahrt werden?**
 
 Lohnabrechnungen und Sozialversicherungs-Belege müssen 10 Jahre aufbewahrt werden – digital oder physisch. Arbeitsverträge und wichtige Personalakten sollten mindestens 10 Jahre nach Beendigung des Arbeitsverhältnisses archiviert werden. Zeiterfassungsbelege sind 5 Jahre aufzubewahren. Bei digitaler Archivierung brauchst du sichere Backup-Systeme und musst die Lesbarkeit über den ganzen Zeitraum garantieren. Datenschutz beachten: Nach Ablauf der Frist müssen die Daten sicher vernichtet werden. Cloud-Anbieter bieten oft automatische Archivierung mit rechtssicherer Aufbewahrung.
 
-### Was passiert bei Fehlern in der Personaladministration?
+**Was passiert bei Fehlern in der Personaladministration?**
 
 Fehler müssen korrigiert und nachgemeldet werden – je schneller, desto besser. Bei zu wenig abgerechneten Sozialversicherungen drohen Nachzahlungen plus 5% Zinsen pro Jahr. Schwere Verstösse können Bussen zur Folge haben. Verspätete ELM-Meldungen kosten CHF 100-500 pro Mitarbeitendem. Falsche Quellensteuer-Abrechnungen können Bussen bis CHF 5'000 nach sich ziehen. Deshalb: Monatliche Kontrollen durchführen, bei Unsicherheiten sofort fachliche Hilfe beiziehen. Eine Berufshaftpflichtversicherung kann bei groben Fehlern helfen. Dokumentiere alle Korrekturen für spätere Revisionen.
 
-### Brauche ich für Praktikanten auch Sozialversicherungen?
+**Brauche ich für Praktikanten auch Sozialversicherungen?**
 
 Ja, auch Praktikanten sind grundsätzlich sozialversicherungspflichtig. AHV/IV/EO-Beiträge fallen bei jedem Lohn an – egal wie klein. BVG-Pflicht besteht erst ab CHF 22'050 Jahreslohn. Bei unbezahlten Praktika unter 3 Monaten Dauer, die primär der Ausbildung dienen, kann unter Umständen auf AHV-Beiträge verzichtet werden. Aber Achtung: Die Abgrenzung ist schwierig. Sicherheitshalber immer bei der AHV-Ausgleichskasse nachfragen. Auch Ferienpraktikanten von Studenten sind oft beitragspflichtig. Dokumentiere den Ausbildungscharakter des Praktikums gut, falls Fragen aufkommen.
 

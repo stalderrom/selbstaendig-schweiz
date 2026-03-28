@@ -73,38 +73,38 @@ Ein durchdachtes Tool-Setup kostet CHF 100-300 pro Monat. Das klingt viel – is
 
 Ein guter Tool-Stack besteht aus **7 Kategorien:**
 
-### 1. Buchhaltung & Finanzen (Pflicht)
+**1. Buchhaltung & Finanzen (Pflicht)**
 - Rechnungen schreiben
 - Ausgaben erfassen
 - MWST abrechnen
 - Jahresabschluss
 
-### 2. Projektmanagement & Organisation (Pflicht)
+**2. Projektmanagement & Organisation (Pflicht)**
 - Aufgaben verwalten
 - Projekte planen
 - Deadlines tracken
 
-### 3. Zeiterfassung & Produktivität (Sehr empfohlen)
+**3. Zeiterfassung & Produktivität (Sehr empfohlen)**
 - Arbeitszeit erfassen
 - Produktivität messen
 - Abrechenbare Stunden tracken
 
-### 4. CRM & Kundenmanagement (Empfohlen)
+**4. CRM & Kundenmanagement (Empfohlen)**
 - Kontakte organisieren
 - Sales-Pipeline verwalten
 - Follow-ups automatisieren
 
-### 5. Kommunikation & Collaboration (Pflicht)
+**5. Kommunikation & Collaboration (Pflicht)**
 - E-Mail
 - Video-Calls
 - Team-Chat (bei Partnern/Mitarbeitern)
 
-### 6. Marketing & Website (Sehr empfohlen)
+**6. Marketing & Website (Sehr empfohlen)**
 - Website-Builder
 - E-Mail-Marketing
 - Social Media Management
 
-### 7. Weitere Tools (Optional)
+**7. Weitere Tools (Optional)**
 - Cloud-Speicher
 - Passwort-Manager
 - Vertragsmanagement
@@ -128,129 +128,23 @@ Ein guter Tool-Stack besteht aus **7 Kategorien:**
 | **Sage** | CHF 40-80 | ✅ | ✅ | ✅ | Etabliert |
 | **Crésus** | CHF 80-300 | ✅ | Teilweise | ✅ | Traditionell, CH |
 
-### 1. Bexio - Der Schweizer Allrounder
+**1. Bexio – Der Schweizer Allrounder**
 
-**Für wen:** KMU, wachsende Selbständige, die eine All-in-One-Lösung wollen
+Der Marktführer für Schweizer KMU: Buchhaltung, QR-Rechnungen, Banking-Integration, CRM und Lohnabrechnung in einem. CHF 35–65/Monat. Ideal ab CHF 80'000 Jahresumsatz.
 
-**Features:**
-- Rechnungen & Offerten (inkl. QR-Rechnung)
-- Banking-Integration (automatischer Abgleich)
-- MWST-Abrechnung (mit Export für ESTV)
-- Doppelte Buchhaltung
-- CRM (Kontaktverwaltung)
-- Zeiterfassung
-- Projektverwaltung
-- Lohnbuchhaltung (optional)
-- Mobile App
-- 100+ Integrationen
+**2. Run my Accounts – Einsteigerfreundlich**
 
-**Preise:**
-- **Starter:** CHF 35/Monat (Basis-Buchhaltung)
-- **Business:** CHF 55/Monat (+ Banking, Reports)
-- **Enterprise:** CHF 65/Monat (+ API, Mehrbenutzer)
+Günstige Cloud-Buchhaltung mit sehr intuitiver Oberfläche, automatischer Banking-Integration und OCR-Belegscan. CHF 24–49/Monat. Perfekt bis CHF 100'000 Umsatz.
 
-**Vorteile:**
-- Sehr umfangreich (ersetzt 3-4 Tools)
-- Perfekt für Schweiz (MWST, QR, Banking)
-- Starker Support (DE, FR, IT)
-- Konstant weiterentwickelt
+**3. Banana Accounting – Die Budget-Option**
 
-**Nachteile:**
-- Relativ teuer
-- Kann überfordernd sein für Minimalisten
-- Manche Features nur in höheren Plänen
+Desktop-Software (Windows, Mac, Linux) mit Einmalkauf statt Abo. Doppelte Buchhaltung, MWST, Multi-Währung. CHF 119 einmalig. Ideal für IT-affine Sparsame, keine Banking-Integration.
 
-**Empfehlung:** Ab CHF 80'000 Umsatz ideal
+**4. Klara – Modern & Design-fokussiert**
 
-→ [Bexio Test: Lohnt sich der Marktführer?](/artikel/tools-selbststaendige)
+Cloud-Buchhaltung mit modernstem Interface, KI-Belegerfassung und Smart Banking. CHF 39–99/Monat. Beste UX, aber etwas teurer.
 
-### 2. Run my Accounts - Einsteigerfreundlich
-
-**Für wen:** Freelancer, Einzelunternehmer, die Einfachheit wollen
-
-**Features:**
-- Sehr intuitive Oberfläche
-- Automatische Bankintegration
-- OCR-Belegscan (Foto → Buchung)
-- QR-Rechnungen
-- MWST-Abrechnung
-- Reports & Auswertungen
-
-**Preise:**
-- **Basic:** CHF 24/Monat (Vereinfachte Buchhaltung)
-- **Plus:** CHF 39/Monat (Doppelte Buchhaltung)
-- **Premium:** CHF 49/Monat (+ Mehrbenutzer)
-
-**Vorteile:**
-- Sehr einfach zu bedienen
-- Günstig
-- Fokussiert (nicht überladen)
-
-**Nachteile:**
-- Weniger Features als Bexio
-- Kein integriertes CRM
-- Keine Zeiterfassung
-
-**Empfehlung:** Bis CHF 100'000 Umsatz perfekt
-
-### 3. Banana Accounting - Die Budget-Option
-
-**Für wen:** Sparsame Selbständige mit Buchhaltungs-Kenntnissen
-
-**Features:**
-- Desktop-Software (Windows, Mac, Linux)
-- Doppelte & einfache Buchhaltung
-- MWST
-- Multi-Währung
-- Sehr flexibel & anpassbar
-
-**Preise:**
-- **Free:** CHF 0 (begrenzt)
-- **Advanced:** CHF 119 (einmalig!)
-- **Professional:** CHF 299 (mehrere Firmen)
-
-**Vorteile:**
-- Einmalkauf statt Abo
-- Keine Cloud (Datenschutz)
-- Sehr leistungsstark
-
-**Nachteile:**
-- Steile Lernkurve
-- Altmodisches Interface
-- Keine Banking-Integration
-- Kein automatischer Sync
-
-**Empfehlung:** Für IT-affine Sparfüchse
-
-### 4. Klara - Modern & Design-fokussiert
-
-**Für wen:** Moderne Selbständige, die Wert auf UX legen
-
-**Features:**
-- Schönes, intuitives Interface
-- KI-gestützte Belegerfassung
-- Smart Banking
-- Mobile-first
-- Automatisierungen
-
-**Preise:**
-- **Starter:** CHF 39/Monat
-- **Business:** CHF 69/Monat
-- **Professional:** CHF 99/Monat
-
-**Vorteile:**
-- Beste Benutzerfreundlichkeit
-- Modernes Design
-- Gute Mobile-App
-
-**Nachteile:**
-- Noch relativ jung
-- Weniger Features als Bexio
-- Höherer Preis
-
-**Empfehlung:** Für Design-Liebhaber mit Budget
-
-→ [Buchhaltungssoftware-Vergleich: Alle Details](/artikel/tools-selbststaendige)
+→ [Alle Buchhaltungssoftware im Detail-Vergleich](/artikel/buchhaltungssoftware-vergleich)
 
 ## Projektmanagement & Aufgaben
 
@@ -265,7 +159,7 @@ Ein guter Tool-Stack besteht aus **7 Kategorien:**
 | **Todoist** | CHF 0-5 | To-Do-Listen | Minimalisten |
 | **ClickUp** | CHF 0-12 | All-in-One | Power-User |
 
-### 1. Notion - Der flexible Alleskönner
+**1. Notion - Der flexible Alleskönner**
 
 **Für wen:** Solopreneure, die Flexibilität lieben
 
@@ -304,7 +198,7 @@ Eine Kombination aus:
 
 → [Notion für Selbständige: Setup-Guide](/artikel/tools-selbststaendige)
 
-### 2. Asana - Strukturiertes Projektmanagement
+**2. Asana - Strukturiertes Projektmanagement**
 
 **Für wen:** Teams, strukturierte Arbeitsweise
 
@@ -332,7 +226,7 @@ Eine Kombination aus:
 
 **Empfehlung:** Ab 2-3 Personen ideal
 
-### 3. Trello - Visuelles Kanban
+**3. Trello - Visuelles Kanban**
 
 **Für wen:** Visuelle Denker, einfache Projekte
 
@@ -361,7 +255,7 @@ Kanban-Boards mit Karten:
 
 **Empfehlung:** Für einfache, visuelle Workflows
 
-### 4. Todoist - Minimalistisches Task-Management
+**4. Todoist - Minimalistisches Task-Management**
 
 **Für wen:** Minimalisten, die nur To-Do-Listen brauchen
 
@@ -416,60 +310,15 @@ Kanban-Boards mit Karten:
 | **RescueTime** | CHF 12 | Automatisch, Produktivität | Selbstüberwachung |
 | **Everhour** | CHF 8.50 | Integration PM-Tools | Asana/Trello-User |
 
-### 1. Toggl Track - Der Klassiker
+**1. Toggl Track – Der Klassiker**
 
-**Für wen:** Freelancer & Agenturen
+One-Click-Timer, Projekte & Kunden zuweisen, Reports. Gratis bis 5 User, CHF 10/Monat für mehr Features. Standard-Tool für Freelancer.
 
-**Features:**
-- One-Click Timer
-- Projekte & Kunden zuweisen
-- Reports & Auswertungen
-- Rechnungsstellung (via Toggl Plan)
-- Browser-Extension
-- Mobile App
+**2. RescueTime – Automatische Produktivitäts-Analyse**
 
-**Preise:**
-- **Free:** CHF 0 (bis 5 User)
-- **Starter:** CHF 10/Monat
-- **Premium:** CHF 20/Monat
+Trackt automatisch Apps und Websites, zeigt Produktivitäts-Score und kann ablenkende Seiten blockieren. CHF 12/Monat. Ideal als Ergänzung zu Toggl.
 
-**Vorteile:**
-- Super einfach
-- Sehr gute Reports
-- Schönes Interface
-
-**Nachteile:**
-- Rechnungen nur in höherem Plan
-- Keine Produktivitäts-Analyse
-
-**Empfehlung:** Standard für Zeiterfassung
-
-### 2. RescueTime - Automatische Produktivitäts-Analyse
-
-**Für wen:** Alle, die Produktivität steigern wollen
-
-**Was macht RescueTime?**
-- Trackt automatisch, welche Apps/Websites Sie nutzen
-- Kategorisiert (produktiv vs. ablenkend)
-- Zeigt tägliche Produktivitäts-Score
-- Blockiert ablenkende Seiten (optional)
-
-**Preise:**
-- **Free:** CHF 0 (begrenzt)
-- **Premium:** CHF 12/Monat
-
-**Vorteile:**
-- Komplett automatisch
-- Eye-Opening Insights
-- Produktivitäts-Trends
-
-**Nachteile:**
-- Kein manueller Timer
-- Keine Kunden-Abrechnung
-
-**Empfehlung:** Als Ergänzung zu Toggl
-
-→ [Zeiterfassung: Die besten Tools](/artikel/tools-selbststaendige)
+→ [Zeiterfassung-Tools für Selbständige: Vergleich](/artikel/zeiterfassung-schweiz)
 
 ## CRM & Kundenmanagement
 
@@ -498,65 +347,15 @@ Kanban-Boards mit Karten:
 | **Notion** | CHF 0-10 | Bastler | DIY-Lösung |
 | **Streak** | CHF 0-69 | Gmail-User | E-Mail-integriert |
 
-### 1. HubSpot CRM - Kostenlos & mächtig
+**1. HubSpot CRM – Kostenlos & mächtig**
 
-**Für wen:** Alle (vor allem Einsteiger)
+Unbegrenzte Kontakte, Deal-Pipeline, E-Mail-Tracking und Meeting-Scheduling gratis. Marketing-Features kostenpflichtig (ab CHF 20/Monat). Ideal für den Einstieg.
 
-**Features (kostenlos!):**
-- Unbegrenzte Kontakte
-- Deal-Pipeline
-- E-Mail-Tracking
-- Meeting-Scheduling
-- Live-Chat
-- Formulare
-- Reports
+**2. Pipedrive – Sales-Pipeline-Fokus**
 
-**Preise:**
-- **Free:** CHF 0 (!)
-- **Starter:** CHF 20/Monat (Marketing-Features)
-- **Professional:** CHF 890/Monat (für grössere Teams)
+Visueller Sales-Funnel mit Deal-Tracking, Aktivitätserinnerungen und E-Mail-Integration. CHF 15–49/Monat. Ideal wenn Sie aktiv akquirieren.
 
-**Vorteile:**
-- Komplett kostenlos für Basis-CRM
-- Sehr umfangreich
-- Einfach zu bedienen
-- Skalierbar
-
-**Nachteile:**
-- Marketing-Features teuer
-- Kann komplex werden
-
-**Empfehlung:** Start mit Free-Plan, später upgraden
-
-### 2. Pipedrive - Sales-Pipeline-Fokus
-
-**Für wen:** Vertriebslastige Selbständige
-
-**Features:**
-- Visueller Sales-Funnel
-- Deal-Tracking
-- Aktivitäten & Erinnerungen
-- E-Mail-Integration
-- Automatisierungen
-- Mobile App
-
-**Preise:**
-- **Essential:** CHF 15/Monat
-- **Advanced:** CHF 29/Monat
-- **Professional:** CHF 49/Monat
-
-**Vorteile:**
-- Sehr intuitiv
-- Fokussiert auf Abschlüsse
-- Gute Mobile-App
-
-**Nachteile:**
-- Teurer als HubSpot Free
-- Marketing-Features fehlen
-
-**Empfehlung:** Wenn Sie viel aktiv verkaufen
-
-→ [CRM für Selbständige: Vergleich](/artikel/pipedrive-schweiz-crm-guide)
+→ [Pipedrive Schweiz: Test & Guide](/artikel/pipedrive-schweiz-crm-guide)
 
 ## Kommunikation & Collaboration
 
@@ -832,42 +631,42 @@ Kanban-Boards mit Karten:
 
 ## Die häufigsten Tool-Fehler
 
-### 1. Zu viele Tools
+**1. Zu viele Tools**
 **Fehler:** 20+ Tools, keines richtig genutzt
 **Folge:** Chaos, hohe Kosten, Überforderung
 **Lösung:** 5-10 gut integrierte Tools
 
-### 2. Kostenlos um jeden Preis
+**2. Kostenlos um jeden Preis**
 **Fehler:** Nur Free-Versionen nutzen
 **Folge:** Limitierte Features, schlechter Support
 **Lösung:** In wichtige Tools investieren (CHF 100-200/Monat)
 
-### 3. Nicht integrieren
+**3. Nicht integrieren**
 **Fehler:** Tools arbeiten isoliert
 **Folge:** Doppelte Arbeit, Daten-Chaos
 **Lösung:** Zapier, Make.com oder native Integrationen nutzen
 
-### 4. Keine Einarbeitung
+**4. Keine Einarbeitung**
 **Fehler:** Tool kaufen, nie richtig lernen
 **Folge:** 20% der Features genutzt
 **Lösung:** 2-3 Stunden Tutorials pro Tool
 
-### 5. Zu schnell wechseln
+**5. Zu schnell wechseln**
 **Fehler:** Alle 2 Monate neues Tool testen
 **Folge:** Keine Routine, ständige Migration
 **Lösung:** Tool mindestens 6 Monate testen
 
-### 6. Keine Backups
+**6. Keine Backups**
 **Fehler:** Alles in der Cloud, keine lokalen Kopien
 **Folge:** Bei Ausfall kein Zugriff
 **Lösung:** 3-2-1-Backup-Regel
 
-### 7. Passwörter unsicher
+**7. Passwörter unsicher**
 **Fehler:** "Passwort123" für alles
 **Folge:** Hacking, Datenverlust
 **Lösung:** Passwort-Manager nutzen
 
-### 8. Alte Tools behalten
+**8. Alte Tools behalten**
 **Fehler:** Jahrelang dasselbe Tool, obwohl veraltet
 **Folge:** Ineffizienz, verpasste Features
 **Lösung:** Jährlich Tools reviewen
@@ -989,25 +788,25 @@ Notion-Datenbank: Status → "Publizieren"
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wie viel sollte ich für Tools ausgeben?
+**Wie viel sollte ich für Tools ausgeben?**
 Faustregel: 2-5% des Umsatzes für Software-Tools. Bei CHF 100'000 Umsatz = CHF 2'000-5'000/Jahr = CHF 165-420/Monat. Minimaler Stack: CHF 50/Monat (Budget-Tools). Professional Stack: CHF 150-250/Monat (beste Wahl für meisten). Enterprise: CHF 300-500/Monat (bei Teams/hohem Umsatz). Jede Stunde gespart à CHF 80 = ROI von 200-400% bei CHF 200/Monat Tool-Kosten.
 
-### Brauche ich wirklich so viele Tools?
+**Brauche ich wirklich so viele Tools?**
 Minimum absolut nötig: (1) Buchhaltung, (2) E-Mail, (3) Cloud-Speicher, (4) Passwort-Manager = CHF 30-50/Monat. Empfohlen zusätzlich: (5) Projektmanagement, (6) Zeiterfassung, (7) CRM = CHF 100-150/Monat total. Mehr Tools = mehr Effizienz, ABER nur wenn gut integriert. Lieber 7 Tools perfekt nutzen als 20 Tools oberflächlich. Qualität > Quantität.
 
-### Soll ich kostenlose oder bezahlte Tools nutzen?
+**Soll ich kostenlose oder bezahlte Tools nutzen?**
 **Kostenlos OK für:** Cloud-Speicher (Google Drive), CRM (HubSpot), Projektmanagement (Notion, Trello), Passwort-Manager (Bitwarden). **Bezahlt lohnt sich für:** Buchhaltung (CHF 25-55/Monat – spart Stunden!), E-Mail (CHF 6/Monat – professionell), Zeiterfassung (CHF 10/Monat – Features), Video-Calls (CHF 14/Monat – keine Limits). Investition in Tools spart mehr Zeit als sie kostet.
 
-### Wie finde ich die richtigen Tools für meine Branche?
+**Wie finde ich die richtigen Tools für meine Branche?**
 **Dienstleister/Berater:** Fokus auf CRM + Zeiterfassung + Projektmanagement. **E-Commerce:** Fokus auf Buchhaltung + Lager + Marketing-Automation. **Kreative:** Fokus auf Projektmanagement + Cloud-Speicher + Portfolio-Tools. **Handwerker:** Fokus auf Terminbuchung + Mobile-Tools + Rechnungsstellung. Best Practice: Fragen Sie Kollegen in Ihrer Branche, testen Sie 2-3 Tools (meist kostenlose Trials), entscheiden Sie nach 2 Wochen.
 
-### Wie sichere ich meine Daten in der Cloud?
+**Wie sichere ich meine Daten in der Cloud?**
 **5 wichtige Punkte:** (1) Passwort-Manager mit einzigartigen, starken Passwörtern. (2) 2FA für alle wichtigen Tools aktivieren. (3) 3-2-1-Backup-Regel: 3 Kopien, 2 Medien, 1 extern. (4) Verschlüsselte Cloud-Anbieter (ProtonDrive, pCloud mit Encryption). (5) Regelmässig Zugriffsrechte prüfen. Schweizer Anbieter (Infomaniak, pCloud) unterliegen strengerem Datenschutz als US-Anbieter.
 
-### Kann ich Tools steuerlich absetzen?
+**Kann ich Tools steuerlich absetzen?**
 Ja, 100% aller Business-Tools sind als Geschäftsausgaben abzugsfähig: Buchhaltungssoftware, CRM, Projektmanagement, Cloud-Speicher, E-Mail-Hosting, Website, Marketing-Tools, Passwort-Manager, etc. Bei 30% Grenzsteuersatz sparen Sie CHF 60 Steuern pro CHF 200 Tool-Kosten. Wichtig: Geschäftskonto nutzen, Belege aufbewahren, in Buchhaltung als "Software" oder "IT-Dienstleistungen" erfassen.
 
-### Wie automatisiere ich Abläufe zwischen Tools?
+**Wie automatisiere ich Abläufe zwischen Tools?**
 **3 Wege:** (1) **Native Integrationen:** Viele Tools haben direkte Verbindungen (z.B. Bexio ↔ Banking, Asana ↔ Slack). (2) **Zapier/Make:** No-Code-Plattformen verbinden 5'000+ Apps. Preis: CHF 0-73/Monat. Beispiel: Google Forms → HubSpot → Slack-Nachricht. (3) **API (für Entwickler):** Custom-Integrationen programmieren. Start: 3-5 einfache Automationen, dann erweitern. Spart 5-10 Stunden/Monat.
 
 ## Fazit
@@ -1037,6 +836,7 @@ Fast alle Tools haben kostenlose Trials. Nutzen Sie sie! 2-3 Stunden Tutorial-In
 
 Mit dem richtigen Tool-Setup arbeiten Sie nicht härter, sondern smarter. Sie gewinnen Zeit für das Wesentliche: Ihr Geschäft wachsen lassen und Kunden begeistern.
 
+<!--
 ### Verlinkungsstrategie:
 Diese Pillar Page sollte von ALLEN Artikeln im Tools-Silo verlinkt werden.
 
@@ -1072,4 +872,5 @@ Diese Pillar Page sollte von ALLEN Artikeln im Tools-Silo verlinkt werden.
 ### Besonderheit:
 Diese Pillar Page enthält viele Vergleichstabellen und konkrete Tool-Empfehlungen.
 Regelmässige Updates besonders wichtig, da Tool-Landschaft schnell ändert.
+-->
 -->

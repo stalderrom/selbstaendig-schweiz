@@ -81,7 +81,7 @@ Yoga ist in der Schweiz populärer als je zuvor – der Markt wächst, die Nachf
 
 ## Modelle: Wie du als Yogalehrer arbeitest
 
-### 1. Kursleiter in bestehenden Studios
+**1. Kursleiter in bestehenden Studios**
 
 Einstiegsmodus: Du lehrst in bestehenden Studios und erhältst einen Anteil der Kurseinnahmen oder einen festen Satz.
 
@@ -89,7 +89,7 @@ Einstiegsmodus: Du lehrst in bestehenden Studios und erhältst einen Anteil der 
 - **Vorteile:** Kein Raum-Risiko, fester Kundenstamm, Studio-Marketing
 - **Nachteile:** Abhängig vom Studio, tiefere Einnahmen
 
-### 2. Eigenes Studio (Mietstudio oder Eigentum)
+**2. Eigenes Studio (Mietstudio oder Eigentum)**
 
 Eigene Räumlichkeiten für dein Yoga-Business.
 
@@ -97,7 +97,7 @@ Eigene Räumlichkeiten für dein Yoga-Business.
 - **Einnahmen:** Volle Einnahmen aus Kursen, Membership, Workshops
 - **Risiko:** Hohe Fixkosten, Nachfrage muss stimmen
 
-### 3. Raummiete auf Stundenbasis
+**3. Raummiete auf Stundenbasis**
 
 Beliebt und kosteneffizient: Du mietest Sporträume stundenweise.
 
@@ -105,14 +105,14 @@ Beliebt und kosteneffizient: Du mietest Sporträume stundenweise.
 - **Vorteile:** Tiefe Fixkosten, flexibel
 - **Nachteile:** Keine eigene Infrastruktur
 
-### 4. Online-Yoga
+**4. Online-Yoga**
 
 Kurse über Zoom, YouTube (kostenlose Lead-Generierung) oder eigene Plattform.
 
 - **Kosten:** Minimale Infrastrukturkosten
 - **Einnahmen:** CHF 10–50/Teilnehmer für Live-Klassen, Abo-Modelle
 
-### 5. Corporate Yoga
+**5. Corporate Yoga**
 
 Yoga-Programme für Unternehmen (Mitarbeitende-Wohlbefinden).
 

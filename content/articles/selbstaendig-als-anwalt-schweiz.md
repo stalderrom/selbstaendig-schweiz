@@ -89,21 +89,21 @@ Die **Berufshaftpflichtversicherung** ist nach BGFA für alle kantonalen Anwalts
 
 Als Anwalt hast du verschiedene Möglichkeiten der Berufsausübung:
 
-### 1. Einzelanwalt (Einzelfirma)
+**1. Einzelanwalt (Einzelfirma)**
 
 Vollständige Unabhängigkeit, einfachste Struktur. Geeignet für spezialisierte Einzelkämpfer oder regional tätige Anwälte.
 
 - **Vorteile:** Vollständige Entscheidungsfreiheit, günstig (keine Gründungskosten ausser AHV-Anmeldung)
 - **Nachteile:** Unbeschränkte persönliche Haftung, kein Synergieeffekt, kein Urlaub ohne Ausfall
 
-### 2. Einfache Gesellschaft / Gemeinschaftskanzlei
+**2. Einfache Gesellschaft / Gemeinschaftskanzlei**
 
 Zwei oder mehr Anwälte arbeiten zusammen, aber jeder rechnet separat und haftet selbst. Sehr verbreitet in der Schweiz.
 
 - **Vorteile:** Kostenteilung (Miete, Sekretariat, IT), Vertretung, Synergien
 - **Nachteile:** Gegenseitige Solidarhaftung (Vorsicht bei der Vertragsgestaltung!)
 
-### 3. GmbH oder AG
+**3. GmbH oder AG**
 
 Möglich, aber umstritten wegen Unabhängigkeitsprinzip. Einige Kantone erlauben Gesellschaften – aber das anwaltliche Berufsgeheimnis und die persönliche Unabhängigkeit müssen gewahrt bleiben.
 

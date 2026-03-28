@@ -341,23 +341,23 @@ Bei grossen Auftragsvolumen (z.B. 6+ Monate, 20+ Tage/Monat) kannst du einen red
 
 ## FAQ – Häufig gestellte Fragen
 
-### Wie hoch sollte mein Stundensatz mindestens sein?
+**Wie hoch sollte mein Stundensatz mindestens sein?**
 
 Als grobe Untergrenze gilt: Wenn du als Angestellter CHF 80'000 verdienen würdest, sollte dein Stundensatz mindestens CHF 100–120/Stunde betragen, um alle Kosten und Risiken zu decken. Darunter arbeitest du faktisch günstiger als ein Angestellter – was selten sinnvoll ist.
 
-### Gilt MWST auf meinem Stundensatz?
+**Gilt MWST auf meinem Stundensatz?**
 
 Wenn du MWST-pflichtig bist (ab CHF 100'000 Umsatz), kommt auf deinen Stundensatz 8.1% MWST hinzu. CHF 150 netto werden zu CHF 162.15 brutto. Bei B2B-Kunden ist das neutral (sie ziehen Vorsteuer ab). Bei Privatkunden erhöhst du effektiv den Preis.
 
-### Soll ich meinen Stundensatz auf der Website zeigen?
+**Soll ich meinen Stundensatz auf der Website zeigen?**
 
 Das ist eine Strategiefrage. Preistransparenz filtert unpassende Kunden heraus und spart Akquise-Zeit. Gleichzeitig kann es Kunden abschrecken, bevor du Wert kommuniziert hast. Viele Freelancer zeigen einen Preisrahmen ("ab CHF 130/Std.") oder bieten eine unverbindliche Erstberatung an.
 
-### Wie unterscheidet sich der Stundensatz in der Deutschschweiz vs. Romandie?
+**Wie unterscheidet sich der Stundensatz in der Deutschschweiz vs. Romandie?**
 
 Stundensätze sind in der Deutschschweiz und der Romandie vergleichbar. Genf hat teilweise etwas höhere Sätze für internationale Kunden. Das Tessin ist oft etwas tiefer. Wichtiger als Region: Branche, Erfahrung und Positionierung.
 
-### Kann ich unterschiedliche Stundensätze für verschiedene Kunden haben?
+**Kann ich unterschiedliche Stundensätze für verschiedene Kunden haben?**
 
 Grundsätzlich ja, aber sei vorsichtig: Wenn Kunden das herausfinden, schädigt es dein Vertrauen. Besser: Einen festen Grundsatz haben und bei Stammkunden oder Grossvolumen mit Zusatzleistungen oder kleinen Anpassungen arbeiten.
 

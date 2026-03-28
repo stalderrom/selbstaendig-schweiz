@@ -113,7 +113,7 @@ Die 24/7-Buchbarkeit ermöglicht auch Termine ausserhalb der Geschäftszeiten. V
 
 ## Schritt-für-Schritt Anleitung
 
-### 1. Vorbereitung (2-3 Stunden)
+**1. Vorbereitung (2-3 Stunden)**
 
 Definiere zunächst deine Servicestruktur klar. Erstelle maximal 3-4 verschiedene Termintypen: "Erstberatung 90 Min", "Folge-Coaching 60 Min", "Kurze Rücksprache 30 Min". Zu viele Optionen überfordern Kunden.
 
@@ -121,7 +121,7 @@ Lege deine Verfügbarkeitszeiten fest. Berücksichtige dabei Schweizer Geschäft
 
 Bereite E-Mail-Vorlagen vor für Terminbestätigungen, Erinnerungen und Follow-ups. Verwende die höfliche Schweizer Ansprache ("Sehr geehrte Frau Müller") und das "Sie".
 
-### 2. Account-Erstellung (30 Minuten)
+**2. Account-Erstellung (30 Minuten)**
 
 Registriere dich auf calendly.com mit deiner geschäftlichen E-Mail-Adresse. Wähle bei der Zeitzone explizit "Europe/Zurich" – nicht nur "CET", da dies bei Sommerzeit-Umstellungen Probleme verursachen kann.
 
@@ -129,7 +129,7 @@ Verbinde deinen Hauptkalender (Google Calendar empfohlen). Erlaube Calendly den 
 
 Stelle die Sprache auf Deutsch um. Die deutsche Übersetzung ist vollständig und professionell.
 
-### 3. Ersten Termintyp konfigurieren (45 Minuten)
+**3. Ersten Termintyp konfigurieren (45 Minuten)**
 
 Erstelle einen "Event Type" für deinen häufigsten Termintyp. Beispiel: "Strategieberatung 60 Minuten".
 
@@ -142,7 +142,7 @@ Erstelle einen "Event Type" für deinen häufigsten Termintyp. Beispiel: "Strate
 
 Definiere 2-3 Fragen für Teilnehmer: "Was ist Ihr Hauptanliegen?", "Wie haben Sie von mir erfahren?", "Bevorzugen Sie Video- oder Telefon-Termin?". Mehr als 3 Fragen schrecken ab.
 
-### 4. Buchungsseite personalisieren (30 Minuten)
+**4. Buchungsseite personalisieren (30 Minuten)**
 
 Lade ein professionelles Profilbild und dein Firmenlogo hoch. Das Logo sollte quadratisch sein (empfohlen: 512×512 Pixel).
 
@@ -151,7 +151,7 @@ Verfasse einen einladenden Begrüssungstext:
 
 Verlinke deine Website und füge Kontaktdaten hinzu. Schweizer Kunden erwarten vollständige Angaben inklusive Telefonnummer.
 
-### 5. Automatisierungen einrichten (45 Minuten)
+**5. Automatisierungen einrichten (45 Minuten)**
 
 **Bestätigungs-E-Mail personalisieren:**
 *"Liebe Frau [Name], vielen Dank für Ihre Terminbuchung. Ich bestätige hiermit unseren Termin am [Datum] um [Zeit]. Zur Vorbereitung erhalten Sie einen separaten E-Mail mit relevanten Unterlagen. Bei Fragen erreichen Sie mich unter [Telefon]. Freundliche Grüsse, [Ihr Name]"*
@@ -163,7 +163,7 @@ Verlinke deine Website und füge Kontaktdaten hinzu. Schweizer Kunden erwarten v
 **Follow-up E-Mail** (24 Stunden nach Termin):
 *"Herzlichen Dank für das konstruktive Gespräch gestern. Anbei erhalten Sie wie besprochen die Zusammenfassung und nächsten Schritte. Falls Sie Fragen haben, melden Sie sich gerne."*
 
-### 6. Integration und Tests (30 Minuten)
+**6. Integration und Tests (30 Minuten)**
 
 Integriere Calendly in deine Website mittels Button oder Iframe. Der Button wirkt weniger aufdringlich: "Termin vereinbaren".
 
@@ -174,7 +174,7 @@ Führe Testbuchungen durch verschiedene Geräte durch. Besonders wichtig: Mobile
 
 Teste die Kalender-Synchronisation: Trage manuell einen Termin in deinen Google Calendar ein und prüfe, ob dieser Zeitslot in Calendly gesperrt wird.
 
-### 7. Launch und Optimierung (laufend)
+**7. Launch und Optimierung (laufend)**
 
 Sende deinen Calendly-Link an 5-10 bestehende Kunden mit einer persönlichen Nachricht:
 *"Für zukünftige Termine habe ich ein neues Buchungssystem eingerichtet. Sie können nun direkt passende Zeiten wählen: [Link]. Das erspart uns beiden das E-Mail-Ping-Pong."*
@@ -219,31 +219,31 @@ Doppelte Datenpflege kostet Zeit und verursacht Fehler. Informationen aus Calend
 
 ## FAQ – Häufig gestellte Fragen
 
-### Ist Calendly DSGVO-konform für Schweizer Unternehmen?
+**Ist Calendly DSGVO-konform für Schweizer Unternehmen?**
 
 Ja, Calendly bietet DSGVO-konforme Datenverarbeitung durch entsprechende Zertifizierungen und Auftragsverarbeitungsverträge (AVV). Als Schweizer Selbständiger musst du jedoch mehrere Punkte beachten: Erstens die Anpassung deiner Datenschutzerklärung – erwähne explizit die Datenübertragung an Calendly (US-Unternehmen). Zweitens das neue Schweizer Datenschutzgesetz (DSG) seit September 2023, das ähnliche Anforderungen wie die DSGVO stellt. Drittens solltest du den AVV in deinen Calendly-Einstellungen aktivieren und dokumentieren. Viele Schweizer Anwälte empfehlen zusätzlich eine Einverständniserklärung bei der ersten Terminbuchung. Calendly nutzt Standardvertragsklauseln für internationale Datenübertragung – rechtlich ausreichend, aber du trägst die Informationspflicht gegenüber deinen Kunden.
 
-### Kann ich Calendly mit Schweizer Buchhaltungssoftware verbinden?
+**Kann ich Calendly mit Schweizer Buchhaltungssoftware verbinden?**
 
 Direkte Integrationen zu populären Schweizer Buchhaltungstools wie bexio, AbaNinja oder Run my Accounts existieren nicht. Du kannst jedoch über Zapier Verbindungen herstellen – Zapier unterstützt bexio und weitere CH-Tools. Für kostenpflichtige Termine empfiehlt sich die Stripe-Integration: Stripe lässt sich problemlos mit den meisten Schweizer Buchhaltungsprogrammen verbinden und rechnet direkt in CHF ab. Alternativ exportierst du monatlich CSV-Dateien aus Calendly und importierst sie in dein System. Viele Schweizer Treuhänder sind mit diesem Workflow vertraut. Für MWST-pflichtige Unternehmen: Calendly-Kosten sind als Betriebsausgaben absetzbar, die Vorsteuer kannst du bei kostenpflichtigen Plänen geltend machen. Eine saubere Dokumentation aller Calendly-Transaktionen erleichtert die Jahresabschluss-Erstellung.
 
-### Welche Kalendersysteme funktionieren optimal mit Calendly?
+**Welche Kalendersysteme funktionieren optimal mit Calendly?**
 
 Google Calendar bietet die zuverlässigste Integration und stabilste Zwei-Wege-Synchronisation. Terminänderungen werden innerhalb von 2-3 Minuten zwischen Calendly und Google synchronisiert. Microsoft Outlook (Office 365) funktioniert ebenfalls gut, zeigt aber bei komplexen Kalenderstrukturen oder geteilten Kalendern gelegentlich Verzögerungen. Apple iCloud Calendar ist technisch möglich, aber weniger stabil – besonders bei häufigen Terminänderungen können Synchronisationsfehler auftreten. Für Schweizer Selbständige empfiehlt sich Google Workspace (ab CHF 5.40/User/Monat) oder Microsoft 365 Business (ab CHF 4.20/User/Monat). Beide bieten professionelle E-Mail-Adressen (@deinefirma.ch), erweiterte Kalenderfunktionen und optimale Calendly-Kompatibilität. Exchange-Server funktionieren nur bei spezieller Konfiguration – lass dies vom IT-Support einrichten.
 
-### Funktioniert Calendly auch für B2B-Geschäfte in der Schweiz?
+**Funktioniert Calendly auch für B2B-Geschäfte in der Schweiz?**
 
 Absolut, Schweizer Unternehmen schätzen effiziente, professionelle Terminbuchungssysteme. Viele Grossunternehmen wie Credit Suisse, UBS oder Roche nutzen intern ähnliche Systeme und sind daher mit dem Konzept vertraut. Im B2B-Bereich, wo oft mehrere Entscheidungsträger an Terminfindungen beteiligt sind, vereinfacht Calendly den Prozess erheblich. Dein Ansprechpartner kann direkt verfügbare Zeiten einsehen und buchen, ohne interne Rücksprachen per E-Mail koordinieren zu müssen. Wichtig: Verwende eine geschäftliche E-Mail-Adresse (@firmenname.ch), gestalte die Buchungsseite professionell und biete verschiedene Terminlängen an (30 Min für Updates, 90 Min für Strategie-Meetings). Schweizer B2B-Kunden erwarten detaillierte Terminbeschreibungen mit Agenda und Vorbereitung. Viele schätzen auch die Möglichkeit, Teilnehmer zu ergänzen oder Unterlagen im Vorfeld auszutauschen.
 
-### Wie viel Zeit spare ich wirklich mit Calendly?
+**Wie viel Zeit spare ich wirklich mit Calendly?**
 
 Studien zeigen eine durchschnittliche Zeitersparnis von 4-8 E-Mails pro Terminvereinbarung. Bei durchschnittlich 3 Minuten pro E-Mail entspricht das 12-24 Minuten pro Termin. Mit 20 Terminen wöchentlich sparst du 4-8 Stunden reine E-Mail-Zeit. Hinzu kommt reduzierter mentaler Aufwand: Kein Kalender-Jonglieren, keine Doppelbuchungen, keine vergessenen Termine. Schweizer Berater berichten von 30-50% weniger No-Shows durch automatische Erinnerungen – bei CHF 200-Stundensatz bedeutet ein vermiedener No-Show CHF 200 gespartes Geld. Die 24/7-Buchbarkeit ermöglicht Termine auch ausserhalb deiner E-Mail-Zeiten. Viele Kunden buchen abends oder am Wochenende. Ein Zürcher Coach berichtet: "Früher habe ich sonntags keine Geschäfts-E-Mails beantwortet. Mit Calendly buchen Kunden trotzdem, und montags sehe ich bereits neue Termine." Die Zeitersparnis lässt sich direkt monetarisieren: Zusätzliche Beratungsstunden oder mehr Zeit für Akquise.
 
-### Gibt es günstigere Schweizer Alternativen zu Calendly?
+**Gibt es günstigere Schweizer Alternativen zu Calendly?**
 
 Ja, mehrere Alternativen existieren: Doodle Pro (Schweizer Unternehmen, CHF 6.95/Monat) bietet grundlegende Terminbuchung, aber weniger Automatisierung. SimplyBook.me (ab CHF 8.50/Monat) hat ähnliche Features wie Calendly, aber komplexere Bedienung. Acuity Scheduling (Preise ähnlich Calendly) mit EU-Servern für besseren Datenschutz. Kostenlose Optionen: Google Calendar Appointment Slots (sehr basic) oder Microsoft Bookings (nur mit Office 365). Für einfache Bedürfnisse ohne Zahlungsfunktionen reicht oft Doodle Pro – zumal es ein Schweizer Produkt ist und Server in Europa hat. Bei komplexeren Anforderungen (automatische Workflows, Zahlungsintegration, CRM-Anbindung, Analytics) bietet Calendly jedoch das beste Preis-Leistungs-Verhältnis und stabilste Performance. Viele Schweizer Berater starten mit Doodle Pro und wechseln später zu Calendly, wenn das Geschäft wächst. Teste 2-3 Alternativen parallel mit wenigen Kunden, bevor du dich festlegst.
 
-### Kann ich verschiedene Tarife für unterschiedliche Beratungstypen einrichten?
+**Kann ich verschiedene Tarife für unterschiedliche Beratungstypen einrichten?**
 
 Ja, im Professional Plan (CHF 14.50/Monat) kannst du unbegrenzt viele Termintypen mit individuellen Preisen erstellen. Beispiel-Setup: "Erstberatung 90 Min" (CHF 250), "Strategieworkshop 2 Std" (CHF 450), "Follow-up 60 Min" (CHF 180), "Kurze Rücksprache 30 Min" (CHF 90). Die Stripe-Integration rechnet automatisch korrekt ab und überweist CHF-Beträge ohne Währungsumrechnung auf dein Schweizer Bankkonto. Du kannst auch kostenlose und kostenpflichtige Termine mischen – praktisch für "Kennenlern-Gespräche" (gratis) und "Tiefenanalyse" (kostenpflichtig). Wichtig: Schweizer MWST-Pflicht beachten bei Beratungsdienstleistungen. Ab CHF 100'000 Jahresumsatz musst du MWST ausweisen – Calendly kann dies nicht automatisch, daher brauchst du zusätzlich eine MWST-konforme Rechnungsstellung. Viele Schweizer Berater nutzen Calendly für Terminbuchung/Zahlung und erstellen parallel ordnungsgemässe Rechnungen über bexio oder ähnliche Tools.
 

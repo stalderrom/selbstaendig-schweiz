@@ -131,7 +131,7 @@ Ab ca. CHF 80'000 Gewinn lohnt sich die Prüfung. Mit Lohn-Dividenden-Mix lassen
 
 ## Stundensatz als Coach kalkulieren
 
-### Marktpreise 2026
+**Marktpreise 2026**
 
 | Coaching-Art | Stundensatz |
 |---|---|
@@ -288,19 +288,19 @@ Als Einzelfirma reicht eine einfache Einnahmen-Ausgaben-Rechnung:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich als Coach nebenberuflich starten?
+**Kann ich als Coach nebenberuflich starten?**
 
 Ja – das ist sogar empfehlenswert. Starte mit 2–5 Klienten nebenberuflich, teste ob es dir liegt und ob du Kunden gewinnst. Sobald das Coaching-Einkommen 50–60% deines Angestelltenlohns erreicht, kannst du den Schritt in die Vollständigkeit wagen.
 
-### Wie lange dauert es bis ich als Coach genug verdiene?
+**Wie lange dauert es bis ich als Coach genug verdiene?**
 
 Realistisch: 1–3 Jahre bis zu einem stabilen, ausreichenden Einkommen. Die ersten 6–12 Monate sind oft schwierig. Deshalb: Finanzielle Reserve von 12–18 Monaten Lebenshaltungskosten empfohlen, bevor du vollständig wechselst.
 
-### Brauche ich eine eigene Website als Coach?
+**Brauche ich eine eigene Website als Coach?**
 
 Ja – eine professionelle Website ist Pflicht. Sie zeigt deine Spezialisierung, Methodik und Zertifizierungen. Investment: CHF 1'000–3'000 für eine professionelle Website. Kostenlose Tools (Squarespace, Wix) können für den Start reichen.
 
-### Supervision: Muss ich das machen?
+**Supervision: Muss ich das machen?**
 
 Gesetzlich nein. Aber: Supervision ist professioneller Standard – du arbeitest mit Menschen, das braucht Reflexion. ICF-Zertifizierung verlangt Supervision für höhere Level. Kosten: CHF 100–200/Stunde, 1x/Monat ausreichend.
 

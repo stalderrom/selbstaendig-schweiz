@@ -229,15 +229,15 @@ Als Einzelkünstler reicht eine einfache Aufstellung:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich nebenberuflich als Künstler selbständig sein?
+**Kann ich nebenberuflich als Künstler selbständig sein?**
 
 Ja – viele Künstler kombinieren einen Teilzeitjob mit selbständiger künstlerischer Tätigkeit. AHV-Beiträge auf den künstlerischen Gewinn werden trotzdem fällig. Steuerlich werden beide Einkommen zusammengezählt, was die Progression erhöht. Melde dich bei der AHV-Ausgleichskasse für den selbständigen Teil an.
 
-### Sind Kunstverkäufe immer steuerpflichtig?
+**Sind Kunstverkäufe immer steuerpflichtig?**
 
 Bei gewerbsmässiger Tätigkeit ja – wenn du regelmässig Werke verkaufst, gilt das als Einkommen aus selbständiger Tätigkeit. Bei gelegentlichen Privatverkäufen (z.B. Sammler verkauft ein einzelnes Bild) kann es steuerfrei sein. Die Grenze ist fliessend und hängt von Häufigkeit und Absicht ab.
 
-### Was tun wenn das Einkommen extrem schwankt?
+**Was tun wenn das Einkommen extrem schwankt?**
 
 Rücklagen anlegen: In guten Monaten / Jahren mindestens 30–40% des Einkommens zurücklegen für AHV, Steuern und Flauten. Fixkosten tief halten. Mischeinnahmen (Unterricht, Auftragsarbeiten) schaffen Stabilität neben Künstlerischem.
 

@@ -63,7 +63,7 @@ Die Gründung einer GmbH in der Schweiz kostet mehr als in Deutschland oder Öst
 
 ## Die Kostenblöcke im Detail
 
-### 1. Stammkapital – CHF 20'000 (gesetzlich)
+**1. Stammkapital – CHF 20'000 (gesetzlich)**
 
 Das **Mindeststammkapital** einer Schweizer GmbH beträgt **CHF 20'000** (Art. 773 OR). Davon müssen bei Gründung mindestens **CHF 10'000 (50%) vollständig eingezahlt** sein.
 
@@ -74,7 +74,7 @@ Das **Mindeststammkapital** einer Schweizer GmbH beträgt **CHF 20'000** (Art. 7
 
 **Erhöhung des Stammkapitals:** Höheres Stammkapital (z.B. CHF 50'000 oder CHF 100'000) stärkt die Bonität und erleichtert Bankkredite – ist aber mit Stempelsteuer verbunden (1% auf den Teil über CHF 1 Mio.).
 
-### 2. Notargebühren – CHF 800–2'500
+**2. Notargebühren – CHF 800–2'500**
 
 Der **Notartermin** ist für die GmbH-Gründung in der Schweiz gesetzlich vorgeschrieben (Art. 779 OR). Der Notar beurkundet:
 - Den Gründungsakt
@@ -94,7 +94,7 @@ Der **Notartermin** ist für die GmbH-Gründung in der Schweiz gesetzlich vorges
 
 Tipp: Notargebühren sind in einigen Kantonen frei verhandelbar – Offerten einholen lohnt sich.
 
-### 3. Handelsregistergebühren – CHF 600–1'200
+**3. Handelsregistergebühren – CHF 600–1'200**
 
 Die Handelsregisterbehörde erhebt eine Eintragungsgebühr. Sie variiert je nach Kanton:
 - Einfache Eintragung (kleine GmbH): CHF 600–800
@@ -102,7 +102,7 @@ Die Handelsregisterbehörde erhebt eine Eintragungsgebühr. Sie variiert je nach
 
 Das Handelsregisteramt prüft die Unterlagen und publiziert den Eintrag im SHAB (Schweizerisches Handelsamtsblatt).
 
-### 4. Bankgebühren für Kapitaleinzahlungskonto – CHF 100–400
+**4. Bankgebühren für Kapitaleinzahlungskonto – CHF 100–400**
 
 Vor der Gründung musst du das Stammkapital auf ein **Sperrkonto** einzahlen. Die Bank stellt eine Einzahlungsbestätigung aus, die beim Notar vorgelegt wird.
 
@@ -110,11 +110,11 @@ Nach der Handelsregistereintragung wird das Konto freigegeben und in ein normale
 
 **Gebühren:** CHF 100–400 je nach Bank (Kontoeröffnung, Sperrkontogebühr, Umwandlungsgebühr).
 
-### 5. SHAB-Publikation – CHF 100–250
+**5. SHAB-Publikation – CHF 100–250**
 
 Die GmbH-Gründung muss im **Schweizerischen Handelsamtsblatt (SHAB)** publiziert werden. Das ist obligatorisch und kostet CHF 100–250 je nach Umfang.
 
-### 6. Optionale Zusatzkosten
+**6. Optionale Zusatzkosten**
 
 **Rechtsberatung und Statutenerstellung:** CHF 500–3'000
 Für einfache GmbH-Gründungen mit Standardstatuten nicht zwingend nötig. Bei mehreren Gesellschaftern, Vinkulierungsklauseln oder komplexen Regelungen empfohlen.

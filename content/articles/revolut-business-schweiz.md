@@ -45,7 +45,7 @@ Revolut Business eignet sich besonders für moderne, digital orientierte Unterne
 
 ## Voraussetzungen für Revolut Business in der Schweiz
 
-### Rechtliche Anforderungen
+**Rechtliche Anforderungen**
 
 Für die Kontoeröffnung benötigst du eine gültige Schweizer Geschäftsregistrierung. Bei Einzelfirmen reicht die AHV-Anmeldung als Selbständiger, GmbHs brauchen einen aktuellen Handelsregister-Auszug (maximal 3 Monate alt).
 
@@ -53,7 +53,7 @@ Alle Geschäftsinhaber müssen sich einzeln mit einem gültigen Schweizer Pass o
 
 Die Geschäftstätigkeit muss klar beschrieben und nachgewiesen werden. Revolut prüft dabei auch die Compliance-Anforderungen und lehnt bestimmte Branchen wie Krypto-Handel oder Glücksspiel ab.
 
-### Technische Voraussetzungen
+**Technische Voraussetzungen**
 
 Du brauchst ein Smartphone mit iOS oder Android für die Revolut Business App. Eine stabile Internetverbindung ist für das Online-Banking zwingend erforderlich, da keine Filiale existiert.
 

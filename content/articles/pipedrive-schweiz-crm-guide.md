@@ -30,7 +30,7 @@ Während HubSpot sehr marketinglastig ist und Salesforce oft überdimensioniert 
 
 ## Voraussetzungen für Pipedrive in der Schweiz
 
-### Technische Voraussetzungen
+**Technische Voraussetzungen**
 
 - Stabile Internetverbindung (Pipedrive ist reine Cloud-Lösung)
 - Moderner Browser oder Mobile App für iOS/Android
@@ -65,7 +65,7 @@ CRM-Daten können Teil deiner Geschäftsunterlagen sein (OR Art. 957ff), besonde
 | Power | 79.- | 853.- | 100 | KI-Features, Umsatz-Prognosen | Etablierte Unternehmen |
 | Enterprise | 99.- | 1'069.- | Unbegrenzt | White-Label, API-Zugang | Grosse Unternehmen |
 
-### Zusätzliche Kosten
+**Zusätzliche Kosten**
 
 **Einmalige Kosten:**
 - Setup-Beratung durch CH-Partner: CHF 500-2'000
@@ -200,7 +200,7 @@ CRM-Daten können Teil deiner Geschäftsunterlagen sein (OR Art. 957ff), besonde
 
 ## Häufige Fehler und wie du sie vermeidest
 
-### 1. Daten-Chaos beim Import
+**1. Daten-Chaos beim Import**
 **Problem:** Duplikate, unvollständige Informationen und inkonsistente Datenformate führen zu Verwirrung.
 
 **Lösung:**
@@ -209,7 +209,7 @@ CRM-Daten können Teil deiner Geschäftsunterlagen sein (OR Art. 957ff), besonde
 - Import in kleinen Paketen durchführen
 - Nach Import systematisch prüfen und nachbessern
 
-### 2. Zu komplexe Pipeline am Start
+**2. Zu komplexe Pipeline am Start**
 **Problem:** 10+ Pipeline-Stufen überfordern das Team und führen zu geringer Akzeptanz.
 
 **Lösung:**
@@ -218,7 +218,7 @@ CRM-Daten können Teil deiner Geschäftsunterlagen sein (OR Art. 957ff), besonde
 - Team nach Feedback zu Pipeline-Stufen fragen
 - Einfachheit vor Perfektion stellen
 
-### 3. Fehlende Team-Schulung
+**3. Fehlende Team-Schulung**
 **Problem:** Inkonsistente Nutzung, verlorene Daten und Widerstand gegen das neue System.
 
 **Lösung:**
@@ -227,7 +227,7 @@ CRM-Daten können Teil deiner Geschäftsunterlagen sein (OR Art. 957ff), besonde
 - Erfolgs-Champions im Team identifizieren
 - Individuelle Nachschulung bei Problemen
 
-### 4. Datenschutz ignorieren
+**4. Datenschutz ignorieren**
 **Problem:** Fehlende Einverständniserklärungen können zu DSG-Verstössen führen.
 
 **Lösung:**
@@ -236,7 +236,7 @@ CRM-Daten können Teil deiner Geschäftsunterlagen sein (OR Art. 957ff), besonde
 - Dokumentation der Datenverarbeitung führen
 - Regelmässige Datenschutz-Reviews durchführen
 
-### 5. Automatisierung übertreiben
+**5. Automatisierung übertreiben**
 **Problem:** Zu viele automatische E-Mails wirken unpersönlich und können Kunden vergraulen.
 
 **Lösung:**
@@ -256,25 +256,25 @@ CRM-Daten können Teil deiner Geschäftsunterlagen sein (OR Art. 957ff), besonde
 
 ## FAQ – Häufig gestellte Fragen
 
-### Ist Pipedrive für Schweizer Datenschutzgesetze geeignet?
+**Ist Pipedrive für Schweizer Datenschutzgesetze geeignet?**
 Ja, Pipedrive erfüllt die Anforderungen der Schweizer Datenschutz-Gesetzgebung. Die Server stehen in der EU und entsprechen DSGVO-Standards. Du musst jedoch selbst sicherstellen, dass du Kundeneinverständnisse einholst und die DSG-Bestimmungen einhältst. Pipedrive bietet Funktionen für Einverständnis-Management und Datenlöschung. Ein Datenverarbeitungsvertrag ist im Service inbegriffen.
 
-### Kann ich Pipedrive mit Schweizer Buchhaltungssoftware verbinden?
+**Kann ich Pipedrive mit Schweizer Buchhaltungssoftware verbinden?**
 Ja, die Integration mit den meisten CH-Buchhaltungstools funktioniert gut. bexio bietet eine direkte Verbindung, Abacus lässt sich über Zapier anbinden, und für andere Tools wie sevDesk oder banana.ch gibt es CSV-Export-Funktionen. Die Integration spart erheblich Zeit bei der Rechnungsstellung und hält Kundendaten automatisch synchron. Setup dauert meist 1-2 Stunden.
 
-### Wie lange dauert die komplette Einführung von Pipedrive?
+**Wie lange dauert die komplette Einführung von Pipedrive?**
 Für kleine Schweizer Unternehmen mit 1-5 Personen solltest du 2-4 Wochen einplanen. Die technische Einrichtung dauert nur 1-2 Tage, aber Datenmigration, Team-Schulung und Gewöhnung brauchen Zeit. Rechne mit 10-20 Stunden Arbeitsaufwand für die komplette Einführung. Grössere Teams benötigen 1-2 Monate bis zur vollständigen produktiven Nutzung.
 
-### Welcher Pipedrive-Plan ist für Schweizer KMU optimal?
+**Welcher Pipedrive-Plan ist für Schweizer KMU optimal?**
 Einzelunternehmer kommen meist mit Essential (CHF 162/Jahr) aus. Teams bis 5 Personen fahren mit Advanced (CHF 314/Jahr) am besten – hier sind Automatisierungen und unbegrenzte E-Mails enthalten. Wachsende Unternehmen mit komplexeren Verkaufsprozessen sollten Professional (CHF 637/Jahr) wählen. Die meisten Schweizer KMU sind mit Advanced sehr zufrieden.
 
-### Gibt es deutschsprachigen Support für Schweizer Kunden?
+**Gibt es deutschsprachigen Support für Schweizer Kunden?**
 Pipedrive bietet deutschsprachigen E-Mail- und Chat-Support, jedoch keinen telefonischen Support auf Deutsch. Für komplexe Fragen gibt es lokale Schweizer Pipedrive-Partner, die Setup und Beratung in CHF anbieten. Die Antwortzeiten sind gut (meist 4-8 Stunden), und die Zeitzone stimmt überein. Die Software selbst ist vollständig auf Deutsch verfügbar.
 
-### Was passiert mit meinen Daten bei einer Kündigung?
+**Was passiert mit meinen Daten bei einer Kündigung?**
 Du kannst jederzeit alle deine Daten als CSV-Dateien exportieren – Kontakte, Deals, Aktivitäten und E-Mail-Verläufe. Der Export ist kostenlos und unbegrenzt möglich. Bei einer Kündigung verlierst du nur den Zugang zur Software, nicht deine wertvollen Kundendaten. Wichtig: Den Export solltest du vor Ablauf der Kündigungsfrist durchführen, danach wird der Account gelöscht.
 
-### Funktioniert Pipedrive auch offline oder nur online?
+**Funktioniert Pipedrive auch offline oder nur online?**
 Pipedrive ist eine reine Cloud-Lösung und benötigt eine Internetverbindung. Die Mobile Apps können einige Daten zwischenspeichern, aber für vollständige Funktionalität ist Internet erforderlich. Das hat den Vorteil, dass deine Daten automatisch synchronisiert werden und du von überall arbeiten kannst. Für Schweizer Unternehmen ist das meist kein Problem, da die Internetabdeckung sehr gut ist.
 
 ## Fazit und nächste Schritte

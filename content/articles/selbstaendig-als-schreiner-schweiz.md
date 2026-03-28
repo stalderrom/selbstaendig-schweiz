@@ -25,14 +25,14 @@ Rechtlich giltst du als Handwerker im Sinne des Schweizer Gewerberechts. Das bri
 
 ## Voraussetzungen und Anforderungen
 
-### Rechtliche Voraussetzungen
+**Rechtliche Voraussetzungen**
 
 - **Eidgenössisches Fähigkeitszeugnis (EFZ)** als Schreiner/Schreinerin
 - **Ausländische Qualifikationen** müssen anerkannt werden
 - **Gewerbeanmeldung** bei der Gemeinde (je nach Kanton unterschiedlich)
 - **Handelsregistereintrag** bei GmbH/AG oder Einzelfirma ab CHF 100'000 Umsatz
 
-### Finanzielle Voraussetzungen
+**Finanzielle Voraussetzungen**
 
 Du benötigst ein Startkapital von CHF 50'000 bis 150'000, abhängig von deiner geplanten Betriebsgrösse. Zusätzlich brauchst du eine Liquiditätsreserve für die ersten 6-12 Monate.
 
@@ -45,7 +45,7 @@ Eigenkapital für Werkstatt und Maschinen ist essentiell. Banken verlangen meist
 - **Berufshaftpflichtversicherung** (CHF 800-1'500 jährlich)
 - **Betriebshaftpflichtversicherung** für Sachschäden
 
-### Fachliche Anforderungen
+**Fachliche Anforderungen**
 
 Du solltest mindestens 3-5 Jahre Berufserfahrung mitbringen. Kenntnisse in Betriebsführung sind von grossem Vorteil, aber nicht zwingend erforderlich.
 
@@ -55,7 +55,7 @@ CAD-Kenntnisse helfen bei der modernen Auftragsabwicklung und wirken professione
 
 ## Kosten im Überblick
 
-### Einmalige Startkosten
+**Einmalige Startkosten**
 
 | Kostenart | CHF | Bemerkung |
 |-----------|-----|-----------|
@@ -68,7 +68,7 @@ CAD-Kenntnisse helfen bei der modernen Auftragsabwicklung und wirken professione
 | Versicherungen (Jahresprämie) | 4'000-8'000 | Alle obligatorischen |
 | **TOTAL STARTKOSTEN** | **67'700-126'100** | |
 
-### Laufende monatliche Kosten
+**Laufende monatliche Kosten**
 
 | Kostenart | CHF/Monat | Bemerkung |
 |-----------|-----------|-----------|
@@ -82,7 +82,7 @@ CAD-Kenntnisse helfen bei der modernen Auftragsabwicklung und wirken professione
 
 ## Einkommen und Verdienstmöglichkeiten
 
-### Typische Stundensätze 2026
+**Typische Stundensätze 2026**
 
 - **Einfache Arbeiten**: CHF 65-80 pro Stunde
 - **Standardarbeiten**: CHF 80-95 pro Stunde  
@@ -165,49 +165,49 @@ Treibe die Digitalisierung voran mit CAD-Software und Online-Marketing.
 
 ## Häufige Fehler und wie du sie vermeidest
 
-### 1. Zu wenig Startkapital
+**1. Zu wenig Startkapital**
 
 **Problem:** Viele Gründer unterschätzen die Kosten und haben nach 3-6 Monaten Liquiditätsprobleme.
 
 **Lösung:** plane mindestens 6 Monate Betriebskosten als Reserve ein. Rechne alle Kosten grosszügig und füge 20% Puffer hinzu.
 
-### 2. Preise zu tief ansetzen
+**2. Preise zu tief ansetzen**
 
 **Problem:** Dumping-Preise führen trotz viel Arbeit zu Verlusten.
 
 **Lösung:** Kalkuliere alle Kosten inklusive deines Unternehmerlohns plus angemessener Gewinnmarge. Orientiere dich an Marktpreisen, aber gehe nie unter deine Kosten.
 
-### 3. Versicherungen vernachlässigen
+**3. Versicherungen vernachlässigen**
 
 **Problem:** Ein einziger Unfall kann deine Existenz bedrohen.
 
 **Lösung:** Schliesse umfassenden Versicherungsschutz von Anfang an ab. Spare nicht an der falschen Stelle.
 
-### 4. Buchhaltung unterschätzen
+**4. Buchhaltung unterschätzen**
 
 **Problem:** Steuerprobleme und Bussen wegen falscher Abrechnung sind teuer.
 
 **Lösung:** Investiere in professionelle Software oder engagiere einen Treuhänder. Halte alle Belege ordentlich.
 
-### 5. Keine schriftlichen Verträge
+**5. Keine schriftlichen Verträge**
 
 **Problem:** Streitigkeiten bei Aufträgen ohne klare Vereinbarungen kosten Zeit und Geld.
 
 **Lösung:** Verwende immer schriftliche Offerten und Verträge. Definiere Leistungen, Preise und Termine klar.
 
-### 6. Falsche Zielgruppe
+**6. Falsche Zielgruppe**
 
 **Problem:** Fokus auf unrentable Kleinstaufträge bringt wenig Gewinn.
 
 **Lösung:** Spezialisiere dich auf profitable Kundensegmente. Lehne unprofitable Aufträge ab.
 
-### 7. Ungenügende Akquise
+**7. Ungenügende Akquise**
 
 **Problem:** Auftragslücken führen zu Einkommensproblemen.
 
 **Lösung:** Betreibe kontinuierliches Marketing und pflege dein Netzwerk. Akquiriere auch in guten Zeiten neue Kunden.
 
-### 8. Qualität vs. Schnelligkeit
+**8. Qualität vs. Schnelligkeit**
 
 **Problem:** Pfuscharbeit schadet dem Ruf nachhaltig und kostet später mehr.
 
@@ -224,31 +224,31 @@ Treibe die Digitalisierung voran mit CAD-Software und Online-Marketing.
 
 ## FAQ – Häufige Fragen
 
-### Brauche ich einen Meisterbrief als selbständiger Schreiner?
+**Brauche ich einen Meisterbrief als selbständiger Schreiner?**
 
 Nein, in der Schweiz gibt es keine Meisterpflicht wie in Deutschland. Ein eidgenössisches Fähigkeitszeugnis (EFZ) als Schreiner reicht vollkommen aus. Allerdings kann eine Weiterbildung zum Schreinermeister oder ein eidgenössisches Diplom deine Glaubwürdigkeit erhöhen und höhere Preise rechtfertigen. Kunden schätzen zusätzliche Qualifikationen, besonders im hochwertigen Möbelbau und bei Restaurationsarbeiten.
 
-### Wie finde ich die ersten Kunden als selbständiger Schreiner?
+**Wie finde ich die ersten Kunden als selbständiger Schreiner?**
 
 Starte mit deinem persönlichen Netzwerk aus Familie, Freunden und ehemaligen Kollegen. Melde dich bei lokalen Gewerbevereinen an und erstelle Profile auf lokalen.ch und anderen Handwerkerplattformen. Knüpfe gezielt Kontakte zu Architekten, Immobilienfirmen und Küchenstudios, da diese regelmässig Schreiner brauchen. Biete anfangs attraktive Einführungspreise an, aber gehe niemals unter deine Kostenschwelle. Mundpropaganda ist im Schreinergewerbe das wichtigste Marketing-Instrument.
 
-### Soll ich als Einzelfirma oder GmbH starten?
+**Soll ich als Einzelfirma oder GmbH starten?**
 
 Für den Start reicht meist eine Einzelfirma. Du sparst die CHF 20'000 Stammkapital einer GmbH und hast weniger Verwaltungsaufwand. Der Nachteil: Du haftest persönlich für alle Geschäftsschulden. Eine GmbH begrenzt deine Haftung auf das Firmenkapital, kostet aber mehr und hat höhere laufende Kosten. Als Faustregel gilt: Starte mit einer Einzelfirma und wechsle zur GmbH, wenn dein Jahresumsatz über CHF 200'000 liegt oder deine Haftungsrisiken steigen.
 
-### Welche Maschinen brauche ich mindestens für den Start?
+**Welche Maschinen brauche ich mindestens für den Start?**
 
 Die Grundausstattung umfasst Kreissäge, Hobelmaschine, Kantenschleifmaschine, Oberfräse, verschiedene Bohrmaschinen und komplette Handwerkzeuge. Rechne mit CHF 15'000-25'000 für gute Occasionsmaschinen. Kaufe nicht alles neu – bewährte Occasionen reichen am Anfang völlig. Erweitere deinen Maschinenpark erst, wenn entsprechende Aufträge da sind. Spezialmaschinen wie CNC-Fräsen kannst du anfangs mieten oder als Dienstleistung einkaufen.
 
-### Wie kalkuliere ich meine Preise richtig?
+**Wie kalkuliere ich meine Preise richtig?**
 
 Berechne alle Kosten exakt: Material, deine Arbeitszeit, Betriebskosten, AHV-Beiträge und gewünschte Gewinnmarge. Als Faustregel gilt bei Möbeln: Materialkosten mal 2,5 bis 3 für den Endpreis. Bei reiner Arbeitszeit liegt der Stundensatz zwischen CHF 65-95 je nach Region und Komplexität. Vergleiche lokale Konkurrenzpreise, aber kalkuliere immer deine echten Kosten durch. Vergiss nie deinen Unternehmerlohn – du arbeitest nicht umsonst.
 
-### Wann muss ich MWST abrechnen?
+**Wann muss ich MWST abrechnen?**
 
 Die MWST-Pflicht beginnt ab CHF 100'000 Jahresumsatz. Du kannst dich aber freiwillig schon früher anmelden. Der Vorteil: Du holst die MWST auf alle Investitionen und laufenden Kosten zurück. Der Nachteil: Mehr Administration und 8,1% Aufschlag für Privatkunden. Bei Geschäftskunden spielt MWST meist keine Rolle, da sie diese ohnehin abziehen können. Für die meisten Schreiner lohnt sich die freiwillige Anmeldung bereits ab CHF 50'000 Umsatz.
 
-### Wie wichtig ist eine eigene Werkstatt?
+**Wie wichtig ist eine eigene Werkstatt?**
 
 Eine eigene Werkstatt ist für professionelles Arbeiten unverzichtbar. Mobile Schreinerarbeiten sind nur begrenzt möglich, für Möbelbau brauchst du definitiv eine feste Werkstatt mit Stromanschluss und genügend Platz. Miete anfangs, kaufen kannst du später immer noch. Wichtige Kriterien: Gute Erreichbarkeit für Kunden und Lieferanten, ausreichend Platz für Maschinen und Lager, Möglichkeit für Lackierarbeiten und trockene Holzlagerung. Rechne mit CHF 2'000-4'000 monatlicher Miete je nach Standort und Grösse.
 

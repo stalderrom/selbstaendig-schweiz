@@ -61,7 +61,7 @@ Die **SIA (Schweizerischer Ingenieur- und Architektenverein)** ist der wichtigst
 
 ## Stundensatz und Honorare
 
-### Marktpreise 2026
+**Marktpreise 2026**
 
 | Leistungsphase | Stundensatz Solo-Büro |
 |---|---|
@@ -190,19 +190,19 @@ Bei Zusammenarbeit mit anderen Architekten:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich als Architekt in mehreren Kantonen tätig sein?
+**Kann ich als Architekt in mehreren Kantonen tätig sein?**
 
 Ja – aber du brauchst ggf. in jedem Kanton eine Bewilligung, wenn dieser eine eigene Regelung hat. In der Praxis akzeptieren viele Kantone Bewilligungen anderer Kantone oder sind pragmatisch bei einmaligen Projekten. Bei regelmässiger Tätigkeit im anderen Kanton: Bewilligung dort beantragen.
 
-### Wie gewinne ich die ersten Aufträge?
+**Wie gewinne ich die ersten Aufträge?**
 
 Netzwerk ist alles: früherer Arbeitgeber (als Subunternehmer), Familie und Freunde, Bekannte die bauen wollen, lokale Handwerker und Unternehmer. Kleinstprojekte (Umbau, Anbauten) sind gut zum Einstieg, weil überschaubar und schnell realisiert.
 
-### Was ist der Unterschied zwischen Architekt und Bauingenieur?
+**Was ist der Unterschied zwischen Architekt und Bauingenieur?**
 
 Architekten planen das Gebäude gestalterisch und funktional. Bauingenieure berechnen die Tragstruktur. Bei grösseren Projekten arbeiten beide zusammen. Als Architekt kannst du für kleinere Bauten auch einfache statische Berechnungen machen, für komplexe Strukturen ist der Bauingenieur nötig.
 
-### Wie handle ich Gewährleistungsansprüche?
+**Wie handle ich Gewährleistungsansprüche?**
 
 Architekten haften für Planungsfehler 5 Jahre nach Abnahme (Verjährungsfrist nach OR). Berufshaftpflichtversicherung deckt das ab. Wichtig: Alle Planungsentscheide dokumentieren, Auftragsänderungen schriftlich bestätigen lassen.
 

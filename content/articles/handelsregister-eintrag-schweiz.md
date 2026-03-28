@@ -62,7 +62,7 @@ Einzelfirmen unter CHF 100'000 Umsatz können sich **freiwillig** eintragen lass
 
 ## Einzelfirma: Eintrag Schritt für Schritt
 
-### Benötigte Unterlagen
+**Benötigte Unterlagen**
 
 - Anmeldeformular (online oder beim kantonalen Handelsregisteramt)
 - Personalausweis oder Pass (Kopie)
@@ -96,7 +96,7 @@ Einzelfirmen unter CHF 100'000 Umsatz können sich **freiwillig** eintragen lass
 
 Die GmbH-Gründung ist komplexer, weil ein **Notar** zwingend beteiligt ist.
 
-### Benötigte Unterlagen
+**Benötigte Unterlagen**
 
 - **Statuten** (Gesellschaftsvertrag) – vom Notar beurkundet
 - **Gründungsurkunde** – vom Notar beurkundet
@@ -198,19 +198,19 @@ Bei Aufhören der Geschäftstätigkeit:
 
 ## FAQ – Häufig gestellte Fragen
 
-### Kann ich mein Unternehmen selbst anmelden oder brauche ich einen Anwalt?
+**Kann ich mein Unternehmen selbst anmelden oder brauche ich einen Anwalt?**
 
 Einzelfirma: Selbst möglich, das Formular ist unkompliziert. GmbH/AG: Notar ist gesetzlich vorgeschrieben für die Gründungsbeurkundung. Für die Vorbereitung der Statuten kannst du Vorlagen nutzen oder einen Anwalt beiziehen – ein Anwalt kostet CHF 500–2'000 extra, spart aber Fehler.
 
-### Was ist die UID-Nummer und wozu brauche ich sie?
+**Was ist die UID-Nummer und wozu brauche ich sie?**
 
 Die UID (Unternehmens-Identifikationsnummer) ist die Steuernummer deines Unternehmens: Format UID-CHE-123.456.789. Sie wird automatisch bei HR-Eintrag vergeben und ist auch nötig für MWST-Anmeldung. Auf Rechnungen muss die UID angegeben werden wenn MWST-pflichtig.
 
-### Ist der Handelsregistereintrag öffentlich?
+**Ist der Handelsregistereintrag öffentlich?**
 
 Ja – vollständig öffentlich und von jedermann auf zefix.ch einsehbar. Das ist Absicht: Transparenz für Geschäftspartner und Kunden. Privatadresse wird nicht eingetragen (nur Geschäftsadresse).
 
-### Was passiert wenn ich die Eintragungspflicht verletze?
+**Was passiert wenn ich die Eintragungspflicht verletze?**
 
 Bei Überschreiten der CHF 100'000-Schwelle ohne Eintrag drohen Bussen. Das Handelsregisteramt mahnt in der Regel zunächst. Zudem bist du ohne Eintrag schlechter rechtlich geschützt (kein Firmennamen-Schutz).
 

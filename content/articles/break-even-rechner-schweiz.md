@@ -241,15 +241,15 @@ Einfachregel: Plane **30–40% mehr** als deinen reinen Break-Even-Umsatz als Zi
 
 ## FAQ – Häufig gestellte Fragen
 
-### Muss ich den Break-Even jährlich neu berechnen?
+**Muss ich den Break-Even jährlich neu berechnen?**
 
 Empfohlen ja – Kosten ändern sich (MWST-Erhöhung, höhere Miete, neue Versicherungen), dein Lebensstandard ändert sich, und deine Preise und Auslastung entwickeln sich. Mindestens einmal pro Jahr aktualisieren.
 
-### Was wenn mein Break-Even unrealistisch hoch ist?
+**Was wenn mein Break-Even unrealistisch hoch ist?**
 
 Dann musst du entweder: (a) Kosten senken, (b) Preise erhöhen, (c) mehr Stunden verkaufen, oder (d) das Geschäftsmodell überdenken. Der Break-Even zeigt dir objektiv, ob dein Businessplan funktioniert – oder wo der Schuh drückt.
 
-### Gilt der Break-Even auch für GmbH?
+**Gilt der Break-Even auch für GmbH?**
 
 Ja – aber bei der GmbH kalkulierst du zusätzlich deinen Lohn als Geschäftsführer als Fixkostenelement. Der Gewinn der GmbH wird dann separat besteuert. Das Break-Even-Prinzip ist identisch, aber die Kostenstruktur ändert sich.
 

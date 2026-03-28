@@ -23,7 +23,7 @@ Eine Todesfallversicherung zahlt beim Tod der versicherten Person eine vorher ve
 
 Die Todesfallversicherung ergänzt das Schweizer 3-Säulen-System optimal. Während die erste Säule (AHV) und zweite Säule (BVG) nur etwa 60% des letzten Einkommens als Hinterlassenenrente zahlen, schließt die Todesfallversicherung diese Vorsorgelücke.
 
-### Schweizer Besonderheiten
+**Schweizer Besonderheiten**
 
 **Säule 3a Integration:** In der gebundenen Vorsorge kannst du bis zu CHF 7'258 pro Jahr (2026) steuerlich abziehen. Die Prämien reduzieren deine Steuerlast um 25-45% je nach Kanton und Einkommen.
 
@@ -282,25 +282,25 @@ Der maximale Steuervorteil bei der Säule 3a beträgt CHF 7'258 pro Jahr für An
 
 ## FAQ - Häufige Fragen zur Todesfallversicherung
 
-### Wie hoch sollte meine Todesfallversicherung sein?
+**Wie hoch sollte meine Todesfallversicherung sein?**
 Die optimale Versicherungssumme hängt von deiner individuellen Situation ab. Berechne zunächst die monatlichen Lebenshaltungskosten deiner Familie (durchschnittlich CHF 6'000-10'000). Multipliziere dies mit der gewünschten Absicherungsdauer (meist 10-15 Jahre bis Kinder selbständig sind). Ziehe bestehende Absicherungen wie AHV-Hinterlassenenrente (max. CHF 3'585/Monat) und BVG-Leistungen ab. Bei einer Familie mit CHF 8'000 monatlichen Kosten und CHF 4'000 bestehender Absicherung ergibt sich eine Lücke von CHF 4'000/Monat oder CHF 480'000 für 10 Jahre. Zusätzlich solltest du ausstehende Schulden wie Hypotheken (durchschnittlich CHF 600'000) einrechnen.
 
-### Säule 3a oder 3b - welche ist für mich besser?
+**Säule 3a oder 3b - welche ist für mich besser?**
 Säule 3a bietet erhebliche Steuervorteile mit 25-45% Ersparnis je nach Einkommen und Wohnort, ist aber weniger flexibel. Die Begünstigten sind gesetzlich geregelt und Auszahlungen erst ab 60 Jahren möglich. Säule 3b ermöglicht freie Wahl der Begünstigten und jederzeitige Auszahlung, bietet aber geringere steuerliche Vorteile. Für verheiratete Paare mit Kindern ist meist Säule 3a optimal. Konkubinatspaare sollten prüfen, ob sie die 5-Jahres-Regel erfüllen, ansonsten ist 3b die einzige Option. Die beste Strategie ist oft eine Kombination: Erst 3a bis zum Maximum ausschöpfen (CHF 7'258 für Angestellte), dann zusätzlichen Bedarf über 3b abdecken.
 
-### Was passiert bei Konkubinat mit der Todesfallversicherung?
+**Was passiert bei Konkubinat mit der Todesfallversicherung?**
 Konkubinatspaare haben keinen automatischen Anspruch auf Hinterlassenenleistungen aus AHV oder BVG, weshalb private Vorsorge besonders wichtig ist. In der Säule 3a können Konkubinatspartner nur begünstigt werden, wenn ihr mindestens 5 Jahre ununterbrochen zusammenlebt oder gemeinsame Kinder habt. Dies muss durch Wohnsitzbestätigungen oder Geburtsurkunden nachgewiesen werden. In der Säule 3b könnt ihr euch gegenseitig frei als Begünstigte einsetzen. Das Kapital wird dann steuerfrei ausgezahlt. Wichtig: Die Begünstigung solltet ihr schriftlich dokumentieren und regelmäßig aktualisieren, besonders bei Umzug oder Trennung.
 
-### Kann ich meine Versicherung bei Zahlungsproblemen behalten?
+**Kann ich meine Versicherung bei Zahlungsproblemen behalten?**
 Bei temporären finanziellen Schwierigkeiten hast du mehrere Optionen, bevor du kündigst. Die meisten Versicherer bieten Prämienreduktion durch Senkung der Versicherungssumme um 30-50% an. Mit einer Prämienbefreiung bei Arbeitslosigkeit oder Erwerbsunfähigkeit (Zusatzprämie 15-25%) läuft der Schutz auch ohne Zahlungen weiter. Viele Anbieter gewähren auch Prämienstundung für 6-12 Monate bei nachgewiesenen Härtefällen. Als letzte Option kannst du den Vertrag in eine prämienfreie Police mit reduzierter Summe umwandeln. Dann zahlst du nichts mehr, erhältst aber noch einen Grundschutz von etwa 30-60% der ursprünglichen Summe.
 
-### Muss ich bei jeder Gesundheitsfrage ehrlich antworten?
+**Muss ich bei jeder Gesundheitsfrage ehrlich antworten?**
 Ja, absolute Ehrlichkeit ist entscheidend. Selbst kleinere "vergessene" Beschwerden können später zur kompletten Leistungsverweigerung führen. Versicherer prüfen im Todesfall systematisch alle Krankenakten der letzten Jahre. Auch gelegentliche Rückenschmerzen, für die du nur einmal beim Physiotherapeuten warst, oder leichte Depressionen solltest du angeben. Der Versicherer kann dann entscheiden: normale Prämie, Risikozuschlag von 25-100% oder in seltenen Fällen Ablehnung. Ein Zuschlag von 50% ist immer besser als später gar keine Leistung zu erhalten. Bei Unsicherheiten kannst du bei deinem Hausarzt nachfragen oder den Versicherer vorab kontaktieren.
 
-### Wann lohnt sich eine Prämienbefreiung bei Erwerbsunfähigkeit?
+**Wann lohnt sich eine Prämienbefreiung bei Erwerbsunfähigkeit?**
 Die Prämienbefreiung kostet einen Aufschlag von 15-30% auf die normale Prämie, kann sich aber sehr lohnen. Sie springt ein, wenn du mindestens 25% erwerbsunfähig wirst (je nach Vertrag) und übernimmt dann alle weiteren Prämienzahlungen. Bei einer Monatsprämie von CHF 150 und 20 Jahren Restlaufzeit sparst du CHF 36'000, wenn du mit 45 erwerbsunfähig wirst. Besonders sinnvoll ist sie für körperlich arbeitende Personen, Selbständige ohne gute IV-Absicherung und Alleinverdiener-Familien. Weniger wichtig ist sie, wenn du bereits eine sehr gute Erwerbsausfallversicherung hast oder die Prämien auch bei reduziertem Einkommen problemlos zahlen könntest.
 
-### Wie werden Todesfälle durch Suizid behandelt?
+**Wie werden Todesfälle durch Suizid behandelt?**
 Suizid ist in den ersten drei Jahren nach Vertragsabschluss grundsätzlich vom Versicherungsschutz ausgeschlossen. Dies gilt für alle Schweizer Anbieter und ist gesetzlich so geregelt. Nach Ablauf der dreijährigen Wartefrist wird auch Suizid wie ein normaler Todesfall behandelt und die volle Versicherungssumme ausgezahlt. Bei Vertragserhöhungen beginnt für den erhöhten Anteil eine neue dreijährige Wartefrist. Diese Regelung soll Missbrauch verhindern, schützt aber langfristig auch Menschen mit psychischen Problemen. Wenn bereits bei Vertragsabschluss schwere psychische Erkrankungen bekannt sind, können Versicherer längere Ausschlussfristen oder Zuschläge verlangen. Wichtig: Auch bei psychischen Problemen solltest du ehrlich antworten, da sonst der gesamte Vertrag gefährdet ist.
 
 ## Fazit

@@ -469,7 +469,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               )}
 
               <section className="mt-10 border-t border-warm-200 pt-8">
-                <h2 className="font-serif text-2xl font-bold text-warm-900 mb-4">Interne Links zum Vertiefen</h2>
+                <p className="font-serif text-2xl font-bold text-warm-900 mb-4">Interne Links zum Vertiefen</p>
                 <p className="text-warm-600 leading-relaxed mb-5">
                   Diese Themen passen inhaltlich zu diesem Artikel und helfen dir, die nächsten Schritte gezielt umzusetzen.
                 </p>
@@ -533,9 +533,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                         {relCategory && (
                           <span className="category-label text-accent block mb-2">{relCategory.name}</span>
                         )}
-                        <h3 className="font-serif font-bold text-warm-900 leading-snug mb-2 line-clamp-3 group-hover:text-accent transition-colors text-base">
+                        <p className="font-serif font-bold text-warm-900 leading-snug mb-2 line-clamp-3 group-hover:text-accent transition-colors text-base">
                           {rel.title}
-                        </h3>
+                        </p>
                         <p className="text-xs text-warm-500 line-clamp-2 leading-relaxed">{rel.description}</p>
                         <span className="mt-3 inline-flex items-center gap-1 text-xs font-semibold text-accent group-hover:gap-2 transition-all">
                           Lesen
