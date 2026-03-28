@@ -8,6 +8,26 @@ const nextConfig: NextConfig = {
         destination: "/artikel/selbstaendig-machen-schweiz",
         permanent: true,
       },
+      {
+        source: "/artikel/mwst-selbstaendige",
+        destination: "/artikel/mwst-selbststaendige",
+        permanent: true,
+      },
+      {
+        source: "/artikel/ahv-selbstaendige-beitraege-schweiz",
+        destination: "/artikel/ahv-selbststaendige",
+        permanent: true,
+      },
+      {
+        source: "/artikel/versicherungen-selbstaendige-schweiz",
+        destination: "/artikel/versicherungen-selbststaendige",
+        permanent: true,
+      },
+      {
+        source: "/artikel/steuern-selbstaendige-schweiz",
+        destination: "/artikel/steuern-selbststaendige",
+        permanent: true,
+      },
     ];
   },
 };
