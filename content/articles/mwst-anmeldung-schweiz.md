@@ -1,6 +1,6 @@
 ---
 title: "MWST Anmeldung Schweiz 2026: Wann, wie und wo anmelden"
-metaTitle: "MWST Anmeldung Schweiz 2026: Schritt-für-Schritt + Normalsatz 8.1%"
+metaTitle: "MWST Anmeldung Schweiz 2026: Schritt-für-Schritt"
 description: "MWST Anmeldung Schweiz 2026: Ab wann Pflicht, Normalsatz 8.1%, Anmeldung bei ESTV Schritt für Schritt, freiwillige Anmeldung, Fristen. Jetzt lesen."
 keywords:
   - mwst anmeldung schweiz

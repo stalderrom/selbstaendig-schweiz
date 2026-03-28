@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Gärtner in der Schweiz: Guide 2026"
-metaTitle: 'Selbständig als Gärtner Schweiz 2026: Anmeldung, Kosten & Einkommen'
+metaTitle: "Selbständig als Gärtner Schweiz 2026: Kosten & AHV"
 description: 'Selbständig als Gärtner in der Schweiz: Welche Bewilligungen du brauchst, wie du eine Gartenbaufirma gründest, was du verdienst und wie du Kunden gewinnst.'
 keywords: ["selbständig als gärtner", "gärtner selbständig schweiz", "gartenbau selbständig schweiz", "gärtner firma gründen schweiz", "gärtner einkommen schweiz"]
 category: "berufsratgeber"

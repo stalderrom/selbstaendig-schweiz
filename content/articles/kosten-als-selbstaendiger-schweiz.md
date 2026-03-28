@@ -1,6 +1,6 @@
 ---
 title: "Kosten als Selbständiger Schweiz 2026: Vollständige Übersicht"
-metaTitle: "Kosten als Selbständiger Schweiz 2026: AHV, Steuern, Versicherungen"
+metaTitle: "Kosten als Selbständiger Schweiz: AHV & Steuern"
 description: "Kosten als Selbständiger Schweiz 2026: AHV 10.1%, Steuern, Krankenversicherung, Buchhaltung, Tools. Vollständige Kostenübersicht mit Zahlen. Jetzt planen."
 keywords:
   - kosten als selbständiger schweiz

@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Eventmanager in der Schweiz: Guide 2026"
-metaTitle: 'Selbständig als Eventmanager Schweiz 2026: Start, Kosten & Einkommen'
+metaTitle: "Selbständig als Eventmanager Schweiz 2026"
 description: 'Selbständig als Eventmanager in der Schweiz: Wie du eine Event-Agentur gründest, was Kunden zahlen, welche Versicherungen nötig sind und wie du Aufträge gewinnst.'
 keywords: ["selbständig als eventmanager", "eventmanager selbständig schweiz", "event agentur gründen schweiz", "eventmanager einkommen schweiz", "eventmanagement selbständig"]
 category: "berufsratgeber"

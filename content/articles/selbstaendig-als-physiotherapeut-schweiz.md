@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Physiotherapeut in der Schweiz: Guide 2026"
-metaTitle: 'Selbständig als Physiotherapeut Schweiz 2026: Bewilligung & Einkommen'
+metaTitle: "Selbständig als Physiotherapeut Schweiz 2026"
 description: 'Selbständig als Physiotherapeut in der Schweiz: Zulassung, Berufsausübungsbewilligung, Krankenkassen-Anschluss, Einkommen und Praxiskosten erklärt.'
 keywords: ["selbständig als physiotherapeut", "physiotherapeut selbständig schweiz", "physiotherapie praxis eröffnen schweiz", "physiotherapeut zulassung schweiz", "physiotherapeut einkommen schweiz"]
 category: "berufsratgeber"

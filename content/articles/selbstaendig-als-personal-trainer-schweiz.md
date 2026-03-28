@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Personal Trainer in der Schweiz: Guide 2026"
-metaTitle: 'Selbständig als Personal Trainer Schweiz 2026: Start, Kosten & Einkommen'
+metaTitle: "Selbständig als Personal Trainer Schweiz 2026"
 description: 'Selbständig als Personal Trainer in der Schweiz: Welche Ausbildung du brauchst, wie du Kunden gewinnst, was du verdienst und wie der rechtliche Rahmen ist.'
 keywords: ["selbständig als personal trainer", "personal trainer selbständig schweiz", "personal trainer ausbildung schweiz", "personal trainer einkommen schweiz", "fitness trainer selbständig"]
 category: "berufsratgeber"

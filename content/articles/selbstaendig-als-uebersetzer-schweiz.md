@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Übersetzer in der Schweiz: Guide 2026"
-metaTitle: 'Selbständig als Übersetzer Schweiz 2026: Start, Tarife & Kunden'
+metaTitle: "Selbständig als Übersetzer Schweiz: Tarife & Start"
 description: 'Selbständig als Übersetzer in der Schweiz: Tarife, Kundenfindung, Spezialisierungen, beglaubigte Übersetzungen und was du als Freelance-Übersetzer verdienst.'
 keywords: ["selbständig als übersetzer", "übersetzer selbständig schweiz", "freelance übersetzer schweiz", "übersetzer tarif schweiz", "übersetzer einkommen schweiz"]
 category: "berufsratgeber"

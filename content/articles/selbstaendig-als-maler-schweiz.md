@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Maler in der Schweiz: Guide 2026"
-metaTitle: 'Selbständig als Maler Schweiz 2026: Firma gründen, Kosten & Einkommen'
+metaTitle: "Selbständig als Maler Schweiz 2026: Kosten & Start"
 description: 'Selbständig als Maler und Gipser in der Schweiz: Welche Ausbildung du brauchst, wie du eine Malerfirma gründest, Stundenansätze und wie du Aufträge gewinnst.'
 keywords: ["selbständig als maler", "maler selbständig schweiz", "malerbetrieb gründen schweiz", "maler stundenansatz schweiz", "maler einkommen schweiz"]
 category: "berufsratgeber"

@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Masseur in der Schweiz: Was du wissen musst"
-metaTitle: 'Selbständig als Masseur Schweiz 2026: Anmeldung, Kosten & Einkommen'
+metaTitle: "Selbständig als Masseur Schweiz 2026: Kosten & AHV"
 description: 'Selbständig als Masseur in der Schweiz: Welche Ausbildung du brauchst, wie du dich anmeldest, was du verdienen kannst und wie du Kunden findest.'
 keywords: ["selbständig als masseur", "masseur selbständig schweiz", "masseur anmelden schweiz", "masseur einkommen schweiz", "massage selbständig"]
 category: "berufsratgeber"

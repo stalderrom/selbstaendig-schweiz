@@ -1,6 +1,6 @@
 ---
 title: 'Betriebswirtschaftliche Auswertung (BWA): Kompletter Guide 2026'
-metaTitle: 'Betriebswirtschaftliche Auswertung (BWA) 2026: Guide für KMU Schweiz'
+metaTitle: "Betriebswirtschaftliche Auswertung (BWA) 2026"
 description: 'BWA verstehen, lesen und nutzen: Jede Zeile erklärt, Richtwerte nach Branche, Warnsignale erkennen – praxisnah für Selbständige und KMU in der Schweiz.'
 keywords:
   - betriebswirtschaftliche auswertung

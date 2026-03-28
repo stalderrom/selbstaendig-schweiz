@@ -1,6 +1,6 @@
 ---
 title: 'Social Media Marketing für KMU Schweiz: Praxisguide 2026'
-metaTitle: 'Social Media Marketing KMU Schweiz 2026 – Was wirklich funktioniert'
+metaTitle: "Social Media Marketing KMU Schweiz 2026"
 description: >-
   Social Media für Schweizer KMU und Selbständige: Welche Plattformen lohnen sich,
   wie oft posten, welche Tools nutzen und wie du Kunden gewinnst – ohne Agentur.

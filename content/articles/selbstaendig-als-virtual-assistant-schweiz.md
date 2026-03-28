@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Virtual Assistant in der Schweiz: Guide 2026"
-metaTitle: 'Selbständig als Virtual Assistant Schweiz 2026: Start & Einkommen'
+metaTitle: "Selbständig als Virtual Assistant Schweiz"
 description: 'Selbständig als Virtual Assistant in der Schweiz: Wie du als VA startest, was du verdienst, welche Leistungen gefragt sind und wie du Kunden findest.'
 keywords: ["virtual assistant schweiz", "selbständig als virtual assistant", "va selbständig schweiz", "virtueller assistent selbständig", "virtual assistant einkommen schweiz"]
 category: "berufsratgeber"

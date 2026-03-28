@@ -1,6 +1,6 @@
 ---
 title: 'Berufliche Vorsorge Schweiz 2026: BVG vollständig erklärt'
-metaTitle: 'Berufliche Vorsorge Schweiz 2026: BVG für Angestellte, KMU & Selbständige'
+metaTitle: "Berufliche Vorsorge Schweiz 2026: BVG Selbständige"
 description: 'Berufliche Vorsorge (BVG) 2026 einfach erklärt: Beiträge, Leistungen, KMU-Pflicht, Pensionskassen-Wechsel und Vergleich mit Säule 3a – mit konkreten CHF-Beispielen.'
 keywords:
   - berufliche vorsorge

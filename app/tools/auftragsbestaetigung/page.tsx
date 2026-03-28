@@ -5,7 +5,7 @@ import AuftragsbestaetigungGenerator from '@/components/AuftragsbestaetigungGene
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Auftragsbestätigung erstellen Schweiz – kostenlos, sofort als PDF',
+  title: 'Auftragsbestätigung erstellen Schweiz – kostenlos als PDF',
   description: 'Auftragsbestätigung kostenlos erstellen: Formular ausfüllen, Logo hochladen, sofort als PDF downloaden. Korrekte Schweizer Vorlage mit allen Pflichtangaben. Ohne Anmeldung.',
   keywords: [
     'auftragsbestätigung erstellen schweiz',

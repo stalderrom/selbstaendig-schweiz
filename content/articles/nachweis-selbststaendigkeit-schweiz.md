@@ -1,6 +1,6 @@
 ---
 title: "Nachweis Selbständigkeit Schweiz 2026: So beweist du deine Selbständigkeit"
-metaTitle: "Nachweis Selbständigkeit Schweiz 2026: Dokumente für Bank, Behörden"
+metaTitle: "Nachweis Selbständigkeit Schweiz: Dokumente"
 description: "Nachweis Selbständigkeit Schweiz 2026: Welche Dokumente akzeptieren Banken, Vermieter und Behörden? AHV-Bestätigung, Steuerbescheinigung, HR-Auszug. Checkliste."
 keywords:
   - nachweis selbständigkeit schweiz

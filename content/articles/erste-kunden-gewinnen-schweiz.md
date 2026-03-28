@@ -1,6 +1,6 @@
 ---
 title: "Erste Kunden gewinnen Schweiz 2026: 7 Strategien für den Start"
-metaTitle: "Erste Kunden gewinnen Schweiz 2026: 7 Strategien für Selbständige"
+metaTitle: "Erste Kunden gewinnen Schweiz 2026: 7 Strategien"
 description: "Erste Kunden gewinnen als Selbständiger Schweiz: 7 konkrete Strategien, 90-Tage-Plan, häufige Fehler vermeiden. So gewinnst du deine ersten Aufträge 2026."
 keywords:
   - erste kunden gewinnen schweiz

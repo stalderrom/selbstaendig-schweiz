@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Friseur in der Schweiz: Guide 2026"
-metaTitle: 'Selbständig als Friseur Schweiz 2026: Salon eröffnen, Kosten & Einkommen'
+metaTitle: "Selbständig als Friseur Schweiz: Kosten & Start"
 description: 'Selbständig als Friseur in der Schweiz: Welche Ausbildung du brauchst, wie du einen Salon eröffnest oder mobil arbeitest, Mietpreise und was du verdienen kannst.'
 keywords: ["selbständig als friseur", "friseur selbständig schweiz", "friseursalon eröffnen schweiz", "friseur ausbildung schweiz", "friseur einkommen schweiz"]
 category: "berufsratgeber"

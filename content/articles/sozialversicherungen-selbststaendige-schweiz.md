@@ -1,6 +1,6 @@
 ---
 title: "Sozialversicherungen Selbständige Schweiz 2026: AHV, IV, EO, ALV"
-metaTitle: "Sozialversicherungen Selbständige Schweiz 2026: Beiträge & Pflichten"
+metaTitle: "Sozialversicherungen Selbständige Schweiz 2026"
 description: "Sozialversicherungen für Selbständige Schweiz 2026: AHV 10.1%, IV, EO, freiwillige ALV, BVG-Lücke schliessen. Kosten, Pflichten und Tipps. Jetzt lesen."
 keywords:
   - sozialversicherungen selbständige schweiz

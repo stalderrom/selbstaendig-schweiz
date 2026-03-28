@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Ernährungsberater in der Schweiz: Guide 2026"
-metaTitle: 'Selbständig als Ernährungsberater Schweiz 2026: Ausbildung & Start'
+metaTitle: "Selbständig als Ernährungsberater Schweiz 2026"
 description: 'Selbständig als Ernährungsberater in der Schweiz: Welche Ausbildung anerkannt wird, wie du dich anmeldest, was du verdienen kannst und wie du Kunden gewinnst.'
 keywords: ["selbständig als ernährungsberater", "ernährungsberater selbständig schweiz", "ernährungsberatung selbständig", "ernährungsberater ausbildung schweiz", "ernährungsberater einkommen schweiz"]
 category: "berufsratgeber"

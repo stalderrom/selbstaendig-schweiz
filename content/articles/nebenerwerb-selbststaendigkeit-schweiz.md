@@ -1,6 +1,6 @@
 ---
 title: "Selbständig im Nebenerwerb Schweiz 2026: Schritt-für-Schritt Guide"
-metaTitle: "Selbständig im Nebenerwerb Schweiz 2026: AHV, Steuern, Tipps"
+metaTitle: "Selbständig im Nebenerwerb Schweiz 2026"
 description: "Selbständig im Nebenerwerb Schweiz: AHV-Pflicht, Steuern, Arbeitsvertrag prüfen, MWST-Grenze. Alles was du 2026 wissen musst. Mit Checkliste."
 keywords:
   - nebenerwerb selbständig schweiz

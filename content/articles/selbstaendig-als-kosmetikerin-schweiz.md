@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Kosmetikerin in der Schweiz: Guide 2026"
-metaTitle: 'Selbständig als Kosmetikerin Schweiz 2026: Studio, Kosten & Einkommen'
+metaTitle: "Selbständig als Kosmetikerin Schweiz 2026"
 description: 'Selbständig als Kosmetikerin in der Schweiz: Studio eröffnen oder mobil, welche Bewilligungen du brauchst, was du verdienst und wie du Stammkunden aufbaust.'
 keywords: ["selbständig als kosmetikerin", "kosmetikerin selbständig schweiz", "kosmetikstudio eröffnen schweiz", "kosmetikerin ausbildung schweiz", "kosmetikerin einkommen schweiz"]
 category: "berufsratgeber"

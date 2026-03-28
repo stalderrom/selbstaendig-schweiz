@@ -1,6 +1,6 @@
 ---
 title: "Selbständig als Handwerker Schweiz 2026: Schritt-für-Schritt Guide"
-metaTitle: "Selbständig als Handwerker Schweiz 2026: Bewilligungen, Kosten, AHV"
+metaTitle: "Selbständig als Handwerker Schweiz: Kosten & AHV"
 description: "Selbständig als Handwerker Schweiz: Welche Bewilligungen brauchst du? AHV, MWST, Versicherungen, Kundenfindung. Kompletter Guide 2026 mit Checkliste."
 keywords:
   - selbständig als handwerker schweiz

@@ -1,6 +1,6 @@
 ---
 title: "Auftragsbestätigung Vorlage Schweiz 2026: Muster + Checkliste"
-metaTitle: "Auftragsbestätigung Vorlage Schweiz 2026: Muster, Pflichtangaben"
+metaTitle: "Auftragsbestätigung Vorlage Schweiz 2026"
 description: "Auftragsbestätigung Vorlage Schweiz 2026: Was muss rein, was ist rechtlich bindend? Gratis Muster mit allen Pflichtangaben für Selbständige und KMU."
 keywords:
   - auftragsbestätigung vorlage schweiz
