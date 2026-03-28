@@ -1,6 +1,6 @@
 ---
 title: "AHV Beiträge berechnen Schweiz 2026: Rechner für Selbständige"
-metaTitle: 'AHV Beiträge berechnen Schweiz 2026: So geht's'
+metaTitle: "AHV Beiträge berechnen Schweiz 2026: So geht's"
 description: "AHV Beiträge berechnen Schweiz 2026: Formel, aktuelle Sätze, Beispielrechnungen für Selbständige und Angestellte. AHV/IV/EO korrekt berechnen."
 keywords:
   - ahv beiträge berechnen schweiz
