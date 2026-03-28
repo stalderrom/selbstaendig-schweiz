@@ -28,6 +28,21 @@ const nextConfig: NextConfig = {
         destination: "/artikel/steuern-selbststaendige",
         permanent: true,
       },
+      {
+        source: "/artikel/kosten-firmengr%C3%BCndung-gmbh-schweiz",
+        destination: "/artikel/kosten-firmengruendung-gmbh-schweiz",
+        permanent: true,
+      },
+      {
+        source: "/rechner",
+        destination: "/rechner/stundensatz",
+        permanent: true,
+      },
+      {
+        source: "/login",
+        destination: "/",
+        permanent: true,
+      },
     ];
   },
 };
