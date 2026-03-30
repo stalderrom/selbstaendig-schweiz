@@ -9,8 +9,8 @@ export default function CookieConsent() {
     const consent = localStorage.getItem('cookie-consent');
     if (!consent) {
       setVisible(true);
-    } else if (consent === 'accepted') {
-      updateConsent('granted');
+    } else if (consent === 'declined') {
+      updateConsent('denied');
     }
   }, []);
 
@@ -25,12 +25,12 @@ export default function CookieConsent() {
 
   const accept = () => {
     localStorage.setItem('cookie-consent', 'accepted');
-    updateConsent('granted');
     setVisible(false);
   };
 
   const decline = () => {
     localStorage.setItem('cookie-consent', 'declined');
+    updateConsent('denied');
     setVisible(false);
   };
 
@@ -40,7 +40,7 @@ export default function CookieConsent() {
     <div className="fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-gray-200 shadow-lg">
       <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between gap-6 flex-wrap">
         <p className="text-sm text-gray-600 flex-1 min-w-0">
-          Wir nutzen Google Analytics um zu verstehen, wie Besucher unsere Website nutzen.{' '}
+          Wir nutzen Google Analytics, um zu verstehen, wie Besucher unsere Website nutzen. Sie können dies ablehnen.{' '}
           <a href="/datenschutz" className="underline hover:text-gray-900">
             Datenschutz
           </a>

@@ -102,9 +102,8 @@ export default function RootLayout({
                 window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
                 gtag('consent', 'default', {
-                  analytics_storage: 'denied',
-                  ad_storage: 'denied',
-                  wait_for_update: 2000
+                  analytics_storage: 'granted',
+                  ad_storage: 'denied'
                 });
               `,
             }}
